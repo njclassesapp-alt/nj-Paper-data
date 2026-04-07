@@ -1,4 +1,4 @@
-const mathMatchTheFollowingDB = [
+var mathMatchDB = [
     // ---------------- પ્રકરણ 1: વાસ્તવિક સંખ્યાઓ ----------------
     { 
         chapter: 1, marks: 2, 
