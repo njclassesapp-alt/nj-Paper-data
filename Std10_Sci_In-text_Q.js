@@ -1,4 +1,4 @@
-const scienceInTextDB = [
+var sciInTextDB = [
     // ---------------- પ્રકરણ 1: બ્લુ પ્રશ્નો (પાના નંબર 6) ----------------
     { 
         chapter: 1, marks: 2, 
