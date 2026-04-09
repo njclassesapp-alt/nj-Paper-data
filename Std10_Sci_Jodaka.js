@@ -1,4 +1,4 @@
-const scienceMatchTheFollowingDB = [
+var sciMatchDB = [
     // ---------------- પ્રકરણ 1: રાસાયણિક પ્રક્રિયાઓ અને સમીકરણો ----------------
     { 
         chapter: 1, marks: 2, 
