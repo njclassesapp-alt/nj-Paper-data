@@ -1,4 +1,4 @@
-const scienceExerciseDB = [
+var sciExerciseDB = [
     // ---------------- પ્રકરણ 1: સ્વાધ્યાયના પ્રશ્નો (પ્રશ્ન 1 થી 5) ----------------
     { 
         chapter: 1, marks: 1, 
