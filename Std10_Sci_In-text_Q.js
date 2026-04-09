@@ -1,4 +1,4 @@
-const scienceCh1InTextDB = [
+const scienceInTextDB = [
     // ---------------- પ્રકરણ 1: બ્લુ પ્રશ્નો (પાના નંબર 6) ----------------
     { 
         chapter: 1, marks: 2, 
@@ -44,7 +44,7 @@ const scienceCh1InTextDB = [
         q: "નીચે દર્શાવેલ પ્રક્રિયાઓમાં ઑક્સિડેશન પામતા અને રિડક્શન પામતા પદાર્થોને ઓળખો:<br>(i) 4Na<sub>(s)</sub> + O<sub>2(g)</sub> → 2Na<sub>2</sub>O<sub>(s)</sub><br>(ii) CuO<sub>(s)</sub> + H<sub>2(g)</sub> → Cu<sub>(s)</sub> + H<sub>2</sub>O<sub>(l)</sub>", 
         ans: "<b>ઉકેલ:</b><br><br><b>(i) 4Na + O<sub>2</sub> → 2Na<sub>2</sub>O પ્રક્રિયામાં:</b><br><ul><li><b>ઑક્સિડેશન પામતો પદાર્થ: Na</b> (કારણ કે તેમાં ઑક્સિજન ઉમેરાય છે)</li><li><b>રિડક્શન પામતો પદાર્થ: O<sub>2</sub></b></li></ul><b>(ii) CuO + H<sub>2</sub> → Cu + H<sub>2</sub>O પ્રક્રિયામાં:</b><br><ul><li><b>ઑક્સિડેશન પામતો પદાર્થ: H<sub>2</sub></b> (કારણ કે તેમાં ઑક્સિજન ઉમેરાય છે)</li><li><b>રિડક્શન પામતો પદાર્થ: CuO</b> (કારણ કે તેમાંથી ઑક્સિજન દૂર થાય છે)</li></ul>" 
     },
-  const scienceCh2InTextDB = [
+  
     // ---------------- પ્રકરણ 2: બ્લુ પ્રશ્નો (પાના નંબર 18) ----------------
     { 
         chapter: 2, marks: 3, 
@@ -150,7 +150,7 @@ const scienceCh1InTextDB = [
         ans: "પ્લાસ્ટર ઑફ પેરિસ (POP) પાણી સાથે પ્રક્રિયા કરીને ફરીથી સખત ઘન પદાર્થ <b>જિપ્સમ (ચિરોડી)</b> માં ફેરવાઈ જાય છે.<br><br><b>રાસાયણિક સમીકરણ:</b><br><div style='overflow-x:auto; white-space:nowrap; padding:10px; background:#f8f9fa; border-left:4px solid #dc3545; margin-top:8px; border-radius:4px; font-family:sans-serif; font-size:15px;'>CaSO<sub>4</sub>·½H<sub>2</sub>O + 1½H<sub>2</sub>O → CaSO<sub>4</sub>·2H<sub>2</sub>O (જિપ્સમ)</div>" 
     },
 
-    const scienceCh3InTextDB = [
+    
     // ---------------- પ્રકરણ 3: બ્લુ પ્રશ્નો (પાના નંબર 40) ----------------
     { 
         chapter: 3, marks: 4, 
