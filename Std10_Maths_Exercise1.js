@@ -492,5 +492,8 @@ var mathExamplesDatabase = [
     { 
         chapter: 9, 
         marks: 3, 
-        q: "નદી પર રહેલા પુલના એક બિંદુથી નદીના બંને કિનારાના અવસેધકોણ અનુક્રમે 30&deg; અને 45&deg; માલૂમ પડે છે. જો નદીની સપાટીથી પુલની ઊંચાઈ 3 મીટર હોય, તો નદીની પહોળાઈ શોધો.<div style='text-align:center; margin:15px 0;'><svg width='220' height='120' viewBox='0 0 220 120' xmlns='http://www.w3.org/2000/svg'><line x1='20' y1='100' x2='200' y2='100' stroke='#0ea5e9' stroke-width='6'/><line x1='40' y1='30' x2='180' y2='30' stroke='#94a3b8' stroke-width='1.5' stroke-dasharray='4'/><line x1='110' y1='30' x2='110' y2='100' stroke='#0f172a' stroke-width='2' stroke-dasharray='
-          
+        q: "નદી પર રહેલા પુલના એક બિંદુથી નદીના બંને કિનારાના અવસેધકોણ અનુક્રમે 30&deg; અને 45&deg; માલૂમ પડે છે. જો નદીની સપાટીથી પુલની ઊંચાઈ 3 મીટર હોય, તો નદીની પહોળાઈ શોધો.<div style='text-align:center; margin:15px 0;'><svg width='220' height='120' viewBox='0 0 220 120' xmlns='http://www.w3.org/2000/svg'><line x1='20' y1='100' x2='200' y2='100' stroke='#0ea5e9' stroke-width='6'/><line x1='40' y1='30' x2='180' y2='30' stroke='#94a3b8' stroke-width='1.5' stroke-dasharray='4'/><line x1='110' y1='30' x2='110' y2='100' stroke='#0f172a' stroke-width='2' stroke-dasharray='3'/><line x1='110' y1='30' x2='40' y2='100' stroke='#dc2626' stroke-width='2'/><line x1='110' y1='30' x2='160' y2='100' stroke='#dc2626' stroke-width='2'/><text x='80' y='25' font-size='10'>30&deg;</text><text x='125' y='25' font-size='10'>45&deg;</text><text x='105' y='20' font-size='12' font-weight='bold'>P</text><text x='30' y='115' font-size='12' font-weight='bold'>A</text><text x='165' y='115' font-size='12' font-weight='bold'>B</text><text x='105' y='115' font-size='12' font-weight='bold'>D</text><text x='115' y='70' font-size='12'>3m</text></svg></div>", 
+        sol_match: "ઉદાહરણ 7: નદી પર રહેલા પુલના એક બિંદુથી નદીના બંને કિનારાના" 
+    }
+
+    ];
