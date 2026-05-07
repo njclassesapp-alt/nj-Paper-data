@@ -1,4 +1,4 @@
-njQuestionsDatabase = [
+var njQuestionsDatabase_std9 = [
 
     // --- પ્રાકૃતિક, પૂર્ણ, પૂર્ણાંક અને સંમેય સંખ્યાઓના બેઝિક ખ્યાલો ---
     { chapter: 1, q: "સૌથી નાની પ્રાકૃતિક સંખ્યા કઈ છે?", options: ["0", "1", "-1", "2"], ans: 1 },
