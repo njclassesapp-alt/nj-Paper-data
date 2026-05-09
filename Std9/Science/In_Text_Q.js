@@ -197,7 +197,94 @@ var scienceInTextDB = [
         chapter: 3, page: 40, qNo: 12, marks: 3, 
         q: "નીચે દર્શાવેલા સંયોજનો માટે સૂત્ર એકમ દળ ગણો:<br>ZnO, Na<sub>2</sub>O, K<sub>2</sub>CO<sub>3</sub><br><i>(આપેલ છે: Zn = 65 u, Na = 23 u, K = 39 u, C = 12 u અને O = 16 u)</i>", 
         ans: "<b>ઉકેલ:</b><br><br><div style='padding:10px; background:#e9f7ef; border-left:4px solid #28a745; border-radius:4px; font-family:sans-serif; line-height:1.8;'><b>1. ZnO નું સૂત્ર એકમ દળ:</b><br>= 1 &times; (Zn નું દળ) + 1 &times; (O નું દળ)<br>= 65 + 16 = <b>81 u</b><br><br><b>2. Na<sub>2</sub>O નું સૂત્ર એકમ દળ:</b><br>= 2 &times; (Na નું દળ) + 1 &times; (O નું દળ)<br>= 2 &times; (23) + 16<br>= 46 + 16 = <b>62 u</b><br><br><b>3. K<sub>2</sub>CO<sub>3</sub> નું સૂત્ર એકમ દળ:</b><br>= 2 &times; (K નું દળ) + 1 &times; (C નું દળ) + 3 &times; (O નું દળ)<br>= 2 &times; (39) + 1 &times; (12) + 3 &times; (16)<br>= 78 + 12 + 48 = <b>138 u</b></div>" 
+    },
+        // ---------------- પ્રકરણ 4: બ્લુ પ્રશ્નો (પાના નંબર 47) ----------------
+    { 
+        chapter: 4, page: 47, qNo: 1, marks: 2, 
+        q: "કેનાલ કિરણો (Canal rays) એટલે શું?", 
+        ans: "ઈ. ગોલ્ડસ્ટીને વાયુવિભાર નળીમાં નવા પ્રકારના વિકિરણોની શોધ કરી, જેને તેમણે <b>કેનાલ કિરણો</b> નામ આપ્યું.<br><br>આ કિરણો <b>ધન વીજભારિત (+ve)</b> વિકિરણો હતા. આ કિરણોની શોધને કારણે અંતે પરમાણુમાં બીજા અવપરમાણ્વીય કણ (પ્રોટોન) ની શોધ થઈ, જેનો વીજભાર ઇલેક્ટ્રોન જેટલો જ પરંતુ વિરુદ્ધ (ધન) હતો અને દળ ઇલેક્ટ્રોન કરતા આશરે 2000 ગણું વધુ હતું.<br><br><div style='background:#fff3cd; border:2px dashed #ffc107; padding:12px; border-radius:8px; margin-top:10px;'><b>💡 નિતેશ સરની શોર્ટકટ ટ્રીક:</b><br>કણોના શોધકના નામ યાદ રાખવા માટે આ સૂત્ર યાદ રાખો: <b>\"ઈંટ પર નાચ\"</b><br>• <b>ઈં-ટ:</b> ઇલેક્ટ્રોન ➜ થોમસન (ટ)<br>• <b>પ-ર:</b> પ્રોટોન ➜ રધરફોર્ડ / ગોલ્ડસ્ટીન (ર)<br>• <b>ના-ચ:</b> ન્યુટ્રોન ➜ ચેડવિક (ચ)</div>" 
+    },
+    { 
+        chapter: 4, page: 47, qNo: 2, marks: 1, 
+        q: "જો કોઈ પરમાણુમાં એક ઇલેક્ટ્રોન અને એક પ્રોટોન હોય, તો તે વીજભારિત હશે કે તટસ્થ?", 
+        ans: "તે પરમાણુ <b>વિદ્યુતીય રીતે તટસ્થ</b> હશે.<br><br><b>કારણ:</b> ઇલેક્ટ્રોન પર ઋણ વીજભાર (-1) અને પ્રોટોન પર ધન વીજભાર (+1) હોય છે. બંનેના વીજભાર સમાન અને વિરુદ્ધ હોવાથી તેઓ એકબીજાની અસર નાબૂદ કરે છે, જેથી પરમાણુ પર કુલ વીજભાર શૂન્ય (0) થાય છે." 
+    },
+
+    // ---------------- પ્રકરણ 4: બ્લુ પ્રશ્નો (પાના નંબર 49) ----------------
+    { 
+        chapter: 4, page: 49, qNo: 3, marks: 2, 
+        q: "થોમસનના પરમાણુ નમૂનાના આધારે સમજાવો કે પરમાણુ સમગ્રતયા તટસ્થ છે.", 
+        ans: "જે. જે. થોમસનના પરમાણુ નમૂના (તરબૂચ નમૂના) અનુસાર:<br>૧. પરમાણુ એ <b>ધન વીજભારિત ગોળો</b> છે અને ઋણ વીજભારિત ઇલેક્ટ્રોન તેમાં જડિત થયેલા હોય છે (જેમ તરબૂચમાં બીજ).<br>૨. પરમાણુમાં રહેલા <b>ઋણ વીજભાર અને ધન વીજભાર સમાન માત્રામાં</b> હોય છે.<br><br>આથી, સમાન અને વિરુદ્ધ વીજભારને કારણે પરમાણુ સમગ્રતયા <b>વીજભારની દ્રષ્ટિએ તટસ્થ</b> હોય છે.<br><br><div style='text-align:center; padding:15px; background:#f8f9fa; border:1px solid #ddd; border-radius:8px; margin-top:10px;'><b>તરબૂચ (Plum Pudding) નમૂનો</b><br><br><svg width='150' height='150' viewBox='0 0 150 150'><circle cx='75' cy='75' r='60' fill='#ffcccb' stroke='#dc3545' stroke-width='2'/><circle cx='50' cy='50' r='8' fill='#007bff'/><text x='46.5' y='53.5' fill='white' font-size='12' font-family='sans-serif'>-</text><circle cx='100' cy='65' r='8' fill='#007bff'/><text x='96.5' y='68.5' fill='white' font-size='12' font-family='sans-serif'>-</text><circle cx='75' cy='105' r='8' fill='#007bff'/><text x='71.5' y='108.5' fill='white' font-size='12' font-family='sans-serif'>-</text><circle cx='45' cy='90' r='8' fill='#007bff'/><text x='41.5' y='93.5' fill='white' font-size='12' font-family='sans-serif'>-</text><circle cx='110' cy='95' r='8' fill='#007bff'/><text x='106.5' y='98.5' fill='white' font-size='12' font-family='sans-serif'>-</text><text x='35' y='150' font-size='12' fill='#dc3545' font-weight='bold'>ધન વીજભારિત ગોળો</text></svg></div>" 
+    },
+    { 
+        chapter: 4, page: 49, qNo: 4, marks: 1, 
+        q: "રધરફોર્ડના પરમાણુ નમૂનાના આધારે, પરમાણુના કેન્દ્રમાં કયો અવપરમાણ્વીય કણ હાજર હોય છે?", 
+        ans: "રધરફોર્ડના પરમાણુ નમૂના (આલ્ફા કણ પ્રકીર્ણન પ્રયોગ) ના આધારે, પરમાણુના કેન્દ્ર (ન્યુક્લિયસ) માં <b>ધન વીજભારિત કણ 'પ્રોટોન'</b> હાજર હોય છે." 
+    },
+    { 
+        chapter: 4, page: 49, qNo: 5, marks: 3, 
+        q: "ત્રણ કોશો ધરાવતા પરમાણુનો બોહ્રનો નમૂનો દોરો.", 
+        ans: "નીલ બોહ્રના નમૂના મુજબ પરમાણુના કેન્દ્રમાં ન્યુક્લિયસ હોય છે અને ઇલેક્ટ્રોન ચોક્કસ કક્ષાઓ (કોશ - Shells) માં પરિભ્રમણ કરે છે.<br>ત્રણ કોશો: <b>K (n=1), L (n=2), M (n=3)</b><br><br><div style='text-align:center; padding:15px; background:#e8f4f8; border:2px solid #17a2b8; border-radius:8px; margin-top:10px;'><b>બોહ્રનો પરમાણુ નમૂનો (3 કોશ)</b><br><br><svg width='240' height='240' viewBox='0 0 240 240'><!-- Nucleus --><circle cx='120' cy='120' r='12' fill='#dc3545'/><text x='115' y='124' font-size='12' fill='white' font-weight='bold'>+</text><!-- Orbits --><circle cx='120' cy='120' r='35' fill='none' stroke='#343a40' stroke-width='2' stroke-dasharray='4,4'/><text x='158' y='124' font-size='14' fill='#343a40' font-weight='bold'>K (n=1)</text><circle cx='120' cy='120' r='65' fill='none' stroke='#007bff' stroke-width='2' stroke-dasharray='4,4'/><text x='188' y='124' font-size='14' fill='#007bff' font-weight='bold'>L (n=2)</text><circle cx='120' cy='120' r='95' fill='none' stroke='#28a745' stroke-width='2' stroke-dasharray='4,4'/><text x='98' y='18' font-size='14' fill='#28a745' font-weight='bold'>M (n=3)</text><!-- Electrons (Optional details for beauty) --><circle cx='120' cy='85' r='4' fill='#343a40'/><circle cx='120' cy='55' r='4' fill='#007bff'/><circle cx='120' cy='25' r='4' fill='#28a745'/></svg></div>" 
+    },
+    { 
+        chapter: 4, page: 49, qNo: 6, marks: 3, 
+        q: "આલ્ફા કણ પ્રકીર્ણનનો પ્રયોગ જો સોનાના વરખને બદલે અન્ય કોઈ ધાતુના વરખનો ઉપયોગ કરીને કરવામાં આવે તો શું અવલોકન નોંધી શકાય?", 
+        ans: "આલ્ફા કણો પ્રમાણમાં ભારે હોય છે. સોના (Gold) નું પરમાણ્વીય દળ ખૂબ વધારે હોવાથી તેના પરમાણુઓ ભારે હોય છે, જેથી આલ્ફા કણો તેની સાથે અથડાઈને મોટા કોણે વિચલન પામી શકે છે.<br><br><b>જો અન્ય ધાતુનો વરખ લેવામાં આવે તો:</b><br>૧. જો <b>ભારે ધાતુ</b> (જેમ કે પ્લેટિનમ, ચાંદી) નો વરખ વાપરવામાં આવે, તો <b>અવલોકનો સોનાના વરખ જેવા જ મળશે</b>.<br>૨. પરંતુ જો <b>હલકી ધાતુ</b> (જેમ કે ઍલ્યુમિનિયમ કે મેગ્નેશિયમ) નો વરખ વાપરવામાં આવે, તો તેના પરમાણુઓ હલકા હોવાથી આલ્ફા કણોનું ભારે વિચલન થઈ શકશે નહીં (કણો પાછા નહીં ફરે). પરિણામે, <b>રધરફોર્ડને જે ચોક્કસ તારણો મળ્યા હતા, તે હલકી ધાતુમાંથી મળી શકશે નહીં</b>." 
+    },
+        // ---------------- પ્રકરણ 4: બ્લુ પ્રશ્નો (પાના નંબર 51) ----------------
+    { 
+        chapter: 4, page: 51, qNo: 7, marks: 1, 
+        q: "પરમાણુના ત્રણ અવપરમાણ્વીય કણોના નામ આપો.", 
+        ans: "પરમાણુના ત્રણ અવપરમાણ્વીય (Sub-atomic) કણો નીચે મુજબ છે:<br>૧. <b>પ્રોટોન (p<sup>+</sup>)</b> - ધન વીજભારિત<br>૨. <b>ઇલેક્ટ્રોન (e<sup>-</sup>)</b> - ઋણ વીજભારિત<br>૩. <b>ન્યુટ્રોન (n)</b> - વીજભાર રહિત (તટસ્થ)" 
+    },
+    { 
+        chapter: 4, page: 51, qNo: 8, marks: 2, 
+        q: "હિલિયમ પરમાણુનું પરમાણ્વીય દળ 4 u છે અને તેના કેન્દ્રમાં 2 પ્રોટોન છે, તો તેમાં કેટલા ન્યુટ્રોન હશે?", 
+        ans: "<b>ઉકેલ:</b><br>આપણે જાણીએ છીએ કે, <b>પરમાણ્વીય દળ (દળાંક) = પ્રોટોનની સંખ્યા + ન્યુટ્રોનની સંખ્યા</b><br><br>અહીં, પરમાણ્વીય દળ = $4$<br>પ્રોટોનની સંખ્યા = $2$<br><br>તેથી, $4 = 2 + \\text{ન્યુટ્રોનની સંખ્યા}$<br>ન્યુટ્રોનની સંખ્યા = $4 - 2 = 2$<br><br>આમ, હિલિયમ પરમાણુમાં <b>2 ન્યુટ્રોન</b> હશે." 
+    },
+
+    // ---------------- પ્રકરણ 4: બ્લુ પ્રશ્નો (પાના નંબર 52) ----------------
+    { 
+        chapter: 4, page: 52, qNo: 9, marks: 3, 
+        q: "કાર્બન અને સોડિયમ પરમાણુઓમાં ઇલેક્ટ્રોનની વહેંચણી લખો.", 
+        ans: "<div style='display:flex; flex-wrap:wrap; gap:15px; justify-content:center;'><div style='flex:1; min-width:200px; padding:15px; background:#f8f9fa; border:1px solid #ced4da; border-radius:8px; text-align:center;'><b>1. કાર્બન (C)</b><br>પરમાણ્વીય ક્રમાંક (Z) = 6<br>ઇલેક્ટ્રોન રચના: <b>2, 4</b><br>K કોશ = 2, L કોશ = 4<br><br><svg width='120' height='120' viewBox='0 0 120 120'><circle cx='60' cy='60' r='10' fill='#dc3545'/><text x='56' y='64' fill='white' font-size='12'>C</text><circle cx='60' cy='60' r='25' fill='none' stroke='#343a40' stroke-dasharray='3,3'/><circle cx='60' cy='35' r='4' fill='#007bff'/><circle cx='60' cy='85' r='4' fill='#007bff'/><circle cx='60' cy='60' r='45' fill='none' stroke='#343a40' stroke-dasharray='3,3'/><circle cx='60' cy='15' r='4' fill='#28a745'/><circle cx='60' cy='105' r='4' fill='#28a745'/><circle cx='15' cy='60' r='4' fill='#28a745'/><circle cx='105' cy='60' r='4' fill='#28a745'/></svg></div><div style='flex:1; min-width:200px; padding:15px; background:#f8f9fa; border:1px solid #ced4da; border-radius:8px; text-align:center;'><b>2. સોડિયમ (Na)</b><br>પરમાણ્વીય ક્રમાંક (Z) = 11<br>ઇલેક્ટ્રોન રચના: <b>2, 8, 1</b><br>K=2, L=8, M=1<br><br><svg width='120' height='120' viewBox='0 0 120 120'><circle cx='60' cy='60' r='10' fill='#dc3545'/><text x='53' y='64' fill='white' font-size='10'>Na</text><circle cx='60' cy='60' r='20' fill='none' stroke='#343a40' stroke-dasharray='3,3'/><circle cx='60' cy='40' r='3' fill='#007bff'/><circle cx='60' cy='80' r='3' fill='#007bff'/><circle cx='60' cy='60' r='35' fill='none' stroke='#343a40' stroke-dasharray='3,3'/><circle cx='60' cy='25' r='3' fill='#28a745'/><circle cx='60' cy='95' r='3' fill='#28a745'/><circle cx='25' cy='60' r='3' fill='#28a745'/><circle cx='95' cy='60' r='3' fill='#28a745'/><circle cx='35' cy='35' r='3' fill='#28a745'/><circle cx='85' cy='85' r='3' fill='#28a745'/><circle cx='85' cy='35' r='3' fill='#28a745'/><circle cx='35' cy='85' r='3' fill='#28a745'/><circle cx='60' cy='60' r='50' fill='none' stroke='#343a40' stroke-dasharray='3,3'/><circle cx='60' cy='10' r='3' fill='#fd7e14'/></svg></div></div>" 
+    },
+    { 
+        chapter: 4, page: 52, qNo: 10, marks: 1, 
+        q: "જો કોઈ પરમાણુના K અને L કોશ સંપૂર્ણ ભરાયેલા હોય, તો તે પરમાણુમાં ઇલેક્ટ્રોનની કુલ સંખ્યા કેટલી હશે?", 
+        ans: "કોઈપણ કોશમાં ઇલેક્ટ્રોનની મહત્તમ સંખ્યા $2n^2$ સૂત્રથી મળે છે.<br>• <b>K કોશ (n=1)</b> ની મહત્તમ ક્ષમતા = $2(1)^2 = 2$ ઇલેક્ટ્રોન<br>• <b>L કોશ (n=2)</b> ની મહત્તમ ક્ષમતા = $2(2)^2 = 8$ ઇલેક્ટ્રોન<br><br>બંને કોશ સંપૂર્ણ ભરાયેલા છે, તેથી ઇલેક્ટ્રોનની કુલ સંખ્યા = $2 + 8 = $ <b>10 ઇલેક્ટ્રોન</b> હશે. <i>(આ પરમાણુ <b>નિયોન - Ne</b> છે.)</i>" 
+    },
+
+    // ---------------- પ્રકરણ 4: બ્લુ પ્રશ્નો (પાના નંબર 52 - સંયોજકતા) ----------------
+    { 
+        chapter: 4, page: 52, qNo: 11, marks: 3, 
+        q: "ક્લોરિન, સલ્ફર અને મેગ્નેશિયમની સંયોજકતા તમે કેવી રીતે શોધશો?", 
+        ans: "<b>સંયોજકતા શોધવાની રીત:</b><br><br><div style='padding:10px; background:#e8f4f8; border-left:4px solid #17a2b8; border-radius:4px;'><ul style='line-height:1.8;'><li><b>મેગ્નેશિયમ (Mg):</b> Z=12. રચના = 2, 8, 2. તેની બાહ્યતમ કક્ષામાં 2 ઇલેક્ટ્રોન છે. અષ્ટક પૂરું કરવા તે 2 ઇલેક્ટ્રોન ગુમાવશે. તેથી સંયોજકતા = <b>+2</b>.</li><li><b>સલ્ફર (S):</b> Z=16. રચના = 2, 8, 6. બાહ્યતમ કક્ષામાં 6 ઇલેક્ટ્રોન છે. અષ્ટક પૂરું કરવા તેને 2 ઇલેક્ટ્રોનની જરૂર છે (8-6). તેથી સંયોજકતા = <b>-2</b>.</li><li><b>ક્લોરિન (Cl):</b> Z=17. રચના = 2, 8, 7. બાહ્યતમ કક્ષામાં 7 ઇલેક્ટ્રોન છે. અષ્ટક પૂરું કરવા તેને 1 ઇલેક્ટ્રોનની જરૂર છે (8-7). તેથી સંયોજકતા = <b>-1</b>.</li></ul></div><br><div style='background:#fff3cd; border:2px dashed #ffc107; padding:10px; border-radius:8px; margin-top:10px;'><b>💡 નિતેશ સરની શોર્ટકટ ટ્રીક:</b><br>જો બાહ્યતમ કક્ષામાં <b>1, 2, 3 કે 4</b> ઇલેક્ટ્રોન હોય, તો <b>સંયોજકતા = બાહ્યતમ ઇલેક્ટ્રોનની સંખ્યા જ રહે</b>.<br>જો બાહ્યતમ કક્ષામાં <b>5, 6 કે 7</b> ઇલેક્ટ્રોન હોય, તો <b>સંયોજકતા = 8 - (બાહ્યતમ ઇલેક્ટ્રોનની સંખ્યા)</b>.</div>" 
+    },
+
+    // ---------------- પ્રકરણ 4: બ્લુ પ્રશ્નો (પાના નંબર 53) ----------------
+    { 
+        chapter: 4, page: 53, qNo: 12, marks: 2, 
+        q: "જો પરમાણુમાં ઇલેક્ટ્રોનની સંખ્યા 8 અને પ્રોટોનની સંખ્યા 8 હોય, તો<br>(i) પરમાણુનો પરમાણ્વીય ક્રમાંક કેટલો હશે?<br>(ii) પરમાણુ પરનો વીજભાર કેટલો હશે?", 
+        ans: "<b>ઉકેલ:</b><br><b>(i) પરમાણ્વીય ક્રમાંક (Z):</b> પરમાણુમાં રહેલા પ્રોટોનની સંખ્યાને જ પરમાણ્વીય ક્રમાંક કહે છે. અહીં પ્રોટોન 8 છે, તેથી પરમાણ્વીય ક્રમાંક = <b>8</b>. (આ તત્વ ઑક્સિજન છે).<br><br><b>(ii) પરમાણુ પરનો વીજભાર:</b> અહીં ઇલેક્ટ્રોન (-8) અને પ્રોટોન (+8) ની સંખ્યા સમાન છે. સમાન અને વિરુદ્ધ વીજભાર એકબીજાની અસર નાબૂદ કરે છે, તેથી પરમાણુ પરનો કુલ વીજભાર = <b>શૂન્ય (0)</b>. (તે તટસ્થ છે)." 
+    },
+    { 
+        chapter: 4, page: 53, qNo: 13, marks: 2, 
+        q: "કોષ્ટક 4.1 ની મદદથી ઑક્સિજન અને સલ્ફરનો દળાંક શોધો.", 
+        ans: "દળાંક (Mass Number) = <b>પ્રોટોનની સંખ્યા (p) + ન્યુટ્રોનની સંખ્યા (n)</b><br><br><ul><li><b>ઑક્સિજન માટે:</b> p = 8 અને n = 8. તેથી દળાંક = 8 + 8 = <b>16 u</b></li><li><b>સલ્ફર માટે:</b> p = 16 અને n = 16. તેથી દળાંક = 16 + 16 = <b>32 u</b></li></ul>" 
+    },
+    { 
+        chapter: 4, page: 53, qNo: 14, marks: 3, 
+        q: "H, D અને T સંજ્ઞાઓ માટે તેમાં રહેલા ત્રણ અવપરમાણ્વીય કણોની માહિતી કોષ્ટક સ્વરૂપે આપો.", 
+        ans: "આ હાઇડ્રોજનના ત્રણ સમસ્થાનિકો (Isotopes) છે: <b>Protium (H), Deuterium (D), અને Tritium (T).</b><br><br><table border='1' style='border-collapse:collapse; width:100%; text-align:center; font-family:sans-serif;'><tr><th style='background:#6c757d; color:white; padding:8px;'>સંજ્ઞા</th><th style='background:#6c757d; color:white; padding:8px;'>નામ</th><th style='background:#007bff; color:white; padding:8px;'>પ્રોટોન (p)</th><th style='background:#28a745; color:white; padding:8px;'>ઇલેક્ટ્રોન (e)</th><th style='background:#dc3545; color:white; padding:8px;'>ન્યુટ્રોન (n)</th></tr><tr><td style='padding:8px;'><b>H</b> (<sub>1</sub>H<sup>1</sup>)</td><td>પ્રોટિયમ</td><td>1</td><td>1</td><td><b>0</b></td></tr><tr><td style='padding:8px;'><b>D</b> (<sub>1</sub>H<sup>2</sup>)</td><td>ડ્યુટેરિયમ</td><td>1</td><td>1</td><td><b>1</b></td></tr><tr><td style='padding:8px;'><b>T</b> (<sub>1</sub>H<sup>3</sup>)</td><td>ટ્રિટિયમ</td><td>1</td><td>1</td><td><b>2</b></td></tr></table>" 
+    },
+    { 
+        chapter: 4, page: 53, qNo: 15, marks: 2, 
+        q: "સમસ્થાનિકો અને સમભારીકોની કોઈ એક જોડની ઇલેક્ટ્રોન રચના લખો.", 
+        ans: "<b>1. સમસ્થાનિકો (Isotopes) ની જોડ:</b><br>કાર્બનના સમસ્થાનિકો: <b>C-12 અને C-14</b><br>બંનેનો પરમાણ્વીય ક્રમાંક (Z) સમાન એટલે કે 6 જ હોય છે.<br>તેથી બંનેની <b>ઇલેક્ટ્રોન રચના: 2, 4</b> સમાન જ રહેશે.<br><br><b>2. સમભારીકો (Isobars) ની જોડ:</b><br>આર્ગોન (Ar) અને કેલ્શિયમ (Ca), બંનેનો દળાંક 40 છે.<br>પરંતુ Ar નો ક્રમાંક 18 છે, તેથી તેની <b>ઇલેક્ટ્રોન રચના: 2, 8, 8</b> થશે.<br>અને Ca નો ક્રમાંક 20 છે, તેથી તેની <b>ઇલેક્ટ્રોન રચના: 2, 8, 8, 2</b> થશે.<br><br><div style='background:#d4edda; border-left:4px solid #28a745; padding:10px; border-radius:4px; margin-top:8px;'><b>💡 નિતેશ સરની ટિપ્સ:</b><br>યાદ રાખો કે <b>સમસ્થાનિકોમાં 'સ્થાન' (Z) સમાન</b> હોય છે, એટલે ઇલેક્ટ્રોન રચના અને રાસાયણિક ગુણધર્મો સમાન જ હોય છે. જ્યારે <b>સમભારીકોમાં 'ભાર' (દળ) સમાન</b> હોય છે, પણ ઇલેક્ટ્રોન રચના અલગ હોય છે.</div>" 
     }
+    
+    
     
     
 ];
