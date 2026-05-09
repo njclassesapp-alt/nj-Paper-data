@@ -323,7 +323,63 @@ var scienceInTextDB = [
         chapter: 5, page: 65, qNo: 7, marks: 1, 
         q: "કોષમાં પ્રોટીન સંશ્લેષણ ક્યાં થાય છે?", 
         ans: "કોષમાં પ્રોટીન સંશ્લેષણનું કાર્ય <b>રિબોઝોમ્સ (Ribosomes)</b> નામની અંગિકામાં થાય છે.<br><br>રિબોઝોમ્સ કાં તો કોષરસમાં મુક્ત રીતે તરતા હોય છે અથવા <b>કણિકામય (ખરબચડી) અંતઃકોષરસજાળ (Rough ER)</b> ની સપાટી પર ચોંટેલા હોય છે.<br><br><div style='background:#e8f4f8; border-left:4px solid #007bff; padding:12px; border-radius:4px; margin-top:10px;'><b>💡 નિતેશ સરની ટિપ્સ:</b><br>યાદ રાખો: <b>રિબોઝોમ = કોષની પ્રોટીન ફેક્ટરી!</b><br>(RER = કણિકામય જાળ, જ્યાં 'કણિકા' એટલે જ રિબોઝોમ, જે પ્રોટીન બનાવે છે).</div>" 
+    },
+        // ---------------- પ્રકરણ 6: બ્લુ પ્રશ્નો (પાના નંબર 69) ----------------
+    { 
+        chapter: 6, page: 69, qNo: 1, marks: 1, 
+        q: "પેશી એટલે શું?", 
+        ans: "કોષોનો એવો સમૂહ કે જે <b>સંરચનાકીય સમાનતા</b> ધરાવતો હોય અને કોઈ <b>એક ચોક્કસ કાર્ય</b> કરવા માટે એકત્રિત થયેલો હોય, તેને <b>પેશી (Tissue)</b> કહે છે.<br><br><div style='padding:8px; background:#f8f9fa; border-left:4px solid #28a745; border-radius:4px;'><b>ઉદાહરણ:</b> રુધિર, અન્નવાહક પેશી, સ્નાયુ પેશી.</div>" 
+    },
+    { 
+        chapter: 6, page: 69, qNo: 2, marks: 2, 
+        q: "બહુકોષીય સજીવોમાં પેશીઓની ઉપયોગિતા શું છે?", 
+        ans: "બહુકોષીય સજીવોમાં લાખો કોષો હોય છે. પેશીઓના નિર્માણને કારણે સજીવોના શરીરમાં <b>શ્રમવિભાજન (Division of labour)</b> જોવા મળે છે.<br><br>પેશીઓ કોઈ ચોક્કસ કાર્ય ખૂબ જ <b>કાર્યક્ષમતાથી અને ઝડપથી</b> કરે છે.<br>દા.ત. સ્નાયુ પેશી સંકોચન પામી હલનચલન માટે, ચેતા પેશી સંદેશાના વહન માટે અને વનસ્પતિમાં વાહક પેશીઓ ખોરાક-પાણીના વહન માટે ઉપયોગી છે." 
+    },
+
+    // ---------------- પ્રકરણ 6: બ્લુ પ્રશ્નો (પાના નંબર 74 - વનસ્પતિ પેશીઓ) ----------------
+    { 
+        chapter: 6, page: 74, qNo: 3, marks: 2, 
+        q: "સરળ સ્થાયી પેશીના કેટલા પ્રકાર છે?", 
+        ans: "સરળ સ્થાયી પેશી (Simple permanent tissue) ના મુખ્ય <b>ત્રણ</b> પ્રકાર છે:<br><br><ol style='line-height:1.8; font-size:15px; font-weight:bold;'><li>મૃદુતક પેશી (Parenchyma)</li><li>સ્થૂલકોણક પેશી (Collenchyma)</li><li>દ્રઢોત્તક પેશી (Sclerenchyma)</li></ol><br><div style='background:#fff3cd; border:2px dashed #ffc107; padding:10px; border-radius:8px; margin-top:10px;'><b>💡 નિતેશ સરની શોર્ટકટ ટ્રીક:</b><br>સરળ પેશીના નામ યાદ રાખવા માટે માત્ર આટલું યાદ રાખો: <b>\"મૃ - સ્થૂ - દ્ર\"</b> (મૃદુ, સ્થૂલ અને દ્રઢ).</div>" 
+    },
+    { 
+        chapter: 6, page: 74, qNo: 4, marks: 1, 
+        q: "અગ્રીય વર્ધનશીલ પેશી ક્યાં જોવા મળે છે?", 
+        ans: "અગ્રીય વર્ધનશીલ પેશી (Apical meristem) વનસ્પતિના <b>મૂળ અને પ્રકાંડની ટોચના (અગ્ર) ભાગે</b> જોવા મળે છે અને તે તેમની લંબાઈમાં વૃદ્ધિ કરવાનું કાર્ય કરે છે.<br><br><div style='text-align:center; padding:15px; background:#e9f7ef; border:2px solid #28a745; border-radius:8px; margin-top:10px;'><svg width='150' height='150' viewBox='0 0 150 150'><!-- Stem/Shoot --><path d='M65 150 Q75 100 75 50 Q75 30 70 10 Q75 5 80 10 Q75 30 75 50 Q75 100 85 150 Z' fill='#8bc34a'/><!-- Leaves --><path d='M75 100 Q50 90 30 70 Q50 110 75 100' fill='#4caf50'/><path d='M75 80 Q100 70 120 50 Q100 90 75 80' fill='#4caf50'/><!-- Apical Meristem Highlight --><ellipse cx='75' cy='15' rx='8' ry='12' fill='#ff9800' stroke='#e65100' stroke-width='2'/><!-- Pointer --><path d='M110 25 L85 15' stroke='#dc3545' stroke-width='2' marker-end='url(#arrow)'/><text x='115' y='30' fill='#dc3545' font-size='12' font-weight='bold'>અગ્રીય વર્ધનશીલ પેશી</text></svg></div>" 
+    },
+    { 
+        chapter: 6, page: 74, qNo: 5, marks: 1, 
+        q: "નાળિયેરના રેસા કઈ પેશીના બનેલા હોય છે?", 
+        ans: "નાળિયેરના રેસાવાળી છાલ <b>દ્રઢોત્તક પેશી (Sclerenchyma tissue)</b> ની બનેલી હોય છે.<br><br>આ પેશીના કોષો મૃત હોય છે અને તેમની દીવાલ પર <b>લિગ્નિન (Lignin)</b> નામનું રસાયણ જમા થયેલું હોવાથી તે વનસ્પતિને ખૂબ જ મજબૂતાઈ અને કઠણતા આપે છે." 
+    },
+    { 
+        chapter: 6, page: 74, qNo: 6, marks: 2, 
+        q: "અન્નવાહક પેશીના ઘટકો કયા છે?", 
+        ans: "અન્નવાહક પેશી (Phloem) એ <b>જટિલ સ્થાયી પેશી</b> છે, જે પર્ણોથી વનસ્પતિના વિવિધ ભાગો સુધી ખોરાકનું વહન કરે છે. તે મુખ્ય <b>ચાર પ્રકારના ઘટકો</b>ની બનેલી છે:<br><br><ul style='line-height:1.8;'><li>૧. ચાલની નલિકા (Sieve tubes)</li><li>૨. સાથી કોષો (Companion cells)</li><li>૩. અન્નવાહક મૃદુતક (Phloem parenchyma)</li><li>૪. અન્નવાહક તંતુઓ (Phloem fibres)</li></ul><br><div style='background:#e8f4f8; border-left:4px solid #007bff; padding:12px; border-radius:4px; margin-top:10px;'><b>💡 નિતેશ સરની શોર્ટકટ ટ્રીક:</b><br>અન્નવાહકના ઘટકો યાદ રાખવાનું સૂત્ર: <b>\"ચા - સા - મૃ - ત\" (ચાસામૃત)</b><br>ચા = ચાલની નલિકા<br>સા = સાથી કોષો<br>મૃ = મૃદુતક<br>ત = તંતુઓ</div>" 
+    },
+        // ---------------- પ્રકરણ 6: બ્લુ પ્રશ્નો (પાના નંબર 78 - પ્રાણી પેશીઓ) ----------------
+    { 
+        chapter: 6, page: 78, qNo: 7, marks: 1, 
+        q: "આપણા શરીરમાં હલનચલન માટે કઈ પેશી જવાબદાર છે?", 
+        ans: "આપણા શરીરમાં હલનચલન (Movement) માટે મુખ્યત્વે <b>સ્નાયુ પેશી (Muscle tissue)</b> જવાબદાર છે. સ્નાયુ કોષોના સંકોચન અને વિસ્તરણને કારણે જ હલનચલન શક્ય બને છે. (નોંધ: આ કાર્યમાં ચેતા પેશી પણ તેને સંદેશા આપીને મદદ કરે છે)." 
+    },
+    { 
+        chapter: 6, page: 78, qNo: 8, marks: 3, 
+        q: "ચેતાકોષ (Neuron) દેખાવમાં કેવો લાગે છે?", 
+        ans: "ચેતાકોષ (Neuron) દેખાવમાં એક <b>લાંબી પૂંછડીવાળા અને વાળ જેવા મૂળ ધરાવતા વૃક્ષ</b> જેવો લાગે છે.<br><br>તે 1 મીટર સુધી લાંબો હોઈ શકે છે. તેના મુખ્ય <b>ત્રણ ભાગ</b> હોય છે:<br>૧. <b>કોષકાય (Cell body):</b> જેમાં કોષકેન્દ્ર અને કોષરસ હોય છે.<br>૨. <b>શિખાતંતુ (Dendrites):</b> કોષકાયમાંથી નીકળતી ટૂંકી અને શાખિત (વાળ જેવી) રચનાઓ.<br>૩. <b>અક્ષતંતુ (Axon):</b> કોષકાયમાંથી નીકળતો એક લાંબો અને નળાકાર પ્રવર્ધ.<br><br><div style='text-align:center; padding:15px; background:#f4f6f9; border:2px solid #6c757d; border-radius:8px; margin-top:10px;'><b>ચેતાકોષ (Neuron) ની આકૃતિ</b><br><br><svg width='280' height='120' viewBox='0 0 280 120'><!-- Axon --><rect x='80' y='55' width='120' height='10' fill='#ffc107' stroke='#e0a800'/><!-- Myelin Sheath --><rect x='90' y='52' width='20' height='16' rx='4' fill='#17a2b8'/><rect x='120' y='52' width='20' height='16' rx='4' fill='#17a2b8'/><rect x='150' y='52' width='20' height='16' rx='4' fill='#17a2b8'/><rect x='180' y='52' width='20' height='16' rx='4' fill='#17a2b8'/><!-- Cell Body (Soma) --><circle cx='50' cy='60' r='25' fill='#e83e8c' stroke='#c2185b' stroke-width='2'/><!-- Nucleus --><circle cx='50' cy='60' r='8' fill='#ffffff'/><!-- Dendrites --><path d='M30 45 L15 30 M30 75 L15 90 M65 40 L80 20 M65 80 L80 100 M25 60 L5 60' stroke='#c2185b' stroke-width='3' stroke-linecap='round'/><!-- Nerve Endings --><path d='M200 60 L230 40 L240 35 M200 60 L230 80 L240 85 M220 50 L240 55 M220 70 L240 65' stroke='#ffc107' stroke-width='3' stroke-linecap='round'/><!-- Labels --><text x='35' y='15' fill='#e83e8c' font-size='11' font-weight='bold'>શિખાતંતુ</text><text x='15' y='105' fill='#343a40' font-size='11' font-weight='bold'>કોષકાય</text><text x='130' y='35' fill='#17a2b8' font-size='11' font-weight='bold'>અક્ષતંતુ</text><text x='210' y='25' fill='#ffc107' font-size='11' font-weight='bold'>ચેતાંતો</text></svg></div><br><div style='background:#fff3cd; border:2px dashed #ffc107; padding:10px; border-radius:8px; margin-top:10px;'><b>💡 નિતેશ સરની શોર્ટકટ ટ્રીક:</b><br>ચેતાકોષના ભાગો યાદ રાખવા માટે: <b>\"કો-શિ-અ\"</b><br><b>કો</b> = કોષકાય (કેન્દ્ર)<br><b>શિ</b> = શિખાતંતુ (સંદેશો મેળવે)<br><b>અ</b> = અક્ષતંતુ (સંદેશો આગળ મોકલે)</div>" 
+    },
+    { 
+        chapter: 6, page: 78, qNo: 9, marks: 3, 
+        q: "હૃદસ્નાયુ પેશી (Cardiac muscle) ના ત્રણ લક્ષણો આપો.", 
+        ans: "હૃદસ્નાયુ પેશી (જે હૃદયની દીવાલમાં આવેલી હોય છે) ના મુખ્ય ત્રણ લક્ષણો નીચે મુજબ છે:<br><br><div style='padding:12px; background:#f8d7da; border-left:4px solid #dc3545; border-radius:4px;'><ul style='line-height:1.8; margin-bottom:0;'><li><b>૧. અનૈચ્છિક કાર્ય:</b> આ સ્નાયુઓ આપણી ઈચ્છા અનુસાર કામ કરતા નથી (તે અનૈચ્છિક સ્નાયુ પેશી છે).</li><li><b>૨. કોષોની રચના:</b> તેના કોષો <b>નળાકાર, શાખિત (Branched) અને એકકોષકેન્દ્રી</b> હોય છે.</li><li><b>૩. લયબદ્ધ સંકોચન:</b> આ પેશી જીવનપર્યંત થાક્યા વિના સતત લયબદ્ધ રીતે સંકોચન અને વિસ્તરણ (ધબકવાનું) કાર્ય કરે છે.</li></ul></div>" 
+    },
+    { 
+        chapter: 6, page: 78, qNo: 10, marks: 2, 
+        q: "તંતુઘટક પેશી (Areolar tissue) ના કાર્યો કયા છે?", 
+        ans: "તંતુઘટક પેશી પ્રાણીઓમાં ત્વચા અને સ્નાયુ પેશીની વચ્ચે, રુધિરવાહિનીઓ તથા ચેતાઓની આસપાસ જોવા મળે છે. તેના મુખ્ય કાર્યો નીચે મુજબ છે:<br><br><ol style='line-height:1.8;'><li>તે અંગોની અંદરની ખાલી જગ્યાઓને ભરે છે (Packing material તરીકે).</li><li>તે આંતરિક અંગોને <b>આધાર</b> આપે છે.</li><li>તે ઈજાગ્રસ્ત <b>પેશીઓના સમારકામ (Repairing)</b> માં મદદરૂપ થાય છે.</li></ol>" 
     }
+    
+    
     
     
     
