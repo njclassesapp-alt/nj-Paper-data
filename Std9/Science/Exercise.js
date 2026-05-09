@@ -368,7 +368,138 @@ var sciExerciseDB_Std9 = [
         marks: 3,
         q: "આસૃતિ (Osmosis) એટલે શું?",
         ans: "<b>આસૃતિ ની વ્યાખ્યા:</b> બે જુદી-જુદી સાંદ્રતા વાળા દ્રાવણો વચ્ચે પસંદગીમાન પ્રવેશશીલ પટલ આવેલું હોય, ત્યારે પાણીના અણુઓ તેમની <b>વધારે સાંદ્રતા (વધુ પાણી) વાળા વિસ્તારમાંથી ઓછી સાંદ્રતા (ઓછા પાણી) વાળા વિસ્તાર તરફ</b> ગતિ કરે છે. આ ઘટનાને આસૃતિ કહે છે.<br><br><b>ઉદાહરણ:</b> સૂકી દ્રાક્ષને પાણીમાં મૂકતા તે ફૂલે છે, કારણ કે બહાર પાણી વધુ હોવાથી તે આસૃતિ દ્વારા દ્રાક્ષની અંદર પ્રવેશે છે.<br><br><div style='background-color:#e2e3e5; border-left:5px solid #6c757d; padding:10px; margin-top:10px; border-radius:4px;'>💡 <span style='color:#383d41;'><b>નિતેશ સરની ટિપ્સ:</b><br>આસૃતિને પાણીના પંપની જેમ સમજો! પાણી હંમેશાં ઢાળ તરફ જાય, એટલે કે જ્યાં <b>પાણીની ભીડ વધુ હોય ત્યાંથી પાણીની અછત હોય તે તરફ</b> જાય. યાદ રાખજો, અહીં પાણી મુસાફરી કરે છે!</span></div>"
+    },
+    
+    {
+        chapter: 6,
+        q_no: 1,
+        marks: 2,
+        q: "પેશી એટલે શું?",
+        ans: "સમાન સંરચના ધરાવતા અને એકસાથે મળીને કોઈ એક વિશિષ્ટ કાર્ય કરતા કોષોના સમૂહને <b>પેશી (Tissue)</b> કહે છે.<br><br><div style='background-color:#e1f5fe; border-left:5px solid #03a9f4; padding:10px; margin-top:10px; border-radius:4px;'>💡 <span style='color:#01579b;'><b>નિતેશ સરની શોર્ટકટ ટ્રિક:</b><br>એકલો માણસ કામ કરે તો તેને 'કોષ' સમજો, પણ આખી ટીમ ભેગી મળીને એક જ ટાર્ગેટ પૂરો કરે તો એ <b>'પેશી'</b>! (કોષોનું ગ્રુપ = પેશી).</span></div>"
+    },
+    {
+        chapter: 6,
+        q_no: 2,
+        marks: 2,
+        q: "બહુકોષીય સજીવોમાં પેશીની ઉપયોગિતા શું છે?",
+        ans: "બહુકોષીય સજીવોમાં લાખો કોષો હોય છે. પેશીઓને કારણે સજીવના શરીરમાં <b>શ્રમવિભાજન (Division of Labor)</b> થાય છે.<br><br>જેમ કે, સ્નાયુ પેશી હલનચલનનું કાર્ય કરે છે, ચેતા પેશી સંદેશા પહોંચાડવાનું કાર્ય કરે છે અને રુધિર પેશી ઓક્સિજનના વહનનું કાર્ય કરે છે. આમ, અલગ-અલગ પેશીઓ ચોક્કસ કાર્યો કરી શરીરની <b>કાર્યક્ષમતા વધારે છે.</b><br><br><div style='background-color:#fff3cd; border-left:5px solid #ffc107; padding:10px; margin-top:10px; border-radius:4px;'>💡 <span style='color:#856404;'><b>નિતેશ સરની ટિપ્સ:</b><br>શ્રમવિભાજન એટલે કામની વહેંચણી! શરીરમાં બધું કામ કોઈ એક જ નથી કરતું. બેંકમાં જેમ કેશિયર, મેનેજર અને પટાવાળાનું કામ અલગ હોય છે, તેમ શરીરમાં દરેક પેશીનું કામ અલગ હોય છે.</span></div>"
+    },
+    {
+        chapter: 6,
+        q_no: 3,
+        marks: 3,
+        q: "સરળ સ્થાયી પેશીઓના કેટલા પ્રકાર છે? નામ આપો.",
+        ans: "વનસ્પતિમાં સરળ સ્થાયી પેશીના મુખ્ય <b>ત્રણ પ્રકાર</b> છે:<br><br>૧. <span style='color:#28a745; font-weight:bold;'>મૃદુતક પેશી (Parenchyma):</span> ખોરાકનો સંગ્રહ કરે છે અને વનસ્પતિને આધાર આપે છે.<br>૨. <span style='color:#0275d8; font-weight:bold;'>સ્થૂલકોણક પેશી (Collenchyma):</span> વનસ્પતિના ભાગો (જેમ કે ડાળી, પર્ણ) ને તૂટ્યા વગર વળવાની નમ્યતા આપે છે.<br>૩. <span style='color:#d9534f; font-weight:bold;'>દૃઢોત્તક પેશી (Sclerenchyma):</span> વનસ્પતિને કઠિનતા અને મજબૂતાઈ આપે છે.<br><br><div style='background-color:#d4edda; border-left:5px solid #28a745; padding:10px; margin-top:10px; border-radius:4px;'>💡 <span style='color:#155724;'><b>નિતેશ સરની શોર્ટકટ ટ્રિક:</b><br>શબ્દો પરથી જ ઓળખો: <b>મૃદુતક</b> એટલે મૃદુ (સોફ્ટ/નરમ), <b>સ્થૂલકોણક</b> એટલે થોડી કડક (વળે પણ તૂટે નહિ), અને <b>દૃઢોત્તક</b> એટલે સાવ દૃઢ (નારિયેળની કાચલી જેવી સખત)!</span></div>"
+    },
+    {
+        chapter: 6,
+        q_no: 4,
+        marks: 2,
+        q: "અગ્રસ્થ વર્ધનશીલ પેશી ક્યાં જોવા મળે છે?",
+        ans: "અગ્રસ્થ વર્ધનશીલ પેશી વનસ્પતિના મૂળ અને પ્રકાંડની <b>ટોચના (અગ્ર) ભાગે</b> જોવા મળે છે. <br><br>તે સતત કોષવિભાજન પામીને મૂળ અને પ્રકાંડની <b>લંબાઈમાં વધારો</b> કરે છે."
+    },
+    {
+        chapter: 6,
+        q_no: 5,
+        marks: 2,
+        q: "નાળિયેરના રેસા કઈ પેશીના બનેલા છે?",
+        ans: "નાળિયેરના રેસા (છાલ) <b>દૃઢોત્તક (Sclerenchyma) પેશીના</b> બનેલા હોય છે.<br><br>આ પેશીના કોષો મૃત હોય છે અને તેની કોષદીવાલ પર 'લિગ્નિન' નામનો પદાર્થ જમા થયેલો હોય છે, જે તેને અત્યંત કઠણ અને મજબૂત બનાવે છે."
+    },
+    {
+        chapter: 6,
+        q_no: 6,
+        marks: 3,
+        q: "અન્નવાહક પેશીના ઘટકો કયા છે?",
+        ans: "અન્નવાહક પેશી એ એક જટિલ સ્થાયી પેશી છે. તે વનસ્પતિમાં પર્ણોથી અન્ય ભાગો સુધી ખોરાકનું વહન કરે છે. તેના <b>ચાર મુખ્ય ઘટકો</b> નીચે મુજબ છે:<br><br>૧. <b>ચાલની નલિકા</b> (Sieve tubes)<br>૨. <b>સાથી કોષો</b> (Companion cells)<br>૩. <b>અન્નવાહક મૃદુતક</b> (Phloem parenchyma)<br>૪. <b>અન્નવાહક તંતુઓ</b> (Phloem fibres)<br><br><div style='background-color:#f3e5f5; border-left:5px solid #9c27b0; padding:10px; margin-top:10px; border-radius:4px;'>💡 <span style='color:#4a148c;'><b>નિતેશ સરની ટિપ્સ:</b><br>અન્નવાહક એટલે વનસ્પતિની <b>'Zomato / Swiggy'</b> ડિલિવરી ટીમ! પર્ણ (રસોડું) માંથી ખાવાનું લઈ આખા છોડને પહોંચાડે. આ ટીમમાં મુખ્ય ડિલિવરી બોય કોણ છે? 'ચાલની નલિકા અને સાથી કોષો'!</span></div>"
+    },
+    {
+        chapter: 6,
+        q_no: 7,
+        marks: 3,
+        q: "નીચેનાનું પેશીના આધારે વર્ગીકરણ કરો: ત્વચા, વનસ્પતિની છાલ, અસ્થિ, મૂત્રપિંડ નલિકાનું અસ્તર, વાહીપુલ.",
+        ans: "<div style='overflow-x:auto; background-color:#f9f9f9; border:1px solid #ddd; padding:10px; border-radius:8px;'><table style='width:100%; border-collapse:collapse; min-width:400px;'><tr style='background-color:#673ab7; color:white;'><th style='border:1px solid #ccc; padding:8px;'>અંગ / ભાગ</th><th style='border:1px solid #ccc; padding:8px;'>પેશીનો પ્રકાર</th></tr><tr><td style='border:1px solid #ccc; padding:8px;'>૧. ત્વચા (Skin)</td><td style='border:1px solid #ccc; padding:8px;'><b>સ્તૃત લાદીસમ અધિચ્છદ પેશી</b> (Stratified squamous epithelium)</td></tr><tr style='background-color:#f2f2f2;'><td style='border:1px solid #ccc; padding:8px;'>૨. વનસ્પતિની છાલ</td><td style='border:1px solid #ccc; padding:8px;'><b>દ્વિતીયક વર્ધનશીલ પેશી / ત્વક્ષા</b> (Cork)</td></tr><tr><td style='border:1px solid #ccc; padding:8px;'>૩. અસ્થિ (Bone)</td><td style='border:1px solid #ccc; padding:8px;'><b>સંયોજક પેશી</b> (Connective tissue)</td></tr><tr style='background-color:#f2f2f2;'><td style='border:1px solid #ccc; padding:8px;'>૪. મૂત્રપિંડ નલિકાનું અસ્તર</td><td style='border:1px solid #ccc; padding:8px;'><b>ઘનાકાર અધિચ્છદ પેશી</b> (Cuboidal epithelium)</td></tr><tr><td style='border:1px solid #ccc; padding:8px;'>૫. વાહીપુલ</td><td style='border:1px solid #ccc; padding:8px;'><b>જટિલ સ્થાયી પેશી</b> (જલવાહક અને અન્નવાહક)</td></tr></table></div>"
+    },
+    {
+        chapter: 6,
+        q_no: 8,
+        marks: 4,
+        q: "નીચે આપેલાનાં નામ આપો:<br>(a) પેશી કે જે મોંની અંદરના અસ્તરનું નિર્માણ કરે છે.<br>(b) પેશી કે જે મનુષ્યમાં સ્નાયુઓને અસ્થિ સાથે જોડે છે.<br>(c) પેશી કે જે વનસ્પતિમાં ખોરાકનું વહન કરે છે.<br>(d) પેશી કે જે આપણા શરીરમાં ચરબીનો સંચય કરે છે.<br>(e) તરલ આધારક સહિત સંયોજક પેશી.<br>(f) મગજમાં આવેલી પેશી.",
+        ans: "<b>જવાબો:</b><br><br><span style='color:#0056b3;'>(a) મોંની અંદરનું અસ્તર:</span> <b>લાદીસમ અધિચ્છદ પેશી</b><br><span style='color:#0056b3;'>(b) સ્નાયુ અને અસ્થિને જોડતી પેશી:</span> <b>સ્નાયુબંધ (Tendon)</b><br><span style='color:#0056b3;'>(c) વનસ્પતિમાં ખોરાકનું વહન:</span> <b>અન્નવાહક પેશી</b><br><span style='color:#0056b3;'>(d) ચરબીનો સંચય કરતી પેશી:</span> <b>મેદપૂર્ણ પેશી (Adipose tissue)</b><br><span style='color:#0056b3;'>(e) તરલ આધારક સહિત સંયોજક પેશી:</span> <b>રુધિર (Blood)</b><br><span style='color:#0056b3;'>(f) મગજમાં આવેલી પેશી:</span> <b>ચેતા પેશી (Nervous tissue)</b><br><br><div style='background-color:#ffebee; border-left:5px solid #f44336; padding:10px; margin-top:10px; border-radius:4px;'>💡 <span style='color:#b71c1c;'><b>નિતેશ સરની શોર્ટકટ ટ્રિક:</b><br>યાદ રાખજો! અસ્થિ (હાડકાં) ને સ્નાયુ સાથે જોડે તેને <b>સ્નાયુબંધ</b> કહેવાય. અને અસ્થિને અસ્થિ (બે હાડકાં) સાથે જોડે તેને <b>અસ્થિબંધ (Ligament)</b> કહેવાય. મેચ રમતા ખેલાડીઓને વારંવાર લિગામેન્ટ (અસ્થિબંધ) તૂટવાની ઈજા થાય છે!</span></div>"
+    },
+    {
+        chapter: 6,
+        q_no: 9,
+        marks: 5,
+        q: "રેખિત સ્નાયુ, અરેખિત સ્નાયુ અને હૃદ સ્નાયુ પેશી વચ્ચેનો તફાવત સ્પષ્ટ કરો.",
+        ans: "<p>આ ત્રણેય સ્નાયુ પેશીઓ વચ્ચેનો તફાવત નીચે કોષ્ટકમાં આપેલ છે (મોબાઈલમાં ડાબી-જમણી બાજુ સ્ક્રોલ કરી શકશો):</p><div style='overflow-x:auto; background-color:#fdfdfd; border:1px solid #dee2e6; border-radius:8px;'><table style='width:100%; border-collapse:collapse; text-align:left; min-width:600px;'><tr style='background-color:#17a2b8; color:white;'><th style='padding:12px; border:1px solid #dee2e6;'>મુદ્દો</th><th style='padding:12px; border:1px solid #dee2e6;'>રેખિત સ્નાયુ (Striated Muscle)</th><th style='padding:12px; border:1px solid #dee2e6;'>અરેખિત સ્નાયુ (Unstriated Muscle)</th><th style='padding:12px; border:1px solid #dee2e6;'>હૃદ સ્નાયુ (Cardiac Muscle)</th></tr><tr><td style='padding:10px; border:1px solid #dee2e6;'><b>૧. આકાર</b></td><td style='padding:10px; border:1px solid #dee2e6;'>લાંબા, નળાકાર, અશાખિત</td><td style='padding:10px; border:1px solid #dee2e6;'>લાંબા અને છેડેથી સાંકડા (ત્રાકાકાર)</td><td style='padding:10px; border:1px solid #dee2e6;'>નળાકાર અને શાખિત</td></tr><tr style='background-color:#f2f2f2;'><td style='padding:10px; border:1px solid #dee2e6;'><b>૨. ઐચ્છિક / અનૈચ્છિક</b></td><td style='padding:10px; border:1px solid #dee2e6;'>તે <b>ઐચ્છિક</b> સ્નાયુઓ છે (આપણી ઇચ્છા મુજબ કામ કરે).</td><td style='padding:10px; border:1px solid #dee2e6;'>તે <b>અનૈચ્છિક</b> સ્નાયુઓ છે (આપણી ઇચ્છાથી કામ કરતા નથી).</td><td style='padding:10px; border:1px solid #dee2e6;'>તે પણ <b>અનૈચ્છિક</b> સ્નાયુઓ છે.</td></tr><tr><td style='padding:10px; border:1px solid #dee2e6;'><b>૩. કોષકેન્દ્ર</b></td><td style='padding:10px; border:1px solid #dee2e6;'>બહુકોષકેન્દ્રીય (ઘણા બધા કોષકેન્દ્ર)</td><td style='padding:10px; border:1px solid #dee2e6;'>એકકોષકેન્દ્રીય (મધ્યમાં એક જ કોષકેન્દ્ર)</td><td style='padding:10px; border:1px solid #dee2e6;'>એકકોષકેન્દ્રીય</td></tr><tr style='background-color:#f2f2f2;'><td style='padding:10px; border:1px solid #dee2e6;'><b>૪. સ્થાન</b></td><td style='padding:10px; border:1px solid #dee2e6;'>હાથ અને પગના સ્નાયુઓમાં (અસ્થિઓ સાથે જોડાયેલા).</td><td style='padding:10px; border:1px solid #dee2e6;'>અન્નનળી, રુધિરવાહિનીઓ અને આંખની કીકીમાં.</td><td style='padding:10px; border:1px solid #dee2e6;'>ફક્ત હૃદયની દીવાલમાં.</td></tr></table></div><br><div style='background-color:#e2e3e5; border-left:5px solid #6c757d; padding:10px; margin-top:10px; border-radius:4px;'>💡 <span style='color:#383d41;'><b>નિતેશ સરની ટિપ્સ:</b><br>• <b>રેખિત:</b> જેનું રિમોટ કંટ્રોલ તમારા હાથમાં છે! (જેમ કે હાથ ઉંચો કરવો).<br>• <b>અરેખિત:</b> જેનું રિમોટ ઓટોમેટિક છે. (ખાધા પછી ખોરાક પચાવવો, એ તમે જાતે નથી કરતા).<br>• <b>હૃદ:</b> માત્ર હૃદય માટે સ્પેશિયલ બનાવેલા છે, જે જીવનભર થાક્યા વગર ધડકતા રહે છે!</span></div>"
+    },
+    {
+        chapter: 6,
+        q_no: 10,
+        marks: 3,
+        q: "ચેતાકોષ (Neuron) ની સંરચના સમજાવો.",
+        ans: "ચેતા પેશીના કોષોને ચેતાકોષ કહે છે. તે સંદેશાઓના વહનનું કાર્ય કરે છે. ચેતાકોષ મુખ્યત્વે ત્રણ ભાગનો બનેલો હોય છે:<br><br>૧. <b>કોષકાય (Cell Body):</b> તેમાં કોષકેન્દ્ર અને કોષરસ આવેલા હોય છે.<br>૨. <b>શિખાતંતુ (Dendrites):</b> કોષકાયમાંથી નીકળતા ટૂંકા અને શાખિત (વાળ જેવા) પ્રવર્ધો છે, જે અન્ય કોષમાંથી સંદેશો મેળવે છે.<br>૩. <b>અક્ષતંતુ (Axon):</b> તે એક લાંબો અને અશાખિત પ્રવર્ધ છે, જે સંદેશાને કોષકાયથી દૂર લઈ જાય છે.<br><br>એક ચેતાકોષની લંબાઈ 1 મીટર સુધીની હોઈ શકે છે. અક્ષતંતુના અંતે ચેતાંતો આવેલા હોય છે.<br><br><div style='background-color:#fff3cd; border-left:5px solid #ffc107; padding:10px; margin-top:10px; border-radius:4px;'>💡 <span style='color:#856404;'><b>નિતેશ સરની ટિપ્સ:</b><br>ચેતાકોષને એક <b>વાયરિંગ સિસ્ટમ</b> જેવો સમજો. શિખાતંતુ એ 'પ્લગ' છે જે કરંટ (મેસેજ) ખેંચે છે, અને અક્ષતંતુ એ 'લાંબો વાયર' છે જે મેસેજને મગજ સુધી પહોંચાડે છે!</span></div>"
+    },
+    
+    {
+        chapter: 7,
+        q_no: 1,
+        marks: 3,
+        q: "એક ઍથ્લેટ 200 m વ્યાસ ધરાવતા વર્તુળાકાર પથ પર એક ચક્કર 40 s માં પૂરું કરે છે. 2 min 20 s ને અંતે તેણે કેટલું અંતર કાપેલું હશે અને તેનું સ્થાનાંતર કેટલું હશે?",
+        ans: "અહીં, વર્તુળાકાર પથનો વ્યાસ (d) = 200 m<br>તેથી, ત્રિજ્યા (r) = d / 2 = 100 m<br>1 ચક્કર પૂરું કરવા લાગતો સમય = 40 s<br>કુલ સમય = 2 min 20 s = (2 × 60) + 20 = 140 s<br><br><span style='color:#0275d8;'><b>૧. કાપેલું અંતર:</b></span><br>40 s માં કાપેલું અંતર = 1 પરિઘ = 2πr<br>તેથી, 140 s માં ચક્કરની સંખ્યા = 140 / 40 = <b>3.5 ચક્કર</b><br>કુલ અંતર = 3.5 × 2πr = 3.5 × 2 × 3.14 × 100 = <span style='color:#28a745; font-weight:bold; font-size:16px;'>2200 m</span><br><br><span style='color:#d9534f;'><b>૨. સ્થાનાંતર:</b></span><br>3 પૂરા ચક્કર માર્યા પછી ઍથ્લેટ મૂળ સ્થાને જ હશે (સ્થાનાંતર = 0).<br>બાકીના અડધા (0.5) ચક્કર પછી તે શરૂઆતના બિંદુથી બરાબર <b>સામેના છેડે</b> હશે.<br>તેથી, સ્થાનાંતર = વર્તુળનો વ્યાસ = <span style='color:#28a745; font-weight:bold; font-size:16px;'>200 m</span><br><br><div style='background-color:#fff3cd; border-left:5px solid #ffc107; padding:10px; margin-top:10px; border-radius:4px;'>💡 <span style='color:#856404;'><b>નિતેશ સરની શોર્ટકટ ટ્રિક:</b><br>યાદ રાખો: <b>'અંતર'</b> એટલે માણસે રખડેલો પૂરો રસ્તો (ગોળ ગોળ ફર્યા જ કરો, ઉમેરાતું જ જાય!). પણ <b>'સ્થાનાંતર'</b> એટલે શરૂઆતથી અંત સુધીનો <b>શોર્ટકટ!</b> સાડા ત્રણ રાઉન્ડ પછી માણસ બરાબર સામે જ ઊભો હોય, એટલે શોર્ટકટ સીધો 'વ્યાસ' જેટલો જ થાય!</span></div>"
+    },
+    {
+        chapter: 7,
+        q_no: 2,
+        marks: 4,
+        q: "જોસેફ એક સીધા રસ્તા પર બિંદુ A થી અચળ ઝડપે દોડીને 2 min 30 s માં 300 m દૂર આવેલા બિંદુ B પર પહોંચે છે. ત્યાંથી પાછો ફરીને 1 min માં 100 m પાછળ બિંદુ C પર પહોંચે છે. (a) A થી B અને (b) A થી C સુધી જોસેફની સરેરાશ ઝડપ અને સરેરાશ વેગ શોધો.",
+        ans: "<b>(a) A થી B સુધીની ગતિ માટે:</b><br>કુલ અંતર = 300 m<br>કુલ સ્થાનાંતર = 300 m (સીધી રેખામાં ગતિ છે)<br>કુલ સમય = 2 min 30 s = (2 × 60) + 30 = 150 s<br><br>• સરેરાશ ઝડપ = કુલ અંતર / કુલ સમય = 300 / 150 = <span style='color:#0275d8; font-weight:bold;'>2 m/s</span><br>• સરેરાશ વેગ = સ્થાનાંતર / કુલ સમય = 300 / 150 = <span style='color:#0275d8; font-weight:bold;'>2 m/s</span><br><br><b>(b) A થી C સુધીની ગતિ માટે (A -> B -> C):</b><br>કુલ અંતર = 300 m (A થી B) + 100 m (B થી C) = <b>400 m</b><br>સ્થાનાંતર = 300 m - 100 m = <b>200 m</b> (કારણ કે તે પાછો ફર્યો)<br>કુલ સમય = 150 s + 60 s = <b>210 s</b><br><br>• સરેરાશ ઝડપ = કુલ અંતર / કુલ સમય = 400 / 210 = <span style='color:#d9534f; font-weight:bold;'>1.90 m/s</span><br>• સરેરાશ વેગ = સ્થાનાંતર / કુલ સમય = 200 / 210 = <span style='color:#d9534f; font-weight:bold;'>0.95 m/s</span><br><br><div style='background-color:#e2e3e5; border-left:5px solid #6c757d; padding:10px; margin-top:10px; border-radius:4px;'>💡 <span style='color:#383d41;'><b>નિતેશ સરની ટિપ્સ:</b><br>સરેરાશ ઝડપ શોધવી હોય તો <b>બધું જ અંતર પ્લસ (+)</b> કરી દેવાનું. પણ સરેરાશ વેગ શોધવો હોય તો જોવાનું કે <b>ફાઇનલી એ વ્યક્તિ ક્યાં ઊભી છે?</b> જો પાછળ આવે તો એટલું અંતર માઇનસ (-) કરવાનું (સ્થાનાંતર).</span></div>"
+    },
+    {
+        chapter: 7,
+        q_no: 3,
+        marks: 3,
+        q: "અબ્દુલ શાળાએ જતી વખતે સરેરાશ ઝડપ 20 km/h માપે છે. તે જ રસ્તા પર પાછા ફરતી વખતે ટ્રાફિક ઓછો હોવાથી સરેરાશ ઝડપ 30 km/h માપે છે. અબ્દુલની સમગ્ર મુસાફરી માટે સરેરાશ ઝડપ કેટલી થશે?",
+        ans: "ધારો કે અબ્દુલના ઘરેથી શાળાનું અંતર = x km છે.<br><br><b>જતી વખતનો સમય (t₁):</b><br>સમય = અંતર / ઝડપ = x / 20 કલાક<br><b>આવતી વખતનો સમય (t₂):</b><br>સમય = અંતર / ઝડપ = x / 30 કલાક<br><br>કુલ કાપેલું અંતર = જવાનું x + આવવાનું x = <b>2x km</b><br>કુલ લાગતો સમય = t₁ + t₂ = (x / 20) + (x / 30)<br>લ.સા.અ. લેતાં: કુલ સમય = (3x + 2x) / 60 = 5x / 60 = <b>x / 12 કલાક</b><br><br>સરેરાશ ઝડપ = કુલ અંતર / કુલ સમય<br>= 2x / (x / 12)<br>= 2x × 12 / x<br>= <span style='color:#28a745; font-weight:bold; font-size:18px;'>24 km/h</span><br><br><div style='background-color:#d4edda; border-left:5px solid #28a745; padding:10px; margin-top:10px; border-radius:4px;'>💡 <span style='color:#155724;'><b>નિતેશ સરની શોર્ટકટ ટ્રિક:</b><br>આવા પ્રશ્નોમાં 20 અને 30 ની સીધી સરેરાશ કાઢીને જવાબ '25' <b>ક્યારેય નહિ લખવાનો!</b> જ્યારે અંતર સરખું હોય અને જવાની/આવવાની ઝડપ અલગ હોય, ત્યારે સીધું આ સૂત્ર વાપરો: <b>(2 × V₁ × V₂) / (V₁ + V₂)</b><br>= (2 × 20 × 30) / (20 + 30) = 1200 / 50 = 24!</span></div>"
+    },
+    {
+        chapter: 7,
+        q_no: 4,
+        marks: 2,
+        q: "તળાવમાં સ્થિર અવસ્થામાંથી એક મોટરબોટ સુરેખ પથ પર અચળ પ્રવેગ 3.0 m/s² થી 8.0 s સુધી ગતિ કરે છે. આ સમયગાળામાં તે કેટલી દૂર જશે?",
+        ans: "<b>આપેલ માહિતી:</b><br>સ્થિર અવસ્થા હોવાથી પ્રારંભિક વેગ (u) = 0 m/s<br>પ્રવેગ (a) = 3.0 m/s²<br>સમય (t) = 8.0 s<br>અંતર (s) = ?<br><br>ગતિના બીજા સમીકરણ મુજબ:<br><b>s = ut + ½ at²</b><br>s = (0 × 8) + ½ × (3) × (8)²<br>s = 0 + ½ × 3 × 64<br>s = 3 × 32<br>s = <span style='color:#0275d8; font-weight:bold; font-size:16px;'>96 m</span><br><br><b>જવાબ:</b> મોટરબોટ 96 મીટર દૂર જશે."
+    },
+    {
+        chapter: 7,
+        q_no: 5,
+        marks: 4,
+        q: "52 km/h ની ઝડપે ગતિ કરતી કારનો ડ્રાઇવર બ્રેક મારે છે અને કાર 5 s માં ઊભી રહે છે. બીજો ડ્રાઇવર 3 km/h ની ઝડપે ગતિ કરતી કારમાં ધીમેથી બ્રેક મારે છે અને 10 s માં ઊભી રહે છે. આલેખ પરથી કોણ વધુ અંતર કાપશે તે કહો.",
+        ans: "<b>પહેલી કાર માટે:</b><br>પ્રારંભિક વેગ (u₁) = 52 km/h = 52 × (5/18) = 14.4 m/s<br>સમય (t₁) = 5 s<br>આલેખમાં બનતા ત્રિકોણનું ક્ષેત્રફળ (અંતર s₁) = ½ × પાયો × વેધ<br>s₁ = ½ × 5 × 14.4 = <span style='color:#c2185b; font-weight:bold;'>36 m</span><br><br><b>બીજી કાર માટે:</b><br>પ્રારંભિક વેગ (u₂) = 3 km/h = 3 × (5/18) = 0.83 m/s<br>સમય (t₂) = 10 s<br>આલેખમાં બનતા ત્રિકોણનું ક્ષેત્રફળ (અંતર s₂) = ½ × પાયો × વેધ<br>s₂ = ½ × 10 × 0.83 = <span style='color:#c2185b; font-weight:bold;'>4.15 m</span><br><br><b>નિષ્કર્ષ:</b> 36 m > 4.15 m હોવાથી, <b>પહેલી કાર (52 km/h વાળી) વધુ અંતર કાપશે.</b><br><br><div style='background-color:#fff3cd; border-left:5px solid #ff9800; padding:10px; margin-top:10px; border-radius:4px;'>💡 <span style='color:#e65100;'><b>નિતેશ સરની ટિપ્સ:</b><br>ફિઝિક્સમાં <b>km/h ને m/s માં ફેરવવાનું ક્યારેય ના ભૂલતા!</b> ફેરવવા માટે ઝડપને સીધા <b>5/18 વડે ગુણી</b> દેવાના. (મોટામાંથી નાનામાં જવું હોય તો નાની રકમ 5 ઉપર રાખવાની).</span></div>"
+    },
+    {
+        chapter: 7,
+        q_no: 7,
+        marks: 3,
+        q: "20 m ઊંચાઈ પરથી એક દડાને પડતો મૂકવામાં આવે છે. જો તેનો વેગ 10 m/s² ના નિયમિત દરથી વધતો હોય, તો તે કેટલા વેગથી જમીન પર અથડાશે? કેટલા સમય બાદ તે જમીન પર અથડાશે?",
+        ans: "<b>આપેલ માહિતી:</b><br>પ્રારંભિક વેગ (u) = 0 m/s (પડતો મૂકવામાં આવે છે એટલે)<br>કાપેલું અંતર/ઊંચાઈ (s) = 20 m<br>પ્રવેગ (a) = 10 m/s²<br>અંતિમ વેગ (v) = ? અને સમય (t) = ?<br><br><span style='color:#0275d8;'><b>૧. અંતિમ વેગ (v) શોધવા:</b></span><br>ગતિના ત્રીજા સમીકરણ મુજબ: <b>v² - u² = 2as</b><br>v² - 0 = 2 × 10 × 20<br>v² = 400<br>v = <span style='color:#28a745; font-weight:bold;'>20 m/s</span><br><br><span style='color:#d9534f;'><b>૨. સમય (t) શોધવા:</b></span><br>ગતિના પહેલા સમીકરણ મુજબ: <b>v = u + at</b><br>20 = 0 + (10 × t)<br>20 = 10t<br>t = 20 / 10 = <span style='color:#28a745; font-weight:bold;'>2 s (સેકન્ડ)</span><br><br><b>જવાબ:</b> દડો જમીન સાથે <b>20 m/s</b> ના વેગથી <b>2 સેકન્ડ</b> બાદ અથડાશે."
+    },
+    {
+        chapter: 7,
+        q_no: 9,
+        marks: 3,
+        q: "નીચેના પૈકી કઈ પરિસ્થિતિઓ શક્ય છે? ઉદાહરણ આપો.<br>(a) કોઈ પદાર્થ કે જેનો પ્રવેગ અચળ હોય પરંતુ વેગ શૂન્ય હોય.<br>(b) કોઈ પદાર્થ કે જે ચોક્કસ દિશામાં ગતિ કરતો હોય અને તેનો પ્રવેગ લંબ દિશામાં હોય.",
+        ans: "<b>(a) પ્રવેગ અચળ હોય પરંતુ વેગ શૂન્ય હોય:</b><br><b>હા, આ શક્ય છે.</b> જ્યારે કોઈ દડાને હવામાં ઊંચે ફેંકવામાં આવે છે, ત્યારે તે તેની મહત્તમ ઊંચાઈએ પહોંચે છે ત્યારે એક ક્ષણ માટે તેનો <b>વેગ શૂન્ય</b> થઈ જાય છે. પરંતુ તે જ સમયે તેના પર પૃથ્વીનું ગુરુત્વાકર્ષણ બળ લાગતું હોવાથી તેનો <b>પ્રવેગ (g) અચળ (9.8 m/s²) નીચેની તરફ</b> હોય છે.<br><br><b>(b) ગતિ ચોક્કસ દિશામાં હોય અને પ્રવેગ લંબ દિશામાં હોય:</b><br><b>હા, આ શક્ય છે.</b> જ્યારે કોઈ પદાર્થ <b>નિયમિત વર્તુળમય ગતિ</b> (Circular Motion) કરતો હોય, ત્યારે તેની ગતિની દિશા (વેગ) હંમેશાં વર્તુળના સ્પર્શકની દિશામાં હોય છે, જ્યારે તેનો પ્રવેગ (કેન્દ્રગામી પ્રવેગ) હંમેશાં કેન્દ્ર તરફ એટલે કે ગતિની દિશાને <b>લંબ (90° ના ખૂણે)</b> હોય છે.<br><br><div style='background-color:#e1f5fe; border-left:5px solid #03a9f4; padding:10px; margin-top:10px; border-radius:4px;'>💡 <span style='color:#01579b;'><b>નિતેશ સરની ટિપ્સ:</b><br>આ બહુ જ I.M.P કન્સેપ્ટ છે! દોરી સાથે પથ્થર બાંધીને ગોળ ગોળ ફેરવો. પથ્થર છૂટે તો સીધો (સ્પર્શક રૂપે) જાય, પણ તમારો હાથ દોરીને ખેંચી રાખે છે (લંબ રૂપે પ્રવેગ). આ બંને વચ્ચે હંમેશા 90 ડિગ્રીનો ખૂણો બને!</span></div>"
+    },
+    {
+        chapter: 7,
+        q_no: 10,
+        marks: 3,
+        q: "એક કૃત્રિમ ઉપગ્રહ 42250 km ત્રિજ્યાની વર્તુળાકાર કક્ષામાં પરિક્રમણ કરે છે. જો તે 24 કલાકમાં પૃથ્વીનું પરિક્રમણ કરતો હોય તો તેની ઝડપ ગણો.",
+        ans: "<b>આપેલ માહિતી:</b><br>કક્ષાની ત્રિજ્યા (r) = 42250 km<br>એક પરિક્રમણનો સમય (t) = 24 કલાક = 24 × 60 × 60 = 86400 સેકન્ડ<br><br>ઉપગ્રહે કાપેલું કુલ અંતર 1 પરિઘ જેટલું થાય = 2πr<br><br><b>ઝડપ (v) = અંતર / સમય</b><br>v = 2πr / t<br>v = (2 × 3.14 × 42250) / 24  <i>(જો જવાબ km/h માં જોઈતો હોય તો)</i><br>v = 265330 / 24 = <span style='color:#0275d8; font-weight:bold;'>11055.4 km/h</span><br><br><i>જો જવાબ km/s માં જોઈતો હોય તો:</i><br>v = 265330 / 86400 = <span style='color:#d9534f; font-weight:bold;'>3.07 km/s</span><br><br><div style='background-color:#f3e5f5; border-left:5px solid #9c27b0; padding:10px; margin-top:10px; border-radius:4px;'>💡 <span style='color:#4a148c;'><b>નિતેશ સરની શોર્ટકટ ટ્રિક:</b><br>ગણતરી લાંબી લાગે તો ડરવાનું નહિ. π ની કિંમત 3.14 લઈને પહેલા ગુણાકાર કરી લેવાનો. 24 કલાકવાળો જવાબ (11055.4 km/h) લખશો તો પણ સાચું જ પડશે, બસ એકમ લખવાનું ભૂલતા નહિ!</span></div>"
     }
+    
+    
+    
     
     
     
