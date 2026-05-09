@@ -589,7 +589,145 @@ var scienceInTextDB = [
         chapter: 9, page: 109, qNo: 11, marks: 3, 
         q: "તમારી પાસે એક રૂનો કોથળો અને એક લોખંડનો સળિયો છે. વજનકાંટા પર બંનેનું દળ 100 kg નોંધાય છે. વાસ્તવમાં એક પદાર્થ બીજા કરતાં ભારે છે. શું તમે કહી શકશો કે કયો પદાર્થ ભારે છે અને શા માટે?", 
         ans: "વાસ્તવમાં <b>રૂનો કોથળો ભારે (વધુ દળદાર) હશે.</b><br><br><b>કારણ:</b><br>રૂની ઘનતા લોખંડ કરતા ઘણી ઓછી હોય છે, તેથી 100 kg વજન કરવા માટે <b>રૂના કોથળાનું કદ (Volume) લોખંડના સળિયા કરતાં ઘણું જ વધારે</b> લેવું પડે.<br><br>આર્કિમિડીઝના સિદ્ધાંત મુજબ, પદાર્થનું કદ જેટલું વધુ હોય, તેના પર હવાનું ઉત્પ્લાવક બળ (ઉપર તરફનો ધક્કો) તેટલું જ વધુ લાગે છે. રૂના કોથળાનું કદ વિશાળ હોવાથી તેના પર <b>હવાનું ઉત્પ્લાવક બળ વધુ લાગે છે</b>.<br>આ બળની અસર નાબૂદ કરવા માટે કોથળામાં વાસ્તવિક રીતે વધુ રૂ ઉમેરવું પડ્યું હશે ત્યારે વજનકાંટાએ 100 kg બતાવ્યું હશે. તેથી વાસ્તવમાં રૂનું દળ લોખંડ કરતા વધુ હોય છે.<br><br><div style='background:#f8d7da; border-left:4px solid #dc3545; padding:10px; border-radius:4px; margin-top:10px;'><b>💡 નિતેશ સરની ટિપ્સ:</b><br>યાદ રાખો: <b>મોટું કદ = હવાનો મોટો ધક્કો.</b> વજનકાંટો હવામાં વજન કરે છે, શૂન્યાવકાશમાં નહિ! રૂ મોટું હોવાથી હવા તેને વધુ ધક્કો મારે, એટલે કાંટા પર 100 લાવવા માટે આપણે વાસ્તવમાં 100.5 કિલો જેવું રૂ મૂકવું પડે!</div>" 
+    },
+        // ---------------- પ્રકરણ 10: બ્લુ પ્રશ્નો (પાના નંબર 114 - કાર્ય) ----------------
+    { 
+        chapter: 10, page: 114, qNo: 1, marks: 2, 
+        q: "આપણે ક્યારે કહી શકીએ કે કાર્ય થયું છે?", 
+        ans: "વિજ્ઞાનની ભાષામાં 'કાર્ય' (Work) થયું છે તેમ ત્યારે જ કહેવાય, જ્યારે નીચેની <b>બે શરતો</b> સંતોષાતી હોય:<br><br><ol style='line-height:1.8;'><li>પદાર્થ પર કોઈ <b>બળ (Force)</b> લાગવું જોઈએ.</li><li>તે બળની અસર હેઠળ પદાર્થનું <b>સ્થાનાંતર (Displacement)</b> થવું જોઈએ (એટલે કે પદાર્થ ખસવો જોઈએ).</li></ol><br><div style='text-align:center; padding:15px; background:#f4f6f9; border:2px solid #007bff; border-radius:8px; margin-top:10px;'><svg width='220' height='100' viewBox='0 0 220 100'><!-- Ground --><line x1='10' y1='80' x2='210' y2='80' stroke='#343a40' stroke-width='3'/><!-- Initial Box --><rect x='30' y='40' width='40' height='40' fill='#ffc107' stroke='#e0a800' stroke-width='2'/><text x='35' y='65' fill='#343a40' font-weight='bold'>m</text><!-- Final Box (Dashed) --><rect x='140' y='40' width='40' height='40' fill='none' stroke='#ffc107' stroke-width='2' stroke-dasharray='4,4'/><text x='145' y='65' fill='#ffc107' font-weight='bold'>m</text><!-- Force Arrow --><path d='M10 60 L30 60 M20 55 L30 60 L20 65' stroke='#dc3545' stroke-width='2' fill='none'/><text x='10' y='45' fill='#dc3545' font-weight='bold'>F</text><!-- Displacement Arrow --><path d='M70 60 L140 60' stroke='#28a745' stroke-width='2' stroke-dasharray='3,3'/><path d='M130 55 L140 60 L130 65' stroke='#28a745' stroke-width='2' fill='none'/><text x='95' y='50' fill='#28a745' font-weight='bold'>s</text></svg><br><small style='color:#007bff; font-weight:bold;'>બળ (F) લાગતા પદાર્થનું સ્થાનાંતર (s) થાય છે.</small></div>" 
+    },
+    { 
+        chapter: 10, page: 114, qNo: 2, marks: 1, 
+        q: "જ્યારે બળ ગતિની દિશામાં લાગતું હોય ત્યારે થતા કાર્યનું સમીકરણ લખો.", 
+        ans: "જ્યારે બળ અને સ્થાનાંતર એક જ દિશામાં હોય, ત્યારે થતા કાર્ય (W) નું સમીકરણ:<br><br><div style='text-align:center; padding:10px; background:#e8f4f8; border:1px solid #17a2b8; border-radius:6px; font-size:18px; font-family:sans-serif; color:#007bff; font-weight:bold;'>W = F &times; s</div><br><i>જ્યાં, W = કાર્ય (Work), F = બળ (Force), અને s = સ્થાનાંતર (Displacement)</i>" 
+    },
+    { 
+        chapter: 10, page: 114, qNo: 3, marks: 1, 
+        q: "1 J કાર્યને વ્યાખ્યાયિત કરો.", 
+        ans: "<b>1 જૂલ (1 J) કાર્ય:</b><br>જ્યારે કોઈ પદાર્થ પર <b>1 N (ન્યૂટન)</b> જેટલું બળ લગાડવામાં આવે અને તે પદાર્થનું બળની દિશામાં <b>1 m (મીટર)</b> જેટલું સ્થાનાંતર થાય, ત્યારે થયેલું કાર્ય 1 J (જૂલ) કહેવાય છે." 
+    },
+    { 
+        chapter: 10, page: 114, qNo: 4, marks: 2, 
+        q: "બળદની એક જોડ ખેતર ખેડતી વખતે હળ પર 140 N બળ લગાવે છે. ખેડાયેલ ખેતરની લંબાઈ 15 m છે. ખેતરની લંબાઈ ખેડવા માટે કેટલું કાર્ય કરવું પડશે?", 
+        ans: "<b>ઉકેલ:</b><br><div style='padding:12px; background:#f8f9fa; border-left:4px solid #28a745; border-radius:4px; font-family:sans-serif;'><b>આપેલ માહિતી:</b><br>બળ (F) = <b>140 N</b><br>સ્થાનાંતર / લંબાઈ (s) = <b>15 m</b><br><br><b>કાર્ય (W) ની ગણતરી:</b><br>W = F &times; s<br>W = 140 &times; 15<br><b>W = 2100 J</b></div><br>આમ, ખેતર ખેડવા માટે બળદ દ્વારા <b>2100 જૂલ (J)</b> જેટલું કાર્ય કરવું પડશે." 
+    },
+
+    // ---------------- પ્રકરણ 10: બ્લુ પ્રશ્નો (પાના નંબર 118 - ઊર્જા) ----------------
+    { 
+        chapter: 10, page: 118, qNo: 5, marks: 1, 
+        q: "પદાર્થની ગતિજ ઊર્જા (Kinetic Energy) એટલે શું?", 
+        ans: "કોઈ પણ પદાર્થ તેની <b>ગતિને કારણે</b> જે ઊર્જા ધરાવે છે, તેને તે પદાર્થની ગતિજ ઊર્જા કહે છે. પદાર્થની ઝડપ જેટલી વધુ હોય, તેની ગતિજ ઊર્જા તેટલી જ વધારે હોય છે." 
+    },
+    { 
+        chapter: 10, page: 118, qNo: 6, marks: 1, 
+        q: "પદાર્થની ગતિજ ઊર્જાનું સમીકરણ લખો.", 
+        ans: "m દળ ધરાવતો પદાર્થ જો v સમાન વેગથી ગતિ કરતો હોય, તો તેની ગતિજ ઊર્જા (E<sub>k</sub>) નું સમીકરણ નીચે મુજબ છે:<br><br><div style='text-align:center; padding:10px; background:#fff3cd; border:1px solid #ffc107; border-radius:6px; font-size:18px; font-family:sans-serif; color:#dc3545; font-weight:bold;'>E<sub>k</sub> = &frac12; m v<sup>2</sup></div>" 
+    },
+    { 
+        chapter: 10, page: 118, qNo: 7, marks: 3, 
+        q: "5 m/s ના વેગથી ગતિ કરતા m દળના પદાર્થની ગતિજ ઊર્જા 25 J છે. જો તેના વેગને બમણો કરવામાં આવે તો તેની ગતિજ ઊર્જા કેટલી થશે? જો તેના વેગને ત્રણ ગણો કરવામાં આવે તો તેની ગતિજ ઊર્જા કેટલી થશે?", 
+        ans: "<b>ઉકેલ:</b><br><div style='background:#e9f7ef; border-left:4px solid #28a745; padding:12px; border-radius:4px; font-family:sans-serif; margin-bottom:10px;'><b>1. જ્યારે વેગ બમણો (2 ગણો) કરવામાં આવે:</b><br>ગતિજ ઊર્જા વેગના વર્ગના સમપ્રમાણમાં હોય છે (E<sub>k</sub> &propto; v<sup>2</sup>).<br>જો વેગ 2 ગણો થાય, તો ઊર્જા (2)<sup>2</sup> = <b>4 ગણી</b> થાય.<br>નવી ગતિજ ઊર્જા = 4 &times; 25 J = <b>100 J</b><br><br><b>2. જ્યારે વેગ ત્રણ ગણો (3 ગણો) કરવામાં આવે:</b><br>જો વેગ 3 ગણો થાય, તો ઊર્જા (3)<sup>2</sup> = <b>9 ગણી</b> થાય.<br>નવી ગતિજ ઊર્જા = 9 &times; 25 J = <b>225 J</b></div><br><div style='background:#fff3cd; border:2px dashed #ffc107; padding:10px; border-radius:8px;'><b>💡 નિતેશ સરની શોર્ટકટ ટ્રીક:</b><br>આવા દાખલામાં લાંબી ગણતરીઓ કરવાની કોઈ જ જરૂર નથી! માત્ર એક જ લાઈન યાદ રાખો:<br><b>\"વેગ જેટલા ગણો થાય... ગતિજ ઊર્જા તેના વર્ગ (Square) ગણી થાય!\"</b><br>• વેગ 2 ગણો ➜ ઊર્જા 4 ગણી.<br>• વેગ 3 ગણો ➜ ઊર્જા 9 ગણી.<br>• વેગ 4 ગણો ➜ ઊર્જા 16 ગણી. સીધો જવાબ!</div>" 
+    },
+        // ---------------- પ્રકરણ 10: બ્લુ પ્રશ્નો (પાના નંબર 122 - પાવર) ----------------
+    { 
+        chapter: 10, page: 122, qNo: 8, marks: 1, 
+        q: "પાવર એટલે શું?", 
+        ans: "કાર્ય કરવાના દરને અથવા ઊર્જાના રૂપાંતરણના દરને <b>પાવર (Power)</b> કહે છે.<br><br><div style='padding:8px; background:#e8f4f8; border-left:4px solid #007bff; border-radius:4px; font-weight:bold;'>સૂત્ર: પાવર (P) = કાર્ય (W) / સમય (t)</div>" 
+    },
+    { 
+        chapter: 10, page: 122, qNo: 9, marks: 1, 
+        q: "1 વૉટ પાવરને વ્યાખ્યાયિત કરો.", 
+        ans: "જો કોઈ પદાર્થ <b>1 સેકન્ડમાં 1 જૂલ</b> જેટલું કાર્ય કરતો હોય (અથવા 1 જૂલ ઊર્જા વાપરતો હોય), તો તેનો પાવર <b>1 વૉટ (1 W)</b> છે તેમ કહેવાય.<br><br><b>1 W = 1 J/s</b>" 
+    },
+    { 
+        chapter: 10, page: 122, qNo: 10, marks: 2, 
+        q: "એક લૅમ્પ 10 s માં 1000 J વિદ્યુતઊર્જા વાપરે છે, તો તેનો પાવર કેટલો હશે?", 
+        ans: "<b>ઉકેલ:</b><br><div style='padding:12px; background:#f8f9fa; border-left:4px solid #28a745; border-radius:4px; font-family:sans-serif;'><b>આપેલ માહિતી:</b><br>ઊર્જા / કાર્ય (W) = <b>1000 J</b><br>સમય (t) = <b>10 s</b><br><br><b>પાવર (P) ની ગણતરી:</b><br>P = W / t<br>P = 1000 / 10<br><b>P = 100 W</b></div><br>આમ, લૅમ્પનો પાવર <b>100 વૉટ (W)</b> હશે." 
+    },
+    { 
+        chapter: 10, page: 122, qNo: 11, marks: 1, 
+        q: "સરેરાશ પાવર વ્યાખ્યાયિત કરો.", 
+        ans: "પદાર્થ દ્વારા ઉપયોગમાં લેવાયેલી કુલ ઊર્જા અને તે માટે લીધેલા કુલ સમયના ગુણોત્તરને <b>સરેરાશ પાવર (Average Power)</b> કહે છે.<br><br><div style='padding:8px; background:#fff3cd; border-left:4px solid #ffc107; border-radius:4px; font-weight:bold;'>સરેરાશ પાવર = કુલ ઉપયોગમાં લીધેલ ઊર્જા / કુલ લીધેલ સમય</div>" 
+    },
+
+    // ---------------- પ્રકરણ 11: બ્લુ પ્રશ્નો (પાના નંબર 128 - ધ્વનિ) ----------------
+    { 
+        chapter: 11, page: 128, qNo: 1, marks: 2, 
+        q: "કોઈ માધ્યમમાં ધ્વનિ દ્વારા ઉત્પન્ન થતો વિક્ષેપ તમારા કાન સુધી કેવી રીતે પહોંચે છે?", 
+        ans: "જ્યારે કોઈ વસ્તુ કંપન (Vibrate) કરે છે, ત્યારે તે પોતાની આસપાસના માધ્યમના (હવાના) કણોને કંપિત કરે છે.<br><br>આ કણો પોતાની જગ્યાએથી ખસીને આપણા કાન સુધી નથી આવતા, પરંતુ તેઓ <b>પોતાની જ જગ્યાએ આગળ-પાછળ દોલન કરી</b> તેમની ઊર્જા બાજુના કણોને આપે છે. આ પ્રક્રિયા કાન સુધી સતત ચાલ્યા કરે છે. આમ, માધ્યમના કણોની ગતિ વગર <b>વિક્ષેપ (તરંગ)</b> આગળ વધીને આપણા કાન સુધી પહોંચે છે.<br><br><div style='text-align:center; padding:15px; background:#f4f6f9; border:2px solid #6c757d; border-radius:8px; margin-top:10px;'><svg width='240' height='100' viewBox='0 0 240 100'><!-- Tuning Fork --><path d='M20 30 L20 70 M30 30 L30 70 M25 70 L25 90' stroke='#343a40' stroke-width='4' fill='none'/><path d='M15 35 Q20 40 25 35 Q30 40 35 35' stroke='#007bff' stroke-width='2' fill='none'/><!-- Sound Waves (Compressions and Rarefactions) --><line x1='50' y1='40' x2='50' y2='80' stroke='#28a745' stroke-width='2'/><line x1='55' y1='40' x2='55' y2='80' stroke='#28a745' stroke-width='2'/><line x1='60' y1='40' x2='60' y2='80' stroke='#28a745' stroke-width='2'/><text x='45' y='30' fill='#28a745' font-size='10'>સંઘનન</text><line x1='80' y1='40' x2='80' y2='80' stroke='#28a745' stroke-width='1'/><line x1='90' y1='40' x2='90' y2='80' stroke='#28a745' stroke-width='1'/><text x='75' y='30' fill='#28a745' font-size='10'>વિઘનન</text><line x1='110' y1='40' x2='110' y2='80' stroke='#28a745' stroke-width='2'/><line x1='115' y1='40' x2='115' y2='80' stroke='#28a745' stroke-width='2'/><line x1='120' y1='40' x2='120' y2='80' stroke='#28a745' stroke-width='2'/><line x1='140' y1='40' x2='140' y2='80' stroke='#28a745' stroke-width='1'/><line x1='150' y1='40' x2='150' y2='80' stroke='#28a745' stroke-width='1'/><line x1='170' y1='40' x2='170' y2='80' stroke='#28a745' stroke-width='2'/><line x1='175' y1='40' x2='175' y2='80' stroke='#28a745' stroke-width='2'/><!-- Ear --><path d='M210 40 C200 30, 190 50, 200 70 C210 90, 230 70, 220 50' fill='none' stroke='#dc3545' stroke-width='3'/><text x='200' y='85' fill='#dc3545' font-size='11' font-weight='bold'>કાન</text></svg></div>" 
+    },
+
+    // ---------------- પ્રકરણ 11: બ્લુ પ્રશ્નો (પાના નંબર 129) ----------------
+    { 
+        chapter: 11, page: 129, qNo: 2, marks: 2, 
+        q: "તમારા શાળાની ઘંટડી (School bell) ધ્વનિ કેવી રીતે ઉત્પન્ન કરે છે તે સમજાવો.", 
+        ans: "જ્યારે શાળાની ઘંટડી પર હથોડી મારવામાં આવે છે, ત્યારે ઘંટડીની ધાતુમાં <b>કંપન (Vibration)</b> ઉત્પન્ન થાય છે.<br><br>આ કંપનો આસપાસની હવામાં <b>સંઘનન (Compression)</b> અને <b>વિઘનન (Rarefaction)</b> ની શ્રેણી રચે છે, જે ધ્વનિ તરંગો રૂપે આગળ વધે છે અને આપણને અવાજ સંભળાય છે." 
+    },
+    { 
+        chapter: 11, page: 129, qNo: 3, marks: 2, 
+        q: "ધ્વનિના તરંગોને યાંત્રિક તરંગો કેમ કહેવાય છે?", 
+        ans: "ધ્વનિના તરંગોને પ્રસરવા માટે <b>માધ્યમ (હવા, પાણી કે ઘન પદાર્થ) ની ફરજિયાત જરૂર પડે છે.</b><br><br>તે માધ્યમના કણોની ભૌતિક ગતિ (દોલનો) દ્વારા જ આગળ વધે છે. શૂન્યાવકાશમાં તે પ્રસરી શકતા નથી. જે તરંગોને પ્રસરવા માટે દ્રવ્ય માધ્યમની જરૂર હોય તેને <b>યાંત્રિક તરંગો (Mechanical waves)</b> કહે છે, આથી ધ્વનિ યાંત્રિક તરંગ છે." 
+    },
+    { 
+        chapter: 11, page: 129, qNo: 4, marks: 2, 
+        q: "ધારો કે તમે અને તમારો મિત્ર ચંદ્ર પર છો. શું તમે તમારા મિત્ર દ્વારા ઉત્પન્ન કરવામાં આવેલ ધ્વનિ સાંભળી શકશો?", 
+        ans: "<b>ના</b>, અમે એકબીજાનો ધ્વનિ (અવાજ) સાંભળી શકીશું નહીં.<br><br><b>કારણ:</b> ધ્વનિના તરંગો યાંત્રિક તરંગો છે, જેને પ્રસરવા માટે માધ્યમની જરૂર પડે છે. <b>ચંદ્ર પર વાતાવરણ (હવા) નથી</b> (ત્યાં શૂન્યાવકાશ છે). માધ્યમની ગેરહાજરીમાં ધ્વનિ પ્રસરી શકતો નથી, તેથી અવાજ સંભળાશે નહીં.<br><br><div style='background:#fff3cd; border:2px dashed #ffc107; padding:10px; border-radius:8px; margin-top:10px;'><b>💡 નિતેશ સરની ટિપ્સ:</b><br>યાદ રાખો: <b>નો હવા = નો અવાજ!</b> અંતરિક્ષ યાત્રીઓ ચંદ્ર પર વાત કરવા માટે રેડિયો તરંગો (જેને માધ્યમની જરૂર નથી) નો ઉપયોગ કરે છે.</div>" 
+    },
+        // ---------------- પ્રકરણ 11: બ્લુ પ્રશ્નો (પાના નંબર 132 - તરંગના લક્ષણો) ----------------
+    { 
+        chapter: 11, page: 132, qNo: 5, marks: 3, 
+        q: "ધ્વનિ તરંગની તરંગલંબાઈ, આવૃત્તિ, આવર્તકાળ અને કંપવિસ્તાર એટલે શું?", 
+        ans: "<b>૧. તરંગલંબાઈ (Wavelength - &lambda;):</b> બે ક્રમિક સંઘનન અથવા બે ક્રમિક વિઘનન વચ્ચેના અંતરને તરંગલંબાઈ કહે છે. તેનો SI એકમ મીટર (m) છે.<br><b>૨. આવૃત્તિ (Frequency - &nu;):</b> એક સેકન્ડમાં ઉત્પન્ન થતા પૂર્ણ દોલનોની સંખ્યાને આવૃત્તિ કહે છે. તેનો એકમ હર્ટ્ઝ (Hz) છે.<br><b>૩. આવર્તકાળ (Time Period - T):</b> માધ્યમની ઘનતાને એક સંપૂર્ણ દોલન પૂરું કરવા માટે લાગતા સમયને આવર્તકાળ કહે છે. તેનો એકમ સેકન્ડ (s) છે.<br><b>૪. કંપવિસ્તાર (Amplitude - A):</b> માધ્યમના કણોના તેમના મૂળ મધ્યમાન સ્થાનથી કોઈ એક તરફના મહત્તમ સ્થાનાંતરને કંપવિસ્તાર કહે છે.<br><br><div style='text-align:center; padding:15px; background:#f4f6f9; border:2px solid #17a2b8; border-radius:8px; margin-top:10px;'><b>તરંગના લક્ષણોની આકૃતિ</b><br><br><svg width='280' height='140' viewBox='0 0 280 140'><!-- X and Y axes --><line x1='20' y1='70' x2='260' y2='70' stroke='#343a40' stroke-width='2'/><line x1='30' y1='10' x2='30' y2='130' stroke='#343a40' stroke-width='2'/><!-- Sine Wave --><path d='M30 70 Q55 10, 80 70 T130 70 T180 70 T230 70' fill='none' stroke='#007bff' stroke-width='3'/><!-- Wavelength --><line x1='55' y1='30' x2='155' y2='30' stroke='#dc3545' stroke-width='2' stroke-dasharray='4,4'/><path d='M60 25 L55 30 L60 35 M150 25 L155 30 L150 35' fill='none' stroke='#dc3545' stroke-width='2'/><text x='95' y='25' fill='#dc3545' font-weight='bold' font-size='14'>&lambda; (તરંગલંબાઈ)</text><!-- Amplitude --><line x1='130' y1='70' x2='130' y2='10' stroke='#28a745' stroke-width='2' stroke-dasharray='3,3'/><text x='135' y='50' fill='#28a745' font-weight='bold' font-size='12'>A (કંપવિસ્તાર)</text><!-- Labels --><text x='45' y='10' fill='#007bff' font-size='10'>શૃંગ</text><text x='95' y='135' fill='#007bff' font-size='10'>ગર્ત</text></svg></div>" 
+    },
+    { 
+        chapter: 11, page: 132, qNo: 6, marks: 1, 
+        q: "ધ્વનિ તરંગની તરંગલંબાઈ અને આવૃત્તિનો તેના વેગ સાથેનો સંબંધ દર્શાવતું સમીકરણ લખો.", 
+        ans: "ધ્વનિના વેગ (v), તરંગલંબાઈ (&lambda;) અને આવૃત્તિ (&nu;) વચ્ચેનો સંબંધ દર્શાવતું સમીકરણ:<br><br><div style='text-align:center; padding:10px; background:#e8f4f8; border:1px solid #007bff; border-radius:6px; font-size:18px; color:#dc3545; font-weight:bold;'>v = &lambda; &times; &nu;</div><br><i>(એટલે કે: વેગ = તરંગલંબાઈ &times; આવૃત્તિ)</i>" 
+    },
+    { 
+        chapter: 11, page: 132, qNo: 7, marks: 2, 
+        q: "આપેલ માધ્યમમાં ધ્વનિની આવૃત્તિ 220 Hz અને ઝડપ 440 m/s છે, તો તેની તરંગલંબાઈ ગણો.", 
+        ans: "<b>ઉકેલ:</b><br><div style='padding:12px; background:#f8f9fa; border-left:4px solid #28a745; border-radius:4px; font-family:sans-serif;'><b>આપેલ માહિતી:</b><br>આવૃત્તિ (&nu;) = <b>220 Hz</b><br>ઝડપ (v) = <b>440 m/s</b><br><br><b>તરંગલંબાઈ (&lambda;) ની ગણતરી:</b><br>v = &lambda; &times; &nu;<br>440 = &lambda; &times; 220<br>&lambda; = 440 / 220<br><b>&lambda; = 2 m</b></div><br>આમ, ધ્વનિની તરંગલંબાઈ <b>2 મીટર</b> હશે." 
+    },
+    { 
+        chapter: 11, page: 132, qNo: 8, marks: 2, 
+        q: "કોઈ ધ્વનિ સ્રોતથી 450 m દૂર બેઠેલ કોઈ વ્યક્તિ 500 Hz નો ધ્વનિ સાંભળે છે. સ્રોતથી વ્યક્તિ સુધી પહોંચવા માટે બે ક્રમિક સંઘનન વચ્ચેનો સમયગાળો કેટલો હશે?", 
+        ans: "<b>ઉકેલ:</b><br>અહીં <b>'બે ક્રમિક સંઘનન વચ્ચેનો સમયગાળો'</b> એટલે જ <b>આવર્તકાળ (T)</b>.<br><br><div style='padding:12px; background:#e9f7ef; border-left:4px solid #007bff; border-radius:4px; font-family:sans-serif;'><b>આપેલ માહિતી:</b><br>આવૃત્તિ (&nu;) = <b>500 Hz</b><br><br><b>આવર્તકાળ (T) ની ગણતરી:</b><br>આવર્તકાળ એ આવૃત્તિનો વ્યસ્ત છે.<br>T = 1 / &nu;<br>T = 1 / 500<br><b>T = 0.002 s</b></div><br>આમ, બે ક્રમિક સંઘનન વચ્ચેનો સમયગાળો <b>0.002 સેકન્ડ</b> હશે.<br><br><div style='background:#fff3cd; border:2px dashed #ffc107; padding:10px; border-radius:8px; margin-top:10px;'><b>💡 નિતેશ સરની ટિપ્સ (ફસાવવા માટેનો પ્રશ્ન!):</b><br>આ દાખલામાં આપેલી <b>\"450 m દૂર\"</b> ની માહિતી માત્ર તમને <b>કન્ફ્યુઝ કરવા (ભરમાવવા)</b> માટે જ આપી છે! સમયગાળો શોધવા માટે માત્ર ને માત્ર <b>આવૃત્તિ</b> ની જ જરૂર પડે છે. અંતરનો કોઈ જ ઉપયોગ નથી!</div>" 
+    },
+
+    // ---------------- પ્રકરણ 11: બ્લુ પ્રશ્નો (પાના નંબર 133 અને 134) ----------------
+    { 
+        chapter: 11, page: 133, qNo: 9, marks: 2, 
+        q: "ધ્વનિની પ્રબળતા (Loudness) અને તીવ્રતા (Intensity) વચ્ચેનો તફાવત જણાવો.", 
+        ans: "<table border='1' style='border-collapse:collapse; width:100%; text-align:left; font-size:14px;'><tr><th style='background:#6c757d; color:white; padding:8px;'>પ્રબળતા (Loudness)</th><th style='background:#fd7e14; color:white; padding:8px;'>તીવ્રતા (Intensity)</th></tr><tr><td style='padding:8px;'>૧. તે કાનની સંવેદનશીલતાનું માપ છે. (અવાજ કેટલો ધીમો કે મોટો સંભળાય છે).</td><td style='padding:8px;'>૧. એકમ ક્ષેત્રફળમાંથી એક સેકન્ડમાં પસાર થતી ધ્વનિ ઊર્જાને તીવ્રતા કહે છે.</td></tr><tr><td style='padding:8px;'>૨. તે વ્યક્તિલક્ષી છે (કોઈને અવાજ મોટો લાગે તો બીજાને ધીમો પણ લાગી શકે).</td><td style='padding:8px;'>૨. તે ભૌતિક રાશિ છે અને તેનું ચોક્કસ માપન મશીન દ્વારા થઈ શકે છે.</td></tr></table>" 
+    },
+    { 
+        chapter: 11, page: 134, qNo: 10, marks: 1, 
+        q: "હવા, પાણી કે લોખંડ પૈકી કયા માધ્યમમાં આપેલ તાપમાને ધ્વનિ સૌથી ઝડપી ગતિ કરશે?", 
+        ans: "ધ્વનિની ઝડપ ઘન પદાર્થોમાં સૌથી વધુ હોય છે. તેથી આપેલ તાપમાને હવા, પાણી અને લોખંડ પૈકી <b>લોખંડમાં (ઘન માધ્યમમાં)</b> ધ્વનિ સૌથી ઝડપી ગતિ કરશે." 
+    },
+
+    // ---------------- પ્રકરણ 11: બ્લુ પ્રશ્નો (પાના નંબર 135 - પડઘો / Echo) ----------------
+    { 
+        chapter: 11, page: 135, qNo: 11, marks: 3, 
+        q: "કોઈ પડઘો 3 સેકન્ડ પછી સંભળાય છે. જો ધ્વનિનો વેગ 342 m/s હોય, તો સ્રોતથી પરાવર્તક સપાટીનું અંતર કેટલું હશે?", 
+        ans: "<b>ઉકેલ:</b><br><div style='padding:12px; background:#fdfdfe; border-left:4px solid #dc3545; border-radius:4px; font-family:sans-serif;'><b>આપેલ માહિતી:</b><br>ધ્વનિનો વેગ (v) = <b>342 m/s</b><br>પડઘો સાંભળવાનો કુલ સમય (t) = <b>3 s</b><br><br><b>અંતર (d) ની ગણતરી:</b><br>પડઘામાં ધ્વનિ સપાટી સુધી <b>જાય છે અને પાછો આવે છે</b>, એટલે કે ધ્વનિએ કાપેલું <b>કુલ અંતર 2d</b> થાય.<br>કુલ અંતર = વેગ &times; સમય<br>2d = v &times; t<br>2d = 342 &times; 3<br>2d = 1026<br>d = 1026 / 2<br><b>d = 513 m</b></div><br>આમ, સ્રોતથી પરાવર્તક સપાટીનું અંતર <b>513 મીટર</b> હશે.<br><br><div style='background:#fff3cd; border:2px dashed #ffc107; padding:10px; border-radius:8px; margin-top:10px;'><b>💡 નિતેશ સરની શોર્ટકટ ટ્રીક:</b><br>જ્યારે પણ <b>પડઘા (Echo)</b> નો કે <b>સોનાર (Sonar)</b> નો દાખલો આવે, ત્યારે સમય <b>અડધો (તળિયે જવાનો જ સમય)</b> કરી નાખવો! <br>અહીં 3 સેકન્ડ છે, તો જવાનો સમય 1.5 સેકન્ડ થાય. સીધો ગુણાકાર કરો: 342 &times; 1.5 = <b>513 m</b>. બસ આટલું જ!</div>" 
+    },
+
+    // ---------------- પ્રકરણ 11: બ્લુ પ્રશ્નો (પાના નંબર 137 - સાંભળવાની મર્યાદા) ----------------
+    { 
+        chapter: 11, page: 137, qNo: 12, marks: 1, 
+        q: "સામાન્ય મનુષ્ય માટે શ્રાવ્ય આવૃત્તિનો વિસ્તાર (Audible range) કેટલો હોય છે?", 
+        ans: "સામાન્ય મનુષ્ય માટે ધ્વનિની શ્રાવ્ય આવૃત્તિનો વિસ્તાર <b>20 Hz થી 20,000 Hz (અથવા 20 kHz)</b> સુધીનો હોય છે." 
+    },
+    { 
+        chapter: 11, page: 137, qNo: 13, marks: 2, 
+        q: "નીચેના સંબંધિત ધ્વનિની આવૃત્તિઓનો વિસ્તાર શું છે?<br>(a) અવશ્રાવ્ય ધ્વનિ (Infrasound)<br>(b) પરાશ્રાવ્ય ધ્વનિ (Ultrasound)", 
+        ans: "<b>(a) અવશ્રાવ્ય ધ્વનિ (Infrasound):</b> 20 Hz કરતાં <b>ઓછી</b> આવૃત્તિવાળા ધ્વનિને અવશ્રાવ્ય ધ્વનિ કહે છે.<br><b>(b) પરાશ્રાવ્ય ધ્વનિ (Ultrasound):</b> 20,000 Hz (20 kHz) કરતાં <b>વધુ</b> આવૃત્તિવાળા ધ્વનિને પરાશ્રાવ્ય ધ્વનિ કહે છે." 
     }
+    
+    
+    
     
     
     
