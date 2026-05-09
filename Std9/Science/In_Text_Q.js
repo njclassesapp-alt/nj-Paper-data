@@ -458,16 +458,33 @@ var scienceInTextDB = [
         chapter: 7, page: 82, qNo: 15, marks: 1, 
         q: "વેગ-સમયના આલેખની નીચે ઘેરાયેલ ક્ષેત્રફળનું માપ કઈ ભૌતિક રાશિ દર્શાવે છે?", 
         ans: "વેગ-સમયના આલેખની નીચે ઘેરાયેલા ભાગનું ક્ષેત્રફળ તે આપેલા સમયગાળામાં વસ્તુ દ્વારા થયેલું <b>સ્થાનાંતર (Displacement)</b> અથવા કપાયેલું અંતર દર્શાવે છે." 
+    },
+        // ---------------- પ્રકરણ 7: બ્લુ પ્રશ્નો (પાના નંબર 84 - ગતિના સમીકરણો આધારિત દાખલા) ----------------
+    { 
+        chapter: 7, page: 84, qNo: 16, marks: 3, 
+        q: "એક બસ સ્થિર અવસ્થામાંથી ગતિની શરૂઆત કરે છે અને 2 મિનિટ સુધી 0.1 m/s<sup>2</sup> ના અચળ પ્રવેગથી ગતિ કરે છે. તો (a) પ્રાપ્ત કરેલ ઝડપ અને (b) કાપેલું અંતર શોધો.", 
+        ans: "<b>ઉકેલ:</b><br><div style='padding:12px; background:#f8f9fa; border-left:4px solid #17a2b8; border-radius:4px; font-family:sans-serif;'><b>આપેલ માહિતી:</b><br>બસ સ્થિર છે, તેથી પ્રારંભિક વેગ (u) = <b>0 m/s</b><br>પ્રવેગ (a) = <b>0.1 m/s<sup>2</sup></b><br>સમય (t) = 2 મિનિટ = 2 &times; 60 = <b>120 s</b><br><br><b>(a) પ્રાપ્ત કરેલ ઝડપ (v):</b><br>ગતિનું પહેલું સમીકરણ: v = u + at<br>v = 0 + (0.1 &times; 120)<br><b>v = 12 m/s</b><br><br><b>(b) કાપેલું અંતર (s):</b><br>ગતિનું બીજું સમીકરણ: s = ut + &frac12;at<sup>2</sup><br>s = (0 &times; 120) + &frac12; &times; 0.1 &times; (120)<sup>2</sup><br>s = 0 + &frac12; &times; 0.1 &times; 14400<br>s = 0.05 &times; 14400<br><b>s = 720 m</b></div><br>આમ, બસની ઝડપ <b>12 m/s</b> અને કાપેલું અંતર <b>720 મીટર</b> હશે." 
+    },
+    { 
+        chapter: 7, page: 84, qNo: 17, marks: 3, 
+        q: "એક ટ્રેન 90 km/h ની ઝડપથી ગતિ કરી રહી છે. બ્રેક મારતાં તેમાં -0.5 m/s<sup>2</sup> નો અચળ પ્રવેગ ઉત્પન્ન થાય છે. ટ્રેન સ્થિર સ્થિતિમાં આવે તે પહેલાં કેટલું અંતર કાપશે?", 
+        ans: "<b>ઉકેલ:</b><br><div style='padding:12px; background:#e8f4f8; border-left:4px solid #dc3545; border-radius:4px; font-family:sans-serif;'><b>આપેલ માહિતી:</b><br>પ્રારંભિક વેગ (u) = 90 km/h = 90 &times; (5/18) = <b>25 m/s</b><br>ટ્રેન સ્થિર થાય છે, તેથી અંતિમ વેગ (v) = <b>0 m/s</b><br>પ્રવેગ (a) = <b>-0.5 m/s<sup>2</sup></b><br><br><b>ગતિનું ત્રીજું સમીકરણ વાપરતાં:</b><br>2as = v<sup>2</sup> - u<sup>2</sup><br>2 &times; (-0.5) &times; s = (0)<sup>2</sup> - (25)<sup>2</sup><br>-1 &times; s = 0 - 625<br>-s = -625<br><b>s = 625 m</b></div><br>આમ, ટ્રેન ઊભી રહે તે પહેલાં <b>625 મીટર</b> અંતર કાપશે." 
+    },
+    { 
+        chapter: 7, page: 84, qNo: 18, marks: 2, 
+        q: "એક ટ્રૉલી ઢોળાવવાળી સપાટી પર 2 cm/s<sup>2</sup> ના પ્રવેગથી નીચે તરફ ગતિ કરી રહી છે. ગતિની શરૂઆત કર્યા બાદ 3 s ના અંતે તેનો વેગ કેટલો હશે?", 
+        ans: "<b>ઉકેલ:</b><br><div style='padding:12px; background:#fdfdfe; border-left:4px solid #28a745; border-radius:4px; font-family:sans-serif;'><b>આપેલ માહિતી:</b><br>ગતિ શરૂ કરે છે, તેથી પ્રારંભિક વેગ (u) = <b>0 cm/s</b><br>પ્રવેગ (a) = <b>2 cm/s<sup>2</sup></b><br>સમય (t) = <b>3 s</b><br><br><b>વેગ (v) નું સમીકરણ:</b><br>v = u + at<br>v = 0 + (2 &times; 3)<br><b>v = 6 cm/s</b></div><br>આમ, 3 સેકન્ડ બાદ ટ્રૉલીનો વેગ <b>6 cm/s</b> હશે." 
+    },
+    { 
+        chapter: 7, page: 84, qNo: 19, marks: 2, 
+        q: "એક રેસિંગ કારનો અચળ પ્રવેગ 4 m/s<sup>2</sup> છે. ગતિની શરૂઆત કર્યા બાદ 10 s ના અંતે તેણે કેટલું અંતર કાપેલું હશે?", 
+        ans: "<b>ઉકેલ:</b><br><div style='padding:12px; background:#e8f4f8; border-left:4px solid #fd7e14; border-radius:4px; font-family:sans-serif;'><b>આપેલ માહિતી:</b><br>ગતિ શરૂ કરે છે, તેથી (u) = <b>0 m/s</b><br>પ્રવેગ (a) = <b>4 m/s<sup>2</sup></b><br>સમય (t) = <b>10 s</b><br><br><b>અંતર (s) શોધવાનું સમીકરણ:</b><br>s = ut + &frac12;at<sup>2</sup><br>s = (0 &times; 10) + &frac12; &times; 4 &times; (10)<sup>2</sup><br>s = 0 + 2 &times; 100<br><b>s = 200 m</b></div><br>આમ, રેસિંગ કારે <b>200 મીટર</b> અંતર કાપેલું હશે." 
+    },
+    { 
+        chapter: 7, page: 85, qNo: 20, marks: 3, 
+        q: "એક પથ્થરને ઊર્ધ્વ દિશામાં (ઉપર તરફ) 5 m/s ના વેગથી ફેંકવામાં આવે છે. જો ગતિ દરમિયાન પથ્થરનો નીચે તરફનો પ્રવેગ 10 m/s<sup>2</sup> હોય, તો પથ્થર કેટલી ઊંચાઈ પ્રાપ્ત કરશે અને ત્યાં પહોંચતા તેને કેટલો સમય લાગશે?", 
+        ans: "<b>ઉકેલ:</b><br><br><div style='text-align:center; padding:10px; background:#fff; border:1px solid #ddd; border-radius:8px;'><svg width='180' height='160' viewBox='0 0 180 160'><!-- Ground --><line x1='30' y1='140' x2='150' y2='140' stroke='#343a40' stroke-width='4'/><!-- Path Arrow --><path d='M90 130 L90 40' stroke='#007bff' stroke-width='3' stroke-dasharray='4,4' marker-end='url(#arrow_up)'/><!-- Stone at bottom --><circle cx='90' cy='130' r='6' fill='#6c757d'/><text x='100' y='135' fill='#28a745' font-weight='bold'>u = 5 m/s</text><!-- Stone at top --><circle cx='90' cy='30' r='6' fill='#dc3545'/><text x='100' y='35' fill='#dc3545' font-weight='bold'>v = 0 (મહત્તમ ઊંચાઈ)</text><!-- Gravity Arrow --><path d='M60 50 L60 100' stroke='#fd7e14' stroke-width='2' marker-end='url(#arrow_down)'/><text x='10' y='80' fill='#fd7e14' font-weight='bold'>a = -10</text><defs><marker id='arrow_up' viewBox='0 0 10 10' refX='5' refY='5' markerWidth='6' markerHeight='6' orient='auto-start-reverse'><path d='M 0 0 L 10 5 L 0 10 z' fill='#007bff'/></marker><marker id='arrow_down' viewBox='0 0 10 10' refX='5' refY='5' markerWidth='6' markerHeight='6' orient='auto-start-reverse'><path d='M 0 0 L 10 5 L 0 10 z' fill='#fd7e14'/></marker></defs></svg></div><br><div style='padding:12px; background:#f8d7da; border-left:4px solid #dc3545; border-radius:4px; font-family:sans-serif;'><b>આપેલ માહિતી:</b><br>પ્રારંભિક વેગ (u) = <b>5 m/s</b><br>મહત્તમ ઊંચાઈએ પથ્થર ક્ષણવાર માટે અટકે છે, તેથી અંતિમ વેગ (v) = <b>0 m/s</b><br>પથ્થર ઉપર જાય છે અને ગુરુત્વાકર્ષણ (પ્રવેગ) નીચે ખેંચે છે, તેથી પ્રવેગ ઋણ લેવો: (a) = <b>-10 m/s<sup>2</sup></b><br><br><b>1. સમય (t) ની ગણતરી:</b><br>v = u + at<br>0 = 5 + (-10) &times; t<br>10t = 5<br>t = 5 / 10 = <b>0.5 s</b><br><br><b>2. ઊંચાઈ / અંતર (s) ની ગણતરી:</b><br>2as = v<sup>2</sup> - u<sup>2</sup><br>2 &times; (-10) &times; s = (0)<sup>2</sup> - (5)<sup>2</sup><br>-20 &times; s = -25<br>s = 25 / 20<br><b>s = 1.25 m</b></div><br><div style='background:#fff3cd; border:2px dashed #ffc107; padding:10px; border-radius:8px; margin-top:10px;'><b>💡 નિતેશ સરની ટિપ્સ:</b><br>જ્યારે કોઈ વસ્તુને ઉપર તરફ ફેંકવામાં આવે ત્યારે બે વાતો હંમેશા યાદ રાખવી:<br>1. તેનો <b>અંતિમ વેગ (v) હંમેશા શૂન્ય (0)</b> થઈ જાય.<br>2. તેનો <b>પ્રવેગ (a) હંમેશા માઇનસ (-)</b> માં લેવો.</div>" 
     }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+       
 ];
 
