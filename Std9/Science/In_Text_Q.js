@@ -130,7 +130,75 @@ var scienceInTextDB = [
         chapter: 2, page: 24, qNo: 7, marks: 2, 
         q: "તમારી આસપાસની વસ્તુઓને શુદ્ધ પદાર્થો અથવા મિશ્રણોમાં અલગ કરવાનો પ્રયત્ન કરો.", 
         ans: "આપણી આસપાસની વસ્તુઓનું વર્ગીકરણ:<br><br><b>શુદ્ધ પદાર્થો (Pure Substances):</b><br>પાણી (H<sub>2</sub>O), લોખંડની ખીલી (Fe), ખાંડ, મીઠું (NaCl), સોનાના દાગીના, તાંબાનો તાર.<br><br><b>મિશ્રણો (Mixtures):</b><br>હવા, દૂધ, ચા કે કૉફી, લીંબુ શરબત, માટી, લાકડું, છાશ." 
+    },
+        // ---------------- પ્રકરણ 3: બ્લુ પ્રશ્નો (પાના નંબર 32) ----------------
+    { 
+        chapter: 3, page: 32, qNo: 1, marks: 3, 
+        q: "એક પ્રક્રિયામાં 5.3 g સોડિયમ કાર્બોનેટ અને 6.0 g ઇથેનોઇક ઍસિડ પ્રક્રિયા કરે છે. 2.2 g કાર્બન ડાયોક્સાઇડ, 8.2 g સોડિયમ ઇથેનોએટ અને 0.9 g પાણી નીપજો તરીકે મળે છે. દર્શાવો કે આ અવલોકનો દળ સંચયના નિયમ સાથે સુસંગત છે.", 
+        ans: "<b>ઉકેલ:</b><br>દળ સંચયના નિયમ મુજબ: <b>પ્રક્રિયકોનું કુલ દળ = નીપજોનું કુલ દળ</b> થવું જોઈએ.<br><br><div style='padding:15px; background:#f8f9fa; border-left:5px solid #007bff; border-radius:6px; font-family:sans-serif;'><b>1. પ્રક્રિયકોનું કુલ દળ:</b><br>સોડિયમ કાર્બોનેટ (5.3 g) + ઇથેનોઇક ઍસિડ (6.0 g)<br><b>કુલ દળ = 11.3 g</b><br><br><b>2. નીપજોનું કુલ દળ:</b><br>કાર્બન ડાયોક્સાઇડ (2.2 g) + સોડિયમ ઇથેનોએટ (8.2 g) + પાણી (0.9 g)<br><b>કુલ દળ = 11.3 g</b></div><br>અહીં પ્રક્રિયકોનું કુલ દળ અને નીપજોનું કુલ દળ સમાન (11.3 g) હોવાથી, આ અવલોકનો <b>દળ સંચયના નિયમ સાથે સુસંગત છે.</b>" 
+    },
+    { 
+        chapter: 3, page: 32, qNo: 2, marks: 2, 
+        q: "હાઇડ્રોજન અને ઑક્સિજન દળથી 1:8 ના પ્રમાણમાં સંયોજાઈને પાણી બનાવે છે. 3 g હાઇડ્રોજન વાયુ સાથે સંપૂર્ણ રીતે પ્રક્રિયા કરવા માટે કેટલા ગ્રામ ઑક્સિજન વાયુની જરૂર પડશે?", 
+        ans: "<b>ઉકેલ:</b><br>પાણી (H<sub>2</sub>O) માં હાઇડ્રોજન અને ઑક્સિજનનું દળથી પ્રમાણ 1:8 છે.<br>આનો અર્થ એ થાય કે 1 g હાઇડ્રોજન સાથે પ્રક્રિયા કરવા 8 g ઑક્સિજનની જરૂર પડે.<br><br><div style='background:#fff3cd; border:2px dashed #ffc107; padding:12px; border-radius:8px; margin-top:10px;'><b>💡 નિતેશ સરની શોર્ટકટ ટ્રીક:</b><br>સીધી ત્રિરાશિ માંડો:<br>1 g હાઇડ્રોજન &rarr; 8 g ઑક્સિજન<br>3 g હાઇડ્રોજન &rarr; (? ) ઑક્સિજન<br><br><b>જવાબ:</b> 3 &times; 8 = <b>24 g ઑક્સિજનની જરૂર પડશે.</b></div>" 
+    },
+    { 
+        chapter: 3, page: 32, qNo: 3, marks: 1, 
+        q: "ડાલ્ટનની પરમાણ્વીય સિદ્ધાંતની કઈ અભિધારણા દળ સંચયના નિયમનું પરિણામ છે?", 
+        ans: "ડાલ્ટનની પરમાણ્વીય સિદ્ધાંતની આ અભિધારણા દળ સંચયના નિયમનું પરિણામ છે: <br><b>\"પરમાણુ અવિભાજ્ય કણ છે, જેનો રાસાયણિક પ્રક્રિયા દરમિયાન સર્જન કે વિનાશ કરી શકાતો નથી.\"</b>" 
+    },
+    { 
+        chapter: 3, page: 32, qNo: 4, marks: 1, 
+        q: "ડાલ્ટનની પરમાણ્વીય સિદ્ધાંતની કઈ અભિધારણા નિશ્ચિત પ્રમાણના નિયમને સમજાવે છે?", 
+        ans: "ડાલ્ટનની નીચે મુજબની અભિધારણા નિશ્ચિત પ્રમાણના નિયમને સમજાવે છે: <br><b>\"કોઈ પણ સંયોજનમાં પરમાણુઓની સાપેક્ષ સંખ્યા અને પ્રકાર નિશ્ચિત હોય છે.\"</b>" 
+    },
+
+    // ---------------- પ્રકરણ 3: બ્લુ પ્રશ્નો (પાના નંબર 35) ----------------
+    { 
+        chapter: 3, page: 35, qNo: 5, marks: 2, 
+        q: "પરમાણ્વીય દળ એકમ (amu અથવા u) ને વ્યાખ્યાયિત કરો.", 
+        ans: "<b>પરમાણ્વીય દળ એકમ (u):</b><br>કાર્બન-12 (C-12) સમસ્થાનિકના <b>એક પરમાણુના દળના 1/12 મા ભાગને</b> પ્રમાણિત પરમાણ્વીય દળ એકમ (Atomic Mass Unit - amu અથવા u) કહે છે.<br><br><div style='padding:8px; background:#e2e3e5; border-left:4px solid #6c757d; border-radius:4px;'>1 u = કાર્બન-12 પરમાણુનું દળ / 12</div>" 
+    },
+    { 
+        chapter: 3, page: 35, qNo: 6, marks: 1, 
+        q: "એક પરમાણુને નરી આંખે જોવો શા માટે શક્ય નથી?", 
+        ans: "પરમાણુઓ કદમાં <b>અતિસૂક્ષ્મ</b> હોય છે. તેમની ત્રિજ્યા <b>નેનોમીટર (1 nm = 10<sup>-9</sup> m)</b> માં મપાય છે. આપણી આંખ આટલા નાના કદની વસ્તુને જોવા માટે સક્ષમ ન હોવાથી પરમાણુને નરી આંખે જોઈ શકાતો નથી." 
+    },
+
+    // ---------------- પ્રકરણ 3: બ્લુ પ્રશ્નો (પાના નંબર 39) ----------------
+    { 
+        chapter: 3, page: 39, qNo: 7, marks: 4, 
+        q: "નીચે દર્શાવેલા સંયોજનોના રાસાયણિક સૂત્રો લખો:<br>(i) સોડિયમ ઑક્સાઇડ<br>(ii) ઍલ્યુમિનિયમ ક્લોરાઇડ<br>(iii) સોડિયમ સલ્ફાઇડ<br>(iv) મેગ્નેશિયમ હાઇડ્રોક્સાઇડ", 
+        ans: "<b>રાસાયણિક સૂત્રો:</b><br>(i) સોડિયમ ઑક્સાઇડ: <b>Na<sub>2</sub>O</b><br>(ii) ઍલ્યુમિનિયમ ક્લોરાઇડ: <b>AlCl<sub>3</sub></b><br>(iii) સોડિયમ સલ્ફાઇડ: <b>Na<sub>2</sub>S</b><br>(iv) મેગ્નેશિયમ હાઇડ્રોક્સાઇડ: <b>Mg(OH)<sub>2</sub></b><br><br><div style='background:#e8f4f8; border:2px solid #17a2b8; padding:15px; border-radius:8px; margin-top:15px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);'><b>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (Criss-Cross Method):</b><br>સૂત્ર ગોખવાની જરૂર નથી! બંને આયનોની સંજ્ઞા લખી, તેમની સંયોજકતા નીચે લખી <b>ચોકડી ગુણાકાર</b> કરો. <br><br>ઉદાહરણ: <b>ઍલ્યુમિનિયમ ક્લોરાઇડ</b><br><div style='display:flex; justify-content:center; align-items:center; margin-top:15px; font-size:18px; font-family:sans-serif;'> <div style='text-align:center; padding:10px; background:#fff; border-radius:5px; width:70px;'><b>Al</b><br><span style='color:#dc3545; font-weight:bold;'>3</span></div> <div style='font-size:35px; color:#6c757d; margin:0 15px;'>&#10008;</div> <div style='text-align:center; padding:10px; background:#fff; border-radius:5px; width:70px;'><b>Cl</b><br><span style='color:#007bff; font-weight:bold;'>1</span></div> <div style='font-size:25px; margin:0 15px;'>&rarr;</div> <div style='font-weight:bold; font-size:24px; color:#28a745; background:#d4edda; padding:10px; border-radius:5px;'>AlCl<sub>3</sub></div></div></div>" 
+    },
+    { 
+        chapter: 3, page: 39, qNo: 8, marks: 3, 
+        q: "નીચે દર્શાવેલ સૂત્રો ધરાવતા સંયોજનોના નામ લખો:<br>(i) Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub><br>(ii) CaCl<sub>2</sub><br>(iii) K<sub>2</sub>SO<sub>4</sub><br>(iv) KNO<sub>3</sub><br>(v) CaCO<sub>3</sub>", 
+        ans: "<b>સંયોજનોના નામ:</b><br><ul style='line-height:1.8; font-size:15px;'><li>(i) Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> &rarr; <b>ઍલ્યુમિનિયમ સલ્ફેટ</b></li><li>(ii) CaCl<sub>2</sub> &rarr; <b>કેલ્શિયમ ક્લોરાઇડ</b></li><li>(iii) K<sub>2</sub>SO<sub>4</sub> &rarr; <b>પોટેશિયમ સલ્ફેટ</b></li><li>(iv) KNO<sub>3</sub> &rarr; <b>પોટેશિયમ નાઇટ્રેટ</b></li><li>(v) CaCO<sub>3</sub> &rarr; <b>કેલ્શિયમ કાર્બોનેટ</b></li></ul>" 
+    },
+    { 
+        chapter: 3, page: 39, qNo: 9, marks: 2, 
+        q: "રાસાયણિક સૂત્રનો અર્થ શું થાય છે?", 
+        ans: "કોઈપણ સંયોજનનું <b>રાસાયણિક સૂત્ર</b> એ તેના સંઘટન (બંધારણ) નું પ્રતીકાત્મક નિરૂપણ છે.<br><br>તે દર્શાવે છે કે તે સંયોજન કયા કયા તત્વોનું બનેલું છે અને તેમાં તે તત્વોના પરમાણુઓની સંખ્યા કેટલી છે. <br><b>ઉદાહરણ:</b> પાણીનું સૂત્ર H<sub>2</sub>O દર્શાવે છે કે તેમાં હાઇડ્રોજનના 2 પરમાણુ અને ઑક્સિજનનો 1 પરમાણુ રહેલો છે." 
+    },
+    { 
+        chapter: 3, page: 39, qNo: 10, marks: 2, 
+        q: "નીચેનામાં કેટલા પરમાણુઓ હાજર છે?<br>(i) H<sub>2</sub>S અણુ<br>(ii) PO<sub>4</sub><sup>3-</sup> આયન", 
+        ans: "<b>(i) H<sub>2</sub>S અણુમાં:</b><br>હાઇડ્રોજન (H) ના 2 પરમાણુ + સલ્ફર (S) નો 1 પરમાણુ = <b>કુલ 3 પરમાણુઓ</b>.<br><br><b>(ii) PO<sub>4</sub><sup>3-</sup> આયનમાં:</b><br>ફૉસ્ફરસ (P) નો 1 પરમાણુ + ઑક્સિજન (O) ના 4 પરમાણુ = <b>કુલ 5 પરમાણુઓ</b>." 
+    },
+
+    // ---------------- પ્રકરણ 3: બ્લુ પ્રશ્નો (પાના નંબર 40) ----------------
+    { 
+        chapter: 3, page: 40, qNo: 11, marks: 4, 
+        q: "નીચે દર્શાવેલા પદાર્થોના આણ્વીય દળ ગણો:<br>H<sub>2</sub>, O<sub>2</sub>, Cl<sub>2</sub>, CO<sub>2</sub>, CH<sub>4</sub>, C<sub>2</sub>H<sub>6</sub>, C<sub>2</sub>H<sub>4</sub>, NH<sub>3</sub>, CH<sub>3</sub>OH", 
+        ans: "<div style='background:#fdfdfe; border:1px solid #ced4da; padding:10px; border-radius:5px;'><ul style='list-style-type:none; padding-left:0; line-height:2;'><li><b>H<sub>2</sub>:</b> 2 &times; (H નું દળ) = 2 &times; 1 = <b>2 u</b></li><li><b>O<sub>2</sub>:</b> 2 &times; (O નું દળ) = 2 &times; 16 = <b>32 u</b></li><li><b>Cl<sub>2</sub>:</b> 2 &times; (Cl નું દળ) = 2 &times; 35.5 = <b>71 u</b></li><li><b>CO<sub>2</sub>:</b> 1(C) + 2(O) = 12 + 2(16) = 12 + 32 = <b>44 u</b></li><li><b>CH<sub>4</sub>:</b> 1(C) + 4(H) = 12 + 4(1) = 12 + 4 = <b>16 u</b></li><li><b>C<sub>2</sub>H<sub>6</sub>:</b> 2(C) + 6(H) = 2(12) + 6(1) = 24 + 6 = <b>30 u</b></li><li><b>C<sub>2</sub>H<sub>4</sub>:</b> 2(C) + 4(H) = 2(12) + 4(1) = 24 + 4 = <b>28 u</b></li><li><b>NH<sub>3</sub>:</b> 1(N) + 3(H) = 14 + 3(1) = 14 + 3 = <b>17 u</b></li><li><b>CH<sub>3</sub>OH:</b> 1(C) + 4(H) + 1(O) = 12 + 4(1) + 16 = <b>32 u</b></li></ul></div><br><div style='background:#fff3cd; border:2px dashed #ffc107; padding:10px; border-radius:8px; margin-top:10px;'><b>💡 નિતેશ સરની ટિપ્સ:</b><br>આણ્વીય દળ ઝડપથી ગણવા માટે ઓછામાં ઓછા 1 થી 20 તત્વોના પરમાણ્વીય દળ યાદ કરી લેવા. સામાન્ય રીતે તત્વનું દળ તેના <b>પરમાણુ ક્રમાંકથી બમણું</b> અથવા બમણાથી એક વધારે હોય છે. (દા.ત. કાર્બન ક્રમાંક 6 &rarr; દળ 12).</div>" 
+    },
+    { 
+        chapter: 3, page: 40, qNo: 12, marks: 3, 
+        q: "નીચે દર્શાવેલા સંયોજનો માટે સૂત્ર એકમ દળ ગણો:<br>ZnO, Na<sub>2</sub>O, K<sub>2</sub>CO<sub>3</sub><br><i>(આપેલ છે: Zn = 65 u, Na = 23 u, K = 39 u, C = 12 u અને O = 16 u)</i>", 
+        ans: "<b>ઉકેલ:</b><br><br><div style='padding:10px; background:#e9f7ef; border-left:4px solid #28a745; border-radius:4px; font-family:sans-serif; line-height:1.8;'><b>1. ZnO નું સૂત્ર એકમ દળ:</b><br>= 1 &times; (Zn નું દળ) + 1 &times; (O નું દળ)<br>= 65 + 16 = <b>81 u</b><br><br><b>2. Na<sub>2</sub>O નું સૂત્ર એકમ દળ:</b><br>= 2 &times; (Na નું દળ) + 1 &times; (O નું દળ)<br>= 2 &times; (23) + 16<br>= 46 + 16 = <b>62 u</b><br><br><b>3. K<sub>2</sub>CO<sub>3</sub> નું સૂત્ર એકમ દળ:</b><br>= 2 &times; (K નું દળ) + 1 &times; (C નું દળ) + 3 &times; (O નું દળ)<br>= 2 &times; (39) + 1 &times; (12) + 3 &times; (16)<br>= 78 + 12 + 48 = <b>138 u</b></div>" 
     }
+    
     
 ];
 
