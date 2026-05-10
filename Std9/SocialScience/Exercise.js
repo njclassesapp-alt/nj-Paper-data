@@ -2446,7 +2446,8 @@ var ssExerciseDB_Std9 = [
         "marks": 1,
         "q": "ઘોરાડ ક્યા વિસ્તારોમાં જોવા મળે છે ?<br>(A) વેટલેન્ડ (B) પર્વતીય ક્ષેત્રો (C) દલદલનાં ક્ષેત્રો (D) ઘાસભૂમિના વિસ્તારો",
         "ans": "<b>(D) ઘાસભૂમિના વિસ્તારો</b><br><br><div style='background-color:#fdfdfd; border-left:3px solid #6c757d; padding:5px; margin-top:5px; font-size: 0.9em;'>💡 <b>ભારતી મેડમની ટિપ્સ:</b> ઘોરાડ (Great Indian Bustard) એ <b>વજનદાર પક્ષી</b> છે. તે ઝાડ પર નથી બેસતું, પણ ખુલ્લા <b>ઘાસના મેદાનોમાં (Grasslands)</b> ચાલવાનું પસંદ કરે છે!</div>"
-    }
+    },
+        
 
 
 
