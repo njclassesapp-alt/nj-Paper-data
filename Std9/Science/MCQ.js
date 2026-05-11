@@ -1,4 +1,4 @@
-njQuestionsDatabase = [
+var Std9_Sci_MCQ = [
       // --- ધોરણ 9 વિજ્ઞાન (નવો NCERT અભ્યાસક્રમ) ---
     // --- પ્રકરણ 1: આપણી આસપાસમાં દ્રવ્ય (Matter in Our Surroundings) ---
 
