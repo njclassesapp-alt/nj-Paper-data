@@ -1,4 +1,4 @@
-var scienceInTextDB_Std9 [
+var scienceInTextDB_Std9 = [
     // ---------------- પ્રકરણ 1: બ્લુ પ્રશ્નો (પાના નંબર 3) ----------------
     { 
         chapter: 1, page: 3, qNo: 1, marks: 1, 
