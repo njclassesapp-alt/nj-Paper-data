@@ -1,4 +1,4 @@
-const socialSciMatchDB = [
+var socialSciMatchDB = [
     { 
         chapter: 1, q_no: 1, marks: 2, 
         A: ["1. ભવનાથનો મેળો", "2. તરણેતરનો મેળો"], 
