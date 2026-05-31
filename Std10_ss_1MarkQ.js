@@ -4,7 +4,7 @@ var socialsciOneLineDB = [
     {
         chapter: 1,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 1,
+        questionNumber: 1,
         
         question: "પ્રાકૃતિક વારસો એ કોની અમૂલ્ય ભેટ છે?",
         answer: "કુદરતની",
@@ -13,7 +13,7 @@ var socialsciOneLineDB = [
     {
         chapter: 1,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 2,
+        questionNumber: 2,
         
         question: "સાંસ્કૃતિક વારસો એટલે કેવો વારસો?",
         answer: "માનવસર્જિત વારસો",
@@ -22,7 +22,7 @@ var socialsciOneLineDB = [
     {
         chapter: 1,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 3,
+        questionNumber: 3,
         
         question: "ભારતીય સંસ્કૃતિ કઈ નદીઓના કિનારે વિકસી હતી?",
         answer: "સિંધુ અને રાવી",
@@ -31,7 +31,7 @@ var socialsciOneLineDB = [
     {
         chapter: 1,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 4,
+        questionNumber: 4,
     
         question: "આપણી સંસ્કૃતિએ નદીઓને કોનું બહુમાન આપ્યું છે?",
         answer: "લોકમાતાનું",
@@ -40,7 +40,7 @@ var socialsciOneLineDB = [
     {
         chapter: 1,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 5,
+        questionNumber: 5,
 
         question: "ભારતના કયા વેદમાં ઋચાઓ (શ્લોકો) નો સંગ્રહ છે અને તે સૌથી પ્રાચીન છે?",
         answer: "ઋગ્વેદ",
@@ -49,7 +49,7 @@ var socialsciOneLineDB = [
     {
         chapter: 1,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 6,
+        questionNumber: 6,
         format: "one_mark",
         question: "મોઢેરાનું પ્રખ્યાત સૂર્યમંદિર ગુજરાતના કયા જિલ્લામાં આવેલું છે?",
         answer: "મહેસાણા",
@@ -58,7 +58,7 @@ var socialsciOneLineDB = [
     {
         chapter: 1,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 7,
+        questionNumber: 7,
         format: "one_mark",
         question: "તાના-રીરી મહોત્સવ કયા સ્થળે ઉજવવામાં આવે છે?",
         answer: "વડનગર",
@@ -67,7 +67,7 @@ var socialsciOneLineDB = [
     {
         chapter: 1,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 8,
+        questionNumber: 8,
         format: "one_mark",
         question: "કઈ પ્રજાએ ભારતને 'માતૃરૂપે દેવી' (પાર્વતી) અને 'પિતૃરૂપે પરમાત્મા' (શિવ) નો ખ્યાલ આપ્યો?",
         answer: "દ્રવિડ પ્રજાએ",
@@ -76,7 +76,7 @@ var socialsciOneLineDB = [
     {
         chapter: 1,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 9,
+        questionNumber: 9,
         format: "one_mark",
         question: "ઓસ્ટ્રેલોઇડ પ્રજાને આર્યો કયા નામે ઓળખતા હતા?",
         answer: "નિષાદ",
@@ -85,7 +85,7 @@ var socialsciOneLineDB = [
     {
         chapter: 1,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 10,
+        questionNumber: 10,
         format: "one_mark",
         question: "પીળો વર્ણ, ચપટો ચહેરો અને ઉપસેલા ગાલ - આ કઈ પ્રજાનાં શારીરિક લક્ષણો છે?",
         answer: "મોંગોલોઇડ પ્રજાના",
@@ -94,7 +94,7 @@ var socialsciOneLineDB = [
     {
         chapter: 1,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 11,
+        questionNumber: 11,
         format: "one_mark",
         question: "મોંગોલોઇડ પ્રજા ભારતમાં બીજા કયા નામે ઓળખાતી હતી?",
         answer: "કિરાત",
@@ -103,7 +103,7 @@ var socialsciOneLineDB = [
     {
         chapter: 1,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 12,
+        questionNumber: 12,
         format: "one_mark",
         question: "અલ્પાઇન, ડીનારિક અને આર્મેનોઇડ પ્રજાઓ ક્યાંથી ભારતમાં આવી હતી?",
         answer: "મધ્ય એશિયામાંથી",
@@ -112,7 +112,7 @@ var socialsciOneLineDB = [
     {
         chapter: 1,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 13,
+        questionNumber: 13,
         format: "one_mark",
         question: "પ્રકૃતિ પૂજા અને પશુ પૂજા એ મુખ્યત્વે કઈ પ્રજાની ભેટ છે?",
         answer: "દ્રવિડોની",
@@ -121,7 +121,7 @@ var socialsciOneLineDB = [
     {
         chapter: 1,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 14,
+        questionNumber: 14,
         format: "one_mark",
         question: "ભારતના બંધારણની કઈ કલમમાં નાગરિકની 11 મૂળભૂત ફરજો દર્શાવવામાં આવી છે?",
         answer: "કલમ 51-ક (51-A)",
@@ -130,7 +130,7 @@ var socialsciOneLineDB = [
     {
         chapter: 1,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 15,
+        questionNumber: 15,
         format: "one_mark",
         question: "વડનગરનું કયું સ્થાપત્ય કલાની દૃષ્ટિએ પ્રખ્યાત છે?",
         answer: "કીર્તિતોરણ",
@@ -139,7 +139,7 @@ var socialsciOneLineDB = [
     {
         chapter: 1,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 16,
+        questionNumber: 16,
         format: "one_mark",
         question: "કઈ પ્રજામાં માતૃમૂલક કુટુંબપ્રથા (માતાને મુખિયા ગણવી) પ્રચલિત હતી?",
         answer: "દ્રવિડ પ્રજામાં",
@@ -148,7 +148,7 @@ var socialsciOneLineDB = [
     {
         chapter: 1,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 17,
+        questionNumber: 17,
         format: "one_mark",
         question: "આર્યો પ્રાચીન કાળમાં અન્ય કયા નામે ઓળખાતા હતા?",
         answer: "નોર્ડિક",
@@ -157,7 +157,7 @@ var socialsciOneLineDB = [
     {
         chapter: 1,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 18,
+        questionNumber: 18,
         format: "one_mark",
         question: "લોથલ કયા જિલ્લામાં આવેલું છે?",
         answer: "અમદાવાદ",
@@ -166,7 +166,7 @@ var socialsciOneLineDB = [
     {
         chapter: 1,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 19,
+        questionNumber: 19,
         format: "one_mark",
         question: "વિશ્વમાં 'વસુધૈવ કુટુમ્બકમ્' (સમગ્ર વિશ્વ એક કુટુંબ છે) ની ભાવના કયા દેશે સાકાર કરી છે?",
         answer: "ભારત",
@@ -175,7 +175,7 @@ var socialsciOneLineDB = [
     {
         chapter: 1,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 20,
+        questionNumber: 20,
         format: "one_mark",
         question: "હડપ્પીય સંસ્કૃતિનું જાણીતું નગર ધોળાવીરા કયા જિલ્લામાં આવેલું છે?",
         answer: "કચ્છ",
@@ -186,7 +186,7 @@ var socialsciOneLineDB = [
     {
         chapter: 2,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 1,
+        questionNumber: 1,
         format: "one_mark",
         question: "માટીકામ માટે પ્રાચીન ભારતનું પ્રથમ યંત્ર કોને માનવામાં આવે છે?",
         answer: "કુંભારના ચાકડાને",
@@ -195,7 +195,7 @@ var socialsciOneLineDB = [
     {
         chapter: 2,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 2,
+        questionNumber: 2,
         format: "one_mark",
         question: "કાચી માટીમાંથી પકવેલા વાસણો કે રમકડાંને શું કહેવાય છે?",
         answer: "ટેરાકોટા",
@@ -204,7 +204,7 @@ var socialsciOneLineDB = [
     {
         chapter: 2,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 3,
+        questionNumber: 3,
         format: "one_mark",
         question: "પાટણના પટોળામાં કઈ શૈલીનું વણાટકામ થાય છે?",
         answer: "બેવડ ઇકત",
@@ -213,7 +213,7 @@ var socialsciOneLineDB = [
     {
         chapter: 2,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 4,
+        questionNumber: 4,
         format: "one_mark",
         question: "જરીકામના હુન્નર માટે ગુજરાતનું કયું શહેર પ્રખ્યાત છે?",
         answer: "સુરત",
@@ -222,7 +222,7 @@ var socialsciOneLineDB = [
     {
         chapter: 2,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 5,
+        questionNumber: 5,
         format: "one_mark",
         question: "લાકડાના કલાત્મક હિંડોળા (પારણાં) માટે ગુજરાતનું કયું સ્થળ જાણીતું છે?",
         answer: "સંખેડા",
@@ -231,7 +231,7 @@ var socialsciOneLineDB = [
     {
         chapter: 2,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 6,
+        questionNumber: 6,
         format: "one_mark",
         question: "સોના-ચાંદીના અલંકારોમાં રંગ પૂરવાની કળા કયા નામે ઓળખાય છે?",
         answer: "મીનાકારી",
@@ -240,7 +240,7 @@ var socialsciOneLineDB = [
     {
         chapter: 2,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 7,
+        questionNumber: 7,
         format: "one_mark",
         question: "સંગીત રત્નાકર ગ્રંથના રચયિતા કોણ છે?",
         answer: "પંડિત સારંગદેવ",
@@ -249,7 +249,7 @@ var socialsciOneLineDB = [
     {
         chapter: 2,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 8,
+        questionNumber: 8,
         format: "one_mark",
         question: "સંગીત પારિજાત નામનો ગ્રંથ કોણે લખ્યો હતો?",
         answer: "પંડિત અહોબલે",
@@ -258,7 +258,7 @@ var socialsciOneLineDB = [
     {
         chapter: 2,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 9,
+        questionNumber: 9,
         format: "one_mark",
         question: "અમીર ખુશરો સંગીત ક્ષેત્રે કયા નામે જાણીતા હતા?",
         answer: "તૂતી-એ-હિન્દ",
@@ -267,7 +267,7 @@ var socialsciOneLineDB = [
     {
         chapter: 2,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 10,
+        questionNumber: 10,
         format: "one_mark",
         question: "નૃત્યકલાના આદિદેવ (પ્રથમ દેવ) કોને માનવામાં આવે છે?",
         answer: "ભગવાન શિવ (નટરાજ)",
@@ -276,7 +276,7 @@ var socialsciOneLineDB = [
     {
         chapter: 2,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 11,
+        questionNumber: 11,
         format: "one_mark",
         question: "ભરતનાટ્યમ નૃત્ય શૈલીનો ઉદ્ભવ કયા રાજ્યમાં થયો મનાય છે?",
         answer: "તમિલનાડુ",
@@ -285,7 +285,7 @@ var socialsciOneLineDB = [
     {
         chapter: 2,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 12,
+        questionNumber: 12,
         format: "one_mark",
         question: "કથકલી નૃત્ય કયા રાજ્યનું પ્રખ્યાત નૃત્ય છે?",
         answer: "કેરળ",
@@ -294,7 +294,7 @@ var socialsciOneLineDB = [
     {
         chapter: 2,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 13,
+        questionNumber: 13,
         format: "one_mark",
         question: "કયા નૃત્યમાં પાત્રો માથા પર મોટો અને કલાત્મક મુગટ પહેરે છે?",
         answer: "કથકલી",
@@ -303,7 +303,7 @@ var socialsciOneLineDB = [
     {
         chapter: 2,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 14,
+        questionNumber: 14,
         format: "one_mark",
         question: "કુચીપુડી નૃત્ય કયા રાજ્ય સાથે સંકળાયેલું છે?",
         answer: "આંધ્રપ્રદેશ",
@@ -312,7 +312,7 @@ var socialsciOneLineDB = [
     {
         chapter: 2,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 15,
+        questionNumber: 15,
         format: "one_mark",
         question: "'ગરબો' શબ્દ કયા શબ્દ પરથી બન્યો છે?",
         answer: "ગર્ભદીપ",
@@ -321,7 +321,7 @@ var socialsciOneLineDB = [
     {
         chapter: 2,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 16,
+        questionNumber: 16,
         format: "one_mark",
         question: "ભવાઈની શરૂઆત ગુજરાતમાં કોના દ્વારા કરવામાં આવી હતી?",
         answer: "અસાઇત ઠાકર",
@@ -330,7 +330,7 @@ var socialsciOneLineDB = [
     {
         chapter: 2,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 17,
+        questionNumber: 17,
         format: "one_mark",
         question: "સિદ્દીઓનું ધમાલ નૃત્ય મૂળ કયા દેશના લોકોનું છે?",
         answer: "આફ્રિકાના",
@@ -339,7 +339,7 @@ var socialsciOneLineDB = [
     {
         chapter: 2,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 18,
+        questionNumber: 18,
         format: "one_mark",
         question: "અકીકના પથ્થરો પર પહેલ પાડવાનું કામ ગુજરાતમાં કયા સ્થળે થાય છે?",
         answer: "ખંભાત",
@@ -348,7 +348,7 @@ var socialsciOneLineDB = [
     {
         chapter: 2,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 19,
+        questionNumber: 19,
         format: "one_mark",
         question: "ભરતમુનિ દ્વારા રચાયેલું કયું પુસ્તક ભારતીય નૃત્યકલા માટે આધારભૂત ગણાય છે?",
         answer: "નાટ્યશાસ્ત્ર",
@@ -357,7 +357,7 @@ var socialsciOneLineDB = [
     {
         chapter: 2,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 20,
+        questionNumber: 20,
         format: "one_mark",
         question: "ગુજરાતના આદિવાસીઓ પક્ષીઓની નકલ કરીને જે નૃત્ય કરે છે તેને શું કહેવાય છે?",
         answer: "ચાળો",
@@ -368,7 +368,7 @@ var socialsciOneLineDB = [
     {
         chapter: 3,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 1,
+        questionNumber: 1,
         format: "one_mark",
         question: "સ્થાપત્ય માટે સંસ્કૃત ભાષામાં કયો શબ્દ વપરાય છે?",
         answer: "વાસ્તુ",
@@ -377,7 +377,7 @@ var socialsciOneLineDB = [
     {
         chapter: 3,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 2,
+        questionNumber: 2,
         format: "one_mark",
         question: "શિલ્પી પોતાના મનના ભાવોને પથ્થર, લાકડા કે ધાતુ પર કંડારે તે કલાને શું કહેવાય?",
         answer: "શિલ્પકલા",
@@ -386,7 +386,7 @@ var socialsciOneLineDB = [
     {
         chapter: 3,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 3,
+        questionNumber: 3,
         format: "one_mark",
         question: "સિંધુખીણ સંસ્કૃતિના નગરોના રસ્તાઓ એકબીજાને કયા ખૂણે કાપતા હતા?",
         answer: "કાટખૂણે",
@@ -395,7 +395,7 @@ var socialsciOneLineDB = [
     {
         chapter: 3,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 4,
+        questionNumber: 4,
         format: "one_mark",
         question: "'મોહેં-જો-દડો' શબ્દનો અર્થ શું થાય છે?",
         answer: "મરેલાનો ટેકરો",
@@ -404,7 +404,7 @@ var socialsciOneLineDB = [
     {
         chapter: 3,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 5,
+        questionNumber: 5,
         format: "one_mark",
         question: "ધોળાવીરા નગર કયા જિલ્લામાં અને કયા બેટમાં આવેલું છે?",
         answer: "કચ્છ જિલ્લાના ખદીરબેટમાં",
@@ -413,7 +413,7 @@ var socialsciOneLineDB = [
     {
         chapter: 3,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 6,
+        questionNumber: 6,
         format: "one_mark",
         question: "લોથલ કઈ બે નદીઓના વચ્ચેના પ્રદેશમાં આવેલું છે?",
         answer: "ભોગાવો અને સાબરમતી",
@@ -422,7 +422,7 @@ var socialsciOneLineDB = [
     {
         chapter: 3,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 7,
+        questionNumber: 7,
         format: "one_mark",
         question: "બુદ્ધના વાળ, દાંત કે અસ્થિને પાત્રમાં મૂકી તેના પર બનાવવામાં આવતી અર્ધગોળાકાર ઇમારત એટલે શું?",
         answer: "સ્તૂપ",
@@ -431,7 +431,7 @@ var socialsciOneLineDB = [
     {
         chapter: 3,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 8,
+        questionNumber: 8,
         format: "one_mark",
         question: "સ્તૂપના અંડાકાર ભાગની ટોચની ચારે બાજુ આવેલી રેલિંગ (વાડ) ને શું કહે છે?",
         answer: "હર્મિકા",
@@ -440,7 +440,7 @@ var socialsciOneLineDB = [
     {
         chapter: 3,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 9,
+        questionNumber: 9,
         format: "one_mark",
         question: "કયા યુગને ભારતીય કલાનો 'સુવર્ણયુગ' કહેવામાં આવે છે?",
         answer: "ગુપ્તયુગને",
@@ -449,7 +449,7 @@ var socialsciOneLineDB = [
     {
         chapter: 3,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 10,
+        questionNumber: 10,
         format: "one_mark",
         question: "સમ્રાટ અશોકના સ્તંભલેખો કઈ લિપિમાં કોતરેલા છે?",
         answer: "બ્રાહ્મી લિપિમાં",
@@ -458,7 +458,7 @@ var socialsciOneLineDB = [
     {
         chapter: 3,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 11,
+        questionNumber: 11,
         format: "one_mark",
         question: "ભારતની રાષ્ટ્રમુદ્રા કયા સ્તંભ પરથી લેવામાં આવી છે?",
         answer: "સારનાથના સિંહસ્તંભ પરથી",
@@ -467,7 +467,7 @@ var socialsciOneLineDB = [
     {
         chapter: 3,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 12,
+        questionNumber: 12,
         format: "one_mark",
         question: "દક્ષિણ ભારતના મંદિરોના ભવ્ય અને ઊંચા પ્રવેશદ્વારને શું કહેવામાં આવે છે?",
         answer: "ગોપુરમ",
@@ -476,7 +476,7 @@ var socialsciOneLineDB = [
     {
         chapter: 3,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 13,
+        questionNumber: 13,
         format: "one_mark",
         question: "કોના સમયમાં દક્ષિણ ભારતમાં 'રથ મંદિરો' નું નિર્માણ થયું હતું?",
         answer: "પલ્લવ રાજાઓના",
@@ -485,7 +485,7 @@ var socialsciOneLineDB = [
     {
         chapter: 3,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 14,
+        questionNumber: 14,
         format: "one_mark",
         question: "મોઢેરાનું સૂર્યમંદિર કયા રાજાના શાસનકાળ દરમિયાન બંધાયું હતું?",
         answer: "ભીમદેવ પ્રથમ",
@@ -494,7 +494,7 @@ var socialsciOneLineDB = [
     {
         chapter: 3,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 15,
+        questionNumber: 15,
         format: "one_mark",
         question: "'ન્યાય જોવો હોય તો મલાવ તળાવ જુઓ' - આ મલાવ તળાવ કોણે બંધાવ્યું હતું?",
         answer: "રાજમાતા મીનળદેવીએ",
@@ -503,7 +503,7 @@ var socialsciOneLineDB = [
     {
         chapter: 3,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 16,
+        questionNumber: 16,
         format: "one_mark",
         question: "પાટણનું પ્રખ્યાત 'સહસ્ત્રલિંગ તળાવ' કોણે બંધાવ્યું હતું?",
         answer: "સિદ્ધરાજ જયસિંહે",
@@ -512,7 +512,7 @@ var socialsciOneLineDB = [
     {
         chapter: 3,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 17,
+        questionNumber: 17,
         format: "one_mark",
         question: "અમદાવાદમાં વૃક્ષની ડાળીઓની આકૃતિવાળી કઈ જાળી વિશ્વવિખ્યાત છે?",
         answer: "સીદી સૈયદની જાળી",
@@ -521,7 +521,7 @@ var socialsciOneLineDB = [
     {
         chapter: 3,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 18,
+        questionNumber: 18,
         format: "one_mark",
         question: "બૌદ્ધ ધર્મમાં 'ચૈત્ય' નો અર્થ શું થાય છે?",
         answer: "પ્રાર્થનાગૃહ",
@@ -530,7 +530,7 @@ var socialsciOneLineDB = [
     {
         chapter: 3,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 19,
+        questionNumber: 19,
         format: "one_mark",
         question: "મસ્જિદના સ્તંભોવાળા ઓરડાને શું કહેવામાં આવે છે?",
         answer: "લિવાન",
@@ -539,7 +539,7 @@ var socialsciOneLineDB = [
     {
         chapter: 3,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 20,
+        questionNumber: 20,
         format: "one_mark",
         question: "ખજૂરાહોનાં મંદિરો કઈ સ્થાપત્ય શૈલીમાં નિર્માણ પામ્યાં છે?",
         answer: "નાગર શૈલી",
@@ -550,7 +550,7 @@ var socialsciOneLineDB = [
     {
         chapter: 4,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 1,
+        questionNumber: 1,
         format: "one_mark",
         question: "ભારતીય સાહિત્યનો સૌથી પ્રાચીન અને પ્રથમ ગ્રંથ કયો છે?",
         answer: "ઋગ્વેદ",
@@ -559,7 +559,7 @@ var socialsciOneLineDB = [
     {
         chapter: 4,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 2,
+        questionNumber: 2,
         format: "one_mark",
         question: "ઋગ્વેદમાં કુલ કેટલી ઋચાઓ (શ્લોકો) નો સંગ્રહ છે?",
         answer: "1028",
@@ -568,7 +568,7 @@ var socialsciOneLineDB = [
     {
         chapter: 4,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 3,
+        questionNumber: 3,
         format: "one_mark",
         question: "કયા વેદને સંગીતની ગંગોત્રી કહેવામાં આવે છે?",
         answer: "સામવેદ",
@@ -577,7 +577,7 @@ var socialsciOneLineDB = [
     {
         chapter: 4,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 4,
+        questionNumber: 4,
         format: "one_mark",
         question: "કયો વેદ યજ્ઞનો વેદ કહેવાય છે, જે ગદ્ય અને પદ્ય એમ બંનેમાં રચાયેલ છે?",
         answer: "યજુર્વેદ",
@@ -586,7 +586,7 @@ var socialsciOneLineDB = [
     {
         chapter: 4,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 5,
+        questionNumber: 5,
         format: "one_mark",
         question: "અનેક પ્રકારના કર્મકાંડો અને સંસ્કારોનું વર્ણન કયા વેદમાં છે?",
         answer: "અથર્વવેદ",
@@ -595,7 +595,7 @@ var socialsciOneLineDB = [
     {
         chapter: 4,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 6,
+        questionNumber: 6,
         format: "one_mark",
         question: "મહર્ષિ પાણિનિએ કયા મહાન સંસ્કૃત વ્યાકરણ ગ્રંથની રચના કરી હતી?",
         answer: "અષ્ટાધ્યાયી",
@@ -604,7 +604,7 @@ var socialsciOneLineDB = [
     {
         chapter: 4,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 7,
+        questionNumber: 7,
         format: "one_mark",
         question: "વિશ્વનો સૌથી મોટો કાવ્યગ્રંથ કયો છે?",
         answer: "મહાભારત",
@@ -613,7 +613,7 @@ var socialsciOneLineDB = [
     {
         chapter: 4,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 8,
+        questionNumber: 8,
         format: "one_mark",
         question: "બૌદ્ધ ધર્મનું પ્રારંભિક સાહિત્ય કઈ ભાષામાં લખાયું હતું?",
         answer: "પાલી ભાષામાં",
@@ -622,7 +622,7 @@ var socialsciOneLineDB = [
     {
         chapter: 4,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 9,
+        questionNumber: 9,
         format: "one_mark",
         question: "પ્રારંભિક બૌદ્ધ સાહિત્ય 3 ભાગમાં વહેંચાયેલું છે, તેને કયા નામે ઓળખવામાં આવે છે?",
         answer: "ત્રિપિટક",
@@ -631,7 +631,7 @@ var socialsciOneLineDB = [
     {
         chapter: 4,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 10,
+        questionNumber: 10,
         format: "one_mark",
         question: "કયા યુગને સંસ્કૃત કાવ્યો અને નાટકોનો સુવર્ણયુગ કહેવાય છે?",
         answer: "ગુપ્તયુગ",
@@ -640,7 +640,7 @@ var socialsciOneLineDB = [
     {
         chapter: 4,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 11,
+        questionNumber: 11,
         format: "one_mark",
         question: "મહાકવિ કાલિદાસનું વિશ્વવિખ્યાત નાટક કયું છે?",
         answer: "અભિજ્ઞાન શાકુંતલમ્",
@@ -649,7 +649,7 @@ var socialsciOneLineDB = [
     {
         chapter: 4,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 12,
+        questionNumber: 12,
         format: "one_mark",
         question: "દ્રવિડ કુળની 4 ભાષાઓમાં સૌથી પ્રાચીન ભાષા કઈ છે?",
         answer: "તમિલ",
@@ -658,7 +658,7 @@ var socialsciOneLineDB = [
     {
         chapter: 4,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 13,
+        questionNumber: 13,
         format: "one_mark",
         question: "કન્નડ સાહિત્યની ત્રિપુટી કોને ગણવામાં આવે છે?",
         answer: "કવિ પંપા, પોન્ના અને રન્ના",
@@ -667,7 +667,7 @@ var socialsciOneLineDB = [
     {
         chapter: 4,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 14,
+        questionNumber: 14,
         format: "one_mark",
         question: "કવિ કલ્હણ દ્વારા રચિત કાશ્મીરના ઇતિહાસને આલેખતો ભારતનો પ્રથમ ઐતિહાસિક ગ્રંથ કયો છે?",
         answer: "રાજતરંગિણી",
@@ -676,7 +676,7 @@ var socialsciOneLineDB = [
     {
         chapter: 4,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 15,
+        questionNumber: 15,
         format: "one_mark",
         question: "હિન્દી ભાષાનો પ્રારંભિક ગ્રંથ 'પૃથ્વીરાજ રાસો' કોણે લખ્યો છે?",
         answer: "ચંદબરદાઈ",
@@ -685,7 +685,7 @@ var socialsciOneLineDB = [
     {
         chapter: 4,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 16,
+        questionNumber: 16,
         format: "one_mark",
         question: "દિલ્હી સલ્તનતકાળના કયા કવિને ભારતીય હોવા પર ગર્વ હતો અને તેમને 'તૂતી-એ-હિન્દ' કહેવાતા?",
         answer: "અમીર ખુશરો",
@@ -694,7 +694,7 @@ var socialsciOneLineDB = [
     {
         chapter: 4,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 17,
+        questionNumber: 17,
         format: "one_mark",
         question: "સમ્રાટ અકબરની આત્મકથા 'અકબરનામા' અને 'આઈને અકબરી' કોણે લખી હતી?",
         answer: "અબુલ ફઝલ",
@@ -703,7 +703,7 @@ var socialsciOneLineDB = [
     {
         chapter: 4,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 18,
+        questionNumber: 18,
         format: "one_mark",
         question: "પ્રાચીન ભારતની કઈ વિદ્યાપીઠ બિહારના પટના જિલ્લાના બડગાવ પાસે આવેલી હતી?",
         answer: "નાલંદા વિદ્યાપીઠ",
@@ -712,7 +712,7 @@ var socialsciOneLineDB = [
     {
         chapter: 4,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 19,
+        questionNumber: 19,
         format: "one_mark",
         question: "આચાર્ય ચાણક્ય અને ચંદ્રગુપ્ત મૌર્યે કઈ વિદ્યાપીઠમાં શિક્ષણ લીધું હતું?",
         answer: "તક્ષશિલા વિદ્યાપીઠ",
@@ -721,7 +721,7 @@ var socialsciOneLineDB = [
     {
         chapter: 4,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 20,
+        questionNumber: 20,
         format: "one_mark",
         question: "મૈત્રક રાજાઓના સમયમાં ગુજરાતનું કયું સ્થળ બૌદ્ધ ધર્મના હીનયાન પંથનું મોટું વિદ્યાધામ હતું?",
         answer: "વલભી વિદ્યાપીઠ",
@@ -732,7 +732,7 @@ var socialsciOneLineDB = [
     {
         chapter: 5,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 1,
+        questionNumber: 1,
         format: "one_mark",
         question: "પ્રાચીન ભારતની ધાતુવિદ્યાનો શ્રેષ્ઠ નમૂનો 'નર્તકીની મૂર્તિ' ક્યાંથી મળી આવી છે?",
         answer: "મોહેં-જો-દડોમાંથી",
@@ -741,7 +741,7 @@ var socialsciOneLineDB = [
     {
         chapter: 5,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 2,
+        questionNumber: 2,
         format: "one_mark",
         question: "દક્ષિણ ભારતમાં ચોલ રાજાઓના સમયમાં બનેલું કયું ધાતુશિલ્પ આંતરરાષ્ટ્રીય ખ્યાતિ ધરાવે છે?",
         answer: "નટરાજની મૂર્તિ",
@@ -750,7 +750,7 @@ var socialsciOneLineDB = [
     {
         chapter: 5,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 3,
+        questionNumber: 3,
         format: "one_mark",
         question: "ભારતીય રસાયણશાસ્ત્રના પિતા (આચાર્ય) કોને માનવામાં આવે છે?",
         answer: "આચાર્ય નાગાર્જુનને",
@@ -759,7 +759,7 @@ var socialsciOneLineDB = [
     {
         chapter: 5,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 4,
+        questionNumber: 4,
         format: "one_mark",
         question: "વનસ્પતિ ઔષધિઓની સાથે રસાયણ ઔષધિઓ વાપરવાની ભલામણ કોણે કરી હતી?",
         answer: "આચાર્ય નાગાર્જુને",
@@ -768,7 +768,7 @@ var socialsciOneLineDB = [
     {
         chapter: 5,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 5,
+        questionNumber: 5,
         format: "one_mark",
         question: "પારાની ભસ્મ કરીને ઔષધ (દવા) તરીકે વાપરવાની શરૂઆત કોણે કરી હોવાનું મનાય છે?",
         answer: "આચાર્ય નાગાર્જુને",
@@ -777,7 +777,7 @@ var socialsciOneLineDB = [
     {
         chapter: 5,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 6,
+        questionNumber: 6,
         format: "one_mark",
         question: "દિલ્હીમાં આવેલો કયો સ્તંભ ભારતની રસાયણવિદ્યાનો ઉત્તમ નમૂનો છે, જેને હજુ સુધી કાટ લાગ્યો નથી?",
         answer: "લોહસ્તંભ",
@@ -786,7 +786,7 @@ var socialsciOneLineDB = [
     {
         chapter: 5,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 7,
+        questionNumber: 7,
         format: "one_mark",
         question: "આશરે 2000 કરતાં વધુ વનસ્પતિ ઔષધિઓનું વર્ણન કયા ગ્રંથમાં છે?",
         answer: "ચરકસંહિતામાં",
@@ -795,7 +795,7 @@ var socialsciOneLineDB = [
     {
         chapter: 5,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 8,
+        questionNumber: 8,
         format: "one_mark",
         question: "વાઢકાપ (શસ્ત્રક્રિયા/Surgery) માટેના સાધનોનો ઉલ્લેખ કયા ગ્રંથમાં છે?",
         answer: "સુશ્રુતસંહિતામાં",
@@ -804,7 +804,7 @@ var socialsciOneLineDB = [
     {
         chapter: 5,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 9,
+        questionNumber: 9,
         format: "one_mark",
         question: "રોગના નિદાન માટે મહર્ષિ વાગ્ભટ્ટનો કયો ગ્રંથ અત્યંત પ્રખ્યાત છે?",
         answer: "અષ્ટાંગ હૃદય",
@@ -813,7 +813,7 @@ var socialsciOneLineDB = [
     {
         chapter: 5,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 10,
+        questionNumber: 10,
         format: "one_mark",
         question: "ગણિતશાસ્ત્રના પિતા કોને કહેવામાં આવે છે?",
         answer: "આર્યભટ્ટને",
@@ -822,7 +822,7 @@ var socialsciOneLineDB = [
     {
         chapter: 5,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 11,
+        questionNumber: 11,
         format: "one_mark",
         question: "શૂન્ય (0) ની શોધ કોણે કરી હતી?",
         answer: "આર્યભટ્ટે",
@@ -831,7 +831,7 @@ var socialsciOneLineDB = [
     {
         chapter: 5,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 12,
+        questionNumber: 12,
         format: "one_mark",
         question: "અંકની પાછળ શૂન્ય લગાવીને લખવાની પ્રક્રિયા કોણે શોધી હતી?",
         answer: "ગૃત્સમદ નામના ઋષિએ",
@@ -840,7 +840,7 @@ var socialsciOneLineDB = [
     {
         chapter: 5,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 13,
+        questionNumber: 13,
         format: "one_mark",
         question: "પાઇ (π) ની કિંમત 22/7 કે 3.14 થાય છે તેવું કોણે સાબિત કર્યું હતું?",
         answer: "આર્યભટ્ટે",
@@ -849,7 +849,7 @@ var socialsciOneLineDB = [
     {
         chapter: 5,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 14,
+        questionNumber: 14,
         format: "one_mark",
         question: "'લીલાવતી ગણિત' અને 'બીજ ગણિત' નામના ગ્રંથો કોણે લખ્યા હતા?",
         answer: "ભાસ્કરાચાર્યે",
@@ -858,7 +858,7 @@ var socialsciOneLineDB = [
     {
         chapter: 5,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 15,
+        questionNumber: 15,
         format: "one_mark",
         question: "સરવાળા અને બાદબાકીની શોધ કયા ગણિતશાસ્ત્રીએ કરી હોવાનું મનાય છે?",
         answer: "ભાસ્કરાચાર્યે",
@@ -867,7 +867,7 @@ var socialsciOneLineDB = [
     {
         chapter: 5,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 16,
+        questionNumber: 16,
         format: "one_mark",
         question: "'બ્રહ્મસિદ્ધાંત' નામનો ગ્રંથ લખીને સમીકરણના પ્રકારો કોણે દર્શાવ્યા હતા?",
         answer: "બ્રહ્મગુપ્તે",
@@ -876,7 +876,7 @@ var socialsciOneLineDB = [
     {
         chapter: 5,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 17,
+        questionNumber: 17,
         format: "one_mark",
         question: "પૃથ્વી પોતાની ધરી પર ફરે છે અને ચંદ્રગ્રહણનું કારણ પૃથ્વીનો પડછાયો છે - આ કોણે સાબિત કર્યું?",
         answer: "આર્યભટ્ટે",
@@ -885,7 +885,7 @@ var socialsciOneLineDB = [
     {
         chapter: 5,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 18,
+        questionNumber: 18,
         format: "one_mark",
         question: "જ્યોતિષશાસ્ત્રને તંત્ર, હોરા અને સંહિતા એમ ત્રણ ભાગમાં વહેંચનાર મહાન જ્યોતિષી કોણ હતા?",
         answer: "વરાહમિહિર",
@@ -894,7 +894,7 @@ var socialsciOneLineDB = [
     {
         chapter: 5,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 19,
+        questionNumber: 19,
         format: "one_mark",
         question: "વાસ્તુશાસ્ત્રમાં 15મી સદીમાં કોણે સુધારા-વધારા કરી તેનો પુનરુદ્ધાર કરાવ્યો?",
         answer: "મેવાડના રાણા કુંભાએ",
@@ -903,7 +903,7 @@ var socialsciOneLineDB = [
     {
         chapter: 5,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 20,
+        questionNumber: 20,
         format: "one_mark",
         question: "મહર્ષિ ભારદ્વાજે કયો ગ્રંથ રચ્યો હતો?",
         answer: "યંત્ર સર્વસ્વ (વિમાનશાસ્ત્ર)",
@@ -914,7 +914,7 @@ var socialsciOneLineDB = [
     {
         chapter: 6,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 1,
+        questionNumber: 1,
         format: "one_mark",
         question: "અજંતાની ગુફાઓ મહારાષ્ટ્રના કયા જિલ્લામાં આવેલી છે?",
         answer: "ઔરંગાબાદ જિલ્લામાં",
@@ -923,7 +923,7 @@ var socialsciOneLineDB = [
     {
         chapter: 6,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 2,
+        questionNumber: 2,
         format: "one_mark",
         question: "અજંતાની ગુફાઓ કયા આકારમાં પર્વતને કોતરીને બનાવવામાં આવી છે?",
         answer: "ઘોડાની નાળના આકારમાં",
@@ -932,7 +932,7 @@ var socialsciOneLineDB = [
     {
         chapter: 6,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 3,
+        questionNumber: 3,
         format: "one_mark",
         question: "ઇલોરાની 16 નંબરની ગુફામાં કયું પ્રખ્યાત મંદિર આવેલું છે?",
         answer: "કૈલાસ મંદિર",
@@ -941,7 +941,7 @@ var socialsciOneLineDB = [
     {
         chapter: 6,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 4,
+        questionNumber: 4,
         format: "one_mark",
         question: "એલિફન્ટાની ગુફાઓને પોર્ટુગીઝોએ કયા પ્રાણીની મૂર્તિ જોઈને નામ આપ્યું હતું?",
         answer: "હાથીની (Elephant)",
@@ -950,7 +950,7 @@ var socialsciOneLineDB = [
     {
         chapter: 6,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 5,
+        questionNumber: 5,
         format: "one_mark",
         question: "એલિફન્ટાની ગુફા નં. 1 માં કઈ ભવ્ય મૂર્તિ આવેલી છે?",
         answer: "ત્રિમૂર્તિ (બ્રહ્મા, વિષ્ણુ, મહેશ)",
@@ -959,7 +959,7 @@ var socialsciOneLineDB = [
     {
         chapter: 6,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 6,
+        questionNumber: 6,
         format: "one_mark",
         question: "મહાબલિપુરમ કયા રાજ્યમાં આવેલું છે?",
         answer: "તમિલનાડુ",
@@ -968,7 +968,7 @@ var socialsciOneLineDB = [
     {
         chapter: 6,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 7,
+        questionNumber: 7,
         format: "one_mark",
         question: "પટ્ટદકલ કયા વંશની રાજધાનીનું નગર હતું?",
         answer: "ચાલુક્ય વંશની",
@@ -977,7 +977,7 @@ var socialsciOneLineDB = [
     {
         chapter: 6,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 8,
+        questionNumber: 8,
         format: "one_mark",
         question: "ખજૂરાહોનાં મંદિરો કયા રાજાઓએ બંધાવ્યા હતા?",
         answer: "ચંદેલ રાજાઓએ",
@@ -986,7 +986,7 @@ var socialsciOneLineDB = [
     {
         chapter: 6,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 9,
+        questionNumber: 9,
         format: "one_mark",
         question: "કોણાર્કનું સૂર્યમંદિર બીજા કયા નામે ઓળખાય છે?",
         answer: "કાળા પેગોડા (Black Pagoda)",
@@ -995,7 +995,7 @@ var socialsciOneLineDB = [
     {
         chapter: 6,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 10,
+        questionNumber: 10,
         format: "one_mark",
         question: "તાંજોરમાં આવેલું બૃહદેશ્વર મંદિર કોણે બંધાવ્યું હતું?",
         answer: "રાજા રાજરાજ પ્રથમે",
@@ -1004,7 +1004,7 @@ var socialsciOneLineDB = [
     {
         chapter: 6,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 11,
+        questionNumber: 11,
         format: "one_mark",
         question: "કુતુબમિનારનું નિર્માણ કાર્ય કોણે પૂરું કરાવ્યું હતું?",
         answer: "ઇલ્તુત્મિશે",
@@ -1013,7 +1013,7 @@ var socialsciOneLineDB = [
     {
         chapter: 6,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 12,
+        questionNumber: 12,
         format: "one_mark",
         question: "હમ્પી કયા સામ્રાજ્યની રાજધાની હતી?",
         answer: "વિજયનગર સામ્રાજ્યની",
@@ -1022,7 +1022,7 @@ var socialsciOneLineDB = [
     {
         chapter: 6,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 13,
+        questionNumber: 13,
         format: "one_mark",
         question: "તાજમહાલ કોણે અને કોની યાદમાં બંધાવ્યો હતો?",
         answer: "શાહજહાંએ, તેની પત્ની મુમતાજની યાદમાં",
@@ -1031,7 +1031,7 @@ var socialsciOneLineDB = [
     {
         chapter: 6,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 14,
+        questionNumber: 14,
         format: "one_mark",
         question: "દર વર્ષે 15 ઓગસ્ટે ધ્વજવંદન ક્યાંથી કરવામાં આવે છે?",
         answer: "દિલ્હીના લાલ કિલ્લા પરથી",
@@ -1040,7 +1040,7 @@ var socialsciOneLineDB = [
     {
         chapter: 6,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 15,
+        questionNumber: 15,
         format: "one_mark",
         question: "ફતેહપુર સિક્રી નામનું નગર કોણે વસાવ્યું હતું?",
         answer: "સમ્રાટ અકબરે",
@@ -1049,7 +1049,7 @@ var socialsciOneLineDB = [
     {
         chapter: 6,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 16,
+        questionNumber: 16,
         format: "one_mark",
         question: "ગોવા કઈ યુરોપિયન પ્રજાની રાજધાની હતું?",
         answer: "પોર્ટુગીઝોની",
@@ -1058,7 +1058,7 @@ var socialsciOneLineDB = [
     {
         chapter: 6,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 17,
+        questionNumber: 17,
         format: "one_mark",
         question: "ચાંપાનેર ગામ ગુજરાતના કયા જિલ્લામાં આવેલું છે?",
         answer: "પંચમહાલ",
@@ -1067,7 +1067,7 @@ var socialsciOneLineDB = [
     {
         chapter: 6,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 18,
+        questionNumber: 18,
         format: "one_mark",
         question: "પાટણની રાણીની વાવ (રાણકી વાવ) કોણે બંધાવી હતી?",
         answer: "રાણી ઉદયમતિએ",
@@ -1076,7 +1076,7 @@ var socialsciOneLineDB = [
     {
         chapter: 6,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 19,
+        questionNumber: 19,
         format: "one_mark",
         question: "સિદ્ધપુરનો રુદ્રમહાલય કોણે બંધાવવાનું શરૂ કર્યું હતું?",
         answer: "મૂળરાજ સોલંકીએ",
@@ -1085,7 +1085,7 @@ var socialsciOneLineDB = [
     {
         chapter: 6,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 20,
+        questionNumber: 20,
         format: "one_mark",
         question: "જૂનાગઢમાં સમ્રાટ અશોકનો શિલાલેખ કઈ તળેટીમાં આવેલો છે?",
         answer: "ગિરનારની તળેટીમાં",
@@ -1096,7 +1096,7 @@ var socialsciOneLineDB = [
     {
         chapter: 7,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 1,
+        questionNumber: 1,
         format: "one_mark",
         question: "ભારત સરકારનો કયો વિભાગ રાષ્ટ્રીય સ્મારકોની જાળવણી કરવાનું કાર્ય કરે છે?",
         answer: "ભારતીય પુરાતત્ત્વ સર્વેક્ષણ (ASI)",
@@ -1105,7 +1105,7 @@ var socialsciOneLineDB = [
     {
         chapter: 7,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 2,
+        questionNumber: 2,
         format: "one_mark",
         question: "પ્રાચીન સ્મારકો અને પુરાતત્ત્વીય સ્થળોના રક્ષણ માટે કયા વર્ષમાં કાયદો પસાર કરવામાં આવ્યો?",
         answer: "ઈ.સ. 1958 માં",
@@ -1114,7 +1114,7 @@ var socialsciOneLineDB = [
     {
         chapter: 7,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 3,
+        questionNumber: 3,
         format: "one_mark",
         question: "જમીન ખોદતાં મળતી કિંમતી વસ્તુઓની સરકારને જાણ કરવી પડે છે, આ કયો કાયદો છે?",
         answer: "ભારતીય નિધિ વ્યાપાર કાનૂન (1876)",
@@ -1123,7 +1123,7 @@ var socialsciOneLineDB = [
     {
         chapter: 7,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 4,
+        questionNumber: 4,
         format: "one_mark",
         question: "વન્યજીવોના રક્ષણ માટે કયા વર્ષમાં કાયદો બનાવવામાં આવ્યો?",
         answer: "ઈ.સ. 1972 માં",
@@ -1132,7 +1132,7 @@ var socialsciOneLineDB = [
     {
         chapter: 7,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 5,
+        questionNumber: 5,
         format: "one_mark",
         question: "પર્યાવરણ અને વન્યજીવોના રક્ષણ માટે કામ કરતી ભારતની સૌથી જૂની સંસ્થા કઈ છે?",
         answer: "મુંબઈ પ્રાકૃતિક ઇતિહાસ સમિતિ",
@@ -1141,7 +1141,7 @@ var socialsciOneLineDB = [
     {
         chapter: 7,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 6,
+        questionNumber: 6,
         format: "one_mark",
         question: "તાજમહેલને કઈ રિફાઇનરીના વાયુ પ્રદૂષણથી નુકસાન થઈ રહ્યું હતું?",
         answer: "મથુરા રિફાઇનરીના",
@@ -1150,7 +1150,7 @@ var socialsciOneLineDB = [
     {
         chapter: 7,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 7,
+        questionNumber: 7,
         format: "one_mark",
         question: "સ્વામી વિવેકાનંદે કયા શહેરમાં યોજાયેલી વિશ્વ ધર્મ પરિષદમાં હાજરી આપી હતી?",
         answer: "શિકાગો (અમેરિકા)",
@@ -1159,7 +1159,7 @@ var socialsciOneLineDB = [
     {
         chapter: 7,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 8,
+        questionNumber: 8,
         format: "one_mark",
         question: "સમગ્ર વિશ્વ એક કુટુંબ છે - આ ભાવના માટે કયો શબ્દ વપરાય છે?",
         answer: "વસુધૈવ કુટુમ્બકમ્",
@@ -1168,7 +1168,7 @@ var socialsciOneLineDB = [
     {
         chapter: 7,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 9,
+        questionNumber: 9,
         format: "one_mark",
         question: "ઐતિહાસિક સ્મારકોનું સમારકામ કરતી વખતે ખાસ શું જળવાવું જોઈએ?",
         answer: "તેનું મૂળ સ્વરૂપ",
@@ -1177,7 +1177,7 @@ var socialsciOneLineDB = [
     {
         chapter: 7,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 10,
+        questionNumber: 10,
         format: "one_mark",
         question: "કયો ઉદ્યોગ દેશને વિદેશી હૂંડિયામણ (Foreign Exchange) કમાઈ આપે છે?",
         answer: "પ્રવાસન ઉદ્યોગ",
@@ -1186,7 +1186,7 @@ var socialsciOneLineDB = [
     {
         chapter: 7,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 11,
+        questionNumber: 11,
         format: "one_mark",
         question: "રાષ્ટ્રીય સંગ્રહાલય (National Museum) ક્યાં આવેલું છે?",
         answer: "નવી દિલ્હી",
@@ -1195,7 +1195,7 @@ var socialsciOneLineDB = [
     {
         chapter: 7,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 12,
+        questionNumber: 12,
         format: "one_mark",
         question: "છત્રપતિ શિવાજી મહારાજ સંગ્રહાલય (પ્રિન્સ ઓફ વેલ્સ મ્યુઝિયમ) ક્યાં આવેલું છે?",
         answer: "મુંબઈ",
@@ -1204,7 +1204,7 @@ var socialsciOneLineDB = [
     {
         chapter: 7,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 13,
+        questionNumber: 13,
         format: "one_mark",
         question: "સાલારગંજ સંગ્રહાલય કયા શહેરમાં આવેલું છે?",
         answer: "હૈદરાબાદ",
@@ -1213,7 +1213,7 @@ var socialsciOneLineDB = [
     {
         chapter: 7,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 14,
+        questionNumber: 14,
         format: "one_mark",
         question: "લાલભાઈ દલપતભાઈ (L.D.) મ્યુઝિયમ ક્યાં આવેલું છે?",
         answer: "અમદાવાદ",
@@ -1222,7 +1222,7 @@ var socialsciOneLineDB = [
     {
         chapter: 7,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 15,
+        questionNumber: 15,
         format: "one_mark",
         question: "શ્રી હેમચંદ્રાચાર્ય જ્ઞાનભંડાર (ગ્રંથાલય) ક્યાં આવેલો છે?",
         answer: "પાટણ",
@@ -1231,7 +1231,7 @@ var socialsciOneLineDB = [
     {
         chapter: 7,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 16,
+        questionNumber: 16,
         format: "one_mark",
         question: "મહારાજા ફતેહસિંહરાવ મ્યુઝિયમ ક્યાં આવેલું છે?",
         answer: "વડોદરા",
@@ -1240,7 +1240,7 @@ var socialsciOneLineDB = [
     {
         chapter: 7,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 17,
+        questionNumber: 17,
         format: "one_mark",
         question: "રાષ્ટ્રીય માનવ સંગ્રહાલય ક્યાં આવેલું છે?",
         answer: "ભોપાલ",
@@ -1249,7 +1249,7 @@ var socialsciOneLineDB = [
     {
         chapter: 7,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 18,
+        questionNumber: 18,
         format: "one_mark",
         question: "ગુજરાતમાં ભો. જે. વિદ્યાભવન ક્યાં આવેલું છે?",
         answer: "અમદાવાદ",
@@ -1258,7 +1258,7 @@ var socialsciOneLineDB = [
     {
         chapter: 7,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 19,
+        questionNumber: 19,
         format: "one_mark",
         question: "વિશ્વમાં સૌથી વધુ વિવિધતા ધરાવતો દેશ કયો છે?",
         answer: "ભારત",
@@ -1267,7 +1267,7 @@ var socialsciOneLineDB = [
     {
         chapter: 7,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 20,
+        questionNumber: 20,
         format: "one_mark",
         question: "ભારત દેશ માટે કયું વાક્ય સૌથી વધુ બંધબેસતું છે?",
         answer: "વિવિધતામાં એકતા",
@@ -1278,7 +1278,7 @@ var socialsciOneLineDB = [
     {
         chapter: 8,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 1,
+        questionNumber: 1,
         format: "one_mark",
         question: "કોઈપણ દેશ કે પ્રદેશની સાર્વજનિક સંપત્તિને કેવું સંસાધન કહેવાય છે?",
         answer: "રાષ્ટ્રીય સંસાધન",
@@ -1287,7 +1287,7 @@ var socialsciOneLineDB = [
     {
         chapter: 8,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 2,
+        questionNumber: 2,
         format: "one_mark",
         question: "દુનિયામાં ભાગ્યે જ એક કે બે સ્થળેથી મળતા ખનીજોને કયું સંસાધન કહે છે?",
         answer: "એકલ સંસાધન",
@@ -1296,7 +1296,7 @@ var socialsciOneLineDB = [
     {
         chapter: 8,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 3,
+        questionNumber: 3,
         format: "one_mark",
         question: "એકલ સંસાધનનું ઉત્તમ ઉદાહરણ કયું ખનીજ છે?",
         answer: "ક્રાયોલાઇટ ખનીજ",
@@ -1305,7 +1305,7 @@ var socialsciOneLineDB = [
     {
         chapter: 8,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 4,
+        questionNumber: 4,
         format: "one_mark",
         question: "જે સંસાધનો પોતાની મેળે જ ચોક્કસ સમયમાં વપરાશી હિસ્સાની પૂર્તિ કરે છે (જે અખૂટ હોય છે) તેને શું કહે છે?",
         answer: "નવીનીકરણીય સંસાધન (પુનઃપ્રાપ્ય)",
@@ -1314,7 +1314,7 @@ var socialsciOneLineDB = [
     {
         chapter: 8,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 5,
+        questionNumber: 5,
         format: "one_mark",
         question: "જે સંસાધનો એકવાર વપરાયા પછી ફરીથી બનાવી શકાતા નથી તેને શું કહેવાય છે?",
         answer: "અનવીનીકરણીય સંસાધન (પુનઃઅપ્રાપ્ય)",
@@ -1323,7 +1323,7 @@ var socialsciOneLineDB = [
     {
         chapter: 8,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 6,
+        questionNumber: 6,
         format: "one_mark",
         question: "જમીન નિર્માણની પ્રક્રિયામાં મુખ્ય ભાગ કોણ ભજવે છે?",
         answer: "આબોહવા",
@@ -1332,7 +1332,7 @@ var socialsciOneLineDB = [
     {
         chapter: 8,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 7,
+        questionNumber: 7,
         format: "one_mark",
         question: "ભારતીય કૃષિ સંશોધન પરિષદ (ICAR) દ્વારા ભારતની જમીનને કેટલા પ્રકારમાં વહેંચવામાં આવી છે?",
         answer: "8 પ્રકારમાં",
@@ -1341,7 +1341,7 @@ var socialsciOneLineDB = [
     {
         chapter: 8,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 8,
+        questionNumber: 8,
         format: "one_mark",
         question: "ભારતમાં કાંપની જમીન કુલ ક્ષેત્રફળના કેટલા ટકા ભાગમાં ફેલાયેલી છે?",
         answer: "43% ભાગમાં",
@@ -1350,7 +1350,7 @@ var socialsciOneLineDB = [
     {
         chapter: 8,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 9,
+        questionNumber: 9,
         format: "one_mark",
         question: "રાતી જમીન ભારતના કુલ ક્ષેત્રફળના કેટલા ટકા ભાગમાં ફેલાયેલી છે?",
         answer: "19% ભાગમાં",
@@ -1359,7 +1359,7 @@ var socialsciOneLineDB = [
     {
         chapter: 8,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 10,
+        questionNumber: 10,
         format: "one_mark",
         question: "ભારતમાં કાળી જમીન કુલ ક્ષેત્રફળના કેટલા ટકા ભાગમાં આવેલી છે?",
         answer: "15% ભાગમાં",
@@ -1368,7 +1368,7 @@ var socialsciOneLineDB = [
     {
         chapter: 8,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 11,
+        questionNumber: 11,
         format: "one_mark",
         question: "કપાસના પાક માટે કઈ જમીન સૌથી વધુ અનુકૂળ છે?",
         answer: "કાળી જમીન",
@@ -1377,7 +1377,7 @@ var socialsciOneLineDB = [
     {
         chapter: 8,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 12,
+        questionNumber: 12,
         format: "one_mark",
         question: "કાળી જમીનને બીજા કયા નામે ઓળખવામાં આવે છે?",
         answer: "રેગુર",
@@ -1386,7 +1386,7 @@ var socialsciOneLineDB = [
     {
         chapter: 8,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 13,
+        questionNumber: 13,
         format: "one_mark",
         question: "કઈ જમીન ભીની થાય ત્યારે ચીકણી અને સુકાય ત્યારે તેમાં ફાંટો કે તિરાડો પડે છે?",
         answer: "કાળી જમીન",
@@ -1395,7 +1395,7 @@ var socialsciOneLineDB = [
     {
         chapter: 8,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 14,
+        questionNumber: 14,
         format: "one_mark",
         question: "પડખાઉ જમીનનું બીજું નામ શું છે?",
         answer: "લેટેરાઇટ જમીન",
@@ -1404,7 +1404,7 @@ var socialsciOneLineDB = [
     {
         chapter: 8,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 15,
+        questionNumber: 15,
         format: "one_mark",
         question: "'લેટેરાઇટ' શબ્દ લેટિન ભાષાના કયા શબ્દ પરથી ઉતરી આવ્યો છે?",
         answer: "લેટર (Letter)",
@@ -1413,7 +1413,7 @@ var socialsciOneLineDB = [
     {
         chapter: 8,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 16,
+        questionNumber: 16,
         format: "one_mark",
         question: "રણપ્રકારની જમીનમાં કયા તત્ત્વોનું પ્રમાણ વધુ જોવા મળે છે?",
         answer: "દ્રાવ્ય ક્ષારોનું",
@@ -1422,7 +1422,7 @@ var socialsciOneLineDB = [
     {
         chapter: 8,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 17,
+        questionNumber: 17,
         format: "one_mark",
         question: "ગતિશીલ પાણી કે હવા દ્વારા જમીનના કણોનું એક સ્થળેથી બીજા સ્થળે ઘસડાઈ જવું એટલે શું?",
         answer: "જમીન ધોવાણ",
@@ -1431,7 +1431,7 @@ var socialsciOneLineDB = [
     {
         chapter: 8,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 18,
+        questionNumber: 18,
         format: "one_mark",
         question: "જમીનનું ધોવાણ અટકાવવા ઢોળાવવાળી જમીનમાં કઈ પદ્ધતિથી ખેતી કરવી જોઈએ?",
         answer: "પગથિયાં પદ્ધતિથી (સીડીદાર ખેતી)",
@@ -1440,7 +1440,7 @@ var socialsciOneLineDB = [
     {
         chapter: 8,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 19,
+        questionNumber: 19,
         format: "one_mark",
         question: "રણને આગળ વધતું અટકાવવા અને પવનની ગતિ રોકવા શું કરવું જોઈએ?",
         answer: "વૃક્ષોની હારમાળા ઉગાડવી જોઈએ",
@@ -1449,7 +1449,7 @@ var socialsciOneLineDB = [
     {
         chapter: 8,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 20,
+        questionNumber: 20,
         format: "one_mark",
         question: "જમીનની ફળદ્રુપતા અને ગુણવત્તા જાળવી રાખવા માટે શું ઉમેરવું જોઈએ?",
         answer: "સેન્દ્રિય પદાર્થો (છાણિયું ખાતર)",
@@ -1460,7 +1460,7 @@ var socialsciOneLineDB = [
     {
         chapter: 9,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 1,
+        questionNumber: 1,
         format: "one_mark",
         question: "જે જંગલો પર સરકારી તંત્રનો સીધો અને સંપૂર્ણ અંકુશ હોય તેને કયા જંગલો કહેવાય?",
         answer: "અનામત જંગલો (Reserved Forests)",
@@ -1469,7 +1469,7 @@ var socialsciOneLineDB = [
     {
         chapter: 9,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 2,
+        questionNumber: 2,
         format: "one_mark",
         question: "વૃક્ષોને નુકસાન પહોંચાડ્યા વિના લાકડા વીણવાની કે પશુ ચરાવવાની સ્થાનિક લોકોને છૂટ કયા જંગલોમાં હોય છે?",
         answer: "સંરક્ષિત જંગલોમાં (Protected Forests)",
@@ -1478,7 +1478,7 @@ var socialsciOneLineDB = [
     {
         chapter: 9,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 3,
+        questionNumber: 3,
         format: "one_mark",
         question: "નિર્વનીકરણ (Deforestation) એટલે શું?",
         answer: "જંગલોનો વિનાશ",
@@ -1487,7 +1487,7 @@ var socialsciOneLineDB = [
     {
         chapter: 9,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 4,
+        questionNumber: 4,
         format: "one_mark",
         question: "આજે ભારતના જંગલોમાંથી કયું પ્રાણી સંપૂર્ણપણે લુપ્ત થઈ ગયું છે?",
         answer: "ચિત્તો",
@@ -1496,7 +1496,7 @@ var socialsciOneLineDB = [
     {
         chapter: 9,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 5,
+        questionNumber: 5,
         format: "one_mark",
         question: "ગુજરાતના જંગલોમાંથી કયું પ્રાણી સંપૂર્ણપણે લુપ્ત થઈ ગયું છે?",
         answer: "વાઘ",
@@ -1505,7 +1505,7 @@ var socialsciOneLineDB = [
     {
         chapter: 9,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 6,
+        questionNumber: 6,
         format: "one_mark",
         question: "એશિયાઈ સિંહો (Asiatic Lion) સમગ્ર વિશ્વમાં માત્ર ક્યાં જોવા મળે છે?",
         answer: "ગુજરાતના ગીરના જંગલોમાં",
@@ -1514,7 +1514,7 @@ var socialsciOneLineDB = [
     {
         chapter: 9,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 7,
+        questionNumber: 7,
         format: "one_mark",
         question: "ભારતનું રાષ્ટ્રીય પ્રાણી કયું છે?",
         answer: "વાઘ",
@@ -1523,7 +1523,7 @@ var socialsciOneLineDB = [
     {
         chapter: 9,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 8,
+        questionNumber: 8,
         format: "one_mark",
         question: "વાઘને બચાવવા માટે 'વાઘ પરિયોજના' (Project Tiger) કયા વર્ષમાં શરૂ કરવામાં આવી હતી?",
         answer: "ઈ.સ. 1973 માં",
@@ -1532,7 +1532,7 @@ var socialsciOneLineDB = [
     {
         chapter: 9,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 9,
+        questionNumber: 9,
         format: "one_mark",
         question: "ગીરના સિંહોના રક્ષણ માટે 'સિંહ પરિયોજના' ક્યારે શરૂ કરવામાં આવી હતી?",
         answer: "ઈ.સ. 1972 માં",
@@ -1541,7 +1541,7 @@ var socialsciOneLineDB = [
     {
         chapter: 9,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 10,
+        questionNumber: 10,
         format: "one_mark",
         question: "એકશિંગી ભારતીય ગેંડો મોટેભાગે કયા રાજ્યમાં જોવા મળે છે?",
         answer: "અસમ",
@@ -1550,7 +1550,7 @@ var socialsciOneLineDB = [
     {
         chapter: 9,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 11,
+        questionNumber: 11,
         format: "one_mark",
         question: "હાથીઓને તેમના કુદરતી આવાસોમાં રક્ષણ આપવા 'હાથી પરિયોજના' ક્યારે શરૂ કરવામાં આવી?",
         answer: "ઈ.સ. 1992 માં",
@@ -1559,7 +1559,7 @@ var socialsciOneLineDB = [
     {
         chapter: 9,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 12,
+        questionNumber: 12,
         format: "one_mark",
         question: "કુદરતનો સફાઈ કામદાર કોને કહેવામાં આવે છે?",
         answer: "ગીધને",
@@ -1568,7 +1568,7 @@ var socialsciOneLineDB = [
     {
         chapter: 9,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 13,
+        questionNumber: 13,
         format: "one_mark",
         question: "ભારતમાં ગીધોની સંખ્યા ઘટતી જવાથી 'ગીધ પરિયોજના' કયા વર્ષમાં શરૂ થઈ?",
         answer: "ઈ.સ. 2004 માં",
@@ -1577,7 +1577,7 @@ var socialsciOneLineDB = [
     {
         chapter: 9,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 14,
+        questionNumber: 14,
         format: "one_mark",
         question: "હિમાલયમાં લગભગ 3000 મીટરની ઊંચાઈએ જોવા મળતા કયા પ્રાણી માટે ઈ.સ. 2000 માં પરિયોજના શરૂ થઈ?",
         answer: "હિમ દીપડા (Snow Leopard)",
@@ -1586,7 +1586,7 @@ var socialsciOneLineDB = [
     {
         chapter: 9,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 15,
+        questionNumber: 15,
         format: "one_mark",
         question: "કોઈપણ અભયારણ્ય (Sanctuary) ની રચના કોના દ્વારા કરવામાં આવે છે?",
         answer: "માત્ર રાજ્ય સરકાર દ્વારા",
@@ -1595,7 +1595,7 @@ var socialsciOneLineDB = [
     {
         chapter: 9,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 16,
+        questionNumber: 16,
         format: "one_mark",
         question: "રાષ્ટ્રીય ઉદ્યાન (National Park) ની રચના કોના સંકલનથી થાય છે?",
         answer: "રાજ્ય અને કેન્દ્ર સરકારના",
@@ -1604,7 +1604,7 @@ var socialsciOneLineDB = [
     {
         chapter: 9,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 17,
+        questionNumber: 17,
         format: "one_mark",
         question: "જૈવ આરક્ષિત ક્ષેત્ર (Biosphere Reserve) ની રચના કયા માપદંડો મુજબ થાય છે?",
         answer: "આંતરરાષ્ટ્રીય માપદંડો મુજબ",
@@ -1613,7 +1613,7 @@ var socialsciOneLineDB = [
     {
         chapter: 9,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 18,
+        questionNumber: 18,
         format: "one_mark",
         question: "ગુજરાતમાં 2008 ની સાલમાં કયા વિસ્તારને જૈવ આરક્ષિત ક્ષેત્ર જાહેર કરાયો છે?",
         answer: "કચ્છના રણના આંશિક વિસ્તારને",
@@ -1622,7 +1622,7 @@ var socialsciOneLineDB = [
     {
         chapter: 9,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 19,
+        questionNumber: 19,
         format: "one_mark",
         question: "કાઝીરંગા રાષ્ટ્રીય ઉદ્યાન કયા રાજ્યમાં આવેલું છે?",
         answer: "અસમ",
@@ -1631,7 +1631,7 @@ var socialsciOneLineDB = [
     {
         chapter: 9,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 20,
+        questionNumber: 20,
         format: "one_mark",
         question: "ગુજરાતના ભાવનગર જિલ્લામાં કયો રાષ્ટ્રીય ઉદ્યાન આવેલો છે?",
         answer: "વેળાવદર કાળિયાર રાષ્ટ્રીય ઉદ્યાન",
@@ -1642,7 +1642,7 @@ var socialsciOneLineDB = [
     {
         chapter: 10,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 1,
+        questionNumber: 1,
         format: "one_mark",
         question: "ભારત દેશનો મુખ્ય વ્યવસાય કયો છે?",
         answer: "કૃષિ (ખેતી)",
@@ -1651,7 +1651,7 @@ var socialsciOneLineDB = [
     {
         chapter: 10,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 2,
+        questionNumber: 2,
         format: "one_mark",
         question: "ભારતની શ્રમશક્તિના આશરે કેટલા ટકા લોકો ખેતીમાં રોકાયેલા છે?",
         answer: "આશરે 60%",
@@ -1660,7 +1660,7 @@ var socialsciOneLineDB = [
     {
         chapter: 10,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 3,
+        questionNumber: 3,
         format: "one_mark",
         question: "ભારતની રાષ્ટ્રીય આવકમાં કૃષિનો ફાળો આશરે કેટલા ટકા છે?",
         answer: "આશરે 22%",
@@ -1669,7 +1669,7 @@ var socialsciOneLineDB = [
     {
         chapter: 10,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 4,
+        questionNumber: 4,
         format: "one_mark",
         question: "જંગલોમાં વૃક્ષો કાપીને કે સળગાવીને જમીન સાફ કરી કરવામાં આવતી ખેતીને શું કહે છે?",
         answer: "સ્થળાંતરિત (ઝૂમ) ખેતી",
@@ -1678,7 +1678,7 @@ var socialsciOneLineDB = [
     {
         chapter: 10,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 5,
+        questionNumber: 5,
         format: "one_mark",
         question: "ચોમાસાની ઋતુમાં લેવામાં આવતા પાકને કયો પાક કહેવાય છે?",
         answer: "ખરીફ પાક",
@@ -1687,7 +1687,7 @@ var socialsciOneLineDB = [
     {
         chapter: 10,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 6,
+        questionNumber: 6,
         format: "one_mark",
         question: "શિયાળાની ઋતુમાં લેવામાં આવતા પાકને કયો પાક કહેવાય છે?",
         answer: "રવિ પાક",
@@ -1696,7 +1696,7 @@ var socialsciOneLineDB = [
     {
         chapter: 10,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 7,
+        questionNumber: 7,
         format: "one_mark",
         question: "ઉનાળાની ઋતુમાં લેવામાં આવતા પાકને કયો પાક કહેવાય છે?",
         answer: "જાયદ પાક",
@@ -1705,7 +1705,7 @@ var socialsciOneLineDB = [
     {
         chapter: 10,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 8,
+        questionNumber: 8,
         format: "one_mark",
         question: "ડાંગર (ચોખા) ના ઉત્પાદનમાં વિશ્વમાં ભારત કયા ક્રમે છે?",
         answer: "બીજા ક્રમે (ચીન પછી)",
@@ -1714,7 +1714,7 @@ var socialsciOneLineDB = [
     {
         chapter: 10,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 9,
+        questionNumber: 9,
         format: "one_mark",
         question: "ભારતનું કયું રાજ્ય 'ઘઉંના કોઠાર' તરીકે ઓળખાય છે?",
         answer: "પંજાબ",
@@ -1723,7 +1723,7 @@ var socialsciOneLineDB = [
     {
         chapter: 10,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 10,
+        questionNumber: 10,
         format: "one_mark",
         question: "જુવાર, બાજરી, મકાઈ અને જવ એ કયા પ્રકારનું અનાજ ગણાય છે?",
         answer: "જાડા અનાજ (Millets)",
@@ -1732,7 +1732,7 @@ var socialsciOneLineDB = [
     {
         chapter: 10,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 11,
+        questionNumber: 11,
         format: "one_mark",
         question: "બાજરીના ઉત્પાદનમાં ભારતમાં કયું રાજ્ય પ્રથમ ક્રમે છે?",
         answer: "રાજસ્થાન",
@@ -1741,7 +1741,7 @@ var socialsciOneLineDB = [
     {
         chapter: 10,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 12,
+        questionNumber: 12,
         format: "one_mark",
         question: "કઠોળનો પાક લેવાથી જમીનમાં કયા તત્ત્વની પુનઃસ્થાપના થાય છે?",
         answer: "નાઇટ્રોજન",
@@ -1750,7 +1750,7 @@ var socialsciOneLineDB = [
     {
         chapter: 10,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 13,
+        questionNumber: 13,
         format: "one_mark",
         question: "મગફળીના ઉત્પાદનમાં ભારતમાં કયું રાજ્ય અગ્રેસર (પ્રથમ) છે?",
         answer: "ગુજરાત",
@@ -1759,7 +1759,7 @@ var socialsciOneLineDB = [
     {
         chapter: 10,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 14,
+        questionNumber: 14,
         format: "one_mark",
         question: "ગુજરાતમાં કયો જિલ્લો મગફળીના ઉત્પાદનમાં સૌથી આગળ છે?",
         answer: "જૂનાગઢ",
@@ -1768,7 +1768,7 @@ var socialsciOneLineDB = [
     {
         chapter: 10,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 15,
+        questionNumber: 15,
         format: "one_mark",
         question: "ભારતમાં કયો પાક 'સફેદ સોના' (White Gold) તરીકે ઓળખાય છે?",
         answer: "કપાસ",
@@ -1777,7 +1777,7 @@ var socialsciOneLineDB = [
     {
         chapter: 10,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 16,
+        questionNumber: 16,
         format: "one_mark",
         question: "ગુજરાતનો કયો પ્રદેશ ઉત્તમ પ્રકારના કપાસ માટે જાણીતો છે?",
         answer: "કાનમ પ્રદેશ",
@@ -1786,7 +1786,7 @@ var socialsciOneLineDB = [
     {
         chapter: 10,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 17,
+        questionNumber: 17,
         format: "one_mark",
         question: "ચા ના ઉત્પાદનમાં વિશ્વમાં કયો દેશ પ્રથમ ક્રમે છે?",
         answer: "ચીન",
@@ -1795,7 +1795,7 @@ var socialsciOneLineDB = [
     {
         chapter: 10,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 18,
+        questionNumber: 18,
         format: "one_mark",
         question: "ખેતીના વિકાસ માટે સુધારેલા બિયારણો, રાસાયણિક ખાતરો અને સિંચાઈના વધેલા ઉપયોગને શું કહે છે?",
         answer: "હરિયાળી ક્રાંતિ",
@@ -1804,7 +1804,7 @@ var socialsciOneLineDB = [
     {
         chapter: 10,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 19,
+        questionNumber: 19,
         format: "one_mark",
         question: "ભારતમાં 'ભૂદાન યજ્ઞ' ની શરૂઆત કોણે કરી હતી?",
         answer: "વિનોબા ભાવે",
@@ -1813,7 +1813,7 @@ var socialsciOneLineDB = [
     {
         chapter: 10,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 20,
+        questionNumber: 20,
         format: "one_mark",
         question: "દિવેલા (એરંડા) ના ઉત્પાદનમાં વિશ્વમાં કયો દેશ પ્રથમ ક્રમે છે?",
         answer: "ભારત",
@@ -1824,7 +1824,7 @@ var socialsciOneLineDB = [
     {
         chapter: 11,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 1,
+        questionNumber: 1,
         format: "one_mark",
         question: "પૃથ્વી પર જળ સંસાધનનો મુખ્ય (મૂળ) સ્ત્રોત કયો છે?",
         answer: "વરસાદ (વૃષ્ટિ)",
@@ -1833,7 +1833,7 @@ var socialsciOneLineDB = [
     {
         chapter: 11,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 2,
+        questionNumber: 2,
         format: "one_mark",
         question: "ભારતમાં પૃષ્ઠીય જળ (સપાટી પરના જળ) નો મુખ્ય સ્ત્રોત કયો છે?",
         answer: "નદીઓ",
@@ -1842,7 +1842,7 @@ var socialsciOneLineDB = [
     {
         chapter: 11,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 3,
+        questionNumber: 3,
         format: "one_mark",
         question: "ભૂમિગત જળનો સૌથી વધુ ઉપયોગ કયા કાર્ય માટે થાય છે?",
         answer: "સિંચાઈ માટે",
@@ -1851,7 +1851,7 @@ var socialsciOneLineDB = [
     {
         chapter: 11,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 4,
+        questionNumber: 4,
         format: "one_mark",
         question: "ભારતમાં સિંચાઈના મુખ્ય માધ્યમો કયા છે?",
         answer: "કૂવા અને ટ્યુબવેલ",
@@ -1860,7 +1860,7 @@ var socialsciOneLineDB = [
     {
         chapter: 11,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 5,
+        questionNumber: 5,
         format: "one_mark",
         question: "બીજી સદીમાં કાવેરી નદી પર કઈ પ્રખ્યાત નહેરનું નિર્માણ થયું હતું?",
         answer: "ગ્રાન્ડ એનિકટ નહેર",
@@ -1869,7 +1869,7 @@ var socialsciOneLineDB = [
     {
         chapter: 11,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 6,
+        questionNumber: 6,
         format: "one_mark",
         question: "ઈ.સ. 1882 માં ઉત્તર પ્રદેશમાં કઈ નહેરનું નિર્માણ કરવામાં આવ્યું હતું?",
         answer: "પૂર્વીય યમુના નહેર",
@@ -1878,7 +1878,7 @@ var socialsciOneLineDB = [
     {
         chapter: 11,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 7,
+        questionNumber: 7,
         format: "one_mark",
         question: "નદી ખીણો સાથે સંકળાયેલા વિવિધ પ્રોજેક્ટ્સને શું કહેવામાં આવે છે?",
         answer: "બહુહેતુક યોજના",
@@ -1887,7 +1887,7 @@ var socialsciOneLineDB = [
     {
         chapter: 11,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 8,
+        questionNumber: 8,
         format: "one_mark",
         question: "ભાખરા-નાંગલ બહુહેતુક યોજના કઈ નદી પર આવેલી છે?",
         answer: "સતલુજ નદી",
@@ -1896,7 +1896,7 @@ var socialsciOneLineDB = [
     {
         chapter: 11,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 9,
+        questionNumber: 9,
         format: "one_mark",
         question: "કોસી બહુહેતુક યોજના કઈ નદી પર છે અને તેનો લાભ કયા રાજ્યને મળે છે?",
         answer: "કોસી નદી (બિહાર રાજ્યને)",
@@ -1905,7 +1905,7 @@ var socialsciOneLineDB = [
     {
         chapter: 11,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 10,
+        questionNumber: 10,
         format: "one_mark",
         question: "હીરાકુડ યોજના કઈ નદી પર બનાવવામાં આવી છે?",
         answer: "મહાનદી પર",
@@ -1914,7 +1914,7 @@ var socialsciOneLineDB = [
     {
         chapter: 11,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 11,
+        questionNumber: 11,
         format: "one_mark",
         question: "નાગાર્જુન સાગર યોજના કઈ નદી પર આવેલી છે?",
         answer: "કૃષ્ણા નદી પર",
@@ -1923,7 +1923,7 @@ var socialsciOneLineDB = [
     {
         chapter: 11,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 12,
+        questionNumber: 12,
         format: "one_mark",
         question: "ગુજરાતની સૌથી મોટી બહુહેતુક યોજના કઈ છે?",
         answer: "સરદાર સરોવર યોજના (નર્મદા નદી પર)",
@@ -1932,7 +1932,7 @@ var socialsciOneLineDB = [
     {
         chapter: 11,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 13,
+        questionNumber: 13,
         format: "one_mark",
         question: "ઉકાઈ અને કાકરાપાર યોજનાઓ ગુજરાતની કઈ નદી પર આવેલી છે?",
         answer: "તાપી નદી પર",
@@ -1941,7 +1941,7 @@ var socialsciOneLineDB = [
     {
         chapter: 11,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 14,
+        questionNumber: 14,
         format: "one_mark",
         question: "કડાણા અને વણાકબોરી યોજનાઓ કઈ નદી પર છે?",
         answer: "મહી નદી પર",
@@ -1950,7 +1950,7 @@ var socialsciOneLineDB = [
     {
         chapter: 11,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 15,
+        questionNumber: 15,
         format: "one_mark",
         question: "સાબરમતી નદી પર કઈ સિંચાઈ યોજના આવેલી છે?",
         answer: "ધરોઈ યોજના",
@@ -1959,7 +1959,7 @@ var socialsciOneLineDB = [
     {
         chapter: 11,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 16,
+        questionNumber: 16,
         format: "one_mark",
         question: "દાંતીવાડા યોજના કઈ નદી પર બનાવવામાં આવી છે?",
         answer: "બનાસ નદી પર",
@@ -1968,7 +1968,7 @@ var socialsciOneLineDB = [
     {
         chapter: 11,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 17,
+        questionNumber: 17,
         format: "one_mark",
         question: "વરસાદના પાણીને રોકીને એકઠું કરવાની પદ્ધતિને શું કહે છે?",
         answer: "વૃષ્ટિજળ સંચય (Rainwater Harvesting)",
@@ -1977,7 +1977,7 @@ var socialsciOneLineDB = [
     {
         chapter: 11,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 18,
+        questionNumber: 18,
         format: "one_mark",
         question: "વૃષ્ટિજળ સંચયનો મુખ્ય ઉદ્દેશ શું છે?",
         answer: "ભૂગર્ભજળની સપાટી ઊંચી લાવવી",
@@ -1986,7 +1986,7 @@ var socialsciOneLineDB = [
     {
         chapter: 11,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 19,
+        questionNumber: 19,
         format: "one_mark",
         question: "જળપ્લાવિત ક્ષેત્ર (Watershed) એ કયા પ્રકારનો એકમ છે?",
         answer: "પ્રાકૃતિક એકમ",
@@ -1995,7 +1995,7 @@ var socialsciOneLineDB = [
     {
         chapter: 11,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 20,
+        questionNumber: 20,
         format: "one_mark",
         question: "જળ એ કેવા પ્રકારનું સંસાધન છે?",
         answer: "મર્યાદિત સંસાધન",
@@ -2006,7 +2006,7 @@ var socialsciOneLineDB = [
     {
         chapter: 12,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 1,
+        questionNumber: 1,
         format: "one_mark",
         question: "આધુનિક ઔદ્યોગિક વિકાસના પાયામાં કયું ખનીજ રહેલું છે?",
         answer: "લોખંડ",
@@ -2015,7 +2015,7 @@ var socialsciOneLineDB = [
     {
         chapter: 12,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 2,
+        questionNumber: 2,
         format: "one_mark",
         question: "કઈ ધાતુ વજનમાં હલકી, મજબૂત અને વિદ્યુતની સુવાહક છે?",
         answer: "ઍલ્યુમિનિયમ",
@@ -2024,7 +2024,7 @@ var socialsciOneLineDB = [
     {
         chapter: 12,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 3,
+        questionNumber: 3,
         format: "one_mark",
         question: "ઍલ્યુમિનિયમ કઈ કાચી ધાતુમાંથી મેળવવામાં આવે છે?",
         answer: "બોક્સાઇટમાંથી",
@@ -2033,7 +2033,7 @@ var socialsciOneLineDB = [
     {
         chapter: 12,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 4,
+        questionNumber: 4,
         format: "one_mark",
         question: "તાંબામાં જસત ભેળવવાથી કઈ ધાતુ બને છે?",
         answer: "પિત્તળ",
@@ -2042,7 +2042,7 @@ var socialsciOneLineDB = [
     {
         chapter: 12,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 5,
+        questionNumber: 5,
         format: "one_mark",
         question: "તાંબામાં કલાઈ ભેળવવાથી કઈ ધાતુ બને છે?",
         answer: "કાંસું",
@@ -2051,7 +2051,7 @@ var socialsciOneLineDB = [
     {
         chapter: 12,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 6,
+        questionNumber: 6,
         format: "one_mark",
         question: "સીસાની કાચી ધાતુ કયા નામે ઓળખાય છે?",
         answer: "ગેલેના",
@@ -2060,7 +2060,7 @@ var socialsciOneLineDB = [
     {
         chapter: 12,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 7,
+        questionNumber: 7,
         format: "one_mark",
         question: "વિદ્યુતનું અવાહક, અગ્નિરોધક અને અતૂટ એવું કયું ખનીજ છે જે ઇસ્ત્રીમાં વપરાય છે?",
         answer: "અબરખ",
@@ -2069,7 +2069,7 @@ var socialsciOneLineDB = [
     {
         chapter: 12,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 8,
+        questionNumber: 8,
         format: "one_mark",
         question: "કાર્બન તત્ત્વના આધારે કોલસાના કેટલા પ્રકાર પડે છે?",
         answer: "ચાર (4)",
@@ -2078,7 +2078,7 @@ var socialsciOneLineDB = [
     {
         chapter: 12,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 9,
+        questionNumber: 9,
         format: "one_mark",
         question: "સૌથી શ્રેષ્ઠ અને ઉચ્ચ કક્ષાનો કોલસો કયો છે?",
         answer: "એન્થ્રેસાઇટ",
@@ -2087,7 +2087,7 @@ var socialsciOneLineDB = [
     {
         chapter: 12,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 10,
+        questionNumber: 10,
         format: "one_mark",
         question: "ગુજરાતમાં કચ્છના પાનધ્રો ક્ષેત્રમાંથી કયા પ્રકારનો કોલસો મળે છે?",
         answer: "લિગ્નાઇટ કોલસો",
@@ -2096,7 +2096,7 @@ var socialsciOneLineDB = [
     {
         chapter: 12,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 11,
+        questionNumber: 11,
         format: "one_mark",
         question: "ભારતમાં સૌપ્રથમ ખનીજ તેલ શોધવા માટેનો કૂવો ક્યાં ખોદવામાં આવ્યો હતો?",
         answer: "અસમમાં (1866 માં)",
@@ -2105,7 +2105,7 @@ var socialsciOneLineDB = [
     {
         chapter: 12,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 12,
+        questionNumber: 12,
         format: "one_mark",
         question: "ગુજરાતમાં સૌપ્રથમ ખનીજ તેલ ક્યાંથી મળી આવ્યું હતું?",
         answer: "લુણેજ (આણંદ જિલ્લો)",
@@ -2114,7 +2114,7 @@ var socialsciOneLineDB = [
     {
         chapter: 12,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 13,
+        questionNumber: 13,
         format: "one_mark",
         question: "ગુજરાતનું સૌથી મોટું ખનીજ તેલ ક્ષેત્ર કયું છે?",
         answer: "અંકલેશ્વર",
@@ -2123,7 +2123,7 @@ var socialsciOneLineDB = [
     {
         chapter: 12,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 14,
+        questionNumber: 14,
         format: "one_mark",
         question: "મુંબઈના દરિયાકિનારાથી 160 કિમી દૂર આવેલું ખનીજ તેલ ક્ષેત્ર કયા નામે ઓળખાય છે?",
         answer: "બોમ્બે હાઈ",
@@ -2132,7 +2132,7 @@ var socialsciOneLineDB = [
     {
         chapter: 12,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 15,
+        questionNumber: 15,
         format: "one_mark",
         question: "બોમ્બે હાઈ ખાતે ખનીજ તેલ કાઢવા માટે કયું પ્લેટફોર્મ બનાવવામાં આવ્યું છે?",
         answer: "સાગર સમ્રાટ",
@@ -2141,7 +2141,7 @@ var socialsciOneLineDB = [
     {
         chapter: 12,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 16,
+        questionNumber: 16,
         format: "one_mark",
         question: "ગુજરાતમાં પાટણ જિલ્લાના કયા ગામે સૌથી મોટો સોલાર પાર્ક (સૌર ઊર્જા) આવેલો છે?",
         answer: "ચારણકા",
@@ -2150,7 +2150,7 @@ var socialsciOneLineDB = [
     {
         chapter: 12,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 17,
+        questionNumber: 17,
         format: "one_mark",
         question: "પવન ઊર્જા (Wind Energy) ઉત્પન્ન કરવામાં ભારત વિશ્વમાં કયા ક્રમે છે?",
         answer: "પાંચમા ક્રમે",
@@ -2159,7 +2159,7 @@ var socialsciOneLineDB = [
     {
         chapter: 12,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 18,
+        questionNumber: 18,
         format: "one_mark",
         question: "ગુજરાતમાં પવન ઊર્જા માટેનો સૌથી મોટો વિન્ડ ફાર્મ ક્યાં આવેલો છે?",
         answer: "જામનગરના લાંબા ખાતે",
@@ -2168,7 +2168,7 @@ var socialsciOneLineDB = [
     {
         chapter: 12,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 19,
+        questionNumber: 19,
         format: "one_mark",
         question: "બાયોગેસ પ્લાન્ટમાં કચરો સડવાથી મુખ્યત્વે કયો ગેસ ઉત્પન્ન થાય છે?",
         answer: "મિથેન ગેસ",
@@ -2177,7 +2177,7 @@ var socialsciOneLineDB = [
     {
         chapter: 12,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 20,
+        questionNumber: 20,
         format: "one_mark",
         question: "પૃથ્વીના પેટાળમાં રહેલી ગરમીથી જે ઊર્જા મેળવવામાં આવે છે તેને શું કહે છે?",
         answer: "ભૂતાપીય ઊર્જા (Geothermal Energy)",
@@ -2188,7 +2188,7 @@ var socialsciOneLineDB = [
     {
         chapter: 13,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 1,
+        questionNumber: 1,
         format: "one_mark",
         question: "કાચા માલના સ્ત્રોતના આધારે ઉદ્યોગોને મુખ્ય કયા બે ભાગમાં વહેંચવામાં આવે છે?",
         answer: "કૃષિ આધારિત અને ખનીજ આધારિત",
@@ -2197,7 +2197,7 @@ var socialsciOneLineDB = [
     {
         chapter: 13,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 2,
+        questionNumber: 2,
         format: "one_mark",
         question: "ભારતની ઔદ્યોગિક અર્થવ્યવસ્થામાં કયો ઉદ્યોગ સૌથી વધુ રોજગારી પૂરી પાડે છે?",
         answer: "સુતરાઉ કાપડ ઉદ્યોગ",
@@ -2206,7 +2206,7 @@ var socialsciOneLineDB = [
     {
         chapter: 13,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 3,
+        questionNumber: 3,
         format: "one_mark",
         question: "ભારતના કયા શહેરને સુતરાઉ કાપડની 'વિશ્વ મહાનગરી' (Cottonopolis) કહે છે?",
         answer: "મુંબઈને",
@@ -2215,7 +2215,7 @@ var socialsciOneLineDB = [
     {
         chapter: 13,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 4,
+        questionNumber: 4,
         format: "one_mark",
         question: "ગુજરાતનું કયું શહેર 'પૂર્વના માંચેસ્ટર' અને 'ડેનિમ સિટી ઓફ ઇન્ડિયા' તરીકે ઓળખાય છે?",
         answer: "અમદાવાદ",
@@ -2224,7 +2224,7 @@ var socialsciOneLineDB = [
     {
         chapter: 13,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 5,
+        questionNumber: 5,
         format: "one_mark",
         question: "શણ (Jute) અને શણમાંથી બનતી ચીજવસ્તુઓના ઉત્પાદનમાં ભારત વિશ્વમાં કયા ક્રમે છે?",
         answer: "પ્રથમ ક્રમે",
@@ -2233,7 +2233,7 @@ var socialsciOneLineDB = [
     {
         chapter: 13,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 6,
+        questionNumber: 6,
         format: "one_mark",
         question: "ભારતમાં શણની મોટાભાગની મિલો કઈ નદીના કિનારે આવેલી છે?",
         answer: "હુગલી નદીના કિનારે (પશ્ચિમ બંગાળ)",
@@ -2242,7 +2242,7 @@ var socialsciOneLineDB = [
     {
         chapter: 13,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 7,
+        questionNumber: 7,
         format: "one_mark",
         question: "ભારતમાં કેટલા પ્રકારના રેશમનું ઉત્પાદન થાય છે?",
         answer: "ચાર (મલબેરી, ટસર, એરી અને મૂંગા)",
@@ -2251,7 +2251,7 @@ var socialsciOneLineDB = [
     {
         chapter: 13,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 8,
+        questionNumber: 8,
         format: "one_mark",
         question: "ખાંડ ઉદ્યોગના કારખાના શેરડી ઉત્પાદક ક્ષેત્રોની નજીક જ કેમ સ્થાપવામાં આવે છે?",
         answer: "કારણ કે શેરડી કાપ્યા પછી 24 કલાકમાં તેનું પીલાણ ન થાય તો રસ સુકાઈ જાય છે",
@@ -2260,7 +2260,7 @@ var socialsciOneLineDB = [
     {
         chapter: 13,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 9,
+        questionNumber: 9,
         format: "one_mark",
         question: "પોચું લાકડું, વાંસ, ઘાસ અને શેરડીના કૂચાનો ઉપયોગ કયા ઉદ્યોગમાં કાચા માલ તરીકે થાય છે?",
         answer: "કાગળ ઉદ્યોગમાં",
@@ -2269,7 +2269,7 @@ var socialsciOneLineDB = [
     {
         chapter: 13,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 10,
+        questionNumber: 10,
         format: "one_mark",
         question: "કયા ઉદ્યોગને અન્ય તમામ ઉદ્યોગોનો 'પાયાનો ઉદ્યોગ' કહેવામાં આવે છે?",
         answer: "લોખંડ-પોલાદ ઉદ્યોગ",
@@ -2278,7 +2278,7 @@ var socialsciOneLineDB = [
     {
         chapter: 13,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 11,
+        questionNumber: 11,
         format: "one_mark",
         question: "ભારતમાં લોખંડ-પોલાદનું પ્રથમ સફળ કારખાનું ક્યાં સ્થપાયું હતું?",
         answer: "જમશેદપુરમાં",
@@ -2287,7 +2287,7 @@ var socialsciOneLineDB = [
     {
         chapter: 13,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 12,
+        questionNumber: 12,
         format: "one_mark",
         question: "ટાટા સિવાયના ભારતના મોટાભાગના લોખંડ-પોલાદના કારખાનાઓનું સંચાલન કઈ સરકારી સંસ્થા કરે છે?",
         answer: "SAIL (સ્ટીલ ઓથોરિટી ઓફ ઇન્ડિયા લિમિટેડ)",
@@ -2296,7 +2296,7 @@ var socialsciOneLineDB = [
     {
         chapter: 13,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 13,
+        questionNumber: 13,
         format: "one_mark",
         question: "ભારતમાં તાંબુ ગાળણ (Copper Smelting) ઉદ્યોગનો પ્રથમ એકમ ક્યાં સ્થપાયો હતો?",
         answer: "ઘાટશિલા (ઝારખંડ)",
@@ -2305,7 +2305,7 @@ var socialsciOneLineDB = [
     {
         chapter: 13,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 14,
+        questionNumber: 14,
         format: "one_mark",
         question: "ભારતમાં રાસાયણિક ખાતરનું પ્રથમ કારખાનું 1906 માં ક્યાં સ્થપાયું હતું?",
         answer: "રાનીપેટ (તમિલનાડુ)",
@@ -2314,7 +2314,7 @@ var socialsciOneLineDB = [
     {
         chapter: 13,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 15,
+        questionNumber: 15,
         format: "one_mark",
         question: "સિમેન્ટ બનાવવા માટે મુખ્ય કાચો માલ કયો છે?",
         answer: "ચૂનાનો પથ્થર, કોલસો અને ચિરોડી (જિપ્સમ)",
@@ -2323,7 +2323,7 @@ var socialsciOneLineDB = [
     {
         chapter: 13,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 16,
+        questionNumber: 16,
         format: "one_mark",
         question: "ભારતમાં રેલવેના મુસાફરોના ડબ્બા (Coaches) ક્યાં બને છે?",
         answer: "પેરામ્બુર, બેંગલુરુ અને કપૂરથલા ખાતે",
@@ -2332,7 +2332,7 @@ var socialsciOneLineDB = [
     {
         chapter: 13,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 17,
+        questionNumber: 17,
         format: "one_mark",
         question: "ભારતની 'સિલિકોન વેલી' (Silicon Valley) કયા શહેરને કહેવામાં આવે છે?",
         answer: "બેંગલુરુ",
@@ -2341,7 +2341,7 @@ var socialsciOneLineDB = [
     {
         chapter: 13,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 18,
+        questionNumber: 18,
         format: "one_mark",
         question: "ઔદ્યોગિક પ્રદૂષણને મુખ્ય કેટલા પ્રકારમાં વહેંચવામાં આવે છે?",
         answer: "ચાર (હવા, જળ, ભૂમિ અને ધ્વનિ પ્રદૂષણ)",
@@ -2350,7 +2350,7 @@ var socialsciOneLineDB = [
     {
         chapter: 13,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 19,
+        questionNumber: 19,
         format: "one_mark",
         question: "હવાનું પ્રદૂષણ અટકાવવા કારખાનાની ચિમનીઓમાં શું લગાવવું જોઈએ?",
         answer: "સ્ક્રબર, ફિલ્ટર અને પ્રેસિપિટેટર્સ",
@@ -2359,7 +2359,7 @@ var socialsciOneLineDB = [
     {
         chapter: 13,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 20,
+        questionNumber: 20,
         format: "one_mark",
         question: "મશીનો અને વાહનોથી થતું ધ્વનિ પ્રદૂષણ (અવાજ) ઘટાડવા શું કરવું જોઈએ?",
         answer: "સાયલેન્સર લગાવવા જોઈએ",
@@ -2370,7 +2370,7 @@ var socialsciOneLineDB = [
     {
         chapter: 14,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 1,
+        questionNumber: 1,
         format: "one_mark",
         question: "ભારતમાં રાષ્ટ્રીય ધોરીમાર્ગો કોના દ્વારા બનાવવામાં અને જાળવવામાં આવે છે?",
         answer: "કેન્દ્ર સરકાર (CPWD) દ્વારા",
@@ -2379,7 +2379,7 @@ var socialsciOneLineDB = [
     {
         chapter: 14,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 2,
+        questionNumber: 2,
         format: "one_mark",
         question: "ભારતનો સૌથી લાંબો રાષ્ટ્રીય ધોરીમાર્ગ કયો છે?",
         answer: "ધોરીમાર્ગ નં. 44",
@@ -2388,7 +2388,7 @@ var socialsciOneLineDB = [
     {
         chapter: 14,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 3,
+        questionNumber: 3,
         format: "one_mark",
         question: "રાષ્ટ્રીય ધોરીમાર્ગ નં. 44 કયા બે સ્થળોને જોડે છે?",
         answer: "શ્રીનગરથી કન્યાકુમારીને",
@@ -2397,7 +2397,7 @@ var socialsciOneLineDB = [
     {
         chapter: 14,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 4,
+        questionNumber: 4,
         format: "one_mark",
         question: "દિલ્હી, મુંબઈ, ચેન્નઈ અને કોલકાતાને જોડતો ધોરીમાર્ગ પ્રોજેક્ટ કયા નામે ઓળખાય છે?",
         answer: "સ્વર્ણિમ ચતુર્ભુજ યોજના",
@@ -2406,7 +2406,7 @@ var socialsciOneLineDB = [
     {
         chapter: 14,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 5,
+        questionNumber: 5,
         format: "one_mark",
         question: "દેશની સરહદો અને દુર્ગમ વિસ્તારોમાં રસ્તાઓ બનાવવાનું કામ કોણ કરે છે?",
         answer: "બોર્ડર રોડ ઓર્ગેનાઇઝેશન (BRO)",
@@ -2415,7 +2415,7 @@ var socialsciOneLineDB = [
     {
         chapter: 14,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 6,
+        questionNumber: 6,
         format: "one_mark",
         question: "ભારતમાં રેલવેની સૌપ્રથમ શરૂઆત કયા વર્ષમાં થઈ હતી?",
         answer: "ઈ.સ. 1853 માં",
@@ -2424,7 +2424,7 @@ var socialsciOneLineDB = [
     {
         chapter: 14,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 7,
+        questionNumber: 7,
         format: "one_mark",
         question: "ભારતની પ્રથમ ટ્રેન કયા બે સ્ટેશનો વચ્ચે દોડી હતી?",
         answer: "મુંબઈ અને થાણા વચ્ચે",
@@ -2433,7 +2433,7 @@ var socialsciOneLineDB = [
     {
         chapter: 14,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 8,
+        questionNumber: 8,
         format: "one_mark",
         question: "ભારતીય રેલવેમાં બે પાટા વચ્ચેનું અંતર 1.676 મીટર હોય તો તેને કયો ગેજ કહેવાય?",
         answer: "બ્રોડ ગેજ (Broad Gauge)",
@@ -2442,7 +2442,7 @@ var socialsciOneLineDB = [
     {
         chapter: 14,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 9,
+        questionNumber: 9,
         format: "one_mark",
         question: "રેલવેમાં જો બે પાટા વચ્ચેનું અંતર બરાબર 1 મીટર હોય તો તેને શું કહેવાય?",
         answer: "મીટર ગેજ (Meter Gauge)",
@@ -2451,7 +2451,7 @@ var socialsciOneLineDB = [
     {
         chapter: 14,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 10,
+        questionNumber: 10,
         format: "one_mark",
         question: "રાષ્ટ્રીય જળમાર્ગ નં. 1 કઈ નદી પર અને ક્યાંથી ક્યાં સુધી આવેલો છે?",
         answer: "ગંગા નદી પર (હલ્દિયાથી અલ્હાબાદ)",
@@ -2460,7 +2460,7 @@ var socialsciOneLineDB = [
     {
         chapter: 14,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 11,
+        questionNumber: 11,
         format: "one_mark",
         question: "બ્રહ્મપુત્રા નદી પર ધુબરીથી સાદિયા સુધી કયો જળમાર્ગ આવેલો છે?",
         answer: "રાષ્ટ્રીય જળમાર્ગ નં. 2",
@@ -2469,7 +2469,7 @@ var socialsciOneLineDB = [
     {
         chapter: 14,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 12,
+        questionNumber: 12,
         format: "one_mark",
         question: "પ્રવાહી પદાર્થો અને કુદરતી વાયુના પરિવહન માટે કયો માર્ગ સૌથી અનુકૂળ અને સસ્તો છે?",
         answer: "પાઇપલાઇન",
@@ -2478,7 +2478,7 @@ var socialsciOneLineDB = [
     {
         chapter: 14,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 13,
+        questionNumber: 13,
         format: "one_mark",
         question: "પર્વતીય કે દુર્ગમ વિસ્તારોમાં હવામાં લટકતા માર્ગને શું કહેવાય છે?",
         answer: "રજ્જુમાર્ગ (રોપ-વે)",
@@ -2487,7 +2487,7 @@ var socialsciOneLineDB = [
     {
         chapter: 14,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 14,
+        questionNumber: 14,
         format: "one_mark",
         question: "ગુજરાતમાં ગિરનાર, પાવાગઢ, અંબાજી અને સાપુતારામાં પ્રવાસીઓ માટે કઈ સુવિધા છે?",
         answer: "રોપ-વે (રજ્જુમાર્ગ)",
@@ -2496,7 +2496,7 @@ var socialsciOneLineDB = [
     {
         chapter: 14,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 15,
+        questionNumber: 15,
         format: "one_mark",
         question: "ભારતમાં ઓએનજીસી (ONGC) અને રાજ્ય સરકારોને હેલિકોપ્ટર સેવા પૂરી પાડતી સંસ્થા કઈ છે?",
         answer: "પવન હંસ",
@@ -2505,7 +2505,7 @@ var socialsciOneLineDB = [
     {
         chapter: 14,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 16,
+        questionNumber: 16,
         format: "one_mark",
         question: "ટેલિફોન, મોબાઈલ, ઈ-મેલ અને ટપાલ એ કેવા પ્રકારનો સંદેશાવ્યવહાર છે?",
         answer: "વ્યક્તિગત સંદેશાવ્યવહાર",
@@ -2514,7 +2514,7 @@ var socialsciOneLineDB = [
     {
         chapter: 14,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 17,
+        questionNumber: 17,
         format: "one_mark",
         question: "લાખો લોકો સુધી એકસાથે માહિતી પહોંચાડવા માટે કયા સંદેશાવ્યવહારનો ઉપયોગ થાય છે?",
         answer: "સામૂહિક સંદેશાવ્યવહાર",
@@ -2523,7 +2523,7 @@ var socialsciOneLineDB = [
     {
         chapter: 14,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 18,
+        questionNumber: 18,
         format: "one_mark",
         question: "દેશની સરહદોની અંદર (જુદા-જુદા રાજ્યો વચ્ચે) થતા વ્યાપારને શું કહેવાય છે?",
         answer: "આંતરિક વ્યાપાર",
@@ -2532,7 +2532,7 @@ var socialsciOneLineDB = [
     {
         chapter: 14,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 19,
+        questionNumber: 19,
         format: "one_mark",
         question: "કોઈપણ દેશની આયાત અને નિકાસના મૂલ્ય વચ્ચેના તફાવતને શું કહેવાય છે?",
         answer: "વ્યાપાર તુલા",
@@ -2541,7 +2541,7 @@ var socialsciOneLineDB = [
     {
         chapter: 14,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 20,
+        questionNumber: 20,
         format: "one_mark",
         question: "જો દેશમાં આયાત કરતાં નિકાસ વધુ હોય, તો તેને કેવી વ્યાપાર તુલા કહેવાય?",
         answer: "હકારાત્મક વ્યાપાર તુલા (Positive)",
@@ -2552,7 +2552,7 @@ var socialsciOneLineDB = [
     {
         chapter: 15,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 1,
+        questionNumber: 1,
         format: "one_mark",
         question: "ભારત કેવા પ્રકારનું અર્થતંત્ર ધરાવતો દેશ છે?",
         answer: "વિકાસશીલ",
@@ -2561,7 +2561,7 @@ var socialsciOneLineDB = [
     {
         chapter: 15,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 2,
+        questionNumber: 2,
         format: "one_mark",
         question: "દેશની કુલ આવકને કયા નામે ઓળખવામાં આવે છે?",
         answer: "રાષ્ટ્રીય આવક",
@@ -2570,7 +2570,7 @@ var socialsciOneLineDB = [
     {
         chapter: 15,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 3,
+        questionNumber: 3,
         format: "one_mark",
         question: "દેશની કુલ રાષ્ટ્રીય આવકને દેશની કુલ વસ્તી વડે ભાગવાથી શું મળે છે?",
         answer: "માથાદીઠ આવક",
@@ -2579,7 +2579,7 @@ var socialsciOneLineDB = [
     {
         chapter: 15,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 4,
+        questionNumber: 4,
         format: "one_mark",
         question: "આર્થિક વિકાસ એ કેવી પ્રક્રિયા છે?",
         answer: "સતત ચાલતી પ્રક્રિયા",
@@ -2588,7 +2588,7 @@ var socialsciOneLineDB = [
     {
         chapter: 15,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 5,
+        questionNumber: 5,
         format: "one_mark",
         question: "વિકાસશીલ દેશોનો મુખ્ય વ્યવસાય કયો હોય છે?",
         answer: "ખેતી (કૃષિ)",
@@ -2597,7 +2597,7 @@ var socialsciOneLineDB = [
     {
         chapter: 15,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 6,
+        questionNumber: 6,
         format: "one_mark",
         question: "અમેરિકા અને જાપાન જેવા વિકસિત દેશોની આવકમાં થતા વધારાને શું કહેવાય છે?",
         answer: "આર્થિક વૃદ્ધિ",
@@ -2606,7 +2606,7 @@ var socialsciOneLineDB = [
     {
         chapter: 15,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 7,
+        questionNumber: 7,
         format: "one_mark",
         question: "આવક મેળવવાના કે ખર્ચ કરવાના હેતુથી કરવામાં આવતી પ્રવૃત્તિને શું કહે છે?",
         answer: "આર્થિક પ્રવૃત્તિ",
@@ -2615,7 +2615,7 @@ var socialsciOneLineDB = [
     {
         chapter: 15,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 8,
+        questionNumber: 8,
         format: "one_mark",
         question: "માતા પોતાના બાળકને ઉછેરે છે - આ કઈ પ્રવૃત્તિ ગણાય?",
         answer: "બિનઆર્થિક પ્રવૃત્તિ",
@@ -2624,7 +2624,7 @@ var socialsciOneLineDB = [
     {
         chapter: 15,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 9,
+        questionNumber: 9,
         format: "one_mark",
         question: "અર્થતંત્રના પ્રાથમિક ક્ષેત્રમાં કઈ પ્રવૃત્તિનો સમાવેશ થાય છે?",
         answer: "ખેતી, પશુપાલન, મત્સ્યઉદ્યોગ",
@@ -2633,7 +2633,7 @@ var socialsciOneLineDB = [
     {
         chapter: 15,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 10,
+        questionNumber: 10,
         format: "one_mark",
         question: "નાના અને મોટા ઉદ્યોગો, બાંધકામ અને કારખાનાઓનો સમાવેશ કયા ક્ષેત્રમાં થાય છે?",
         answer: "માધ્યમિક ક્ષેત્ર (ઉદ્યોગ ક્ષેત્ર)",
@@ -2642,7 +2642,7 @@ var socialsciOneLineDB = [
     {
         chapter: 15,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 11,
+        questionNumber: 11,
         format: "one_mark",
         question: "બેન્કિંગ, વીમો, શિક્ષણ, આરોગ્ય અને પરિવહનનો સમાવેશ કયા ક્ષેત્રમાં થાય છે?",
         answer: "સેવા ક્ષેત્ર",
@@ -2651,7 +2651,7 @@ var socialsciOneLineDB = [
     {
         chapter: 15,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 12,
+        questionNumber: 12,
         format: "one_mark",
         question: "ઉત્પાદનનાં મુખ્ય કેટલા સાધનો છે?",
         answer: "ચાર (4)",
@@ -2660,7 +2660,7 @@ var socialsciOneLineDB = [
     {
         chapter: 15,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 13,
+        questionNumber: 13,
         format: "one_mark",
         question: "અર્થશાસ્ત્રની ભાષામાં ઉત્પાદનનું કુદરતી સાધન કયું છે?",
         answer: "જમીન",
@@ -2669,7 +2669,7 @@ var socialsciOneLineDB = [
     {
         chapter: 15,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 14,
+        questionNumber: 14,
         format: "one_mark",
         question: "યંત્રો, ઓજારો અને મકાનો એ ઉત્પાદનનું કેવું સાધન છે?",
         answer: "માનવસર્જિત (મૂડી)",
@@ -2678,7 +2678,7 @@ var socialsciOneLineDB = [
     {
         chapter: 15,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 15,
+        questionNumber: 15,
         format: "one_mark",
         question: "ભૌતિક વળતરની અપેક્ષાએ કરવામાં આવતા શારીરિક કે માનસિક કાર્યને શું કહે છે?",
         answer: "શ્રમ",
@@ -2687,7 +2687,7 @@ var socialsciOneLineDB = [
     {
         chapter: 15,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 16,
+        questionNumber: 16,
         format: "one_mark",
         question: "ઉત્પાદન પ્રક્રિયામાં જમીન, મૂડી અને શ્રમનું સંકલન કરનાર વ્યક્તિને શું કહેવાય?",
         answer: "નિયોજક (સાહસિક)",
@@ -2696,7 +2696,7 @@ var socialsciOneLineDB = [
     {
         chapter: 15,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 17,
+        questionNumber: 17,
         format: "one_mark",
         question: "કઈ આર્થિક પદ્ધતિમાં ઉત્પાદનના સાધનોની માલિકી ખાનગી હોય છે અને કેન્દ્રમાં નફો હોય છે?",
         answer: "બજાર પદ્ધતિ (મૂડીવાદી પદ્ધતિ)",
@@ -2705,7 +2705,7 @@ var socialsciOneLineDB = [
     {
         chapter: 15,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 18,
+        questionNumber: 18,
         format: "one_mark",
         question: "કઈ આર્થિક પદ્ધતિમાં ઉત્પાદનના સાધનોની માલિકી અને નિર્ણયો રાજ્ય (સરકાર) હસ્તક હોય છે?",
         answer: "સમાજવાદી પદ્ધતિ",
@@ -2714,7 +2714,7 @@ var socialsciOneLineDB = [
     {
         chapter: 15,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 19,
+        questionNumber: 19,
         format: "one_mark",
         question: "બજાર પદ્ધતિ અને સમાજવાદી પદ્ધતિ બંનેનો સમન્વય કઈ પદ્ધતિમાં જોવા મળે છે?",
         answer: "મિશ્ર અર્થતંત્ર",
@@ -2723,7 +2723,7 @@ var socialsciOneLineDB = [
     {
         chapter: 15,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 20,
+        questionNumber: 20,
         format: "one_mark",
         question: "ભારત અને ફ્રાન્સ જેવા દેશોએ પોતાના આર્થિક વિકાસ માટે કઈ પદ્ધતિ અપનાવી છે?",
         answer: "મિશ્ર અર્થતંત્ર",
@@ -2734,7 +2734,7 @@ var socialsciOneLineDB = [
     {
         chapter: 16,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 1,
+        questionNumber: 1,
         format: "one_mark",
         question: "ભારત સરકારે નવી ઔદ્યોગિક નીતિ (આર્થિક સુધારાઓ) કયા વર્ષથી અમલમાં મૂકી?",
         answer: "ઈ.સ. 1991 (જુલાઈ) થી",
@@ -2743,7 +2743,7 @@ var socialsciOneLineDB = [
     {
         chapter: 16,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 2,
+        questionNumber: 2,
         format: "one_mark",
         question: "સરકાર દ્વારા ખાનગી ક્ષેત્ર પરના અંકુશો અને નિયંત્રણો ક્રમશઃ ઘટાડવાની નીતિ એટલે શું?",
         answer: "આર્થિક ઉદારીકરણ",
@@ -2752,7 +2752,7 @@ var socialsciOneLineDB = [
     {
         chapter: 16,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 3,
+        questionNumber: 3,
         format: "one_mark",
         question: "સરકારી ઔદ્યોગિક સાહસોની માલિકી કે સંચાલન ખાનગી ક્ષેત્રને સોંપવાની પ્રક્રિયાને શું કહે છે?",
         answer: "ખાનગીકરણ (Privatization)",
@@ -2761,7 +2761,7 @@ var socialsciOneLineDB = [
     {
         chapter: 16,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 4,
+        questionNumber: 4,
         format: "one_mark",
         question: "દેશના અર્થતંત્રને વિશ્વના અર્થતંત્ર સાથે જોડવાની પ્રક્રિયાને શું કહેવામાં આવે છે?",
         answer: "વૈશ્વિકીકરણ (Globalization)",
@@ -2770,7 +2770,7 @@ var socialsciOneLineDB = [
     {
         chapter: 16,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 5,
+        questionNumber: 5,
         format: "one_mark",
         question: "વિશ્વ વ્યાપાર સંગઠન (WTO) ની સ્થાપના ક્યારે થઈ હતી?",
         answer: "1 જાન્યુઆરી, 1995",
@@ -2779,7 +2779,7 @@ var socialsciOneLineDB = [
     {
         chapter: 16,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 6,
+        questionNumber: 6,
         format: "one_mark",
         question: "વિશ્વ વ્યાપાર સંગઠન (WTO) કઈ સંસ્થા દ્વારા સ્થાપવામાં આવ્યું હતું?",
         answer: "સંયુક્ત રાષ્ટ્રો (UN)",
@@ -2788,7 +2788,7 @@ var socialsciOneLineDB = [
     {
         chapter: 16,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 7,
+        questionNumber: 7,
         format: "one_mark",
         question: "વિશ્વ વ્યાપાર સંગઠન (WTO) નું વડું મથક ક્યાં આવેલું છે?",
         answer: "જીનીવા (સ્વિટ્ઝર્લેન્ડ)",
@@ -2797,7 +2797,7 @@ var socialsciOneLineDB = [
     {
         chapter: 16,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 8,
+        questionNumber: 8,
         format: "one_mark",
         question: "આંતરરાષ્ટ્રીય વ્યાપારના ઝઘડાઓનું નિરાકરણ લાવવાનું કાર્ય કઈ સંસ્થા કરે છે?",
         answer: "વિશ્વ વ્યાપાર સંગઠન (WTO)",
@@ -2806,7 +2806,7 @@ var socialsciOneLineDB = [
     {
         chapter: 16,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 9,
+        questionNumber: 9,
         format: "one_mark",
         question: "ભાવી પેઢીની જરૂરિયાતોને નુકસાન પહોંચાડ્યા વિના વર્તમાન પેઢીની જરૂરિયાતો સંતોષવી એટલે શું?",
         answer: "ટકાઉ વિકાસ (સુપોષિત વિકાસ)",
@@ -2815,7 +2815,7 @@ var socialsciOneLineDB = [
     {
         chapter: 16,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 10,
+        questionNumber: 10,
         format: "one_mark",
         question: "પર્યાવરણ જાગૃતિ અંગે વિશ્વની પ્રથમ 'પૃથ્વી પરિષદ' કયા શહેરમાં યોજાઈ હતી?",
         answer: "સ્ટોકહોમ (સ્વીડન)",
@@ -2824,7 +2824,7 @@ var socialsciOneLineDB = [
     {
         chapter: 16,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 11,
+        questionNumber: 11,
         format: "one_mark",
         question: "પ્રથમ પૃથ્વી પરિષદ કયા વર્ષમાં યોજાઈ હતી?",
         answer: "ઈ.સ. 1972 માં",
@@ -2833,7 +2833,7 @@ var socialsciOneLineDB = [
     {
         chapter: 16,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 12,
+        questionNumber: 12,
         format: "one_mark",
         question: "સમગ્ર વિશ્વમાં 5 મી જૂનને કયા દિવસ તરીકે ઉજવવામાં આવે છે?",
         answer: "વિશ્વ પર્યાવરણ દિન",
@@ -2842,7 +2842,7 @@ var socialsciOneLineDB = [
     {
         chapter: 16,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 13,
+        questionNumber: 13,
         format: "one_mark",
         question: "ભારત સરકારે કયા વર્ષમાં 'વાયુ પ્રદૂષણ નિયંત્રણ ધારો' પસાર કર્યો?",
         answer: "ઈ.સ. 1981 માં",
@@ -2851,7 +2851,7 @@ var socialsciOneLineDB = [
     {
         chapter: 16,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 14,
+        questionNumber: 14,
         format: "one_mark",
         question: "દેશમાં આર્થિક સત્તાનું કેન્દ્રીકરણ થવાથી કઈ પ્રથામાં વધારો થયો છે?",
         answer: "ઈજારાશાહી (Monopoly)",
@@ -2860,7 +2860,7 @@ var socialsciOneLineDB = [
     {
         chapter: 16,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 15,
+        questionNumber: 15,
         format: "one_mark",
         question: "વૈશ્વિકીકરણની નીતિને લીધે ભારત જેવા વિકાસશીલ દેશમાં કયું રોકાણ વધ્યું છે?",
         answer: "વિદેશી મૂડીરોકાણ (FDI)",
@@ -2869,7 +2869,7 @@ var socialsciOneLineDB = [
     {
         chapter: 16,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 16,
+        questionNumber: 16,
         format: "one_mark",
         question: "ઉદ્યોગો દ્વારા ફેલાતા પ્રદૂષણ પર નિયંત્રણ રાખવા માટે દેશમાં કોની સ્થાપના કરવામાં આવી છે?",
         answer: "પ્રદૂષણ નિયંત્રણ બોર્ડ",
@@ -2878,7 +2878,7 @@ var socialsciOneLineDB = [
     {
         chapter: 16,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 17,
+        questionNumber: 17,
         format: "one_mark",
         question: "કયા વાયુના સ્તરમાં પડતા ગાબડાં (છિદ્રો) ને રોકવા માટે વૈશ્વિક સમજૂતીઓ કરવામાં આવી છે?",
         answer: "ઓઝોન વાયુના",
@@ -2887,7 +2887,7 @@ var socialsciOneLineDB = [
     {
         chapter: 16,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 18,
+        questionNumber: 18,
         format: "one_mark",
         question: "ઉદારીકરણની નીતિ અપનાવવાથી દેશના કયા વ્યાપારને સૌથી મોટું પ્રોત્સાહન મળ્યું છે?",
         answer: "વિદેશી વ્યાપારને",
@@ -2896,7 +2896,7 @@ var socialsciOneLineDB = [
     {
         chapter: 16,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 19,
+        questionNumber: 19,
         format: "one_mark",
         question: "આર્થિક સુધારાઓમાં કૃષિ ક્ષેત્રની અવગણના થવાથી કઈ સમસ્યા હજુ પણ યથાવત્ રહી છે?",
         answer: "ગરીબી અને બેરોજગારી",
@@ -2905,7 +2905,7 @@ var socialsciOneLineDB = [
     {
         chapter: 16,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 20,
+        questionNumber: 20,
         format: "one_mark",
         question: "ટકાઉ વિકાસના ખ્યાલમાં સૌથી વધુ ભાર કોની સુરક્ષા પર મૂકવામાં આવ્યો છે?",
         answer: "પર્યાવરણની સુરક્ષા",
@@ -2916,7 +2916,7 @@ var socialsciOneLineDB = [
     {
         chapter: 17,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 1,
+        questionNumber: 1,
         format: "one_mark",
         question: "ગરીબી રેખા (Poverty Line) નો ખ્યાલ સૌપ્રથમ કોણે રજૂ કર્યો હતો?",
         answer: "બોર્ડ ઓર (Lord Boyd Orr) એ",
@@ -2925,7 +2925,7 @@ var socialsciOneLineDB = [
     {
         chapter: 17,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 2,
+        questionNumber: 2,
         format: "one_mark",
         question: "ભારતમાં ગરીબી રેખા નીચે જીવતા લોકોનું સૌથી વધુ પ્રમાણ કયા રાજ્યમાં છે?",
         answer: "છત્તીસગઢ (39.93%)",
@@ -2934,7 +2934,7 @@ var socialsciOneLineDB = [
     {
         chapter: 17,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 3,
+        questionNumber: 3,
         format: "one_mark",
         question: "ભારતમાં ગરીબીનું સૌથી ઓછું પ્રમાણ કયા રાજ્યમાં જોવા મળે છે?",
         answer: "ગોવા (5.09%)",
@@ -2943,7 +2943,7 @@ var socialsciOneLineDB = [
     {
         chapter: 17,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 4,
+        questionNumber: 4,
         format: "one_mark",
         question: "અનાજ, દૂધ, શાકભાજી જેવી પ્રાથમિક જરૂરિયાતો પણ લઘુત્તમ ભાવે ન મેળવી શકનારને કેવા ગરીબ કહેવાય?",
         answer: "નિરપેક્ષ ગરીબ",
@@ -2952,7 +2952,7 @@ var socialsciOneLineDB = [
     {
         chapter: 17,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 5,
+        questionNumber: 5,
         format: "one_mark",
         question: "સમાજના જુદા-જુદા આવક ધરાવતા વર્ગોની સરખામણીમાં ઓછી આવકવાળા વર્ગને કેવો ગરીબ કહેવાય?",
         answer: "સાપેક્ષ ગરીબ",
@@ -2961,7 +2961,7 @@ var socialsciOneLineDB = [
     {
         chapter: 17,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 6,
+        questionNumber: 6,
         format: "one_mark",
         question: "મનરેગા (MGNREGA) કાર્યક્રમમાં ગરીબ કુટુંબને વર્ષમાં કેટલા દિવસની રોજગારીની ગેરંટી અપાય છે?",
         answer: "100 દિવસ",
@@ -2970,7 +2970,7 @@ var socialsciOneLineDB = [
     {
         chapter: 17,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 7,
+        questionNumber: 7,
         format: "one_mark",
         question: "મનરેગા યોજનાનું પ્રખ્યાત સૂત્ર કયું છે?",
         answer: "આપણા ગામમાં આપણું કામ, સાથે મળે છે વ્યાજબી દામ",
@@ -2979,7 +2979,7 @@ var socialsciOneLineDB = [
     {
         chapter: 17,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 8,
+        questionNumber: 8,
         format: "one_mark",
         question: "અન્ન સુરક્ષા કાયદા (NFSA) હેઠળ ગુજરાત સરકારે કઈ યોજના અમલમાં મૂકી છે?",
         answer: "મા અન્નપૂર્ણા યોજના",
@@ -2988,7 +2988,7 @@ var socialsciOneLineDB = [
     {
         chapter: 17,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 9,
+        questionNumber: 9,
         format: "one_mark",
         question: "કામ કરવાની ઈચ્છા અને શક્તિ હોવા છતાં, બજારના ચાલુ વેતન દરે કામ ન મળે તેવી વ્યક્તિને શું કહેવાય?",
         answer: "બેરોજગાર",
@@ -2997,7 +2997,7 @@ var socialsciOneLineDB = [
     {
         chapter: 17,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 10,
+        questionNumber: 10,
         format: "one_mark",
         question: "ભારતમાં ખેતી ક્ષેત્રે વરસાદની અનિયમિતતાને કારણે કયા પ્રકારની બેરોજગારી જોવા મળે છે?",
         answer: "મોસમી બેરોજગારી",
@@ -3006,7 +3006,7 @@ var socialsciOneLineDB = [
     {
         chapter: 17,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 11,
+        questionNumber: 11,
         format: "one_mark",
         question: "જૂની ટેકનોલોજીના સ્થાને નવી ટેકનોલોજી આવે ત્યારે શ્રમિક થોડા સમય માટે બેરોજગાર બને તેને શું કહેવાય?",
         answer: "ઘર્ષણજન્ય બેરોજગારી",
@@ -3015,7 +3015,7 @@ var socialsciOneLineDB = [
     {
         chapter: 17,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 12,
+        questionNumber: 12,
         format: "one_mark",
         question: "કામમાં જરૂરિયાત કરતાં વધુ શ્રમિકો રોકાયેલા હોય અને તેમને હટાવવાથી ઉત્પાદન ઘટતું ન હોય, તેને કઈ બેરોજગારી કહે છે?",
         answer: "પ્રચ્છન્ન કે છૂપી બેરોજગારી",
@@ -3024,7 +3024,7 @@ var socialsciOneLineDB = [
     {
         chapter: 17,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 13,
+        questionNumber: 13,
         format: "one_mark",
         question: "ઓછામાં ઓછું માધ્યમિક શિક્ષણ (ધોરણ 10 પાસ) મેળવ્યું હોય અને નોકરી ન મળે તેને કઈ બેરોજગારી કહેવાય?",
         answer: "શિક્ષિત બેરોજગારી",
@@ -3033,7 +3033,7 @@ var socialsciOneLineDB = [
     {
         chapter: 17,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 14,
+        questionNumber: 14,
         format: "one_mark",
         question: "ભારતમાં બેરોજગારી ઉદ્ભવવાનું સૌથી મુખ્ય કારણ કયું છે?",
         answer: "વસ્તીવૃદ્ધિ",
@@ -3042,7 +3042,7 @@ var socialsciOneLineDB = [
     {
         chapter: 17,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 15,
+        questionNumber: 15,
         format: "one_mark",
         question: "બેરોજગારોની નોંધણી કરી તેમને રોજગારીની તકો વિશે માહિતી કોણ પૂરી પાડે છે?",
         answer: "રોજગાર વિનિમય કચેરી",
@@ -3051,7 +3051,7 @@ var socialsciOneLineDB = [
     {
         chapter: 17,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 16,
+        questionNumber: 16,
         format: "one_mark",
         question: "રોજગાર વિનિમય કચેરી દ્વારા કયું મેગેઝિન (પાક્ષિક) બહાર પાડવામાં આવે છે?",
         answer: "રોજગાર સમાચાર",
@@ -3060,7 +3060,7 @@ var socialsciOneLineDB = [
     {
         chapter: 17,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 17,
+        questionNumber: 17,
         format: "one_mark",
         question: "વિશ્વના દેશો પોતાના શ્રમિકોની એકબીજા સાથે આપ-લે કરે તેને શું કહેવાય?",
         answer: "વિશ્વ શ્રમબજાર",
@@ -3069,7 +3069,7 @@ var socialsciOneLineDB = [
     {
         chapter: 17,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 18,
+        questionNumber: 18,
         format: "one_mark",
         question: "દેશના બુદ્ધિશાળી લોકો (ડોક્ટર, એન્જિનિયર) વધુ કમાણી માટે વિદેશ કાયમી વસવાટ કરવા જાય તેને શું કહેવાય?",
         answer: "બ્રેઇન ડ્રેઇન (બુદ્ધિધનનું બહિર્ગમન)",
@@ -3078,7 +3078,7 @@ var socialsciOneLineDB = [
     {
         chapter: 17,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 19,
+        questionNumber: 19,
         format: "one_mark",
         question: "ગરીબો અને BPL પરિવારોને સસ્તા દરે જીવનજરૂરી ચીજવસ્તુઓ પૂરી પાડતી દુકાનોને શું કહેવાય છે?",
         answer: "વ્યાજબી ભાવની દુકાનો (FPS)",
@@ -3087,7 +3087,7 @@ var socialsciOneLineDB = [
     {
         chapter: 17,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 20,
+        questionNumber: 20,
         format: "one_mark",
         question: "ભારત સરકારે યુવાનોમાં કૌશલ્યનો વિકાસ કરવા કયો કાર્યક્રમ શરૂ કર્યો છે?",
         answer: "સ્કિલ ઇન્ડિયા (Skill India)",
@@ -3098,7 +3098,7 @@ var socialsciOneLineDB = [
     {
         chapter: 18,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 1,
+        questionNumber: 1,
         format: "one_mark",
         question: "હિસાબી ચોપડે નહિ નોંધાયેલી અને કરવેરો નહિ ચૂકવેલી આવકને શું કહેવાય છે?",
         answer: "કાળું નાણું",
@@ -3107,7 +3107,7 @@ var socialsciOneLineDB = [
     {
         chapter: 18,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 2,
+        questionNumber: 2,
         format: "one_mark",
         question: "સરકારની જાહેર આવક અને જાહેર ખર્ચ અંગેની નીતિ કયા નામે ઓળખાય છે?",
         answer: "રાજકોષીય નીતિ",
@@ -3116,7 +3116,7 @@ var socialsciOneLineDB = [
     {
         chapter: 18,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 3,
+        questionNumber: 3,
         format: "one_mark",
         question: "મધ્યસ્થ બેંક દ્વારા નાણાંના પુરવઠાને અંકુશમાં રાખવાની નીતિને શું કહે છે?",
         answer: "નાણાકીય નીતિ",
@@ -3125,7 +3125,7 @@ var socialsciOneLineDB = [
     {
         chapter: 18,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 4,
+        questionNumber: 4,
         format: "one_mark",
         question: "ગરીબોને ભાવવધારાની અસરથી બચાવવા જાહેર વિતરણ પ્રણાલી (PDS) હેઠળ કઈ દુકાનો ખોલાઈ છે?",
         answer: "વ્યાજબી ભાવની દુકાનો (સસ્તા અનાજની દુકાનો)",
@@ -3134,7 +3134,7 @@ var socialsciOneLineDB = [
     {
         chapter: 18,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 5,
+        questionNumber: 5,
         format: "one_mark",
         question: "ગ્રાહક સુરક્ષા અધિનિયમ કયા વર્ષમાં પસાર કરવામાં આવ્યો?",
         answer: "ઈ.સ. 1986 માં",
@@ -3143,7 +3143,7 @@ var socialsciOneLineDB = [
     {
         chapter: 18,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 6,
+        questionNumber: 6,
         format: "one_mark",
         question: "ભારતમાં દર વર્ષે 24 મી ડિસેમ્બરને કયા દિવસ તરીકે ઉજવવામાં આવે છે?",
         answer: "રાષ્ટ્રીય ગ્રાહક અધિકાર દિન",
@@ -3152,7 +3152,7 @@ var socialsciOneLineDB = [
     {
         chapter: 18,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 7,
+        questionNumber: 7,
         format: "one_mark",
         question: "વિશ્વ ગ્રાહક અધિકાર દિન ક્યારે ઉજવવામાં આવે છે?",
         answer: "15 મી માર્ચ",
@@ -3161,7 +3161,7 @@ var socialsciOneLineDB = [
     {
         chapter: 18,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 8,
+        questionNumber: 8,
         format: "one_mark",
         question: "ગ્રાહકને શોષણથી બચાવવા અને માર્ગદર્શન આપવા માટે કઈ સંસ્થા કામ કરે છે?",
         answer: "ગ્રાહક સુરક્ષા મંડળ",
@@ -3170,7 +3170,7 @@ var socialsciOneLineDB = [
     {
         chapter: 18,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 9,
+        questionNumber: 9,
         format: "one_mark",
         question: "ખેતી પર આધારિત ચીજવસ્તુઓ (ઘી, મધ, મસાલા) ની ગુણવત્તા દર્શાવવા કયો માર્કો વપરાય છે?",
         answer: "એગમાર્ક (AGMARK)",
@@ -3179,7 +3179,7 @@ var socialsciOneLineDB = [
     {
         chapter: 18,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 10,
+        questionNumber: 10,
         format: "one_mark",
         question: "ફળો અને શાકભાજીમાંથી બનાવેલી વસ્તુઓ (જામ, જ્યૂસ) પર કયો માર્કો લગાડવામાં આવે છે?",
         answer: "FPO નો માર્કો",
@@ -3188,7 +3188,7 @@ var socialsciOneLineDB = [
     {
         chapter: 18,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 11,
+        questionNumber: 11,
         format: "one_mark",
         question: "સોનાના દાગીનાની શુદ્ધતા પ્રમાણિત કરવા માટે કયો માર્કો લગાડવામાં આવે છે?",
         answer: "BIS હોલમાર્ક",
@@ -3197,7 +3197,7 @@ var socialsciOneLineDB = [
     {
         chapter: 18,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 12,
+        questionNumber: 12,
         format: "one_mark",
         question: "ઔદ્યોગિક ઉત્પાદનો અને ઇલેક્ટ્રોનિક્સ સાધનો (ઇસ્ત્રી, પંખા) ની ગુણવત્તા માટે કયો માર્કો વપરાય છે?",
         answer: "ISI માર્કો",
@@ -3206,7 +3206,7 @@ var socialsciOneLineDB = [
     {
         chapter: 18,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 13,
+        questionNumber: 13,
         format: "one_mark",
         question: "ઊનની બનાવટો અને પોશાક માટે કયો માર્કો વપરાય છે?",
         answer: "વુલમાર્ક (Woolmark)",
@@ -3215,7 +3215,7 @@ var socialsciOneLineDB = [
     {
         chapter: 18,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 14,
+        questionNumber: 14,
         format: "one_mark",
         question: "માંસ અને માંસમાંથી બનાવેલી પ્રોડક્ટ્સ પર કયો માર્કો લગાડવામાં આવે છે?",
         answer: "MPO નો માર્કો",
@@ -3224,7 +3224,7 @@ var socialsciOneLineDB = [
     {
         chapter: 18,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 15,
+        questionNumber: 15,
         format: "one_mark",
         question: "પર્યાવરણને નુકસાન ન કરતી હોય તેવી (ઇકો-ફ્રેન્ડલી) વસ્તુઓ પર કયો માર્કો લગાડવામાં આવે છે?",
         answer: "ECO (ઇકો) માર્કો",
@@ -3233,7 +3233,7 @@ var socialsciOneLineDB = [
     {
         chapter: 18,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 16,
+        questionNumber: 16,
         format: "one_mark",
         question: "આંતરરાષ્ટ્રીય સ્તરે ઔદ્યોગિક વસ્તુઓની ગુણવત્તા નક્કી કરતી સંસ્થા કઈ છે?",
         answer: "ISO (ઇન્ટરનેશનલ ઓર્ગેનાઇઝેશન ફોર સ્ટાન્ડર્ડાઇઝેશન)",
@@ -3242,7 +3242,7 @@ var socialsciOneLineDB = [
     {
         chapter: 18,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 17,
+        questionNumber: 17,
         format: "one_mark",
         question: "ISO સંસ્થાનું વડું મથક કયા શહેરમાં આવેલું છે?",
         answer: "જીનીવા (સ્વિટ્ઝર્લેન્ડ)",
@@ -3251,7 +3251,7 @@ var socialsciOneLineDB = [
     {
         chapter: 18,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 18,
+        questionNumber: 18,
         format: "one_mark",
         question: "આંતરરાષ્ટ્રીય સ્તરે ખાદ્ય પદાર્થોની ગુણવત્તા કોણ પ્રમાણિત કરે છે?",
         answer: "કોડેક્સ એલિમેન્ટારિયસ કમિશન (CAC)",
@@ -3260,7 +3260,7 @@ var socialsciOneLineDB = [
     {
         chapter: 18,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 19,
+        questionNumber: 19,
         format: "one_mark",
         question: "જો ગ્રાહકને 20 લાખ રૂપિયા સુધીની કિંમતનું નુકસાન થયું હોય, તો તે કઈ અદાલતમાં ફરિયાદ કરી શકે?",
         answer: "જિલ્લા ફોરમમાં",
@@ -3269,7 +3269,7 @@ var socialsciOneLineDB = [
     {
         chapter: 18,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 20,
+        questionNumber: 20,
         format: "one_mark",
         question: "ગ્રાહકે પોતાની ફરિયાદ નોંધાવવા કે માર્ગદર્શન મેળવવા કયા રાષ્ટ્રીય ટોલ ફ્રી નંબર પર કોલ કરવો જોઈએ?",
         answer: "1800 11 4000",
@@ -3280,7 +3280,7 @@ var socialsciOneLineDB = [
     {
         chapter: 19,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 1,
+        questionNumber: 1,
         format: "one_mark",
         question: "માનવ વિકાસ આંક (HDI) ની વિભાવના (ખ્યાલ) સૌપ્રથમ કોણે રજૂ કરી હતી?",
         answer: "ભારતીય મૂળના અર્થશાસ્ત્રી અમર્ત્ય સેને",
@@ -3289,7 +3289,7 @@ var socialsciOneLineDB = [
     {
         chapter: 19,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 2,
+        questionNumber: 2,
         format: "one_mark",
         question: "સંયુક્ત રાષ્ટ્ર વિકાસ કાર્યક્રમ (UNDP) દ્વારા પ્રથમ માનવ વિકાસ અહેવાલ કયા વર્ષમાં પ્રકાશિત કરાયો?",
         answer: "ઈ.સ. 1990 માં",
@@ -3298,7 +3298,7 @@ var socialsciOneLineDB = [
     {
         chapter: 19,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 3,
+        questionNumber: 3,
         format: "one_mark",
         question: "માનવ વિકાસ આંક (HDI) માપવા માટેના મુખ્ય ત્રણ નિર્દેશકો કયા છે?",
         answer: "અપેક્ષિત આયુષ્ય, શિક્ષણ આંક અને આવક આંક",
@@ -3307,7 +3307,7 @@ var socialsciOneLineDB = [
     {
         chapter: 19,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 4,
+        questionNumber: 4,
         format: "one_mark",
         question: "માનવ વિકાસ આંક (HDI) નું મૂલ્ય કેટલાની વચ્ચે હોય છે?",
         answer: "0 થી 1 ની વચ્ચે",
@@ -3316,7 +3316,7 @@ var socialsciOneLineDB = [
     {
         chapter: 19,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 5,
+        questionNumber: 5,
         format: "one_mark",
         question: "વર્ષ 2015 ના માનવ વિકાસ અહેવાલ મુજબ 188 દેશોમાં પ્રથમ ક્રમે કયો દેશ હતો?",
         answer: "નોર્વે (0.944 આંક)",
@@ -3325,7 +3325,7 @@ var socialsciOneLineDB = [
     {
         chapter: 19,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 6,
+        questionNumber: 6,
         format: "one_mark",
         question: "વર્ષ 2015 ના માનવ વિકાસ અહેવાલ મુજબ ભારતનો ક્રમ કયો હતો?",
         answer: "130 મો ક્રમ",
@@ -3334,7 +3334,7 @@ var socialsciOneLineDB = [
     {
         chapter: 19,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 7,
+        questionNumber: 7,
         format: "one_mark",
         question: "વર્ષ 2015 ના અહેવાલ મુજબ ભારતનો માનવ વિકાસ આંક (HDI) કેટલો હતો?",
         answer: "0.609",
@@ -3343,7 +3343,7 @@ var socialsciOneLineDB = [
     {
         chapter: 19,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 8,
+        questionNumber: 8,
         format: "one_mark",
         question: "માનવ વિકાસ અહેવાલ 2015 મુજબ સૌથી છેલ્લા ક્રમે (188 મા ક્રમે) કયો દેશ હતો?",
         answer: "નાઈઝર (0.348 આંક)",
@@ -3352,7 +3352,7 @@ var socialsciOneLineDB = [
     {
         chapter: 19,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 9,
+        questionNumber: 9,
         format: "one_mark",
         question: "માથાદીઠ આવક ગણવા માટે દેશની આવકને કયા ચલણમાં મપાય છે?",
         answer: "અમેરિકન ડોલરમાં",
@@ -3361,7 +3361,7 @@ var socialsciOneLineDB = [
     {
         chapter: 19,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 10,
+        questionNumber: 10,
         format: "one_mark",
         question: "ભારત કઈ કક્ષાના માનવ વિકાસ વાળા દેશોની શ્રેણીમાં આવે છે?",
         answer: "મધ્યમ માનવ વિકાસ",
@@ -3370,7 +3370,7 @@ var socialsciOneLineDB = [
     {
         chapter: 19,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 11,
+        questionNumber: 11,
         format: "one_mark",
         question: "બાળકના જન્મ સમયે તે કેટલા વર્ષનું આયુષ્ય ભોગવશે તેની અપેક્ષાને શું કહેવાય?",
         answer: "અપેક્ષિત આયુષ્ય",
@@ -3379,7 +3379,7 @@ var socialsciOneLineDB = [
     {
         chapter: 19,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 12,
+        questionNumber: 12,
         format: "one_mark",
         question: "ભારતમાં મહિલા સશક્તિકરણ માટેનું રાષ્ટ્રીય કમિશન કયા વર્ષમાં રચવામાં આવ્યું?",
         answer: "ઈ.સ. 1992 માં",
@@ -3388,7 +3388,7 @@ var socialsciOneLineDB = [
     {
         chapter: 19,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 13,
+        questionNumber: 13,
         format: "one_mark",
         question: "ભારત સરકારે કયા વર્ષને 'મહિલા સશક્તિકરણ વર્ષ' તરીકે ઉજવ્યું હતું?",
         answer: "વર્ષ 2002 ને",
@@ -3397,7 +3397,7 @@ var socialsciOneLineDB = [
     {
         chapter: 19,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 14,
+        questionNumber: 14,
         format: "one_mark",
         question: "સંયુક્ત રાષ્ટ્રો (UN) એ કયા દાયકાને 'મહિલા દાયકા' તરીકે જાહેર કર્યો હતો?",
         answer: "1976 થી 1985 ના દાયકાને",
@@ -3406,7 +3406,7 @@ var socialsciOneLineDB = [
     {
         chapter: 19,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 15,
+        questionNumber: 15,
         format: "one_mark",
         question: "ગુજરાતમાં શારીરિક, માનસિક કે જાતીય હિંસાનો ભોગ બનેલી મહિલાઓને તાત્કાલિક મદદ માટે કઈ હેલ્પલાઇન છે?",
         answer: "181 અભયમ હેલ્પલાઇન",
@@ -3415,7 +3415,7 @@ var socialsciOneLineDB = [
     {
         chapter: 19,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 16,
+        questionNumber: 16,
         format: "one_mark",
         question: "ગુજરાત સરકારે કન્યા કેળવણીને પ્રોત્સાહન આપવા કઈ યોજના શરૂ કરી છે?",
         answer: "વિદ્યાલક્ષ્મી બોન્ડ યોજના",
@@ -3424,7 +3424,7 @@ var socialsciOneLineDB = [
     {
         chapter: 19,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 17,
+        questionNumber: 17,
         format: "one_mark",
         question: "ગરીબ મહિલાઓને આર્થિક રીતે પગભર કરવા માટે ગુજરાત સરકારે કઈ યોજના અમલમાં મૂકી છે?",
         answer: "મિશન મંગલમ યોજના",
@@ -3433,7 +3433,7 @@ var socialsciOneLineDB = [
     {
         chapter: 19,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 18,
+        questionNumber: 18,
         format: "one_mark",
         question: "ગંભીર બીમારીઓ સામે મફત સારવાર આપવા ગુજરાતમાં ગરીબો માટે કઈ યોજના છે?",
         answer: "મા અમૃતમ યોજના",
@@ -3442,7 +3442,7 @@ var socialsciOneLineDB = [
     {
         chapter: 19,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 19,
+        questionNumber: 19,
         format: "one_mark",
         question: "સ્ત્રી-પુરુષ સમાનતા અને સ્ત્રી ભ્રૂણહત્યા અટકાવવા માટે કયું અભિયાન ચલાવવામાં આવે છે?",
         answer: "બેટી બચાવો અભિયાન",
@@ -3451,7 +3451,7 @@ var socialsciOneLineDB = [
     {
         chapter: 19,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 20,
+        questionNumber: 20,
         format: "one_mark",
         question: "સ્થાનિક સ્વરાજ્યની સંસ્થાઓ (પંચાયતો) માં મહિલાઓ માટે કેટલા ટકા અનામતની જોગવાઈ ગુજરાત સરકારે કરી છે?",
         answer: "50% અનામત",
@@ -3462,7 +3462,7 @@ var socialsciOneLineDB = [
     {
         chapter: 20,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 1,
+        questionNumber: 1,
         format: "one_mark",
         question: "ભારત દેશ ધાર્મિક દૃષ્ટિએ કેવું રાષ્ટ્ર છે?",
         answer: "બિનસાંપ્રદાયિક (ધર્મનિરપેક્ષ)",
@@ -3471,7 +3471,7 @@ var socialsciOneLineDB = [
     {
         chapter: 20,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 2,
+        questionNumber: 2,
         format: "one_mark",
         question: "રાષ્ટ્રીય એકતા અને સામાજિક એકતા માટે સૌથી મોટો ખતરો કયો છે?",
         answer: "સાંપ્રદાયિકતા",
@@ -3480,7 +3480,7 @@ var socialsciOneLineDB = [
     {
         chapter: 20,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 3,
+        questionNumber: 3,
         format: "one_mark",
         question: "ધર્મ કે ભાષાના આધારે કોઈ પ્રદેશમાં જેની વસ્તી 50% કરતા ઓછી હોય તેને શું કહેવાય?",
         answer: "લઘુમતી",
@@ -3489,7 +3489,7 @@ var socialsciOneLineDB = [
     {
         chapter: 20,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 4,
+        questionNumber: 4,
         format: "one_mark",
         question: "બંધારણના કયા આર્ટિકલ (કલમ) મુજબ ભારતમાં અસ્પૃશ્યતા નાબૂદ કરવામાં આવી છે?",
         answer: "આર્ટિકલ 17 (કલમ 17)",
@@ -3498,7 +3498,7 @@ var socialsciOneLineDB = [
     {
         chapter: 20,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 5,
+        questionNumber: 5,
         format: "one_mark",
         question: "અનુસૂચિત જાતિ (SC) નક્કી કરવા માટેનો મુખ્ય માપદંડ કયો છે?",
         answer: "અસ્પૃશ્યતા",
@@ -3507,7 +3507,7 @@ var socialsciOneLineDB = [
     {
         chapter: 20,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 6,
+        questionNumber: 6,
         format: "one_mark",
         question: "અનુસૂચિત જનજાતિ (ST) નક્કી કરવા માટેનો મુખ્ય માપદંડ કયો છે?",
         answer: "ભૌગોલિક અલગાપણું (જંગલ કે પહાડી વિસ્તારમાં રહેઠાણ)",
@@ -3516,7 +3516,7 @@ var socialsciOneLineDB = [
     {
         chapter: 20,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 7,
+        questionNumber: 7,
         format: "one_mark",
         question: "કોના આદેશથી અનુસૂચિત જાતિ અને અનુસૂચિત જનજાતિઓની યાદી બહાર પાડવામાં આવે છે?",
         answer: "રાષ્ટ્રપતિના આદેશથી",
@@ -3525,7 +3525,7 @@ var socialsciOneLineDB = [
     {
         chapter: 20,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 8,
+        questionNumber: 8,
         format: "one_mark",
         question: "બંધારણની કઈ કલમ લઘુમતીઓને પોતાની શૈક્ષણિક સંસ્થાઓ સ્થાપવાનો અધિકાર આપે છે?",
         answer: "કલમ 30",
@@ -3534,7 +3534,7 @@ var socialsciOneLineDB = [
     {
         chapter: 20,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 9,
+        questionNumber: 9,
         format: "one_mark",
         question: "ભારત સરકારે 'અસ્પૃશ્યતા (ગુના) ધારો' કયા વર્ષમાં પસાર કર્યો હતો?",
         answer: "ઈ.સ. 1955 માં",
@@ -3543,7 +3543,7 @@ var socialsciOneLineDB = [
     {
         chapter: 20,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 10,
+        questionNumber: 10,
         format: "one_mark",
         question: "આતંકવાદ (Terrorism) એ કેવા પ્રકારની સમસ્યા છે?",
         answer: "વૈશ્વિક સમસ્યા",
@@ -3552,7 +3552,7 @@ var socialsciOneLineDB = [
     {
         chapter: 20,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 11,
+        questionNumber: 11,
         format: "one_mark",
         question: "બળવાખોરી (Insurgency) એ કેવા પ્રકારની સમસ્યા છે?",
         answer: "પ્રાદેશિક કે રાષ્ટ્રીય સમસ્યા",
@@ -3561,7 +3561,7 @@ var socialsciOneLineDB = [
     {
         chapter: 20,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 12,
+        questionNumber: 12,
         format: "one_mark",
         question: "નક્સલવાદી આંદોલનની શરૂઆત ભારતના કયા રાજ્યમાં થઈ હતી?",
         answer: "પશ્ચિમ બંગાળમાં",
@@ -3570,7 +3570,7 @@ var socialsciOneLineDB = [
     {
         chapter: 20,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 13,
+        questionNumber: 13,
         format: "one_mark",
         question: "પશ્ચિમ બંગાળમાં નક્સલવાદી આંદોલનની શરૂઆત કોની નેતાગીરી નીચે થઈ હતી?",
         answer: "ચારુ મજમુદાર",
@@ -3579,7 +3579,7 @@ var socialsciOneLineDB = [
     {
         chapter: 20,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 14,
+        questionNumber: 14,
         format: "one_mark",
         question: "નક્સલવાદી આંદોલન કયા દેશની વિચારધારાથી પ્રભાવિત છે?",
         answer: "ચીનની (માઓ-ત્સે-તુંગની વિચારધારા)",
@@ -3588,7 +3588,7 @@ var socialsciOneLineDB = [
     {
         chapter: 20,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 15,
+        questionNumber: 15,
         format: "one_mark",
         question: "ઉલ્ફા (ULFA - યુનાઇટેડ લિબરેશન ફ્રન્ટ ઓફ અસમ) સંગઠન કયા રાજ્યમાં સક્રિય છે?",
         answer: "અસમમાં",
@@ -3597,7 +3597,7 @@ var socialsciOneLineDB = [
     {
         chapter: 20,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 16,
+        questionNumber: 16,
         format: "one_mark",
         question: "જમ્મુ અને કાશ્મીરમાં આતંકવાદની શરૂઆત કયા વર્ષ પછી વધી ગઈ?",
         answer: "ઈ.સ. 1988 પછી",
@@ -3606,7 +3606,7 @@ var socialsciOneLineDB = [
     {
         chapter: 20,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 17,
+        questionNumber: 17,
         format: "one_mark",
         question: "ભારતના બંધારણની કઈ કલમ દ્વારા જમ્મુ-કાશ્મીરને વિશેષ દરજ્જો આપવામાં આવ્યો હતો?",
         answer: "કલમ 370",
@@ -3615,7 +3615,7 @@ var socialsciOneLineDB = [
     {
         chapter: 20,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 18,
+        questionNumber: 18,
         format: "one_mark",
         question: "કોઈપણ ધર્મના આધારે ભેદભાવ રાખ્યા વગર દરેક નાગરિકને સમાન ગણવાની નીતિ એટલે શું?",
         answer: "બિનસાંપ્રદાયિકતા",
@@ -3624,7 +3624,7 @@ var socialsciOneLineDB = [
     {
         chapter: 20,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 19,
+        questionNumber: 19,
         format: "one_mark",
         question: "આતંકવાદીઓનો મુખ્ય ઉદ્દેશ શું હોય છે?",
         answer: "ભય, આતંક અને દહેશત ફેલાવવી",
@@ -3633,7 +3633,7 @@ var socialsciOneLineDB = [
     {
         chapter: 20,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 20,
+        questionNumber: 20,
         format: "one_mark",
         question: "ભારતીય સમાજની સૌથી મોટી વિશેષતા (લાક્ષણિકતા) કઈ છે?",
         answer: "અનેકતામાં એકતા (વિવિધતામાં એકતા)",
@@ -3644,7 +3644,7 @@ var socialsciOneLineDB = [
     {
         chapter: 21,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 1,
+        questionNumber: 1,
         format: "one_mark",
         question: "દેશમાં સામાજિક પરિવર્તન (Social Change) લાવવા માટેનું સૌથી સબળ અને અસરકારક માધ્યમ કયું છે?",
         answer: "શિક્ષણ",
@@ -3653,7 +3653,7 @@ var socialsciOneLineDB = [
     {
         chapter: 21,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 2,
+        questionNumber: 2,
         format: "one_mark",
         question: "મફત અને ફરજિયાત શિક્ષણનો અધિકાર (RTE - Right to Education) કયા વર્ષથી અમલમાં આવ્યો?",
         answer: "ઈ.સ. 2010 (1 એપ્રિલથી)",
@@ -3662,7 +3662,7 @@ var socialsciOneLineDB = [
     {
         chapter: 21,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 3,
+        questionNumber: 3,
         format: "one_mark",
         question: "RTE કાયદા મુજબ કેટલા વર્ષની ઉંમરના બાળકોને મફત શિક્ષણ મેળવવાનો મૂળભૂત અધિકાર છે?",
         answer: "6 થી 14 વર્ષના બાળકોને",
@@ -3671,7 +3671,7 @@ var socialsciOneLineDB = [
     {
         chapter: 21,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 4,
+        questionNumber: 4,
         format: "one_mark",
         question: "RTE કાયદા હેઠળ ખાનગી (Private) શાળાઓએ ગરીબ બાળકો માટે કેટલી બેઠકો અનામત રાખવી પડે છે?",
         answer: "25% બેઠકો",
@@ -3680,7 +3680,7 @@ var socialsciOneLineDB = [
     {
         chapter: 21,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 5,
+        questionNumber: 5,
         format: "one_mark",
         question: "માહિતી મેળવવાનો અધિકાર (RTI - Right to Information) કયા વર્ષમાં અમલમાં આવ્યો?",
         answer: "ઈ.સ. 2005 (12 ઑક્ટોબર)",
@@ -3689,7 +3689,7 @@ var socialsciOneLineDB = [
     {
         chapter: 21,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 6,
+        questionNumber: 6,
         format: "one_mark",
         question: "RTI કાયદા હેઠળ સામાન્ય સંજોગોમાં અરજદારને કેટલા દિવસમાં માહિતી પૂરી પાડવાનો નિયમ છે?",
         answer: "30 દિવસમાં",
@@ -3698,7 +3698,7 @@ var socialsciOneLineDB = [
     {
         chapter: 21,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 7,
+        questionNumber: 7,
         format: "one_mark",
         question: "જો માંગેલી માહિતી કોઈ વ્યક્તિના જીવન કે સ્વાસ્થ્ય (જીવન-મરણ) ને લગતી હોય, તો કેટલા સમયમાં પૂરી પાડવી પડે છે?",
         answer: "48 કલાકમાં",
@@ -3707,7 +3707,7 @@ var socialsciOneLineDB = [
     {
         chapter: 21,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 8,
+        questionNumber: 8,
         format: "one_mark",
         question: "માહિતી અધિકાર (RTI) નો મુખ્ય ઉદ્દેશ શું છે?",
         answer: "વહીવટમાં પારદર્શકતા અને જવાબદારી લાવવી",
@@ -3716,7 +3716,7 @@ var socialsciOneLineDB = [
     {
         chapter: 21,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 9,
+        questionNumber: 9,
         format: "one_mark",
         question: "રાષ્ટ્રીય અન્ન સલામતી કાયદો (National Food Security Act) કયા વર્ષમાં પસાર કરવામાં આવ્યો?",
         answer: "ઈ.સ. 2013 માં",
@@ -3725,7 +3725,7 @@ var socialsciOneLineDB = [
     {
         chapter: 21,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 10,
+        questionNumber: 10,
         format: "one_mark",
         question: "ગુજરાત સરકારે અન્ન સલામતી કાયદા હેઠળ ગરીબો માટે કઈ યોજના શરૂ કરી છે?",
         answer: "મા અન્નપૂર્ણા યોજના",
@@ -3734,7 +3734,7 @@ var socialsciOneLineDB = [
     {
         chapter: 21,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 11,
+        questionNumber: 11,
         format: "one_mark",
         question: "બંધારણની કઈ કલમ મુજબ 14 વર્ષથી નીચેના બાળકોને કારખાનામાં કે જોખમી કામે રાખવા તે સજાપાત્ર ગુનો છે?",
         answer: "કલમ 24",
@@ -3743,7 +3743,7 @@ var socialsciOneLineDB = [
     {
         chapter: 21,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 12,
+        questionNumber: 12,
         format: "one_mark",
         question: "લાંચ કે રુશવત લેવી અને આપવી એ સમાજ માટે કયા પ્રકારનો ગુનો છે?",
         answer: "ભ્રષ્ટાચાર (Corruption)",
@@ -3752,7 +3752,7 @@ var socialsciOneLineDB = [
     {
         chapter: 21,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 13,
+        questionNumber: 13,
         format: "one_mark",
         question: "ભારતમાં ભ્રષ્ટાચાર રોકવા અને લાંચિયા અધિકારીઓને પકડવા કઈ સંસ્થા કામ કરે છે?",
         answer: "એન્ટી કરપ્શન બ્યુરો (ACB)",
@@ -3761,7 +3761,7 @@ var socialsciOneLineDB = [
     {
         chapter: 21,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 14,
+        questionNumber: 14,
         format: "one_mark",
         question: "ગુજરાતમાં લાંચ-રુશવત વિરોધી બ્યુરો (ACB) નો ટોલ ફ્રી નંબર કયો છે?",
         answer: "1064",
@@ -3770,7 +3770,7 @@ var socialsciOneLineDB = [
     {
         chapter: 21,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 15,
+        questionNumber: 15,
         format: "one_mark",
         question: "વિશ્વ વૃદ્ધ દિન (World Elders Day) દર વર્ષે ક્યારે ઉજવવામાં આવે છે?",
         answer: "1 ઑક્ટોબર",
@@ -3779,7 +3779,7 @@ var socialsciOneLineDB = [
     {
         chapter: 21,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 16,
+        questionNumber: 16,
         format: "one_mark",
         question: "વરિષ્ઠ નાગરિકો (વૃદ્ધો) ને આર્થિક મદદ કરવા માટે કેન્દ્ર સરકારે કઈ પેન્શન યોજના અમલમાં મૂકી છે?",
         answer: "ઇન્દિરા ગાંધી રાષ્ટ્રીય વૃદ્ધ પેન્શન યોજના",
@@ -3788,7 +3788,7 @@ var socialsciOneLineDB = [
     {
         chapter: 21,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 17,
+        questionNumber: 17,
         format: "one_mark",
         question: "સંયુક્ત રાષ્ટ્રો (UN) એ કયા વર્ષમાં 'બાળ અધિકારો' (Child Rights) ની ઘોષણા કરી હતી?",
         answer: "ઈ.સ. 1989 માં",
@@ -3797,7 +3797,7 @@ var socialsciOneLineDB = [
     {
         chapter: 21,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 18,
+        questionNumber: 18,
         format: "one_mark",
         question: "અસામાજિક પ્રવૃત્તિઓ કરનાર (ગુંડા તત્ત્વો) સામે ગુજરાતમાં કયો કાયદો લાગુ પડે છે?",
         answer: "પાસા (PASA)",
@@ -3806,7 +3806,7 @@ var socialsciOneLineDB = [
     {
         chapter: 21,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 19,
+        questionNumber: 19,
         format: "one_mark",
         question: "બીપીએલ (BPL) એટલે શું?",
         answer: "ગરીબી રેખા નીચે જીવતા પરિવારો (Below Poverty Line)",
@@ -3815,7 +3815,7 @@ var socialsciOneLineDB = [
     {
         chapter: 21,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 20,
+        questionNumber: 20,
         format: "one_mark",
         question: "બાળકને શારીરિક શિક્ષા કે માનસિક ત્રાસ આપવો તે કયા કાયદા હેઠળ ગુનો બને છે?",
         answer: "શિક્ષણના અધિકાર (RTE) હેઠળ",
@@ -3826,7 +3826,7 @@ var socialsciOneLineDB = [
     {
         chapter: 22,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 1,
+        questionNumber: 1,
         format: "one_mark",
         question: "નિવસનતંત્ર (Ecosystem) શબ્દનો સૌપ્રથમ પ્રયોગ કયા વૈજ્ઞાનિકે કર્યો હતો?",
         answer: "એ. જી. ટાન્સલે (A. G. Tansley)",
@@ -3835,7 +3835,7 @@ var socialsciOneLineDB = [
     {
         chapter: 22,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 2,
+        questionNumber: 2,
         format: "one_mark",
         question: "પર્યાવરણના જૈવિક (સજીવ) અને અજૈવિક (નિર્જીવ) ઘટકોની આંતરક્રિયાથી શું રચાય છે?",
         answer: "નિવસનતંત્ર",
@@ -3844,7 +3844,7 @@ var socialsciOneLineDB = [
     {
         chapter: 22,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 3,
+        questionNumber: 3,
         format: "one_mark",
         question: "લીલી વનસ્પતિઓ અને કેટલીક લીલ પોષણની દૃષ્ટિએ કેવા સજીવો છે?",
         answer: "સ્વયંપોષી (ઉત્પાદકો)",
@@ -3853,7 +3853,7 @@ var socialsciOneLineDB = [
     {
         chapter: 22,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 4,
+        questionNumber: 4,
         format: "one_mark",
         question: "કોઈપણ આહારશૃંખલાની શરૂઆત હંમેશા કોનાથી થાય છે?",
         answer: "ઉત્પાદકોથી (લીલી વનસ્પતિથી)",
@@ -3862,7 +3862,7 @@ var socialsciOneLineDB = [
     {
         chapter: 22,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 5,
+        questionNumber: 5,
         format: "one_mark",
         question: "ખોરાક માટે ઉત્પાદકો પર આધાર રાખતા સજીવોને શું કહેવાય છે?",
         answer: "ઉપભોગીઓ (વિષમપોષી)",
@@ -3871,7 +3871,7 @@ var socialsciOneLineDB = [
     {
         chapter: 22,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 6,
+        questionNumber: 6,
         format: "one_mark",
         question: "પૃથ્વી પરના તમામ નિવસનતંત્રમાં ઊર્જાનો અંતિમ અને મુખ્ય સ્ત્રોત કયો છે?",
         answer: "સૂર્ય",
@@ -3880,7 +3880,7 @@ var socialsciOneLineDB = [
     {
         chapter: 22,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 7,
+        questionNumber: 7,
         format: "one_mark",
         question: "એક સજીવ બીજા સજીવનો ખોરાક તરીકે ઉપયોગ કરે અને જે સીધી સાંકળ રચાય તેને શું કહેવાય?",
         answer: "આહારશૃંખલા (Food Chain)",
@@ -3889,7 +3889,7 @@ var socialsciOneLineDB = [
     {
         chapter: 22,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 8,
+        questionNumber: 8,
         format: "one_mark",
         question: "અનેક આહારશૃંખલાઓ એકબીજા સાથે જોડાઈને કેવી ગૂંચવણભરી રચના બનાવે છે?",
         answer: "આહારજાળ (Food Web)",
@@ -3898,7 +3898,7 @@ var socialsciOneLineDB = [
     {
         chapter: 22,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 9,
+        questionNumber: 9,
         format: "one_mark",
         question: "નિવસનતંત્રમાં ઊર્જાનું વહન કઈ દિશામાં હોય છે?",
         answer: "એકમાર્ગીય (Unidirectional)",
@@ -3907,7 +3907,7 @@ var socialsciOneLineDB = [
     {
         chapter: 22,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 10,
+        questionNumber: 10,
         format: "one_mark",
         question: "આહારશૃંખલામાં એક પોષક સ્તરમાંથી બીજા પોષક સ્તરમાં કેટલા ટકા ઊર્જાનું વહન થાય છે?",
         answer: "10% (દસ ટકા)",
@@ -3916,7 +3916,7 @@ var socialsciOneLineDB = [
     {
         chapter: 22,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 11,
+        questionNumber: 11,
         format: "one_mark",
         question: "ઊર્જા વહનનો '10% નો નિયમ' કયા વૈજ્ઞાનિકે આપ્યો હતો?",
         answer: "રેમન્ડ લિન્ડમેન",
@@ -3925,7 +3925,7 @@ var socialsciOneLineDB = [
     {
         chapter: 22,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 12,
+        questionNumber: 12,
         format: "one_mark",
         question: "મૃત વનસ્પતિ કે પ્રાણીઓના શરીરનું વિઘટન કરતા સૂક્ષ્મજીવોને શું કહેવાય?",
         answer: "વિઘટકો",
@@ -3934,7 +3934,7 @@ var socialsciOneLineDB = [
     {
         chapter: 22,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 13,
+        questionNumber: 13,
         format: "one_mark",
         question: "નિવસનતંત્રમાં વિઘટકોના બે મુખ્ય ઉદાહરણ આપો.",
         answer: "બૅક્ટેરિયા અને ફૂગ",
@@ -3943,7 +3943,7 @@ var socialsciOneLineDB = [
     {
         chapter: 22,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 14,
+        questionNumber: 14,
         format: "one_mark",
         question: "આહારશૃંખલાના ઉપલા સ્તરે (માણસ/પક્ષીઓમાં) ઝેરી રસાયણોના પ્રમાણમાં થતા વધારાને શું કહે છે?",
         answer: "જૈવિક વિશાલન",
@@ -3952,7 +3952,7 @@ var socialsciOneLineDB = [
     {
         chapter: 22,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 15,
+        questionNumber: 15,
         format: "one_mark",
         question: "ઓઝોન (Ozone) વાયુના એક અણુમાં ઑક્સિજનના કેટલા પરમાણુ હોય છે?",
         answer: "ત્રણ (O3)",
@@ -3961,7 +3961,7 @@ var socialsciOneLineDB = [
     {
         chapter: 22,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 16,
+        questionNumber: 16,
         format: "one_mark",
         question: "ઓઝોન સ્તર વાતાવરણના કયા આવરણ (લેયર) માં આવેલું છે?",
         answer: "સ્ટ્રેટોસ્ફિયર (સમતાપ આવરણ)",
@@ -3970,7 +3970,7 @@ var socialsciOneLineDB = [
     {
         chapter: 22,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 17,
+        questionNumber: 17,
         format: "one_mark",
         question: "ઓઝોન સ્તર પૃથ્વી પર આવતા કયા હાનિકારક કિરણોનું શોષણ કરે છે?",
         answer: "પારજાંબલી (અલ્ટ્રાવાયોલેટ - UV) કિરણો",
@@ -3979,7 +3979,7 @@ var socialsciOneLineDB = [
     {
         chapter: 22,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 18,
+        questionNumber: 18,
         format: "one_mark",
         question: "ઓઝોન સ્તરના વિઘટન (ગાબડાં પડવા) માટે મુખ્યત્વે કયું રસાયણ જવાબદાર છે?",
         answer: "CFC (ક્લોરોફ્લોરો કાર્બન)",
@@ -3988,7 +3988,7 @@ var socialsciOneLineDB = [
     {
         chapter: 22,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 19,
+        questionNumber: 19,
         format: "one_mark",
         question: "પોષક દ્રવ્યોનું સજીવોમાંથી નિર્જીવ પર્યાવરણમાં અને ત્યાંથી પાછા સજીવોમાં થતા વહનને શું કહેવાય?",
         answer: "જૈવભૂ-રાસાયણિક ચક્ર",
@@ -3997,7 +3997,7 @@ var socialsciOneLineDB = [
     {
         chapter: 22,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 20,
+        questionNumber: 20,
         format: "one_mark",
         question: "આહારશૃંખલામાં તૃણાહારી પ્રાણીઓ (જેમ કે ગાય, હરણ) કયા પોષક સ્તરે આવે છે?",
         answer: "દ્વિતીય પોષક સ્તરે",
@@ -4008,7 +4008,7 @@ var socialsciOneLineDB = [
     {
         chapter: 23,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 1,
+        questionNumber: 1,
         format: "one_mark",
         question: "આર.ટી.ઓ. (R.T.O.) નું પૂરું નામ શું છે?",
         answer: "પ્રાદેશિક વાહનવ્યવહાર કચેરી (Regional Transport Office)",
@@ -4017,7 +4017,7 @@ var socialsciOneLineDB = [
     {
         chapter: 23,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 2,
+        questionNumber: 2,
         format: "one_mark",
         question: "ભારતમાં ગિયરવાળું વાહન ચલાવવા પાકું ડ્રાઇવિંગ લાયસન્સ મેળવવાની લઘુત્તમ ઉંમર કેટલી છે?",
         answer: "18 વર્ષ",
@@ -4026,7 +4026,7 @@ var socialsciOneLineDB = [
     {
         chapter: 23,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 3,
+        questionNumber: 3,
         format: "one_mark",
         question: "પી.યુ.સી. (P.U.C.) નું પૂરું નામ જણાવો.",
         answer: "પોલ્યુશન અંડર કંટ્રોલ (Pollution Under Control)",
@@ -4035,7 +4035,7 @@ var socialsciOneLineDB = [
     {
         chapter: 23,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 4,
+        questionNumber: 4,
         format: "one_mark",
         question: "અકસ્માત થયા પછીના પ્રથમ એક કલાકના અત્યંત કીમતી સમયને કયા નામે ઓળખવામાં આવે છે?",
         answer: "ગોલ્ડન અવર (Golden Hour)",
@@ -4044,7 +4044,7 @@ var socialsciOneLineDB = [
     {
         chapter: 23,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 5,
+        questionNumber: 5,
         format: "one_mark",
         question: "મેડિકલ ઇમરજન્સી કે અકસ્માત વખતે તાત્કાલિક સારવાર માટે કયો ટોલ ફ્રી નંબર ડાયલ કરાય છે?",
         answer: "108 (એક-શૂન્ય-આઠ)",
@@ -4053,7 +4053,7 @@ var socialsciOneLineDB = [
     {
         chapter: 23,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 6,
+        questionNumber: 6,
         format: "one_mark",
         question: "ટ્રાફિક સિગ્નલમાં 'લાલ લાઈટ' (Red light) શું સૂચવે છે?",
         answer: "વાહન ઊભું રાખો (Stop)",
@@ -4062,7 +4062,7 @@ var socialsciOneLineDB = [
     {
         chapter: 23,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 7,
+        questionNumber: 7,
         format: "one_mark",
         question: "ટ્રાફિક સિગ્નલમાં 'લીલી લાઈટ' (Green light) નો અર્થ શું થાય છે?",
         answer: "વાહન આગળ જવા દો (Go)",
@@ -4071,7 +4071,7 @@ var socialsciOneLineDB = [
     {
         chapter: 23,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 8,
+        questionNumber: 8,
         format: "one_mark",
         question: "રસ્તા પર રાહદારીઓને રસ્તો ઓળંગવા માટે દોરેલા સફેદ અને કાળા પટ્ટાને શું કહે છે?",
         answer: "ઝીબ્રા ક્રોસિંગ (Zebra Crossing)",
@@ -4080,7 +4080,7 @@ var socialsciOneLineDB = [
     {
         chapter: 23,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 9,
+        questionNumber: 9,
         format: "one_mark",
         question: "ભારતમાં વાહન હંમેશા રસ્તાની કઈ બાજુએ ચલાવવાનો નિયમ છે?",
         answer: "ડાબી બાજુએ (Left side)",
@@ -4089,7 +4089,7 @@ var socialsciOneLineDB = [
     {
         chapter: 23,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 10,
+        questionNumber: 10,
         format: "one_mark",
         question: "આગળ જતા વાહનને ઓવરટેક હંમેશા કઈ બાજુથી કરવું જોઈએ?",
         answer: "જમણી બાજુથી (Right side)",
@@ -4098,7 +4098,7 @@ var socialsciOneLineDB = [
     {
         chapter: 23,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 11,
+        questionNumber: 11,
         format: "one_mark",
         question: "ટુ-વ્હીલર (બાઇક/સ્કૂટર) ચલાવતી વખતે માથાના રક્ષણ માટે શું પહેરવું ફરજિયાત છે?",
         answer: "હેલ્મેટ (Helmet)",
@@ -4107,7 +4107,7 @@ var socialsciOneLineDB = [
     {
         chapter: 23,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 12,
+        questionNumber: 12,
         format: "one_mark",
         question: "ફોર-વ્હીલર (કાર) ચલાવતી વખતે ડ્રાઇવર માટે કયું સુરક્ષા સાધન ફરજિયાત છે?",
         answer: "સીટબેલ્ટ (Seatbelt)",
@@ -4116,7 +4116,7 @@ var socialsciOneLineDB = [
     {
         chapter: 23,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 13,
+        questionNumber: 13,
         format: "one_mark",
         question: "રાત્રે સામેથી વાહન આવતું હોય ત્યારે હેડલાઈટ કયા મોડ પર રાખવી જોઈએ?",
         answer: "ડીપર (Low Beam) પર",
@@ -4125,7 +4125,7 @@ var socialsciOneLineDB = [
     {
         chapter: 23,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 14,
+        questionNumber: 14,
         format: "one_mark",
         question: "વાહન ચલાવતી વખતે કયા ઇલેક્ટ્રોનિક ગેઝેટનો ઉપયોગ કરવો એ કાયદેસરનો ગુનો બને છે?",
         answer: "મોબાઈલ ફોનનો",
@@ -4134,7 +4134,7 @@ var socialsciOneLineDB = [
     {
         chapter: 23,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 15,
+        questionNumber: 15,
         format: "one_mark",
         question: "લોકોમાં ટ્રાફિકના નિયમો પ્રત્યે જાગૃતિ લાવવા સરકાર દર વર્ષે કયા સપ્તાહની ઉજવણી કરે છે?",
         answer: "માર્ગ સલામતી સપ્તાહ",
@@ -4143,7 +4143,7 @@ var socialsciOneLineDB = [
     {
         chapter: 23,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 16,
+        questionNumber: 16,
         format: "one_mark",
         question: "ગોળ આકારના ટ્રાફિક બોર્ડ પર અંગ્રેજી અક્ષર 'P' લખીને તેના પર લાલ ત્રાંસો લીટો મારેલો હોય, તે શું સૂચવે છે?",
         answer: "નો-પાર્કિંગ (વાહન ઊભું રાખવાની મનાઈ)",
@@ -4152,7 +4152,7 @@ var socialsciOneLineDB = [
     {
         chapter: 23,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 17,
+        questionNumber: 17,
         format: "one_mark",
         question: "ગોળ આકારના ટ્રાફિક બોર્ડ પર અંગ્રેજી અક્ષર 'U' લખીને તેના પર લાલ લીટો મારેલો હોય, તે શું સૂચવે છે?",
         answer: "U-ટર્ન લેવાની મનાઈ છે",
@@ -4161,7 +4161,7 @@ var socialsciOneLineDB = [
     {
         chapter: 23,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 18,
+        questionNumber: 18,
         format: "one_mark",
         question: "RTO દ્વારા આપવામાં આવતા 'લર્નિંગ લાયસન્સ' (Learning License) ની મુદત કેટલા મહિનાની હોય છે?",
         answer: "6 મહિનાની",
@@ -4170,7 +4170,7 @@ var socialsciOneLineDB = [
     {
         chapter: 23,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 19,
+        questionNumber: 19,
         format: "one_mark",
         question: "અકસ્માત સમયે માથાની ઈજાથી બચાવવા માટે હંમેશા કયા માર્કાવાળું હેલ્મેટ પહેરવું જોઈએ?",
         answer: "ISI માર્કાવાળું",
@@ -4179,7 +4179,7 @@ var socialsciOneLineDB = [
     {
         chapter: 23,
         instruction: "નીચેના પ્રશ્નોના એક-બે શબ્દોમાં કે ટૂંકમાં ઉત્તર આપો (1 ગુણ):",
-        q_no: 20,
+        questionNumber: 20,
         format: "one_mark",
         question: "વાહનની ખરીદી કર્યા પછી RTO માં તેની નોંધણી થાય, ત્યારે કઈ બુક આપવામાં આવે છે?",
         answer: "RC બુક (Registration Certificate)",
