@@ -36,6 +36,46 @@ var Std10_Science_imp = [
         year_asked: "[GSEB Model Paper 2024]",
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ક્ષારણ (Corrosion) અને ખોરાપણું (Rancidity) એટલે શું? ઉદાહરણ આપી તેમને અટકાવવાના ઉપાયો જણાવો.</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b style='color: #d32f2f; font-size: 16px;'>1. ક્ષારણ (Corrosion):</b><br>જ્યારે ધાતુ પર તેની આસપાસના પદાર્થો જેવા કે ભેજ, એસિડ વગેરેનો હુમલો થાય છે, ત્યારે તેનું ક્ષયન થાય છે. આ પ્રક્રિયાને ક્ષારણ કહે છે.<br><b>ઉદાહરણ:</b> લોખંડને કાટ લાગવો (લાલાશ પડતો કથ્થાઈ રંગ), ચાંદી પર કાળું પડ જામવું, તાંબા પર લીલું પડ જામવું.<br><b>અટકાવવાના ઉપાયો:</b><br>&bull; લોખંડ પર કલર (રંગ) કરવો.<br>&bull; તેલ કે ગ્રીસ લગાવવું.<br>&bull; ઝિંકનું પડ ચઢાવવું (ગેલ્વેનાઈઝેશન).<br><hr style='border: 0; border-top: 1px dashed #ccc; margin: 15px 0;'><b style='color: #d32f2f; font-size: 16px;'>2. ખોરાપણું (Rancidity):</b><br>જ્યારે તેલ અથવા ચરબીયુક્ત ખોરાક હવામાં ખુલ્લો રહે છે, ત્યારે તેનું ઓક્સિડેશન થવાથી તે 'ખોરો' થઈ જાય છે. તેના સ્વાદ અને ગંધ બદલાઈ જાય છે, જેને ખોરાપણું કહે છે.<br><b>ઉદાહરણ:</b> લાંબા સમય સુધી પડેલી સેવ કે ચિપ્સનો સ્વાદ બગડી જવો.<br><b>અટકાવવાના ઉપાયો:</b><br>&bull; ખોરાકને હવાચુસ્ત (Air-tight) ડબ્બામાં રાખવો.<br>&bull; એન્ટી-ઓક્સિડન્ટ પદાર્થો ઉમેરવા.<br>&bull; પોટેટો ચિપ્સના પેકેટમાં ઓક્સિજન કાઢીને <b>નાઈટ્રોજન (N<sub>2</sub>)</b> જેવો નિષ્ક્રિય વાયુ ભરવો.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષારણ એટલે 'ધાતુની બીમારી' અને ખોરાપણું એટલે 'ખોરાકની બીમારી'. લોખંડને કાટથી બચાવવા કલર કરો અને વેફરને બચાવવા પેકેટમાં નાઇટ્રોજન વાયુ ભરો (હવા નહિ)!</div></div>"
+    },
+
+    // પ્રકરણ 1: રાસાયણિક પ્રક્રિયાઓ અને સમીકરણો (N. J. Classes - 2025 અને 2026 બોર્ડના પ્રશ્નો)
+
+    {
+        chapter: 1,
+        q_no: 5,
+        marks: 1,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નીચે આપેલા રાસાયણિક સમીકરણને સંતુલિત કરો:<br> HNO<sub>3</sub> + Ca(OH)<sub>2</sub> &rarr; Ca(NO<sub>3</sub>)<sub>2</sub> + H<sub>2</sub>O</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સંતુલિત રાસાયણિક સમીકરણ નીચે મુજબ છે:<br><br><div style='background-color: #e3f2fd; padding: 8px; font-weight: bold; text-align: center; border-radius: 4px; margin: 10px 0;'><span style='color: #d32f2f;'>2</span>HNO<sub>3</sub> + Ca(OH)<sub>2</sub> &rarr; Ca(NO<sub>3</sub>)<sub>2</sub> + <span style='color: #d32f2f;'>2</span>H<sub>2</sub>O</div><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: સમીકરણ સંતુલિત કરતી વખતે (NO<sub>3</sub>) કે (OH) જેવા બહુપરમાણ્વીય આયનોને આખું એક 'ગ્રુપ' માનીને જ ગણતરી કરો. જેમ કે જમણી બાજુ બે NO<sub>3</sub> છે, તો ડાબી બાજુ HNO<sub>3</sub> આગળ સીધા 2 મૂકી દો. જવાબ જલ્દી આવશે!</div></div>"
+    },
+
+    {
+        chapter: 1,
+        q_no: 6,
+        marks: 2,
+        year_asked: "[July 2025 (Supplementary - Twisted)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નિતેશ સર N. J. Classes ની બહાર લાગેલી લોખંડની જાળીને દર વર્ષે રંગ (Paint) કરાવે છે. આ પાછળનું વૈજ્ઞાનિક કારણ શું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લોખંડની વસ્તુઓને હવામાં ખુલ્લી રાખવાથી તે વાતાવરણના <b>ભેજ (પાણી)</b> અને <b>ઓક્સિજન</b> સાથે પ્રક્રિયા કરીને કથ્થાઈ રંગનો કાટ (આયર્ન ઓક્સાઇડ) બનાવે છે, જેને <b>ક્ષારણ</b> કહે છે.<br><br>લોખંડની જાળી પર રંગ (Paint) કરવાથી:<br>&bull; લોખંડની સપાટી અને વાતાવરણની હવા (તથા ભેજ) વચ્ચેનો <b>સીધો સંપર્ક તૂટી જાય છે.</b><br>&bull; આથી ઓક્સિડેશન પ્રક્રિયા અટકી જાય છે અને લોખંડને કાટ લાગતો નથી. આમ, જાળી લાંબા સમય સુધી સુરક્ષિત રહે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: કાટ લાગવાની શરત = લોખંડ + હવા (O<sub>2</sub>) + ભેજ. કલર કરવાથી આ ત્રણેયની 'દોસ્તી' તૂટી જાય છે. આને ધાતુને 'માસ્ક' પહેરાવ્યું કહેવાય!</div></div>"
+    },
+
+    {
+        chapter: 1,
+        q_no: 7,
+        marks: 3,
+        year_asked: "[March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>એક બીકરમાં થોડો કળીચૂનો (કેલ્શિયમ ઓક્સાઈડ - CaO) લઈ તેમાં ધીમે ધીમે પાણી ઉમેરવામાં આવે છે. આ પ્રક્રિયા માટે આકૃતિ દોરો, રાસાયણિક સમીકરણ લખો અને પ્રક્રિયાના પ્રકાર જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જ્યારે કળીચૂનામાં પાણી ઉમેરવામાં આવે છે, ત્યારે તે ખૂબ જ ઝડપથી પ્રક્રિયા કરી ફોડેલો ચૂનો (કેલ્શિયમ હાઈડ્રોક્સાઇડ) બનાવે છે અને પુષ્કળ પ્રમાણમાં ઉષ્મા ઉત્પન્ન કરે છે.<br><br><b>કોડ આધારિત આકૃતિ:</b><br><div style='text-align: center; margin: 15px 0; padding: 20px; background: #fff; border: 1px solid #ccc; border-radius: 8px;'><div style='width: 120px; height: 140px; border: 3px solid #78909c; border-top: none; border-radius: 0 0 15px 15px; margin: 0 auto; position: relative; background: linear-gradient(to bottom, transparent 30%, #e1f5fe 30%, #b3e5fc 100%);'><div style='position: absolute; bottom: 10px; left: 15px; right: 15px; height: 30px; background-color: #cfd8dc; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 12px; font-weight: bold;'>CaO ના કણો</div><div style='position: absolute; top: -30px; left: 45px; color: #f44336; font-size: 20px; font-weight: bold;'>&#128168; ઉષ્મા</div><div style='position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; color: #0277bd;'>પાણી + CaO</div></div><div style='font-size: 14px; color: #455a64; margin-top: 10px; font-weight: bold;'>બીકરમાં કળીચૂનો અને પાણીની પ્રક્રિયા (બીકર ગરમ થશે)</div></div><br><b>રાસાયણિક સમીકરણ:</b><br><div style='background-color: #e3f2fd; padding: 8px; font-weight: bold; text-align: center; border-radius: 4px; margin: 10px 0;'>CaO<sub>(s)</sub> + H<sub>2</sub>O<sub>(l)</sub> &rarr; Ca(OH)<sub>2(aq)</sub> + ઉષ્મા</div><br><b>પ્રક્રિયાના પ્રકાર:</b><br>1. <b>સંયોગીકરણ પ્રક્રિયા:</b> (કારણ કે બે પ્રક્રિયકો જોડાઈને એક જ નીપજ Ca(OH)<sub>2</sub> બને છે).<br>2. <b>ઉષ્માક્ષેપક પ્રક્રિયા:</b> (કારણ કે પ્રક્રિયા દરમિયાન ઉષ્મા ઉત્પન્ન થાય છે).<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: બે ભેગા મળીને એક થાય = સંયોગીકરણ (Combination). અને પ્રક્રિયામાં ગરમી બહાર નીકળે (બીકર અડતા ગરમ લાગે) = ઉષ્માક્ષેપક (Exothermic). કળીચૂનો એટલે દિવાલ પર કરવાનો ચૂનો!</div></div>"
+    },
+
+    {
+        chapter: 1,
+        q_no: 8,
+        marks: 2,
+        year_asked: "[May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રેડોક્સ પ્રક્રિયા એટલે શું? નીચે આપેલ પ્રક્રિયામાં ઓક્સિડેશન પામતો અને રિડક્શન પામતો પદાર્થ ઓળખો:<br> ZnO + C &rarr; Zn + CO</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>રેડોક્સ પ્રક્રિયાની વ્યાખ્યા:</b> જે પ્રક્રિયામાં એક પ્રક્રિયકનું ઓક્સિડેશન થતું હોય અને બીજા પ્રક્રિયકનું રિડક્શન થતું હોય, તેવી પ્રક્રિયાને ઓક્સિડેશન-રિડક્શન અથવા રેડોક્સ (Redox) પ્રક્રિયા કહે છે.<br><br><b>આપેલ સમીકરણ:</b> ZnO + C &rarr; Zn + CO<br><br>અહીં,<br>&bull; કાર્બન (C) ઓક્સિજન મેળવીને CO બનાવે છે. તેથી <b>C નું ઓક્સિડેશન</b> થાય છે.<br>&bull; ઝિંક ઓક્સાઈડ (ZnO) ઓક્સિજન ગુમાવીને Zn બનાવે છે. તેથી <b>ZnO નું રિડક્શન</b> થાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ઓક્સિજન છીનવી લે (મેળવે) તેનું 'ઓક્સિડેશન' થયું કહેવાય! (અહીં C એ O લઈ લીધો). અને જેનો ઓક્સિજન ચોરાઈ જાય (ગુમાવે) તેનું 'રિડક્શન' થયું કહેવાય!</div></div>"
     }
+
+
 
 ];
