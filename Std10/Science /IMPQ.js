@@ -429,7 +429,7 @@ var Std10_Science_imp = [
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>અંતઃસ્ત્રાવોના સ્રાવનું નિયમન કરતી 'પ્રતિક્રિયા આધારિત નિયમન' (Feedback Mechanism) પદ્ધતિ ઉદાહરણ આપી સમજાવો.</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>શરીરમાં અંતઃસ્ત્રાવો <b>યોગ્ય સમયે અને ચોક્કસ માત્રામાં</b> જ સ્રવવા જોઈએ. જો તે વધુ કે ઓછાં સ્રવે તો નુકસાન થાય છે. આથી તેનું નિયંત્રણ <b>ફીડબેક મિકેનિઝમ (Feedback Mechanism)</b> દ્વારા થાય છે.<br><br><b>ઉદાહરણ (ઇન્સ્યુલિનનું નિયમન):</b><br>&bull; જ્યારે રુધિરમાં શર્કરા (Sugar) નું સ્તર વધે છે, ત્યારે સ્વાદુપિંડના કોષો તેની નોંધ લે છે (સેન્સ કરે છે).<br>&bull; પ્રતિચાર રૂપે, સ્વાદુપિંડ વધુ ઇન્સ્યુલિનનો સ્રાવ કરે છે, જે સુગર લેવલને ઘટાડે છે.<br>&bull; જ્યારે રુધિરમાં શર્કરાનું સ્તર ઘટીને નોર્મલ થઈ જાય છે, ત્યારે ઇન્સ્યુલિનનો સ્રાવ આપોઆપ <b>ઓછો</b> થઈ જાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: ફીડબેક સિસ્ટમ એટલે ઘરમાં લાગેલું AC! રૂમ ગરમ થાય તો AC (ઇન્સ્યુલિન) ઓટોમેટિક ચાલુ થાય, અને રૂમ ઠંડો (સુગર નોર્મલ) થઈ જાય એટલે AC ઓટોમેટિક બંધ થઈ જાય. બસ આ જ છે ફીડબેક!</div></div>"
     },
-    var Std10_Science_imp_ch7 = [
+
 
     // પ્રકરણ 7: સજીવો કેવી રીતે પ્રજનન કરે છે? (N. J. Classes - 12 મોસ્ટ IMP પ્રશ્નો)
 
@@ -725,7 +725,7 @@ var Std10_Science_imp = [
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>15 cm કેન્દ્રલંબાઈ વાળા અંતર્ગોળ અરીસાની સામે 10 cm દૂર એક વસ્તુ મૂકી છે. પ્રતિબિંબનું સ્થાન અને પ્રકાર શોધો.</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>અહીં અરીસો <b>અંતર્ગોળ</b> છે, તેથી સંજ્ઞા પ્રણાલી મુજબ:<br>કેન્દ્રલંબાઈ (f) = -15 cm<br>વસ્તુ અંતર (u) = -10 cm<br>પ્રતિબિંબ અંતર (v) = ?<br><br><b>અરીસાના સૂત્ર મુજબ:</b><br>1/v + 1/u = 1/f<br>1/v + (1/-10) = 1/-15<br>1/v - 1/10 = -1/15<br>1/v = 1/10 - 1/15<br><br>લ.સા.અ. (30) લેતાં:<br>1/v = (3 - 2) / 30<br>1/v = 1 / 30<br><b style='color: #d32f2f; font-size: 16px;'>v = +30 cm</b><br><br><b>પ્રતિબિંબનું સ્થાન અને પ્રકાર:</b><br>અહીં <b>v નું મૂલ્ય ધન (+)</b> મળ્યું છે. તેનો અર્થ એ કે પ્રતિબિંબ અરીસાની પાછળની બાજુએ 30 cm દૂર રચાશે.<br>તેથી પ્રતિબિંબનો પ્રકાર <b>આભાસી અને ચત્તું</b> હશે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: દાખલાનો જવાબ ચેક કરવાની જાદુઈ રીત! અંતર્ગોળ અરીસામાં જો વસ્તુ (10cm) કેન્દ્રલંબાઈ (15cm) કરતા અરીસાની વધુ નજીક હોય, તો પ્રતિબિંબ હંમેશા અરીસાની પાછળ (ધન) જ મળે અને મોટું/આભાસી જ હોય! આપણો v=+30 આવ્યો, એટલે ગણતરી 100% સાચી!</div></div>"
     },
-    var Std10_Science_imp_ch10 = [
+
 
     // પ્રકરણ 10: માનવ આંખ અને રંગબેરંગી દુનિયા (N. J. Classes - 12 મોસ્ટ IMP પ્રશ્નો)
 
