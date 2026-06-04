@@ -74,7 +74,56 @@ var Std10_Science_imp = [
         year_asked: "[May 2026]",
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રેડોક્સ પ્રક્રિયા એટલે શું? નીચે આપેલ પ્રક્રિયામાં ઓક્સિડેશન પામતો અને રિડક્શન પામતો પદાર્થ ઓળખો:<br> ZnO + C &rarr; Zn + CO</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>રેડોક્સ પ્રક્રિયાની વ્યાખ્યા:</b> જે પ્રક્રિયામાં એક પ્રક્રિયકનું ઓક્સિડેશન થતું હોય અને બીજા પ્રક્રિયકનું રિડક્શન થતું હોય, તેવી પ્રક્રિયાને ઓક્સિડેશન-રિડક્શન અથવા રેડોક્સ (Redox) પ્રક્રિયા કહે છે.<br><br><b>આપેલ સમીકરણ:</b> ZnO + C &rarr; Zn + CO<br><br>અહીં,<br>&bull; કાર્બન (C) ઓક્સિજન મેળવીને CO બનાવે છે. તેથી <b>C નું ઓક્સિડેશન</b> થાય છે.<br>&bull; ઝિંક ઓક્સાઈડ (ZnO) ઓક્સિજન ગુમાવીને Zn બનાવે છે. તેથી <b>ZnO નું રિડક્શન</b> થાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ઓક્સિજન છીનવી લે (મેળવે) તેનું 'ઓક્સિડેશન' થયું કહેવાય! (અહીં C એ O લઈ લીધો). અને જેનો ઓક્સિજન ચોરાઈ જાય (ગુમાવે) તેનું 'રિડક્શન' થયું કહેવાય!</div></div>"
+    },
+    
+
+    // પ્રકરણ 2: એસિડ, બેઝ અને ક્ષાર (2024 થી 2026 બોર્ડના પ્રશ્નો)
+
+    {
+        chapter: 2,
+        q_no: 1,
+        marks: 1,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>એક દ્રાવણ લાલ લિટમસને ભૂરું બનાવે છે, તો તેની pH નો સંભવિત આંકડો કેટલો હોઈ શકે? (વિકલ્પો: 1, 4, 5, 10)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લાલ લિટમસને ભૂરું બનાવતું દ્રાવણ <b>બેઝ (Base)</b> હોય છે. <br>બેઝિક દ્રાવણની pH હંમેશા 7 કરતાં વધુ હોય છે. આપેલા વિકલ્પોમાંથી 7 કરતાં વધુ કિંમત <b>10</b> છે.<br><br><b>જવાબ: 10</b><br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો 'બે લાભૂ' (બેઝ લાલને ભૂરું બનાવે) અને 'એ ભૂલા' (એસિડ ભૂરાને લાલ બનાવે). બેઝ એટલે કડવો સ્વભાવ, અને તેનો pH સ્કોર હંમેશા પાસિંગ માર્ક્સ (7) થી ઉપર જ હોય!</div></div>"
+    },
+
+    {
+        chapter: 2,
+        q_no: 2,
+        marks: 2,
+        year_asked: "[May 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શા માટે શુષ્ક HCl વાયુ શુષ્ક લિટમસ પેપરનો રંગ બદલતો નથી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કોઈપણ એસિડ પોતાનો એસિડિક ગુણધર્મ ત્યારે જ દર્શાવે છે જ્યારે તેમાં <b>H<sup>+</sup> (અથવા H<sub>3</sub>O<sup>+</sup>) આયનો</b> મુક્ત થાય. <br><br>આ આયનો માત્ર પાણીની હાજરીમાં જ (જલીય દ્રાવણમાં) મુક્ત થઈ શકે છે. અહીં HCl વાયુ <b>શુષ્ક (સૂકો)</b> છે અને લિટમસ પેપર પણ <b>શુષ્ક</b> છે. તેથી પાણીની ગેરહાજરીના કારણે H<sup>+</sup> આયનો મુક્ત થતા નથી, પરિણામે શુષ્ક લિટમસ પેપરનો રંગ બદલાતો નથી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: એસિડ એ 'માછલી' જેવો છે. જેમ માછલી પાણી વગર તરફડે, તેમ એસિડ પણ પાણી વગર પોતાની તાકાત (H+ આયન) બતાવી શકતો નથી. સૂકું + સૂકું = કોઈ જાદુ નહિ!</div></div>"
+    },
+
+    {
+        chapter: 2,
+        q_no: 3,
+        marks: 3,
+        year_asked: "[March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પ્લાસ્ટર ઓફ પેરિસ (POP) કેવી રીતે બનાવવામાં આવે છે? રાસાયણિક સમીકરણ લખો અને તેના કોઈપણ બે ઉપયોગો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જ્યારે <b>જીપ્સમ (ચિરોડી - CaSO<sub>4</sub>&middot;2H<sub>2</sub>O)</b> ને 373 K તાપમાને ગરમ કરવામાં આવે છે, ત્યારે તે પાણીના અણુઓ ગુમાવે છે અને પ્લાસ્ટર ઓફ પેરિસ (કેલ્શિયમ સલ્ફેટ હેમીહાઇડ્રેટ) બને છે.<br><br><b>રાસાયણિક સમીકરણ:</b><br><div style='background-color: #e3f2fd; padding: 8px; font-weight: bold; text-align: center; border-radius: 4px; margin: 10px 0;'>CaSO<sub>4</sub>&middot;2H<sub>2</sub>O <span style='font-size: 12px; position: relative; top: -10px;'>373 K (ગરમ કરતા)</span>&rarr; CaSO<sub>4</sub>&middot;&frac12;H<sub>2</sub>O + 1&frac12;H<sub>2</sub>O</div><br><b>ઉપયોગો:</b><br>૧. ભાંગી ગયેલા હાડકાંને સાચી સ્થિતિમાં ગોઠવવા માટે ડૉક્ટરો પ્લાસ્ટર તરીકે ઉપયોગ કરે છે.<br>૨. રમકડાં, પૂતળાં અને સજાવટની સામગ્રી (જેમ કે સીલિંગની ડિઝાઇન - POP) બનાવવા માટે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: જીપ્સમ પાસે 2 ડોલ (અણુ) પાણી છે. તેને ગરમ કરો એટલે 1.5 (દોઢ) ડોલ પાણી ઉડી જાય અને માત્ર અડધી (&frac12;) ડોલ પાણી વધે, જે POP બની જાય! સૂત્ર ગોખવાની જરૂર જ નથી!</div></div>"
+    },
+
+    {
+        chapter: 2,
+        q_no: 4,
+        marks: 4,
+        year_asked: "[July 2024 / GSEB Model Paper 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>દાણાદાર ઝિંકની મંદ સલ્ફ્યુરિક એસિડ સાથેની પ્રક્રિયા દર્શાવતો પ્રયોગ આકૃતિ દોરી સમજાવો. ઉત્પન્ન થતા વાયુની ચકાસણી તમે કેવી રીતે કરશો? સમીકરણ પણ લખો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>પ્રયોગની સમજૂતી:</b><br>એક કસનળીમાં આશરે 5 ml મંદ સલ્ફ્યુરિક એસિડ (H<sub>2</sub>SO<sub>4</sub>) લો અને તેમાં દાણાદાર ઝિંક (Zn) ના થોડા ટુકડા ઉમેરો. ઝિંકના ટુકડાની સપાટી પરથી હાઇડ્રોજન (H<sub>2</sub>) વાયુના પરપોટા ઉત્પન્ન થતા દેખાશે.<br><br><b>કોડ આધારિત આકૃતિ (ધાતુની એસિડ સાથે પ્રક્રિયા):</b><br><div style='display: flex; justify-content: center; align-items: flex-end; margin: 20px 0; padding: 20px; background: #fff; border: 1px solid #ccc; border-radius: 8px;'><div style='position: relative; width: 60px; height: 160px; border: 3px solid #78909c; border-top: none; border-radius: 0 0 30px 30px; background: linear-gradient(to bottom, transparent 40%, #e1f5fe 40%, #81d4fa 100%);'><div style='position: absolute; bottom: 10px; left: 10px; right: 10px; display: flex; flex-wrap: wrap; justify-content: space-around;'><div style='width: 8px; height: 8px; background: #546e7a; border-radius: 50%; margin: 2px;'></div><div style='width: 8px; height: 8px; background: #546e7a; border-radius: 50%; margin: 2px;'></div><div style='width: 8px; height: 8px; background: #546e7a; border-radius: 50%; margin: 2px;'></div></div><div style='position: absolute; bottom: 40px; left: 25px; width: 6px; height: 6px; background: #fff; border-radius: 50%; box-shadow: 0 -15px 0 #fff, -10px -30px 0 #fff, 10px -45px 0 #fff;'></div><div style='position: absolute; top: -10px; left: 50%; transform: translateX(-50%); width: 40px; height: 15px; background: #ffcc80; border-radius: 5px; opacity: 0.8;'></div><div style='position: absolute; top: 0; left: 30px; width: 100px; height: 40px; border: 3px solid #78909c; border-bottom: none; border-left: none; border-radius: 0 10px 0 0;'></div><div style='position: absolute; bottom: -25px; left: -30px; font-size: 11px; font-weight: bold; color: #333; text-align: center;'>કસનળી<br>(Zn + H<sub>2</sub>SO<sub>4</sub>)</div></div><div style='position: relative; margin-left: 50px; width: 100px; height: 80px; border: 3px solid #78909c; border-top: none; background: #e8eaf6;'><div style='position: absolute; top: -30px; left: -10px; width: 3px; height: 50px; background: #78909c;'></div><div style='position: absolute; top: 10px; left: 50%; transform: translateX(-50%); font-size: 12px; font-weight: bold; color: #3949ab;'>સાબુનું દ્રાવણ</div><div style='position: absolute; top: -40px; left: 20px; font-size: 16px;'>🫧 H<sub>2</sub> પરપોટા</div><div style='position: absolute; top: -60px; right: -30px; font-size: 24px;'>🕯️</div></div></div><br><b>વાયુની ચકાસણી (Test for Gas):</b><br>જ્યારે ઉત્પન્ન થતા વાયુને સાબુના દ્રાવણમાંથી પસાર કરવામાં આવે છે, ત્યારે પરપોટા બને છે. આ પરપોટાની નજીક સળગતી મીણબત્તી લાવતા વાયુ <b>'ધાણી ફૂટ્યા' (Pop Sound)</b> જેવા અવાજ સાથે સળગી ઊઠે છે. આ સાબિત કરે છે કે ઉત્પન્ન થતો વાયુ <b>હાઇડ્રોજન (H<sub>2</sub>)</b> છે.<br><br><b>રાસાયણિક સમીકરણ:</b><br><div style='background-color: #e3f2fd; padding: 8px; font-weight: bold; text-align: center; border-radius: 4px; margin: 10px 0;'>Zn<sub>(s)</sub> + H<sub>2</sub>SO<sub>4(aq)</sub> &rarr; ZnSO<sub>4(aq)</sub> + H<sub>2(g)</sub>&uarr;</div><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: ધાતુ + એસિડ ભેગા થાય એટલે H<sub>2</sub> વાયુ 'ફ્રી' માં મળે! અને હાઇડ્રોજન ભાઈનો સ્વભાવ ફટાકડા જેવો છે, જરાક આગ લગાડો એટલે 'પોપ' (Pop) અવાજ સાથે ફૂટે જ!</div></div>"
+    },
+
+    {
+        chapter: 2,
+        q_no: 5,
+        marks: 2,
+        year_asked: "[May 2026 (Twisted)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>એક ખેડૂત પોતાના ખેતરની માટીમાં વારંવાર લાઈમ (કેલ્શિયમ ઓક્સાઇડ - CaO) ઉમેરે છે. ખેતરની માટીનો સ્વભાવ કેવો હશે અને શા માટે તે આવું કરે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>અહીં ખેડૂત માટીમાં લાઈમ (CaO) ઉમેરે છે, જે <b>બેઝિક (આલ્કલાઇન)</b> સ્વભાવ ધરાવે છે.<br><br>આનો અર્થ એ છે કે તેના ખેતરની માટી <b>એસિડિક (Acidic)</b> હશે. એસિડિક માટીમાં પાકનો વિકાસ યોગ્ય રીતે થતો નથી. તેથી માટીમાં રહેલા વધારાના એસિડનું <b>તટસ્થીકરણ (Neutralization)</b> કરવા માટે ખેડૂત તેમાં બેઝિક પદાર્થ (લાઈમ) ઉમેરે છે, જેથી માટી ખેતી માટે યોગ્ય (તટસ્થ) બની શકે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે જમીનને એસિડિટી થાય (એસિડિક બને), ત્યારે ખેડૂત તેને જમીનનો 'ઈનો' એટલે કે લાઈમ (ચૂનો - બેઝ) પીવડાવે છે, જેથી જમીન તટસ્થ થઈ જાય!</div></div>"
     }
+
 
 
 
