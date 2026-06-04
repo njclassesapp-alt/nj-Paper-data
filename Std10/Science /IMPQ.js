@@ -317,7 +317,118 @@ var Std10_Science_imp = [
         year_asked: "[GSEB Model Paper 2026 / May 2024]",
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>મનુષ્યના શ્વસનતંત્રમાં વાયુકોષ્ઠો (Alveoli) ની રચના અને ભૂમિકા સમજાવો.</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વાયુકોષ્ઠો એ ફેફસાંની અંદર સૂક્ષ્મ શ્વાસવાહિકાઓના છેડે આવેલી <b>ફુગ્ગા જેવી રચનાઓ</b> છે.<br><br><b>કોડ આધારિત આકૃતિ (વાયુકોષ્ઠો):</b><br><div style='display: flex; justify-content: center; margin: 15px 0; padding: 15px; background: #fff; border: 1px solid #ccc; border-radius: 8px;'><div style='position: relative; width: 120px; height: 120px;'><div style='position: absolute; top: 0; left: 50px; width: 15px; height: 40px; background: #e1bee7; border-radius: 5px;'></div><div style='position: absolute; top: 30px; left: 30px; width: 60px; height: 60px; display: flex; flex-wrap: wrap; justify-content: center; gap: 2px;'><div style='width: 25px; height: 25px; background: #f8bbd0; border: 2px solid #ec407a; border-radius: 50%;'></div><div style='width: 25px; height: 25px; background: #f8bbd0; border: 2px solid #ec407a; border-radius: 50%;'></div><div style='width: 25px; height: 25px; background: #f8bbd0; border: 2px solid #ec407a; border-radius: 50%;'></div><div style='width: 25px; height: 25px; background: #f8bbd0; border: 2px solid #ec407a; border-radius: 50%;'></div></div><div style='position: absolute; top: 35px; left: 15px; font-size: 12px; color: #d32f2f; transform: rotate(-30deg);'>O₂ &rarr;</div><div style='position: absolute; top: 35px; right: 15px; font-size: 12px; color: #1976d2; transform: rotate(30deg);'>&larr; CO₂</div></div></div><br><b>વાયુકોષ્ઠોની ભૂમિકા:</b><br>&bull; વાયુકોષ્ઠોની દીવાલ ખૂબ જ પાતળી હોય છે અને તેની ફરતે <b>રુધિરકેશિકાઓનું જાળું</b> આવેલું હોય છે.<br>&bull; તે રુધિર અને ફેફસાંની હવાની વચ્ચે વાયુઓની આપલે (ઓક્સિજન લોહીમાં લેવો અને કાર્બન ડાયોક્સાઇડ બહાર કાઢવો) માટે <b>એક વિશાળ સપાટી</b> પૂરી પાડે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુકોષ્ઠો એટલે ફેફસાંની અંદર રહેલા 'દ્રાક્ષના ઝૂમખા'! શ્વાસ લો એટલે આ ફુગ્ગા ફૂલે અને સપાટી મોટી થાય, જેથી ફટાફટ ઓક્સિજન લોહીમાં ચાલ્યો જાય અને કાર્બન ડાયોક્સાઇડ કચરાપેટી (બહાર) માં ફેંકાઈ જાય!</div></div>"
-    }
+    },
 
+var Std10_Science_imp_ch6 = [
+
+    // પ્રકરણ 6: નિયંત્રણ અને સંકલન (N. J. Classes - 2024 થી 2026 ના 12 મોસ્ટ IMP પ્રશ્નો)
+
+    {
+        chapter: 6,
+        q_no: 1,
+        marks: 1,
+        year_asked: "[March 2024 (Basic)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કયો વનસ્પતિ અંતઃસ્ત્રાવ વનસ્પતિની વૃદ્ધિને અવરોધે છે અને પાંદડાં કરમાઈ જવા માટે જવાબદાર છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વૃદ્ધિ અવરોધક વનસ્પતિ અંતઃસ્ત્રાવ <b>એબ્સિસિક એસિડ (Abscisic Acid - ABA)</b> છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ 'એસિડ' છે! એસિડ પડે એટલે પાંદડા બળી (કરમાઈ) જાય અને છોડની વૃદ્ધિ અટકી જાય. આ અંતઃસ્ત્રાવ છોડનો 'બ્રેક' છે!</div></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 2,
+        marks: 1,
+        year_asked: "[May 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આપણા આહારમાં આયોડિનયુક્ત મીઠું ખાવાની સલાહ શા માટે આપવામાં આવે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>થાઇરોઇડ ગ્રંથિમાંથી <b>થાઇરોક્સિન (Thyroxine)</b> અંતઃસ્ત્રાવ બનાવવા માટે આયોડિન જરૂરી છે. જો આહારમાં આયોડિનની ઉણપ હોય, તો ગરદન ફૂલી જાય છે અને <b>ગોઇટર (Goiter)</b> નામનો રોગ થાય છે. તેનાથી બચવા આયોડિનયુક્ત મીઠું ખાવું જોઈએ.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: આયોડિન = થાઇરોઇડનું પેટ્રોલ! પેટ્રોલ પૂરું થાય તો થાઇરોઇડ ગ્રંથિ જોર કરવા જતાં ફૂલી જાય (ગોઇટર થાય). એટલે મીઠામાં આયોડિન લેવું જ પડે!</div></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 3,
+        marks: 1,
+        year_asked: "[March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>મગજનો કયો ભાગ શ્વસન, હૃદયના ધબકારા અને રુધિરના દબાણ જેવી અનૈચ્છિક ક્રિયાઓનું નિયંત્રણ કરે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પશ્વ મગજમાં આવેલો <b>લંબમજ્જા (Medulla)</b> આ અનૈચ્છિક ક્રિયાઓનું નિયંત્રણ કરે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લંબમજ્જા' એટલે મગજનો ઓટોમેટિક ડ્રાઇવર! આપણે સૂતા હોઈએ તો પણ શ્વાસ લેવાનું અને હૃદય ધબકાવવાનું કામ આ ડ્રાઇવર ચાલુ જ રાખે છે.</div></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 4,
+        marks: 2,
+        year_asked: "[July 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ચેતોપાગમ (Synapse) એટલે શું? ત્યાં કઈ ઘટના બને છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>બે પાસપાસે આવેલા ચેતાકોષો વચ્ચેની સૂક્ષ્મ ખાલી જગ્યા (અવકાશ) ને <b>ચેતોપાગમ (Synapse)</b> કહે છે. તે એક ચેતાકોષના અક્ષતંતુ અને બીજા ચેતાકોષના શિખાતંતુ વચ્ચે હોય છે.<br><br><b>ઘટના:</b> જ્યારે ઊર્મિવેગ (વિદ્યુત સંકેત) અક્ષતંતુના છેડે પહોંચે છે, ત્યારે તેમાંથી કેટલાક <b>રાસાયણિક પદાર્થો (Neurotransmitters)</b> મુક્ત થાય છે. આ રસાયણો ચેતોપાગમ પસાર કરીને પછીના ચેતાકોષમાં ફરીથી વિદ્યુત સંકેત ઉત્પન્ન કરે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: ચેતોપાગમ એટલે બે વાયર વચ્ચેનો નાનકડો ખાડો (ગેપ)! કરંટ સીધો કૂદી ન શકે, એટલે પહેલા વાયરમાંથી કેમિકલની 'હોડી' બને, જે ખાડો પાર કરીને બીજા વાયરમાં ફરી કરંટ ચાલુ કરી દે!</div></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 5,
+        marks: 2,
+        year_asked: "[March 2025 / Model Paper 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લજામણી (Touch-me-not) ના પર્ણોનું હલનચલન અને પ્રકાશ તરફ પ્રરોહનું હલનચલન - આ બંને વચ્ચે શું તફાવત છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><table style='width: 100%; border-collapse: collapse; margin-top: 10px; font-size: 14px;'><tr><th style='border: 1px solid #ccc; padding: 8px; background-color: #e3f2fd;'>લજામણીના પર્ણોનું હલનચલન</th><th style='border: 1px solid #ccc; padding: 8px; background-color: #e8f5e9;'>પ્રકાશ તરફ પ્રરોહનું હલનચલન</th></tr><tr><td style='border: 1px solid #ccc; padding: 8px;'>તે સ્પર્શની ઉત્તેજના સામેનો <b>ઝડપી પ્રતિચાર</b> છે.</td><td style='border: 1px solid #ccc; padding: 8px;'>તે પ્રકાશની ઉત્તેજના સામેનો <b>ધીમો પ્રતિચાર</b> છે.</td></tr><tr><td style='border: 1px solid #ccc; padding: 8px;'>આ હલનચલન <b>વૃદ્ધિ આધારિત નથી</b> (છોડ મોટો થતો નથી).</td><td style='border: 1px solid #ccc; padding: 8px;'>આ હલનચલન <b>વૃદ્ધિ આધારિત છે</b> (પ્રકાશ તરફ વૃદ્ધિ પામે છે).</td></tr></table><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: લજામણીને અડો એટલે શરમાઈને સંકોચાઈ જાય, આમાં તે કંઈ મોટી નથી થઈ જતી (વૃદ્ધિ નથી થતી). પણ સૂર્યમુખીનો છોડ પ્રકાશ તરફ વળે એટલે તે ધીમે ધીમે મોટો થઈને વળે છે (વૃદ્ધિ આધારિત છે)!</div></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 6,
+        marks: 2,
+        year_asked: "[May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ડાયાબિટીસ (મધુપ્રમેહ) ના કેટલાક દર્દીઓની સારવાર ઇન્સ્યુલિનના ઇન્જેક્શન આપીને શા માટે કરવામાં આવે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ઇન્સ્યુલિન એ સ્વાદુપિંડમાંથી સ્રવતો અંતઃસ્ત્રાવ છે, જે <b>રુધિરમાં શર્કરા (Sugar/Glucose) ના સ્તરનું નિયમન કરે છે.</b><br><br>ડાયાબિટીસના દર્દીઓમાં સ્વાદુપિંડ પૂરતા પ્રમાણમાં ઇન્સ્યુલિન ઉત્પન્ન કરી શકતું નથી. આથી રુધિરમાં શર્કરાનું પ્રમાણ વધી જાય છે, જે શરીર માટે હાનિકારક છે. તેથી, રુધિરમાં શર્કરાના સ્તરને નિયંત્રિત રાખવા માટે બહારથી <b>ઇન્સ્યુલિનના ઇન્જેક્શન</b> આપવામાં આવે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇન્સ્યુલિન એ લોહીમાં રહેલી ખાંડ (Sugar) ને પચાવવાનું મશીન છે. જ્યારે મશીન બગડી જાય (સ્વાદુપિંડ કામ ન કરે), ત્યારે બહારથી ઇન્જેક્શન દ્વારા બીજું મશીન નાખવું પડે, જેથી સુગર લેવલ કંટ્રોલમાં રહે!</div></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 7,
+        marks: 3,
+        year_asked: "[March 2024 / GSEB Model 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વનસ્પતિ અંતઃસ્ત્રાવો (Phytohormones) એટલે શું? વૃદ્ધિ પ્રેરક અંતઃસ્ત્રાવોના નામ અને કાર્યો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વનસ્પતિમાં ઉત્પન્ન થતા અને વૃદ્ધિ, વિકાસ તથા પર્યાવરણ પ્રત્યેના પ્રતિચારનું સંકલન કરતા રાસાયણિક પદાર્થોને <b>વનસ્પતિ અંતઃસ્ત્રાવો</b> કહે છે.<br><br><b>વૃદ્ધિ પ્રેરક (વૃદ્ધિ વધારનાર) અંતઃસ્ત્રાવો:</b><br>1. <b>ઓક્ઝિન (Auxin):</b> તે પ્રરોહના અગ્રભાગે (ટોચ પર) બને છે અને કોષોની લંબાઈમાં વૃદ્ધિ પ્રેરે છે. તે પ્રકાશાનુવર્તન માટે જવાબદાર છે.<br>2. <b>જીબરેલિન (Gibberellin):</b> તે પ્રકાંડની વૃદ્ધિમાં મદદ કરે છે (ઓક્ઝિન જેવું જ કામ કરે છે).<br>3. <b>સાયટોકાઇનિન (Cytokinin):</b> તે <b>કોષવિભાજન (Cell division)</b> ને ઝડપી બનાવે છે. ફળો અને બીજમાં તેની સાંદ્રતા વધુ હોય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 ભાઈઓ છોડને મોટો કરે: ઓક્ઝિન (ટોચની લંબાઈ વધારે), જીબરેલિન (થડ જાડું/લાંબુ કરે), અને સાયટોકાઇનિન (સાયટો = કોષ, ફટાફટ નવા કોષ બનાવી ફળ મોટા કરે)!</div></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 8,
+        marks: 3,
+        year_asked: "[July 2025 / March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'લડો યા ભાગો' (Fight or Flight) ની સ્થિતિમાં આપણા શરીરમાં કયો અંતઃસ્ત્રાવ સ્રવે છે? શરીર પર તેની અસરો વર્ણવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભય, ગુસ્સો કે કટોકટીની સ્થિતિમાં <b>એડ્રિનલ ગ્રંથિ</b> માંથી <b>એડ્રિનાલિન (Adrenaline)</b> નામનો અંતઃસ્ત્રાવ સીધો રુધિરમાં સ્રવે છે.<br><br><b>શરીર પર અસરો:</b><br>1. <b>હૃદયના ધબકારા વધે છે</b>, જેથી સ્નાયુઓને વધુ ઓક્સિજન મળે છે.<br>2. પાચનતંત્ર અને ત્વચામાં રુધિરનો પ્રવાહ ઘટી જાય છે અને તે લોહી પગ/હાથના સ્નાયુઓ તરફ ધકેલાય છે (ભાગવા કે લડવા માટે).<br>3. શ્વસન દર વધે છે અને આંખની કીકીઓ પહોળી થઈ જાય છે.<br>આ તમામ પ્રતિચારો શરીરને કટોકટીનો સામનો કરવા માટે તૈયાર કરે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: પાછળ કૂતરું પડે ત્યારે જે થાય તે બધું જ એડ્રિનાલિનનું કામ! શ્વાસ ફૂલી જાય, ધબકારા વધી જાય, અને શરીરમાં 'સુપરમેન' જેવી તાકાત આવી જાય જેથી ફાસ્ટ ભાગી શકાય!</div></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 9,
+        marks: 4,
+        year_asked: "[March 2024 / May 2025 / Model 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ચેતાકોષ (Neuron) ની આકૃતિ દોરી તેના મુખ્ય ભાગો અને કાર્ય સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ચેતાકોષ એ ચેતાતંત્રનો રચનાત્મક અને ક્રિયાત્મક એકમ છે, જે શરીરમાં સંદેશાઓના વહનનું કાર્ય કરે છે.<br><br><b>કોડ આધારિત આકૃતિ (ચેતાકોષ):</b><br><div style='display: flex; justify-content: center; align-items: center; margin: 20px 0; padding: 15px; background: #fff; border: 1px solid #ccc; border-radius: 8px;'><div style='position: relative; width: 300px; height: 100px;'><div style='position: absolute; top: 25px; left: 30px; width: 50px; height: 50px; background: #e3f2fd; border: 2px solid #1976d2; border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.1);'></div><div style='position: absolute; top: 40px; left: 45px; width: 20px; height: 20px; background: #d32f2f; border-radius: 50%;'></div><div style='position: absolute; top: 15px; left: 15px; width: 20px; height: 3px; background: #1976d2; transform: rotate(-45deg);'></div><div style='position: absolute; top: 80px; left: 15px; width: 20px; height: 3px; background: #1976d2; transform: rotate(45deg);'></div><div style='position: absolute; top: 15px; left: 75px; width: 20px; height: 3px; background: #1976d2; transform: rotate(45deg);'></div><div style='position: absolute; top: 80px; left: 75px; width: 20px; height: 3px; background: #1976d2; transform: rotate(-45deg);'></div><div style='position: absolute; top: 45px; left: 80px; width: 140px; height: 10px; background: #bbdefb; border-top: 2px solid #1976d2; border-bottom: 2px solid #1976d2;'></div><div style='position: absolute; top: 40px; left: 100px; width: 20px; height: 20px; background: #81d4fa; border: 2px solid #0288d1; border-radius: 5px;'></div><div style='position: absolute; top: 40px; left: 130px; width: 20px; height: 20px; background: #81d4fa; border: 2px solid #0288d1; border-radius: 5px;'></div><div style='position: absolute; top: 40px; left: 160px; width: 20px; height: 20px; background: #81d4fa; border: 2px solid #0288d1; border-radius: 5px;'></div><div style='position: absolute; top: 40px; left: 190px; width: 20px; height: 20px; background: #81d4fa; border: 2px solid #0288d1; border-radius: 5px;'></div><div style='position: absolute; top: 48px; left: 220px; width: 30px; height: 3px; background: #1976d2; transform: rotate(-30deg);'></div><div style='position: absolute; top: 52px; left: 220px; width: 30px; height: 3px; background: #1976d2; transform: rotate(30deg);'></div><div style='position: absolute; top: 32px; left: 247px; width: 8px; height: 8px; background: #d32f2f; border-radius: 50%;'></div><div style='position: absolute; top: 62px; left: 247px; width: 8px; height: 8px; background: #d32f2f; border-radius: 50%;'></div><div style='position: absolute; top: -5px; left: 0px; font-size: 11px; font-weight: bold;'>શિખાતંતુ</div><div style='position: absolute; bottom: 5px; left: 40px; font-size: 11px; font-weight: bold;'>કોષકાય / કોષકેન્દ્ર</div><div style='position: absolute; bottom: 5px; left: 150px; font-size: 11px; font-weight: bold;'>અક્ષતંતુ</div><div style='position: absolute; bottom: 5px; right: 0px; font-size: 11px; font-weight: bold;'>ચેતાંત (Nerve ending)</div></div></div><br><b>મુખ્ય ભાગો અને કાર્ય:</b><br>1. <b>શિખાતંતુ (Dendrite):</b> તે પર્યાવરણમાંથી માહિતી (સંવેદના) ગ્રહણ કરે છે અને વિદ્યુત આવેગ ઉત્પન્ન કરે છે.<br>2. <b>કોષકાય (Cell Body):</b> શિખાતંતુથી આવેલો વિદ્યુત આવેગ કોષકાયમાંથી પસાર થાય છે.<br>3. <b>અક્ષતંતુ (Axon):</b> તે લાંબો તંતુ છે જે વિદ્યુત આવેગને કોષકાયથી છેક ચેતાંત સુધી લઈ જાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: ચેતાકોષ એક 'ઝાડીવાળું ઝાડ' છે. ઝાડની ડાળીઓ (શિખાતંતુ) મેસેજ પકડે, થડ (અક્ષતંતુ) મેસેજને આગળ ધપાવે અને મૂળિયા (ચેતાંત) મેસેજને બીજા ઝાડને પાસ કરી દે! 4 માર્ક ખિસ્સામાં!</div></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 10,
+        marks: 4,
+        year_asked: "[July 2024 / May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પરાવર્તી ક્રિયા એટલે શું? પરાવર્તી કમાન (Reflex Arc) આકૃતિ (બ્લોક ડાયાગ્રામ) દોરી સવિસ્તર સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>મગજના સક્રિય વિચાર્યા વગર, કોઈ ઉત્તેજના સામે આપવામાં આવતા અચાનક, ઝડપી અને અનૈચ્છિક પ્રતિચારને <b>પરાવર્તી ક્રિયા</b> કહે છે. (દા.ત. ગરમ વસ્તુને હાથ અડતાં જ હાથ ખેંચી લેવો).<br><br><b>પરાવર્તી કમાન (Reflex Arc) નો માર્ગ:</b><br><div style='margin: 15px 0; padding: 20px; background: #fff; border: 2px dashed #ff9800; border-radius: 8px; text-align: center; font-weight: bold; font-size: 14px;'><div style='display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;'><div style='background: #ffe0b2; padding: 10px; border-radius: 5px; border: 2px solid #e65100;'>ગ્રાહી અંગ (ચામડી)</div><div style='color: #d32f2f;'>&#10148;<br><span style='font-size: 11px;'>સંવેદી ચેતા</span></div><div style='background: #e1f5fe; padding: 10px; border-radius: 5px; border: 2px solid #0288d1;'>કરોડરજ્જુ (Relay neuron)</div><div style='color: #d32f2f;'>&#10148;<br><span style='font-size: 11px;'>ચાલક ચેતા</span></div><div style='background: #c8e6c9; padding: 10px; border-radius: 5px; border: 2px solid #2e7d32;'>પ્રતિચારક અંગ (સ્નાયુ)</div></div></div><br><b>સમજૂતી:</b><br>1. જ્યારે આપણે ગરમ વસ્તુને અડીએ છીએ, ત્યારે ચામડીમાં રહેલા <b>ગ્રાહી કોષો (Receptors)</b> સંવેદના ગ્રહણ કરે છે.<br>2. આ સંદેશો <b>સંવેદી ચેતા</b> દ્વારા સીધો <b>કરોડરજ્જુ (Spinal Cord)</b> માં જાય છે (મગજમાં નહિ).<br>3. કરોડરજ્જુ ત્વરિત નિર્ણય લઈ, <b>ચાલક ચેતા (Motor neuron)</b> મારફતે હાથના <b>સ્નાયુઓ (પ્રતિચારક)</b> ને આદેશ આપે છે, અને આપણે તરત હાથ ખેંચી લઈએ છીએ. આ આખા માર્ગને પરાવર્તી કમાન કહે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: પરાવર્તી ક્રિયા એટલે 'ઇમરજન્સી એક્શન'! જ્યારે આગ લાગે ત્યારે મગજ (પ્રિન્સિપાલ) ને પૂછવા ન જવાય, કરોડરજ્જુ (મોનિટર) જ ફટાફટ નિર્ણય લઈ લે. સેન્સર -> કરોડરજ્જુ -> મોટર -> એક્શન!</div></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 11,
+        marks: 4,
+        year_asked: "[March 2025 / Model 2026 (Very IMP)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>મનુષ્યના મગજના વિવિધ ભાગો દર્શાવતી બ્લોક આકૃતિ દોરો અને અગ્ર મગજ તથા પશ્વ મગજના કાર્યો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>મનુષ્યનું મગજ એ નિયંત્રણ અને સંકલનનું મુખ્ય કેન્દ્ર છે. તેના ત્રણ મુખ્ય ભાગ છે: 1. અગ્ર મગજ, 2. મધ્ય મગજ, 3. પશ્વ મગજ.<br><br><b>કોડ આધારિત આકૃતિ (મગજના ભાગો):</b><br><div style='display: flex; justify-content: center; align-items: center; margin: 20px 0; padding: 20px; background: #fff; border: 1px solid #ccc; border-radius: 8px;'><div style='position: relative; width: 200px; height: 160px;'><div style='position: absolute; top: 10px; left: 20px; width: 160px; height: 100px; background: #ffccbc; border-radius: 80px 80px 20px 20px; border: 3px solid #d84315;'></div><div style='position: absolute; top: 60px; left: 70px; width: 60px; height: 30px; background: #fff9c4; border-radius: 10px; border: 2px solid #fbc02d;'></div><div style='position: absolute; top: 95px; left: 60px; width: 40px; height: 40px; background: #c8e6c9; border-radius: 20px; border: 2px solid #2e7d32;'></div><div style='position: absolute; top: 110px; left: 95px; width: 20px; height: 50px; background: #b3e5fc; border-radius: 5px; border: 2px solid #0288d1;'></div><div style='position: absolute; top: 30px; left: 65px; font-size: 12px; font-weight: bold; color: #bf360c;'>અગ્ર મગજ</div><div style='position: absolute; top: 68px; left: 75px; font-size: 10px; font-weight: bold; color: #f57f17;'>મધ્ય મગજ</div><div style='position: absolute; top: 108px; left: 15px; font-size: 11px; font-weight: bold; color: #1b5e20;'>પશ્વ મગજ &rarr;</div><div style='position: absolute; bottom: -15px; left: 65px; font-size: 11px; font-weight: bold; color: #01579b;'>કરોડરજ્જુ</div></div></div><br><b>કાર્યો:</b><br>1. <b>અગ્ર મગજ (Forebrain):</b> તે <b>વિચારવા માટેનો મુખ્ય ભાગ</b> છે. તેમાં શ્રવણ, દ્રષ્ટિ, અને સુંઘવા માટેના વિશિષ્ટ કેન્દ્રો આવેલા છે. તે ઐચ્છિક સ્નાયુઓનું નિયંત્રણ કરે છે અને ભૂખ લાગવાની સંવેદના પણ અહીં જ થાય છે.<br>2. <b>પશ્વ મગજ (Hindbrain):</b><br>&nbsp;&nbsp;&bull; <b>અનુમસ્તિષ્ક (Cerebellum):</b> તે શરીરનું સંતુલન (Balance) જાળવે છે (જેમ કે સાયકલ ચલાવવી, સીધી રેખામાં ચાલવું).<br>&nbsp;&nbsp;&bull; <b>લંબમજ્જા (Medulla):</b> શ્વસન, બ્લડ પ્રેશર અને ઉલટી થવા જેવી અનૈચ્છિક ક્રિયાઓનું નિયંત્રણ કરે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: અગ્ર મગજ = 'CPU', જે વિચારવાનું કામ કરે. પશ્વ મગજમાં બે ભાગ યાદ રાખો: અનુમસ્તિષ્ક એટલે 'બેલેન્સ માસ્ટર' (સાયકલ ચલાવવી) અને લંબમજ્જા એટલે 'ઓટો-પાયલટ' (શ્વાસ અને ધબકારા)!</div></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 12,
+        marks: 3,
+        year_asked: "[May 2024 / July 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>અંતઃસ્ત્રાવોના સ્રાવનું નિયમન કરતી 'પ્રતિક્રિયા આધારિત નિયમન' (Feedback Mechanism) પદ્ધતિ ઉદાહરણ આપી સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>શરીરમાં અંતઃસ્ત્રાવો <b>યોગ્ય સમયે અને ચોક્કસ માત્રામાં</b> જ સ્રવવા જોઈએ. જો તે વધુ કે ઓછાં સ્રવે તો નુકસાન થાય છે. આથી તેનું નિયંત્રણ <b>ફીડબેક મિકેનિઝમ (Feedback Mechanism)</b> દ્વારા થાય છે.<br><br><b>ઉદાહરણ (ઇન્સ્યુલિનનું નિયમન):</b><br>&bull; જ્યારે રુધિરમાં શર્કરા (Sugar) નું સ્તર વધે છે, ત્યારે સ્વાદુપિંડના કોષો તેની નોંધ લે છે (સેન્સ કરે છે).<br>&bull; પ્રતિચાર રૂપે, સ્વાદુપિંડ વધુ ઇન્સ્યુલિનનો સ્રાવ કરે છે, જે સુગર લેવલને ઘટાડે છે.<br>&bull; જ્યારે રુધિરમાં શર્કરાનું સ્તર ઘટીને નોર્મલ થઈ જાય છે, ત્યારે ઇન્સ્યુલિનનો સ્રાવ આપોઆપ <b>ઓછો</b> થઈ જાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: ફીડબેક સિસ્ટમ એટલે ઘરમાં લાગેલું AC! રૂમ ગરમ થાય તો AC (ઇન્સ્યુલિન) ઓટોમેટિક ચાલુ થાય, અને રૂમ ઠંડો (સુગર નોર્મલ) થઈ જાય એટલે AC ઓટોમેટિક બંધ થઈ જાય. બસ આ જ છે ફીડબેક!</div></div>"
+    }
 
 ];
