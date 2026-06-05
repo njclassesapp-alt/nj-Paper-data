@@ -449,7 +449,121 @@ var Std10_SocialScience_imp = [
         year_asked: "[May 2026]",
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પ્રાચીન ભારતીય સાહિત્યમાં 'ઉપનિષદો' અને 'બ્રાહ્મણગ્રંથો' ની સમજૂતી આપો.</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>૧. ઉપનિષદો:</b><br>'ઉપનિષદ' એટલે ગુરુની પાસે બેસીને મેળવેલું રહસ્યમય જ્ઞાન. ઉપનિષદોમાં બ્રહ્માંડની શરૂઆત કેવી રીતે થઈ, જીવન અને મૃત્યુ શું છે, જગતનો માલિક કોણ છે, વગેરે ગહન (ઊંડા) દાર્શનિક પ્રશ્નોની ચર્ચા કરવામાં આવી છે. મુક્તિકો ઉપનિષદ મુજબ તેની કુલ સંખ્યા <b>108</b> છે. (દા.ત. બૃહદારણ્યક, છાંદોગ્ય).<br><br><b>૨. બ્રાહ્મણગ્રંથો:</b><br>વેદોમાં આપેલા મંત્રોનો અર્થ અને યજ્ઞ વખતે તેનો કેવી રીતે ઉપયોગ કરવો તે સમજાવવા માટે બ્રાહ્મણગ્રંથોની રચના થઈ. એટલે કે, તે વેદોને સમજવા માટેની સરળ માર્ગદર્શિકા (ગાઈડ) છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ઉપનિષદ = સાયન્સ અને ફિલોસોફીની બુક (બ્રહ્માંડ કેમ બન્યું? કુલ 108 બુક છે). અને બ્રાહ્મણગ્રંથો = વેદોને સમજવા માટેની સરળ ગાઈડ (નવનીત)!</div></div>"
+    },
+
+
+    {
+        chapter: 5,
+        marks: 1,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિજ્ઞાન અને ટેકનોલોજી એટલે શું? બંને વચ્ચેનો ભેદ સ્પષ્ટ કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>વિજ્ઞાન (Science):</b> વિજ્ઞાન એટલે <b>વ્યવસ્થિત જ્ઞાન</b>. કોઈપણ બાબતનું ઊંડાણપૂર્વક અને તર્કબદ્ધ રીતે મેળવેલું જ્ઞાન એટલે વિજ્ઞાન.<br><br><b>ટેકનોલોજી (Technology):</b> ટેકનોલોજી એટલે વિજ્ઞાનની <b>વ્યાવહારિક ઉપયોગિતા</b>. એટલે કે, વિજ્ઞાનના નિયમો અને સિદ્ધાંતોનો ઉપયોગ કરીને માનવજીવનને સરળ બનાવતા યંત્રો કે સાધનો બનાવવા તે ટેકનોલોજી છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: વિજ્ઞાન એટલે 'નોલેજ' (કેવી રીતે કામ કરે છે તે જાણવું), અને ટેકનોલોજી એટલે એ નોલેજનો ઉપયોગ કરીને મશીન બનાવવું! જેમ કે ઈલેક્ટ્રિસિટીના નિયમો જાણવા એ વિજ્ઞાન છે, પણ તેમાંથી પંખો કે AC બનાવવું એ ટેકનોલોજી છે.</div></div>"
+    },
+
+    {
+        chapter: 5,
+        marks: 3,
+        year_asked: "[May 2025, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પ્રાચીન ભારતની 'ધાતુવિદ્યા' માં થયેલી અદ્વિતીય પ્રગતિ વિશે ઉદાહરણો આપી સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પ્રાચીન સમયથી જ ભારતના લોકો ધાતુવિદ્યા (Metallurgy) નો પોતાના વ્યવહારિક જીવનમાં ઉપયોગ કરતા આવ્યા છે.<br><br><b>ધાતુવિદ્યાની પ્રગતિના શ્રેષ્ઠ ઉદાહરણો:</b><br>&bull; સિંધુ ખીણની સંસ્કૃતિમાંથી મળી આવેલી <b>ધાતુની નર્તકીની મૂર્તિ</b>.<br>&bull; કુષાણ રાજવીઓના સમયની <b>બુદ્ધની મૂર્તિઓ</b>.<br>&bull; બિહારના <b>સુલતાનગંજમાંથી</b> મળી આવેલી 7.5 ફૂટ ઊંચી અને 1 ટન વજન ધરાવતી બુદ્ધની તામ્રમૂર્તિ (તાંબાની મૂર્તિ).<br>&bull; મથુરામાંથી મળેલી જૈન મૂર્તિઓ.<br>&bull; ચોલ રાજાઓના સમયમાં બનેલી શિવના <b>નટરાજની મૂર્તિ</b> (જે હાલ ચેન્નઈના સંગ્રહાલયમાં છે) અને ધનુષધારી રામની મૂર્તિ ધાતુશિલ્પનો ઉત્તમ નમૂનો છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ધાતુવિદ્યા યાદ આવે એટલે '3 મૂર્તિ' ગોખી મારવી: ૧. ડાન્સ કરતી છોકરીની મૂર્તિ (સિંધુ), ૨. સુલતાનગંજની તાંબાની બુદ્ધ મૂર્તિ, ૩. ચેન્નઈમાં રાખેલી શિવજીની 'નટરાજ' ની મૂર્તિ!</div></div>"
+    },
+
+    {
+        chapter: 5,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>દિલ્હીનો 'લોહસ્તંભ' કોણે બંધાવ્યો હતો? તેની રસાયણવિદ્યાની કઈ વિશેષતા દુનિયાને આશ્ચર્યચકિત કરે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>દિલ્હીનો 24 ફૂટ ઊંચો અને 7 ટન વજન ધરાવતો લોહસ્તંભ (Iron Pillar) ગુપ્ત વંશના રાજા <b>ચંદ્રગુપ્ત બીજા (વિક્રમાદિત્ય)</b> એ બંધાવ્યો હતો.<br><br><b>રસાયણવિદ્યાની વિશેષતા:</b><br>આ લોહસ્તંભ આશરે 1600 વર્ષથી ખુલ્લા મેદાનમાં ઊભો છે. તે આટલા વર્ષોથી ટાઢ, તડકો અને વરસાદ સહન કરવા છતાં <b>આજદિન સુધી તેને કાટ (Rust) લાગ્યો નથી!</b> આ પ્રાચીન ભારતની રસાયણવિદ્યાની અદભુત અને આશ્ચર્યજનક સિદ્ધિ છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: સામાન્ય લોખંડ ચોમાસામાં જ કટાઈ જાય, પણ ચંદ્રગુપ્ત બીજાએ એવું કેમિકલ વાપર્યું કે 1600 વર્ષથી વરસાદ પડવા છતાં આ લોખંડના થાંભલાને કાટ નથી લાગ્યો. આ જ આપણું ગ્રેટેસ્ટ કેમેસ્ટ્રી!</div></div>"
+    },
+
+    {
+        chapter: 5,
+        marks: 3,
+        year_asked: "[May 2024, May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રસાયણવિદ્યા (Chemistry) ના ક્ષેત્રે આચાર્ય નાગાર્જુનનું પ્રદાન જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>નાલંદા વિદ્યાપીઠના બૌદ્ધ આચાર્ય <b>નાગાર્જુન</b> ને ભારતીય રસાયણશાસ્ત્રના પિતા (આચાર્ય) માનવામાં આવે છે.<br><br><b>તેમનું પ્રદાન:</b><br>&bull; <b>ગ્રંથો:</b> તેમણે <b>'રસ રત્નાકર'</b> અને <b>'આરોગ્ય મંજરી'</b> નામના શ્રેષ્ઠ ગ્રંથો લખ્યા છે.<br>&bull; <b>પારાની ભસ્મ:</b> વનસ્પતિ ઔષધિઓની સાથે રસાયણો પણ દવા તરીકે વાપરી શકાય તે તેમણે જ સાબિત કર્યું. <b>પારા (Mercury) ની ભસ્મ</b> બનાવીને તેને દવા તરીકે વાપરવાની શરૂઆત નાગાર્જુને જ કરી હોવાનું મનાય છે.<br>&bull; <b>પ્રયોગશાળા:</b> તેમના માર્ગદર્શન હેઠળ નાલંદા વિદ્યાપીઠમાં રસાયણવિદ્યાના શિક્ષણ માટે અલગ <b>પ્રયોગશાળા (Laboratory) અને ભઠ્ઠીઓ</b> બનાવવામાં આવી હતી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: નાગાર્જુન એટલે કેમેસ્ટ્રીના આઈન્સ્ટાઈન! થર્મોમીટરમાં જે પારો (Mercury) આવે છે, તેને બાળીને (ભસ્મ કરીને) રોગ મટાડવાની દવા નાગાર્જુને શોધી. પુસ્તકો: રસ રત્નાકર અને આરોગ્ય મંજરી.</div></div>"
+    },
+
+    {
+        chapter: 5,
+        marks: 3,
+        year_asked: "[March 2025, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પ્રાચીન ભારતે વૈદકવિદ્યા (Medicine) અને શલ્યચિકિત્સા (Surgery) માં સાધેલી પ્રગતિ વિશે મહર્ષિ ચરક અને મહર્ષિ સુશ્રુતના સંદર્ભમાં નોંધ લખો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પ્રાચીન ભારતે મેડિકલ અને સર્જરી ક્ષેત્રે દુનિયાને અચરજ પમાડે તેવી શોધો કરી હતી.<br><br><b>૧. મહર્ષિ ચરક:</b><br>&bull; તેમણે <b>'ચરક સંહિતા'</b> નામનો ગ્રંથ લખ્યો.<br>&bull; આ ગ્રંથમાં તેમણે <b>2000 કરતાં પણ વધુ વનસ્પતિઓ અને જડીબુટ્ટીઓનું</b> વર્ણન કર્યું છે અને કયો રોગ મટાડવા કઈ દવા કામ આવશે તે સમજાવ્યું છે.<br><br><b>૨. મહર્ષિ સુશ્રુત:</b><br>&bull; મહર્ષિ સુશ્રુત સર્જરી (ઓપરેશન) ના નિષ્ણાત હતા. તેમણે <b>'સુશ્રુત સંહિતા'</b> ગ્રંથ લખ્યો.<br>&bull; તેમણે <b>શલ્યચિકિત્સાના (વાઢકાપના) 127 જેટલા ધારદાર સાધનોનો</b> ઉલ્લેખ કર્યો છે. આ સાધનો એટલા ધારદાર હતા કે માથાના વાળને ઊભો ચીરીને તેના બે ભાગ કરી શકતા!<br>&bull; તેઓ પથરી, મસા, મોતિયો મટાડવાના અને પ્લાસ્ટિક સર્જરી (તૂટેલા કાન કે નાક સાંધવા) ના પણ એક્સપર્ટ હતા.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: 'ચરક' એટલે જંગલમાં જઈને 2000 વનસ્પતિ શોધી લાવનાર વૈદ્ય! અને 'સુશ્રુત' એટલે ઓપરેશનના પપ્પા! તેમના સાધનો એટલા ધારદાર કે વાળના પણ બે ટુકડા કરી નાખે. પ્લાસ્ટિક સર્જરી પણ કરતા!</div></div>"
+    },
+
+    {
+        chapter: 5,
+        marks: 2,
+        year_asked: "[May 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વાગ્ભટ્ટનું વૈદકશાસ્ત્રમાં શું પ્રદાન છે? ચરક, સુશ્રુત અને વાગ્ભટ્ટના ગ્રંથોનું મહત્વ જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>મહર્ષિ વાગ્ભટ્ટે <b>'અષ્ટાંગ હૃદય'</b> નામનો અદભુત ગ્રંથ રચ્યો છે, જે રોગોના નિદાન (Diagnosis) માટે ખૂબ જ પ્રખ્યાત છે.<br><br><b>ત્રિપુટીનું મહત્વ:</b><br>પ્રાચીન ભારતનું વૈદકશાસ્ત્ર આ ત્રણ મહાન ઋષિઓના ગ્રંથો પર ઊભું છે. કોઈપણ વૈદ્ય (ડોક્ટર) માટે આ ત્રણ ગ્રંથોનો અભ્યાસ ખૂબ ઉપયોગી મનાય છે:<br>૧. ચરક સંહિતા (મહર્ષિ ચરક)<br>૨. સુશ્રુત સંહિતા (મહર્ષિ સુશ્રુત)<br>૩. અષ્ટાંગ હૃદય (મહર્ષિ વાગ્ભટ્ટ)<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: રોગની તપાસ કરવા માટે હૃદયના ધબકારા ચેક કરવા પડે! એટલે વાગ્ભટ્ટનો ગ્રંથ = 'અષ્ટાંગ હૃદય'. આ ત્રણ (ચરક, સુશ્રુત, વાગ્ભટ્ટ) આયુર્વેદના બ્રહ્મા, વિષ્ણુ અને મહેશ છે!</div></div>"
+    },
+
+    {
+        chapter: 5,
+        marks: 3,
+        year_asked: "[March 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગણિતશાસ્ત્રના પિતા તરીકે આર્યભટ્ટનું પ્રદાન સવિસ્તાર સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>મહાન ગણિતશાસ્ત્રી આર્યભટ્ટને <b>'ગણિતશાસ્ત્રના પિતા'</b> કહેવામાં આવે છે. તેમનું પ્રદાન નીચે મુજબ છે:<br><br>&bull; <b>આર્યભટ્ટીયમ ગ્રંથ:</b> તેમણે 'આર્યભટ્ટીયમ' નામનો ગ્રંથ લખ્યો હતો.<br>&bull; <b>શૂન્ય અને દશાંશ પદ્ધતિ:</b> <b>શૂન્ય (0)</b> ની શોધ આર્યભટ્ટે કરી હતી. આંકડાની પાછળ શૂન્ય લગાવવાની અને દશાંશ (Decimal) પદ્ધતિની શરૂઆત પણ તેમનાથી જ થઈ.<br>&bull; <b>પાઇ (&pi;) ની કિંમત:</b> તેમણે સાબિત કર્યું કે પાઇ ની કિંમત <b>22/7 અથવા 3.14</b> થાય છે, જે વર્તુળના પરિઘ અને વ્યાસનો ગુણોત્તર છે.<br>&bull; <b>અન્ય શોધો:</b> તેમણે ભાગાકાર, ગુણાકાર, સરવાળા, બાદબાકી, વર્ગમૂળ અને ઘનમૂળની આધુનિક પદ્ધતિઓ આપી હતી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: આખી દુનિયાને મેથ્સ શીખવાડનાર આપણા આર્યભટ્ટ! 0 ની શોધ, Pi ની કિંમત (3.14) અને સરવાળા-બાદબાકી બધું આમને જ આપ્યું. ભારતનો પહેલો ઉપગ્રહ પણ 'આર્યભટ્ટ' નામનો જ હતો!</div></div>"
+    },
+
+    {
+        chapter: 5,
+        marks: 2,
+        year_asked: "[July 2024 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગણિતશાસ્ત્રના ક્ષેત્રે ભાસ્કરાચાર્યનું યોગદાન જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભાસ્કરાચાર્ય પ્રાચીન ભારતના મહાન ગણિતશાસ્ત્રી હતા.<br><br>&bull; <b>ગ્રંથો:</b> ઈ.સ. 1150 માં તેમણે <b>'લીલાવતી ગણિત'</b> અને <b>'બીજ ગણિત'</b> નામના મહાન ગ્રંથો લખ્યા.<br>&bull; <b>શોધો:</b> તેમણે <b>સરવાળા (Addition) અને બાદબાકી (Subtraction)</b> ના નિયમો શોધ્યા હતા. આ ઉપરાંત તેમણે ગુરુત્વાકર્ષણના નિયમો વિશે પણ માહિતી આપી હતી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ભાસ્કરાચાર્ય એટલે પ્લસ (+) અને માઈનસ (-) ના માસ્ટર! તેમની દીકરીનું નામ લીલાવતી હતું, તેના પરથી તેમણે 'લીલાવતી ગણિત' બુક લખી. યાદ રાખજો: બીજ ગણિત અને લીલાવતી ગણિત.</div></div>"
+    },
+
+    {
+        chapter: 5,
+        marks: 3,
+        year_asked: "[May 2025, May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પ્રાચીન ભારતનું ખગોળશાસ્ત્ર (Astronomy) માં પ્રદાન સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>શાસ્ત્રોમાં <b>ખગોળશાસ્ત્ર</b> સૌથી પ્રાચીન શાસ્ત્ર છે.<br><br>&bull; <b>ગ્રહોની ગણતરી:</b> પ્રાચીન વિદ્યાપીઠોમાં ગ્રહોની ગતિ, નક્ષત્રો, આકાશી પદાર્થો અને ગ્રહણની ગણતરી માટે વ્યવસ્થિત વેધશાળાઓ (Observatories) હતી.<br>&bull; <b>આર્યભટ્ટની શોધ:</b> આર્યભટ્ટે સાબિત કર્યું હતું કે <b>"પૃથ્વી પોતાની ધરી પર ફરે છે"</b> અને ચંદ્રગ્રહણ પૃથ્વીના પડછાયાને કારણે થાય છે (જેને વિદ્વાનો 'અજરભર' કહેતા).<br>&bull; <b>બ્રહ્મગુપ્ત:</b> <b>'બ્રહ્મસિદ્ધાંત'</b> નામના ગ્રંથમાં બ્રહ્મગુપ્તે ન્યૂટન પહેલા <b>ગુરુત્વાકર્ષણના નિયમો</b> દર્શાવ્યા હતા.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ખગોળ એટલે સ્પેસ (આકાશ) ની વાત! ટેલિસ્કોપ નહોતું ત્યારે આર્યભટ્ટે કહી દીધું કે પૃથ્વી ગોળ ફરે છે અને ગ્રહણ કેમ થાય છે. અને બ્રહ્મગુપ્ત એટલે પ્રાચીન ભારતનો 'ન્યૂટન' (ગુરુત્વાકર્ષણનો નિયમ)!</div></div>"
+    },
+
+    {
+        chapter: 5,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જ્યોતિષશાસ્ત્ર (Astrology) ના ક્ષેત્રે વરાહમિહિરનું પ્રદાન જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વરાહમિહિર મહાન ખગોળવેત્તા અને જ્યોતિષશાસ્ત્રી હતા.<br><br>&bull; <b>જ્યોતિષના 3 ભાગ:</b> તેમણે જ્યોતિષશાસ્ત્રને <b>તંત્ર, હોરા અને સંહિતા</b> એમ ત્રણ ભાગમાં વહેંચ્યું હતું.<br>&bull; <b>બૃહદસંહિતા:</b> તેમણે <b>'બૃહદસંહિતા'</b> નામનો મોટો ગ્રંથ રચ્યો. આ ગ્રંથમાં આકાશી ગ્રહોની માનવજીવન પર થતી અસર, મનુષ્યના લક્ષણો, પ્રાણીઓના વર્ગ, લગ્નનો સમય (મુહૂર્ત), કૂવા-તળાવ ખોદાવવાના શુભ સમય વગેરેની સચોટ માહિતી આપી છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: વરાહમિહિર એટલે પ્રાચીન ભારતના 'બેસ્ટ પંડિતજી'! શુકન ક્યારે જોવું, મકાનનું મુહૂર્ત ક્યારે લેવું એ બધું જ તેમણે 'બૃહદસંહિતા' બુકમાં લખ્યું. 3 ભાગ યાદ રાખો: તંત્ર, હોરા, સંહિતા.</div></div>"
+    },
+
+    {
+        chapter: 5,
+        marks: 2,
+        year_asked: "[March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પ્રાણીઓ માટેના રોગશાસ્ત્ર વિશે પ્રાચીન ભારતે કઈ પ્રગતિ કરી હતી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પ્રાચીન ભારતમાં મનુષ્યની જેમ પ્રાણીઓ માટેના રોગશાસ્ત્ર (Veterinary Science) નો પણ વિકાસ થયો હતો.<br><br>&bull; ખાસ કરીને યુદ્ધમાં વપરાતા ઘોડા અને હાથીઓના રોગો માટે વિશેષ ગ્રંથો લખાયા હતા.<br>&bull; <b>હાથીઓ માટે:</b> હાથીના રોગો માટે <b>'હસ્તી આયુર્વેદ'</b> નામનો ગ્રંથ લખાયો હતો.<br>&bull; <b>ઘોડાઓ માટે:</b> ઘોડા (અશ્વ) ના રોગો પર શાલિહોત્રે <b>'અશ્વશાસ્ત્ર'</b> નામનો ઉત્તમ ગ્રંથ રચ્યો હતો.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: પ્રાચીન ભારતમાં પશુઓની પણ હોસ્પિટલ હતી! હાથી માટે 'હસ્તી આયુર્વેદ' અને ઘોડા (અશ્વ) માટે 'અશ્વશાસ્ત્ર'. લેખકનું નામ 'શાલિહોત્ર' ખાસ યાદ રાખવું!</div></div>"
+    },
+
+    {
+        chapter: 5,
+        marks: 2,
+        year_asked: "[May 2024, May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વાસ્તુશાસ્ત્રના પ્રણેતાઓ કોણ હતા? દેવોના પ્રથમ સ્થપતિ (આર્કિટેક્ટ) કોને માનવામાં આવે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વાસ્તુશાસ્ત્ર એ જ્યોતિષશાસ્ત્રનું જ એક અવિભાજ્ય અંગ છે.<br><br>&bull; <b>પ્રણેતાઓ:</b> પ્રાચીન ભારતમાં બ્રહ્મા, નારદ, બૃહસ્પતિ, ભૃગુ, વસિષ્ઠ અને વિશ્વકર્મા - આ મહાન ઋષિઓને વાસ્તુશાસ્ત્રના પ્રણેતાઓ (આદ્યસ્થાપકો) માનવામાં આવે છે.<br>&bull; <b>પ્રથમ સ્થપતિ:</b> <b>વિશ્વકર્મા</b> ને દેવોના પ્રથમ સ્થપતિ (Architect) માનવામાં આવે છે. તેમણે વાસ્તુશાસ્ત્રને આઠ ભાગમાં વહેંચ્યું હતું.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: દેવતાઓ માટે મકાનો અને મહેલ કોણ બનાવતું? 'વિશ્વકર્મા' દાદા! એટલે જ તેઓ દુનિયાના પહેલા એન્જિનિયર / આર્કિટેક્ટ છે. વાસ્તુશાસ્ત્રના 8 ભાગ છે એટલું યાદ રાખજો.</div></div>"
+    },
+
+    {
+        chapter: 5,
+        marks: 3,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વાસ્તુશાસ્ત્રમાં કઈ બાબતોનો સમાવેશ થાય છે? સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વાસ્તુશાસ્ત્ર એટલે મકાન કે ઈમારત કઈ રીતે બનાવવી તેના નિયમોનું શાસ્ત્ર.<br><br><b>વાસ્તુશાસ્ત્રમાં નીચેની બાબતોનો સમાવેશ થાય છે:</b><br>&bull; <b>સ્થળ અને આકાર:</b> રહેવા માટેની જમીનની પસંદગી, મકાનનો આકાર અને તેની રચના.<br>&bull; <b>દિશા:</b> મકાનનું મુખ્ય પ્રવેશદ્વાર (મેઇન ગેટ) કઈ દિશામાં રાખવો.<br>&bull; <b>રૂમની ગોઠવણી:</b> પૂજા રૂમ, ડાઇનિંગ રૂમ (ભોજન કક્ષ), બેડરૂમ (શયનખંડ) અને બાથરૂમ કઈ દિશામાં અને ક્યાં બનાવવા.<br>&bull; <b>અન્ય ગોઠવણી:</b> ઘરમાં હવાની અવરજવર અને પ્રકાશની યોગ્ય વ્યવસ્થા.<br>ટૂંકમાં, ઘરમાં સકારાત્મક ઊર્જા રહે તે માટેની તમામ ગોઠવણીઓ વાસ્તુશાસ્ત્રમાં દર્શાવી છે. 15 મી સદીમાં મેવાડના રાણા કુંભાએ વાસ્તુશાસ્ત્રનો પુનરુદ્ધાર (સુધારો) કરાવ્યો હતો.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: નવું ઘર બનાવીએ ત્યારે પપ્પા શું જોવે? મેઇન ગેટ ક્યાં આવશે? મંદીર ક્યાં રાખવું? રસોડું કઈ દિશામાં? બસ આ બધી ગોઠવણીને જ વાસ્તુશાસ્ત્ર કહેવાય. મેવાડના રાણા કુંભાનું નામ ન ભૂલતા!</div></div>"
+    },
+
+    {
+        chapter: 5,
+        marks: 1,
+        year_asked: "[July 2024 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>યોગશાસ્ત્ર ગ્રંથની રચના કોણે કરી હતી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'યોગશાસ્ત્ર' ગ્રંથની રચના <b>મહર્ષિ પતંજલિ</b> એ કરી હતી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: યોગા એટલે બાબા રામદેવ નહિ, પણ મહર્ષિ પતંજલિ! એમણે જ દુનિયાને યોગા શીખવાડ્યા છે.</div></div>"
     }
+
 
 
 
