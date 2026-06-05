@@ -675,7 +675,121 @@ var Std10_SocialScience_imp = [
         year_asked: "[March 2024]",
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>હુમાયુનો મકબરો કોણે બંધાવ્યો હતો? તેની વિશેષતા જણાવો.</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>દિલ્હીમાં આવેલો હુમાયુનો મકબરો મુઘલ સ્થાપત્યકલાનો એક ઉત્તમ નમૂનો છે.<br><br>&bull; <b>નિર્માણ:</b> હુમાયુના આકસ્મિક અવસાન પછી, તેની પત્ની <b>હમીદા બાનુ બેગમે</b> તેની યાદમાં આ ભવ્ય મકબરો (Tomb) બંધાવ્યો હતો.<br>&bull; <b>વિશેષતા:</b> આ મકબરાના નિર્માણમાં <b>લાલ અને સફેદ પથ્થરનો</b> ખૂબ જ કલાત્મક રીતે ઉપયોગ થયો છે. ઈરાની શૈલીમાં બનેલો આ મકબરો એટલો સુંદર છે કે તેમાંથી પ્રેરણા લઈને જ પાછળથી શાહજહાંએ 'તાજમહાલ' બનાવ્યો હતો!<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: તાજમહેલ તો પતિએ પત્ની માટે બનાવ્યો, પણ આ મકબરો પત્ની (હમીદા બાનુ) એ પોતાના મરી ગયેલા પતિ (હુમાયુ) માટે બનાવ્યો! લાલ-સફેદ પથ્થરનું કોમ્બિનેશન છે. આ મકબરો જોઈને જ તાજમહેલની ડિઝાઇન નક્કી થયેલી!</div></div>"
+    },
+
+
+    {
+        chapter: 7,
+        marks: 3,
+        year_asked: "[March 2024, May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પર્યટન અને પ્રવાસન ઉદ્યોગથી આપણા દેશને કયા કયા આર્થિક લાભ થાય છે? સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પ્રવાસન ઉદ્યોગથી દેશને બહુ મોટો આર્થિક ફાયદો થાય છે:<br><br>&bull; <b>વિદેશી હૂંડિયામણ:</b> વિદેશી પ્રવાસીઓ ભારતમાં આવે ત્યારે તેઓ વિદેશી ચલણ (ડોલર/પાઉન્ડ) લાવે છે, જેનાથી દેશને વિદેશી હૂંડિયામણ મળે છે.<br>&bull; <b>સ્થાનિક રોજગારી:</b> પ્રવાસન સ્થળોની આસપાસ હોટલવાળા, ગાઈડ, વાહન ચાલકો, અને નાના વેપારીઓને રોજીરોટી મળે છે.<br>&bull; <b>હસ્તકલાનો વિકાસ:</b> સ્થાનિક હસ્તકલા અને કુટિર ઉદ્યોગની વસ્તુઓ (જેમ કે રમકડાં, હેન્ડીક્રાફ્ટ) પ્રવાસીઓ ખરીદતા હોવાથી તેને મોટું બજાર મળે છે.<br>&bull; <b>ઇન્ફ્રાસ્ટ્રક્ચરનો વિકાસ:</b> પ્રવાસીઓ માટે રસ્તા, રેલવે, વીજળી અને પાણીની સુવિધાઓ વધારવામાં આવે છે, જેનો લાભ સ્થાનિક લોકોને પણ મળે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: પ્રવાસી આવે એટલે ખિસ્સામાં 'ડોલર' લાવે! રીક્ષાવાળાથી લઈને હોટલવાળા સુધી બધાની કમાણી થાય અને આપણા દેશનું અર્થતંત્ર મજબૂત બને. ટૂંકમાં: પ્રવાસન = રોજગારી અને રૂપિયા!</div></div>"
+    },
+
+    {
+        chapter: 7,
+        marks: 2,
+        year_asked: "[May 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>મથુરાની રિફાઇનરીને કારણે તાજમહેલને શું નુકસાન થતું હતું? સરકારે તેને બચાવવા શું પગલાં લીધા?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>નુકસાન:</b> આગ્રાની નજીક આવેલી મથુરા ઓઇલ રિફાઇનરીમાંથી <b>સલ્ફર ડાયોક્સાઇડ (SO<sub>2</sub>)</b> જેવા ઝેરી વાયુઓ નીકળતા હતા. વાયુ પ્રદૂષણને કારણે તાજમહેલનો સફેદ આરસપહાણ (માર્બલ) ઝાંખો અને <b>પીળો (Yellow)</b> પડી રહ્યો હતો.<br><br><b>સરકારના પગલાં:</b><br>&bull; વાયુ પ્રદૂષણ ફેલાવતા ઉદ્યોગોને બંધ કરાવ્યા અથવા ત્યાંથી અન્ય સ્થળે ખસેડ્યા.<br>&bull; તાજમહેલના શ્વેત રંગને જાળવી રાખવા તેની આસપાસ વૃક્ષો વાવીને <b>ગ્રીન ઝોન</b> બનાવવામાં આવ્યો અને માર્બલની રાસાયણિક સફાઈ કરવામાં આવી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: તાજમહેલનું 'ફેસવોશ'! મથુરા રિફાઇનરીના ઝેરી ધુમાડા (SO2) થી તાજમહેલ પીળો પડતો હતો. સરકારે ધુમાડો બંધ કરાવ્યો અને માર્બલ સાફ કરાવ્યો એટલે પાછો ધોળો-ધફ થઈ ગયો!</div></div>"
+    },
+
+    {
+        chapter: 7,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પુરાતત્વીય વારસાને સુરક્ષિત રાખવા માટે ASI (Archaeological Survey of India) ની ભૂમિકા જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારત સરકારના <b>પુરાતત્વ ખાતા (Archaeological Survey of India - ASI)</b> દ્વારા દેશના વારસાની જાળવણી થાય છે.<br><br>&bull; <b>રક્ષણ:</b> ASI હાલમાં દેશના <b>૫૦૦૦ કરતાં પણ વધુ</b> ઐતિહાસિક સ્મારકો અને સ્થળોની જાળવણી અને રક્ષણનું કામ કરે છે.<br>&bull; <b>સમારકામ:</b> નષ્ટ થવાના આરે ઉભેલી ઈમારતોનું તે વૈજ્ઞાનિક ઢબે સમારકામ (Repairing) કરાવે છે.<br>&bull; <b>ઉત્ખનન:</b> જમીનમાં દટાયેલા પ્રાચીન નગરોનું કાળજીપૂર્વક ખોદકામ કરી, સંશોધન કરવાનું કાર્ય પણ આ ખાતું કરે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ASI એટલે ભારતની 'હેરિટેજ પોલીસ'! આખા દેશની પાંચ હજારથી વધુ જૂની ઈમારતોને સાચવવાની, રિપેર કરવાની અને ખોદકામ કરી નવું શોધવાની જવાબદારી આ સરકારી ખાતાની છે.</div></div>"
+    },
+
+    {
+        chapter: 7,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ઐતિહાસિક સ્મારકોનું સમારકામ (Repairing) કરતી વખતે કઈ બાબતો ખાસ ધ્યાનમાં રાખવી જોઈએ?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જ્યારે કોઈપણ પ્રાચીન સ્મારકનું સમારકામ (Restoration) કરવાનું હોય ત્યારે નીચેની બાબતો ધ્યાનમાં રાખવી ખૂબ જ જરૂરી છે:<br><br>&bull; સ્મારકનું <b>મૂળ સ્વરૂપ</b> (Original Design) ક્યારેય બદલાવવું જોઈએ નહિ.<br>&bull; તેનો આકાર, કદ, અને પ્રાચીન <b>રંગ</b> જળવાઈ રહેવા જોઈએ.<br>&bull; શક્ય હોય ત્યાં સુધી જે પ્રકારના પથ્થર કે સામગ્રીનો ઉપયોગ મૂળ બાંધકામમાં થયો હોય, તેનો જ ઉપયોગ સમારકામમાં થવો જોઈએ.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: જૂનું એટલું સોનું! રિપેરિંગ કરો પણ મકાનનો અસલી ચહેરો (રંગ, ડિઝાઇન અને આકાર) બદલાવવો જોઈએ નહિ. નવું પ્લાસ્ટર મારીને મોર્ડન નથી બનાવવાનું!</div></div>"
+    },
+
+    {
+        chapter: 7,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પ્રાચીન સ્મારકોને સુરક્ષિત રાખવા માટે ભારત સરકારે ઇ.સ. 1958 માં કયો કાયદો પસાર કર્યો હતો? તેની જોગવાઈ જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારત સરકારે વારસાના રક્ષણ માટે <b>'પ્રાચીન સ્મારકો, પુરાતત્વીય સ્થળો અને અવશેષો અંગેનો કાયદો - 1958'</b> પસાર કર્યો હતો.<br><br><b>આ કાયદાની જોગવાઈઓ:</b><br>&bull; જે સ્મારકો રાષ્ટ્રીય મહત્વ ધરાવતા હોય તેને <b>'રાષ્ટ્રીય સ્મારક'</b> તરીકે જાહેર કરવામાં આવે છે.<br>&bull; કોઈપણ વ્યક્તિ કે સંસ્થા સરકારની પરવાનગી વગર કોઈપણ પુરાતત્વીય સ્થળ પર ખોદકામ (ઉત્ખનન) કરી શકે નહિ.<br>&bull; પ્રાચીન મૂર્તિઓ, સિક્કા કે કલાકૃતિઓનો ગેરકાયદેસર વેપાર કરવા પર કડક પ્રતિબંધ અને સજા છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: 1958 નો કાયદો એટલે 'ડોન્ટ ટચ' પોલિસી! સરકારની મંજૂરી વગર ન કોઈ ખોદકામ કરી શકે કે ન કોઈ પ્રાચીન મૂર્તિ કે સિક્કા વેચી શકે. કડક સજાની જોગવાઈ છે!</div></div>"
+    },
+
+    {
+        chapter: 7,
+        marks: 3,
+        year_asked: "[March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભારતના મુખ્ય સંગ્રહાલયો (Museums) અને તેમના સ્થળોના નામ જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પ્રાચીન કલાકૃતિઓ અને ઐતિહાસિક વારસાને સાચવવા માટે ભારતમાં અનેક પ્રખ્યાત સંગ્રહાલયો આવેલા છે:<br><br><table style='width: 100%; border-collapse: collapse; margin-top: 10px; text-align: left;'><tr style='background-color: #bbdefb;'><th style='padding: 8px; border: 1px solid #90caf9;'>સંગ્રહાલયનું નામ</th><th style='padding: 8px; border: 1px solid #90caf9;'>સ્થળ / રાજ્ય</th></tr><tr><td style='padding: 8px; border: 1px solid #e0e0e0;'>૧. રાષ્ટ્રીય સંગ્રહાલય (National Museum)</td><td style='padding: 8px; border: 1px solid #e0e0e0;'>નવી દિલ્હી</td></tr><tr><td style='padding: 8px; border: 1px solid #e0e0e0;'>૨. સાલારગંજ સંગ્રહાલય</td><td style='padding: 8px; border: 1px solid #e0e0e0;'>હૈદરાબાદ (તેલંગાણા)</td></tr><tr><td style='padding: 8px; border: 1px solid #e0e0e0;'>૩. છત્રપતિ શિવાજી મહારાજ વાસ્તુ સંગ્રહાલય</td><td style='padding: 8px; border: 1px solid #e0e0e0;'>મુંબઈ (મહારાષ્ટ્ર)</td></tr><tr><td style='padding: 8px; border: 1px solid #e0e0e0;'>૪. ઇન્ડિયન મ્યુઝિયમ</td><td style='padding: 8px; border: 1px solid #e0e0e0;'>કોલકાતા (પશ્ચિમ બંગાળ)</td></tr><tr><td style='padding: 8px; border: 1px solid #e0e0e0;'>૫. આલ્બર્ટ હોલ મ્યુઝિયમ</td><td style='padding: 8px; border: 1px solid #e0e0e0;'>જયપુર (રાજસ્થાન)</td></tr></table><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: જોડકાં માટે રટી લો! દિલ્હીમાં 'રાષ્ટ્રીય', હૈદરાબાદમાં 'સાલારગંજ', મુંબઈમાં 'શિવાજી' અને જયપુરમાં 'આલ્બર્ટ'. એક માર્ક આસાનીથી આવી જશે!</div></div>"
+    },
+
+    {
+        chapter: 7,
+        marks: 2,
+        year_asked: "[May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પ્રવાસન સ્થળોની સ્વચ્છતા અને જતન માટે તમે શું ઉપાયો સૂચવશો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પ્રવાસન સ્થળોનું સૌંદર્ય જાળવી રાખવા માટે નીચે મુજબના ઉપાયો કરવા જોઈએ:<br><br>&bull; કચરો હંમેશા <b>કચરાપેટીમાં (Dustbin)</b> જ નાખવો જોઈએ. પ્લાસ્ટિકના ઝબલાં કે પાણીની બોટલો જ્યાં-ત્યાં ન ફેંકવી જોઈએ.<br>&bull; ઐતિહાસિક સ્મારકોની દીવાલો પર પોતાનું નામ લખીને કે <b>ચિતરામણ કરીને તેને નુકસાન ન પહોંચાડવું</b> જોઈએ.<br>&bull; પ્રવાસન સ્થળો પર પાન-મસાલા ખાઈને <b>થૂંકવું ન જોઈએ</b>.<br>&bull; ઐતિહાસિક મૂર્તિઓ અને શિલ્પોને સ્પર્શ કરીને (અડીને) તેને નુકસાન પહોંચાડવાથી બચવું જોઈએ.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: પ્રવાસી બનો, પ્રદૂષક નહિ! 'હું કચરો ડસ્ટબિનમાં નાખીશ' અને 'દીવાલ પર ક્યારેય કોઈનું નામ નહિ લખું' આ બે નિયમ પાળો એટલે વારસો આપોઆપ સચવાઈ જાય.</div></div>"
+    },
+
+    {
+        chapter: 7,
+        marks: 2,
+        year_asked: "[March 2024, May 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શિકાગોની વિશ્વ ધર્મ પરિષદમાં સ્વામી વિવેકાનંદે ભારતીય સંસ્કૃતિ વિશે શું કહ્યું હતું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>અમેરિકાના શિકાગો શહેરમાં યોજાયેલી વિશ્વ ધર્મ પરિષદમાં સ્વામી વિવેકાનંદે ભારતીય સંસ્કૃતિનો પરિચય આપતા ખૂબ જ ગર્વથી કહ્યું હતું કે:<br><br><b>"મને ગર્વ છે કે હું એ ધર્મનો પ્રતિનિધિ છું, જેણે દુનિયાને સહિષ્ણુતા (Tolerance) અને વિશ્વબંધુત્વના (Universal Brotherhood) પાઠ શીખવ્યા છે."</b><br>તેમનું આ વાક્ય સાબિત કરે છે કે ભારતીય સંસ્કૃતિ તમામ ધર્મો અને લોકો પ્રત્યે પ્રેમ અને સમાનતા ધરાવે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: શિકાગો + વિવેકાનંદ = 'સહિષ્ણુતા અને વિશ્વબંધુત્વ'! દુનિયાના બધા ધર્મોને ભાઈ-બહેન માનતો એકમાત્ર ધર્મ હિન્દુ ધર્મ છે, એવો તેમને ગર્વ હતો. આ બે શબ્દો ખાસ લખવા.</div></div>"
+    },
+
+    {
+        chapter: 7,
+        marks: 3,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'વિવિધતામાં એકતા' એ ભારતીય સંસ્કૃતિની આગવી ઓળખ છે. વિધાન સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારત એ વિવિધતા ધરાવતો વિશાળ દેશ છે, છતાં તેમાં અદભુત એકતા છે:<br><br>&bull; <b>વિવિધતા:</b> ભારતમાં અનેક જાતિઓ, ધર્મો, સંપ્રદાયો અને ભાષાઓ બોલતા લોકો રહે છે. લોકોના ખોરાક, પોશાક, તહેવારો અને રીતરિવાજોમાં પણ ખૂબ જ ભિન્નતા છે.<br>&bull; <b>સમાન રાષ્ટ્રીયતા:</b> આટલી બધી ભિન્નતાઓ હોવા છતાં, જ્યારે દેશની વાત આવે ત્યારે તમામ ભારતીયો એક બની જાય છે. રાષ્ટ્રપ્રેમ અને રાષ્ટ્રભક્તિથી સૌ જોડાયેલા છે.<br>&bull; <b>મહાન આદર્શ:</b> ઋગ્વેદનો મંત્ર "અમને ચારેય દિશાઓમાંથી સારા અને શુભ વિચારો પ્રાપ્ત થાઓ" - આ આદર્શને ભારતે સ્વીકાર્યો છે.<br>આમ, બધી વિવિધતાઓને પોતાનામાં સમાવીને એક મજબૂત રાષ્ટ્રનું નિર્માણ કરવું એ ભારતની સૌથી મોટી સિદ્ધિ છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: જેમ અલગ-અલગ રંગના ફૂલો ભેગા થઈને એક સુંદર માળા બનાવે, એમ અલગ ભાષા-ધર્મવાળા લોકો ભેગા થઈને એક 'ભારત' દેશ બનાવે છે. આને જ વિવિધતામાં એકતા કહેવાય!</div></div>"
+    },
+
+    {
+        chapter: 7,
+        marks: 2,
+        year_asked: "[July 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભારતીય સંસ્કૃતિ સહિષ્ણુ (Tolerant) અને સર્વસમાવેશક છે. આ વિધાનની યથાર્થતા ચકાસો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>સહિષ્ણુતા (Tolerance):</b> ભારતની પ્રજા પ્રાચીન કાળથી જ અન્ય ધર્મો અને વિચારો પ્રત્યે આદરભાવ ધરાવે છે. ભારતમાં કોઈ પણ ધર્મ કે જાતિનો તિરસ્કાર કરવામાં આવતો નથી. હિન્દુ ધર્મ <b>"સર્વ ધર્મ સમભાવ"</b> (બધા ધર્મો સમાન છે) ના સિદ્ધાંતમાં માને છે.<br><br><b>સર્વસમાવેશકતા:</b> ભારતમાં પ્રાચીન સમયથી આર્યો, દ્રવિડો, હૂણ, મુઘલો, અંગ્રેજો એમ અનેક વિદેશી પ્રજાઓ આવી. ભારતે ક્યારેય કોઈને બહાર કાઢ્યા નથી, પરંતુ તમામને આવકારીને ભારતીય સંસ્કૃતિમાં ભેળવી દીધા (સમાવી લીધા). તેથી તે સર્વસમાવેશક કહેવાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ભારત એટલે એક એવી મોટી 'હોટેલ' જ્યાં બધા ધર્મના લોકો પ્રેમથી અને શાંતિથી રહી શકે! કોઈના માટે નફરત નહિ, આને જ સહિષ્ણુતા (Tolerance) કહેવાય.</div></div>"
+    },
+
+    {
+        chapter: 7,
+        marks: 3,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વારસાના સંરક્ષણ માટે આપણી (નાગરિકોની) ભૂમિકા શું હોવી જોઈએ? સવિસ્તાર સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આપણો ભવ્ય વારસો એ કોઈ એક વ્યક્તિની નહિ, પણ સમગ્ર દેશની સંપત્તિ છે. તેના રક્ષણ માટે નાગરિકોની ભૂમિકા ખૂબ અગત્યની છે:<br><br>&bull; <b>જવાબદારી:</b> સરકારે ઘડેલા કાયદાઓનું પાલન કરવું એ આપણી મૂળભૂત ફરજ છે. માત્ર સરકાર પર આધાર રાખવા કરતા નાગરિકોએ જાતે જાગૃત થવું જોઈએ.<br>&bull; <b>શૈક્ષણિક ભૂમિકા:</b> શાળા-કોલેજોના શિક્ષકો અને વિદ્યાર્થીઓએ વારસાનું મહત્વ સમજવું જોઈએ અને અન્ય લોકોને પણ સમજાવવું જોઈએ.<br>&bull; <b>નુકસાન અટકાવવું:</b> જો કોઈ વ્યક્તિ ઐતિહાસિક ઈમારતોને નુકસાન પહોંચાડી રહી હોય, તો તેને અટકાવવી જોઈએ.<br>&bull; <b>સ્વયંસેવક બનવું:</b> વારસાની જાળવણી કરતી સરકારી કે ખાનગી સંસ્થાઓના કાર્યમાં લોકોએ સ્વયંસેવક (Volunteer) બનીને સાથ આપવો જોઈએ.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: વારસો એ કોઈની પ્રાઇવેટ પ્રોપર્ટી નથી, આપણી બધાની જ છે! સ્કૂલ-કોલેજના વિદ્યાર્થીઓએ પણ વારસો બચાવવા વોલેન્ટિયર બનવું જોઈએ. જો કોઈ બગાડ કરતું હોય તો તરત રોકવું એ આપણું કામ છે!</div></div>"
+    },
+
+    {
+        chapter: 7,
+        marks: 2,
+        year_asked: "[March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભારતના વારસાની જાળવણીમાં ખાનગી સંસ્થાઓ (NGOs) નો ફાળો જણાવો. INTACH વિશે માહિતી આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>માત્ર સરકાર જ નહિ, પરંતુ દેશની ઘણી ખાનગી સંસ્થાઓ પણ વારસાના જતન માટે પ્રશંસનીય કામ કરી રહી છે.<br><br><b>INTACH (ઇન્ટેક):</b><br>આ સંસ્થાનું પૂરું નામ <b>'ઇન્ડિયન નેશનલ ટ્રસ્ટ ફોર આર્ટ એન્ડ કલ્ચરલ હેરિટેજ'</b> છે. <br>તેની સ્થાપના ઇ.સ. <b>1984</b> માં થઈ હતી. આ સંસ્થા દેશભરના પ્રાચીન સ્મારકો, ચિત્રો અને ઐતિહાસિક સ્થળોની જાળવણી માટે સ્વતંત્ર રીતે મોટું કાર્ય કરી રહી છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: INTACH (ઇન્ટેક) એટલે વારસો બચાવનારી સૌથી મોટી પ્રાઇવેટ આર્મી! સરકારી ASI સિવાય આ સંસ્થા 1984 થી આપણા વારસાનું પૂરું ધ્યાન રાખે છે. પૂરું નામ ખાસ યાદ રાખવું.</div></div>"
+    },
+
+    {
+        chapter: 7,
+        marks: 2,
+        year_asked: "[July 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગુજરાતમાં આવેલા મુખ્ય સંગ્રહાલયો (મ્યુઝિયમ) અને પુસ્તકાલયોના નામ અને સ્થળ જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગુજરાતમાં પ્રાચીન પાંડુલિપિઓ (હસ્તપ્રતો) અને ઐતિહાસિક વસ્તુઓ સાચવવા નીચે મુજબની સંસ્થાઓ આવેલી છે:<br><br>&bull; <b>અમદાવાદ:</b> એલ. ડી. ઇન્ડોલોજી, ભો. જે. વિદ્યાભવન, અને ગુજરાત વિદ્યાપીઠનું આદિવાસી મ્યુઝિયમ.<br>&bull; <b>વડોદરા:</b> મહારાજા સયાજીરાવ યુનિવર્સિટી મ્યુઝિયમ.<br>&bull; <b>પાટણ:</b> શ્રી હેમચંદ્રાચાર્ય જ્ઞાનભંડાર (ગ્રંથાલય).<br>&bull; <b>ગાંધીનગર:</b> શ્રી મહાવીર જૈન આરાધના કેન્દ્ર, કોબા.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ગુજરાતના સંગ્રહાલયો યાદ રાખો: 'એલ. ડી.' અને 'ભો. જે.' અમદાવાદમાં છે, 'હેમચંદ્રાચાર્ય' પાટણમાં છે અને 'મહારાજા સયાજીરાવ' મ્યુઝિયમ વડોદરામાં છે!</div></div>"
+    },
+
+    {
+        chapter: 7,
+        marks: 2,
+        year_asked: "[May 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આપણા વારસાનું જતન શા માટે કરવું જોઈએ? (વારસાનું મહત્વ સમજાવો).</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આપણો ભવ્ય વારસો દેશ માટે અત્યંત મહત્વનો છે, કારણ કે:<br><br>&bull; <b>દેશની ઓળખ:</b> વારસો એ કોઈપણ દેશની વૈશ્વિક ઓળખ છે. વારસાની ગેરહાજરીમાં દેશનું અસ્તિત્વ અને સંસ્કૃતિ ભૂંસાઈ જાય છે.<br>&bull; <b>ગૌરવ:</b> આપણા પૂર્વજોએ કરેલા મહાન કાર્યો અને સ્થાપત્યો આપણા માટે ખૂબ મોટું ગૌરવ છે.<br>&bull; <b>પ્રેરણાનો સ્ત્રોત:</b> તે આવનારી નવી પેઢીઓ માટે પ્રેરણા પૂરી પાડે છે અને તેમનામાં દેશપ્રેમ જગાવે છે.<br>&bull; દેશના વિકાસ અને આર્થિક સમૃદ્ધિ (પ્રવાસન દ્વારા) માં પણ તે મોટો ફાળો આપે છે. તેથી તેનું જતન કરવું અનિવાર્ય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: વારસો એટલે દેશનું 'ઓળખપત્ર' (પાસપોર્ટ)! વારસો નહિ હોય તો દેશની વૈશ્વિક ઓળખ ભૂંસાઈ જશે. આપણા દાદા-પરદાદાની આ અમૂલ્ય નિશાની આપણે બચાવવી જ પડે!</div></div>"
     }
+
 
 
 
