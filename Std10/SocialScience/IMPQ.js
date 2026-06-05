@@ -775,12 +775,5 @@ var Std10_SocialScience_imp = [
     }
 
 
-
-
-
-
-
-
-
 ];
 
