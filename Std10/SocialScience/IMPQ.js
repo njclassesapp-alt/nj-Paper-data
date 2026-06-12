@@ -1012,7 +1012,128 @@ var Std10_SocialScience_imp = [
         year_asked: "[March 2025, March 2026]",
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જૈવ આરક્ષિત ક્ષેત્ર (Biosphere Reserve) એટલે શું?</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જૈવ આરક્ષિત ક્ષેત્રની રચના <b>આંતરરાષ્ટ્રીય માપદંડો</b> અનુસાર કરવામાં આવે છે.<br><br><b>લક્ષણો:</b><br>&bull; <b>હેતુ:</b> તે ક્ષેત્રની પ્રાકૃતિક અને સાંસ્કૃતિક વિવિધતાનું સંરક્ષણ કરવાનો છે. અહી તમામ પ્રકારની વનસ્પતિ, જીવજંતુઓ અને જમીન ઉપરાંત ત્યાં વસતા માનવ સમુદાયોની જીવનશૈલીનું પણ રક્ષણ થાય છે.<br>&bull; <b>પ્રતિબંધ:</b> અહી બહારની તમામ પ્રકારની માનવીય ગતિવિધિઓ (અવરજવર) પર સંપૂર્ણ પ્રતિબંધ હોય છે.<br>&bull; <b>વિસ્તાર:</b> આ ક્ષેત્રનો વિસ્તાર સરેરાશ <b>5000 ચોરસ કિમી કરતાં મોટો</b> હોય છે.<br><b>ઉદાહરણ:</b> નીલગિરિ, મન્નારની ખાડી, ગ્રેટ નિકોબાર, સુંદરવન. (ગુજરાતમાં કચ્છના રણનું જૈવ આરક્ષિત ક્ષેત્ર - 2008 માં ઘોષિત).<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: આ સૌથી મોટું અને સૌથી કડક! ઇન્ટરનેશનલ લેવલના નિયમો, 5000 ચો.કિમી. થી મોટો એરિયા, અને બહારના કોઈ માણસને એન્ટ્રી જ નહિ! કચ્છનું રણ બેસ્ટ ઉદાહરણ છે.</div></div>"
+    },
+    
+    {
+        chapter: 10,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જીવનનિર્વાહ ખેતી (આત્મનિર્વાહ ખેતી) એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતના મોટાભાગના ખેડૂતો પાસે જમીનના ટુકડા ખૂબ નાના છે અને તેઓ ગરીબ છે. આથી, મોંઘા બિયારણો અને ખાતરનો ઉપયોગ તેમને પોસાતો નથી.<br><br>આવા નાના ખેતરમાં થતું અનાજનું ઉત્પાદન તેમના પોતાના <b>પરિવારના ભરણપોષણમાં જ વપરાઈ જાય છે</b>. તેને બજારમાં વેચવા માટે કશું વધતું નથી. આવી ખેતીને 'જીવનનિર્વાહ ખેતી' કે 'આત્મનિર્વાહ ખેતી' કહે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: નામમાં જ અર્થ છે! જીવનનો 'નિર્વાહ' (ગુજારો) થાય એટલું જ અનાજ પાકે. ખેતરમાં ઉગાડેલું બધું ઘરમાં જ ખવાઈ જાય, બજારમાં વેચવા કશું વધે નહિ!</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 2,
+        year_asked: "[May 2025, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સઘન ખેતી (Intensive Farming) કોને કહે છે? તેને બીજું કયું નામ આપવામાં આવ્યું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જ્યાં <b>સિંચાઈની સગવડ સારી</b> છે, ત્યાં ખેડૂતો રાસાયણિક ખાતરો, કીટનાશકો, સુધારેલા બિયારણો અને યંત્રોનો મોટા પાયે ઉપયોગ કરે છે અને એક જ વર્ષમાં વધુ પાક લે છે. આ પ્રકારની ખેતીને <b>સઘન ખેતી</b> કહે છે.<br><br>આ ખેતીમાં આર્થિક વળતર (પૈસા) ને વધુ મહત્વ અપાતું હોવાથી, તેને <b>'વ્યાપારી ખેતી' (Commercial Farming)</b> પણ કહે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: 'સઘન' એટલે 'ફુલ સ્પીડ'! પાણી, ખાતર અને દવા નાખીને બમણું ઉત્પાદન લેવું અને સીધું બજારમાં વેચીને રોકડા પૈસા કમાવા. એટલે જ આ વ્યાપારી ખેતી છે.</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ઝૂમ ખેતી (સ્થળાંતરિત ખેતી) વિશે ટૂંકમાં નોંધ લખો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ ખેતી મોટેભાગે ગીચ જંગલોમાં જોવા મળે છે.<br><br>&bull; તેમાં જંગલોના વૃક્ષો કાપીને કે તેને સળગાવીને જમીન સાફ કરવામાં આવે છે.<br>&bull; ત્યાં 2 થી 3 વર્ષ ખેતી કરવામાં આવે છે.<br>&bull; જમીનની <b>ફળદ્રુપતા ઘટતાં</b> તે જગ્યા છોડી દઈને અન્ય જગ્યાએ જઈને પાછી આ જ રીતે ખેતી શરૂ કરવામાં આવે છે.<br>આને 'ઝૂમ ખેતી' કહે છે. આમાં અનાજનું ઉત્પાદન ખૂબ ઓછું થાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ઝૂમતા-ઝૂમતા (ફરતાં-ફરતાં) ખેતી કરવી! એક જંગલ સળગાવીને ખેતી કરી, 3 વર્ષ પછી જમીન બગડે એટલે બીજી જગ્યાએ ભાગી જવાનું!</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>બાગાયતી ખેતી (Plantation Agriculture) એટલે શું? તેમાં કયા પાક લેવાય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>બાગાયતી ખેતી એક ખાસ પ્રકારે થતી ખેતી છે જેમાં પાકનું <b>લાંબા ગાળા સુધી જતન</b> કરવું પડે છે.<br><br>&bull; <b>જરૂરિયાત:</b> આ ખેતીમાં વધુ મૂડી, કુશળતા, ખાતર, સિંચાઈ અને પરિવહનની પૂરતી સગવડ જોઈએ.<br>&bull; <b>પાક:</b> તેમાં ચા, કોફી, રબર, નાળિયેર ઉપરાંત સફરજન, કેરી, દ્રાક્ષ, સંતરા વગેરે ફળોની ખૂબ માવજત સાથે ખેતી કરાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: બાગાયત એટલે 'બગીચો'! જેમાં બીજ વાવીને તરત પાક નથી મળતો. ચા, કોફી કે સફરજનનું ઝાડ વાવો, બગીચાની જેમ સાચવો અને વર્ષો સુધી ફળ ખાઓ!</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 3,
+        year_asked: "[March 2024, May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સજીવ ખેતી (Organic Farming) એટલે શું? તેનું મહત્વ સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જે ખેતીમાં <b>રાસાયણિક ખાતર કે કીટનાશક દવાઓનો બિલકુલ ઉપયોગ થતો નથી</b> તેને સજીવ ખેતી કહેવાય છે.<br><br><b>મહત્વ અને ફાયદા:</b><br>૧. <b>કુદરતી ખાતર:</b> તેમાં જમીનની ફળદ્રુપતા જાળવવા છાણિયું ખાતર, અળસિયાનું ખાતર અને કમ્પોસ્ટ ખાતર વપરાય છે.<br>૨. <b>સ્વાદ અને સ્વાસ્થ્ય:</b> આ ખેતીથી પકવેલા પાકમાં અસલ સ્વાદ, મીઠાશ અને સોડમ હોય છે. તે સ્વાસ્થ્ય માટે ઉત્તમ છે.<br>૩. <b>પોષકતત્વો:</b> તેમાં ખનિજ, વિટામિન અને જીવનશક્તિ આપતા તત્વો વધારે હોય છે.<br>૪. <b>ઊંચો ભાવ:</b> બજારમાં સજીવ ખેતીની પેદાશોની માંગ વધુ હોવાથી ખેડૂતને આર્થિક વળતર સારું મળે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: જમીનને જીવતી રાખવી! ઝેરી દવા અને યુરિયા વગર ગાયના છાણ અને ગૌમૂત્રથી કરેલી ખેતી. પાક એટલો મીઠો થાય કે બજારમાં ઊંચા ભાવે વેચાય.</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 3,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભારતની કૃષિ ઋતુઓ (ખરીફ, રવિ અને જાયદ પાક) વિશે ટૂંકમાં માહિતી આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતમાં ઋતુ પ્રમાણે 3 પ્રકારના કૃષિ પાક લેવાય છે:<br><br>૧. <b>ખરીફ પાક (ચોમાસુ પાક):</b> ચોમાસાની ઋતુમાં લેવાતા પાક. સમય: જૂન-જુલાઈ થી ઓક્ટોબર-નવેમ્બર. દા.ત. ડાંગર, મકાઈ, જુવાર, કપાસ, મગફળી.<br>૨. <b>રવિ પાક (શિયાળુ પાક):</b> શિયાળાની ઋતુમાં લેવાતા પાક. સમય: ઓક્ટોબર-નવેમ્બર થી માર્ચ-એપ્રિલ. દા.ત. ઘઉં, ચણા, જવ, રાઈ, સરસવ.<br>૩. <b>જાયદ પાક (ઉનાળુ પાક):</b> ઉનાળાની ઋતુમાં લેવાતા પાક. સમય: માર્ચ થી જૂન. દા.ત. તરબૂચ, ટેટી, કાકડી, શાકભાજી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: 'ખરીફ' એટલે છત્રી (ચોમાસું-ડાંગર), 'રવિ' એટલે સ્વેટર (શિયાળો-ઘઉં) અને 'જાયદ' એટલે આઈસ્ક્રીમ/તરબૂચ (ઉનાળો)! બસ આટલું યાદ રાખો.</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 3,
+        year_asked: "[May 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ડાંગર (Rice) ના પાક માટે કયા અનુકૂળ સંજોગો જરૂરી છે? </div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ડાંગર એ ભારતનો સૌથી મહત્વનો અને મુખ્ય ખરીફ પાક છે. વિશ્વમાં ચીન પછી ભારત ડાંગરના ઉત્પાદનમાં બીજા ક્રમે છે.<br><br><b>અનુકૂળ સંજોગો:</b><br>&bull; <b>જમીન:</b> નદીઓના મેદાનની કાંપની અને પાણી ભરાઈ રહે તેવી ફળદ્રુપ જમીન.<br>&bull; <b>આબોહવા:</b> ગરમ અને ભેજવાળી આબોહવા.<br>&bull; <b>તાપમાન:</b> 20°C થી વધુ તાપમાન.<br>&bull; <b>વરસાદ:</b> 100 સે.મી. કે તેથી વધુ વરસાદની જરૂર પડે છે.<br>ગુજરાતમાં પંચમહાલ, ખેડા, અમદાવાદ, સુરત અને વલસાડમાં ડાંગર થાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ડાંગર એટલે ચોખા! ચોખાને ગરમી અને પાણી બહુ જ ગમે! જ્યાં પુષ્કળ વરસાદ (100 સે.મી.થી વધુ) પડે અને કાદવવાળી જમીન હોય ત્યાં જ ડાંગર વાવી શકાય.</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 3,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ઘઉં (Wheat) ને 'અનાજનો રાજા' શા માટે કહે છે? અથવા ઘઉંના પાક માટે અનુકૂળ સંજોગો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ઘઉં એ ડાંગર પછીનો ભારતનો બીજો મહત્વનો પાક (રવિ પાક) છે.<br><br><b>અનુકૂળ સંજોગો:</b><br>&bull; તેને <b>કાળી કે ફળદ્રુપ ગોરાડુ જમીન</b> માફક આવે છે.<br>&bull; તેને <b>75 સે.મી. વાર્ષિક વરસાદ</b> જોઈએ છે. (પંજાબમાં સિંચાઈથી ખૂબ પાકે છે તેથી તેને <b>'ઘઉંનો કોઠાર'</b> કહે છે).<br><br><b>અનાજનો રાજા શા માટે?</b><br>રોજિંદા ખોરાકમાં વપરાતા તમામ અનાજમાં ઘઉં શ્રેષ્ઠ છે. ઘઉંમાંથી રોટલી, ભાખરી, બ્રેડ, બિસ્કિટ, પીઝા, પાસ્તા, મેક્રોની વગેરે અનેક વાનગીઓ બને છે. તેમાં <b>પ્રોટીન, કાર્બોહાઈડ્રેટ, વિટામિન અને લોહતત્વ</b> પુષ્કળ માત્રામાં હોવાથી તેને 'અનાજનો રાજા' કહેવાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ઘઉં બધી જ જગ્યાએ સેટ થઈ જાય - રોટલીથી લઈને પીઝા સુધી! પોષણ સૌથી વધારે આપે એટલે એ રાજા છે, અને પંજાબ એનો સૌથી મોટો 'કોઠાર' છે.</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 3,
+        year_asked: "[March 2025, May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રોકડિયા પાક તરીકે 'કપાસ' (Cotton) વિશે વિસ્તૃત માહિતી આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કપાસ એ ભારતનો અગત્યનો રોકડિયો (ખરીફ) પાક છે. વૈશ્વિક સ્તરે ભારત કપાસના ઉત્પાદન, વપરાશ અને નિકાસમાં <b>બીજા ક્રમે</b> છે. કપાસને <b>'સફેદ સોનું' (White Gold)</b> પણ કહે છે.<br><br><b>અનુકૂળ સંજોગો:</b><br>&bull; <b>જમીન:</b> લાવાઈક અને ભેજ સંગ્રહી શકે તેવી <b>કાળી જમીન (રેગુર)</b> અનુકૂળ આવે છે.<br>&bull; <b>આબોહવા:</b> ગરમ અને ભેજવાળી આબોહવા, 20°C થી 35°C તાપમાન.<br>&bull; <b>વરસાદ:</b> 30 થી 70 સે.મી. વરસાદ.<br>&bull; <b>સમય:</b> આ પાક તૈયાર થતાં <b>6 થી 8 મહિના</b> લાગે છે.<br>ભારતમાં ગુજરાત કપાસના ઉત્પાદનમાં <b>પ્રથમ ક્રમે</b> છે. ગુજરાતનો 'કાનમ પ્રદેશ' કપાસ માટે પ્રખ્યાત છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: કપાસ એટલે 'સફેદ સોનું'. તેને કાળી જમીન જ જોઈએ. અને હા, યાદ રાખજો ગુજરાત કપાસમાં નંબર 1 છે અને આપણો કાનમ પ્રદેશ સૌથી બેસ્ટ છે!</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 2,
+        year_asked: "[July 2024 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રોકડિયા પાક તરીકે 'શેરડી' (Sugarcane) વિશે નોંધ લખો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતનો મુખ્ય રોકડિયો પાક શેરડી છે. શેરડીના વાવેતરમાં <b>ભારત વિશ્વમાં પ્રથમ</b> છે, જ્યારે ઉત્પાદનમાં બ્રાઝીલ પછી બીજો ક્રમ છે.<br><br><b>અનુકૂળ સંજોગો:</b><br>&bull; <b>જમીન:</b> લાવાઈક, કાળી અને નદીઓની કાંપની ફળદ્રુપ જમીન.<br>&bull; <b>તાપમાન:</b> 21°C થી 27°C જેટલું તાપમાન.<br>&bull; <b>વરસાદ:</b> 75 થી 100 સે.મી. વરસાદ.<br>શેરડીમાંથી ખાંડ, ગોળ, ખાંડસરી અને ઇથેનોલ બને છે. ઉત્તર પ્રદેશ શેરડીના વાવેતરમાં મોખરે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: વાવેતરમાં આપણો પહેલો નંબર! શેરડીને ગરમી અને પાણી બંને વધુ જોઈએ. ગોળ અને ખાંડ બંને આમાંથી જ બને છે.</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 3,
+        year_asked: "[March 2024, May 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભારતમાં કૃષિ ક્ષેત્રે આવેલા 'ટેકનિકલ સુધારા' વિશે નોંધ લખો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ખેતીમાં બિયારણ, ખાતર અને ખેત-સાધનોમાં આવેલા પરિવર્તનોને ટેકનિકલ સુધારા કહે છે:<br><br>૧. <b>સાધનોમાં બદલાવ:</b> ખેડૂત પહેલા દાતરડા કે હળથી ખેતી કરતો, હવે તે ટ્રેક્ટર, થ્રેશર, હાર્વેસ્ટર અને રોટાવેટરનો ઉપયોગ કરે છે.<br>૨. <b>સિંચાઈની આધુનિક પદ્ધતિઓ:</b> પાણી બચાવવા ટપક સિંચાઈ (Drip irrigation) અને ફુવારા પદ્ધતિ (Sprinkler) નો ઉપયોગ વધ્યો છે.<br>૩. <b>ખાતર અને દવાઓ:</b> દેશી ખાતરની જગ્યાએ રાસાયણિક ખાતરો (DAP, NPK, યુરિયા) અને પાકને બચાવવા કીટનાશક દવાઓનો ઉપયોગ થાય છે.<br>૪. <b>માહિતી અને માર્ગદર્શન:</b> ખેડૂતોને રેડિયો, ટીવી, કિસાન ટોલ-ફ્રી નંબર (1800-180-1551) અને મોબાઈલ એપ (i-khedut) દ્વારા હવામાન અને બજારભાવની માહિતી અપાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: જે સુધારામાં 'મશીન' કે 'દવા' આવે એ બધા ટેકનિકલ! બળદની જગ્યાએ ટ્રેક્ટર, કોસ ની જગ્યાએ મોટર પંપ, અને મોબાઈલ પર કિસાન એપ - આ બધું ટેકનોલોજી જ છે!</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 3,
+        year_asked: "[March 2025, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભારતમાં કૃષિ ક્ષેત્રે આવેલા 'સંસ્થાગત સુધારા' વિશે જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સરકાર દ્વારા જમીન માલિકી, ખેત-ધિરાણ અને ખેત-પેદાશના વેચાણ અંગે થયેલા સુધારા એટલે સંસ્થાગત સુધારા:<br><br>૧. <b>જમીનદારી પ્રથા નાબૂદ:</b> સરકારે જમીનદારી પ્રથા નાબૂદ કરી ખેડૂતોનું શોષણ અટકાવ્યું. <i>'ખેડે તેની જમીન'</i> ના કાયદાથી ગણોતિયાઓને જમીન માલિકીનો હક આપ્યો.<br>૨. <b>ખેત-ધિરાણ (લોન):</b> ખેડૂતોને ખેતી માટે સહકારી મંડળીઓ અને બેંકો (NABARD) દ્વારા સસ્તા વ્યાજે લોન અને કિસાન ક્રેડિટ કાર્ડ આપવામાં આવે છે.<br>૩. <b>પાક વીમો:</b> પ્રધાનમંત્રી પાક વીમા યોજના દ્વારા દુષ્કાળ કે વધુ વરસાદથી પાક નિષ્ફળ જાય તો ખેડૂતને આર્થિક સહાય અપાય છે.<br>૪. <b>ટેકાના ભાવ:</b> ખેડૂતોને પાકના યોગ્ય ભાવ મળી રહે તે માટે સરકાર 'ટેકાના ભાવે' (MSP) અનાજ ખરીદે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: સરકાર 'કાગળ' પર જે કાયદાકીય સુધારા કરે એ સંસ્થાગત! જેમ કે બેંકમાંથી લોન આપવી, વીમો આપવો, ટેકાના ભાવે માલ ખરીદવો અને 'ખેડે તેની જમીન' નો કાયદો.</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>હરિયાળી ક્રાંતિ (Green Revolution) એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>1960 ના દાયકામાં ભારતમાં કૃષિ ક્ષેત્રે એક મોટી ક્રાંતિ આવી.<br>સુધારેલા બિયારણો, રાસાયણિક ખાતરોનો વધેલો ઉપયોગ, સિંચાઈની સગવડોમાં થયેલો વધારો અને ખેડૂતોના સઘન પ્રયાસોના પરિણામે <b>કૃષિ ઉત્પાદનમાં થયેલા અસાધારણ (ખૂબ મોટા) વધારાને હરિયાળી ક્રાંતિ</b> કહે છે.<br><br>તેનો મુખ્ય ઉદ્દેશ્ય કૃષિ ઉપજમાં વધારો કરવાનો હતો. આ ક્રાંતિથી <b>ઘઉં અને ડાંગર</b> ના પાકમાં વિક્રમજનક ઉત્પાદન થયું અને દેશ અનાજ ક્ષેત્રે સ્વાવલંબી બન્યો.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: રાતોરાત ખેતરો લીલાછમ થઈ ગયા અને અનાજના ઢગલા થઈ ગયા! સારા બિયારણ અને ખાતરનો કમાલ એટલે હરિયાળી ક્રાંતિ. ઘઉં અને ડાંગરમાં સૌથી વધુ ફાયદો થયો.</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 2,
+        year_asked: "[July 2025 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ભૂદાન ચળવળ' (Bhoodan Movement) વિશે ટૂંકમાં માહિતી આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ ચળવળ <b>વિનોબા ભાવે</b> દ્વારા આંધ્રપ્રદેશના પોચમપલ્લી ગામથી શરૂ કરવામાં આવી હતી.<br><br>ગાંધીજીના આદર્શો મુજબ તેમણે <b>રક્તવિહીન ક્રાંતિ</b> ની શરૂઆત કરી. તેમણે દેશના મોટા જમીનદારો અને અમીર લોકોને સમજાવીને તેમની વધારાની જમીન સ્વેચ્છાએ દાનમાં માંગી અને આ જમીન <b>ભૂમિહીન (ગરીબ) ખેડૂતોને મફતમાં વહેંચી</b> દીધી. આ પવિત્ર કાર્યને 'ભૂદાન ચળવળ' કહેવાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: 'ભૂ' એટલે જમીન અને 'દાન' એટલે ભેટ. વિનોબા ભાવેએ અમીર લોકો પાસેથી પ્રેમથી જમીન માંગીને ગરીબ ખેડૂતોને આપી દીધી, કોઈપણ લોહી-રેડ્યા વગર (રક્તવિહીન ક્રાંતિ)!</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 3,
+        year_asked: "[March 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભારતીય અર્થકારણમાં કૃષિનું યોગદાન (મહત્વ) સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ખેતી એ ભારતનો મુખ્ય વ્યવસાય છે. ભારતના અર્થતંત્રમાં તેનું યોગદાન નીચે મુજબ છે:<br><br>૧. <b>રોજગારી:</b> દેશની લગભગ અડધા ભાગની વસ્તીને (આશરે 50%) કૃષિમાંથી રોજગારી મળે છે.<br>૨. <b>રાષ્ટ્રીય આવક:</b> દેશના કુલ ઘરેલુ પેદાશ (GDP) માં કૃષિનો હિસ્સો લગભગ <b>22%</b> જેટલો છે.<br>૩. <b>નિકાસની આવક:</b> ચા, કોફી, કપાસ, મસાલા અને તમાકુ જેવી ખેતપેદાશોની વિદેશમાં નિકાસ કરવાથી દેશને વિદેશી હૂંડિયામણ મળે છે.<br>૪. <b>ઉદ્યોગોને કાચો માલ:</b> સુતરાઉ કાપડ, ખાંડ, કાગળ અને ખાદ્ય-પ્રક્રિયા ઉદ્યોગોને જરૂરી કાચો માલ ખેતીમાંથી જ મળે છે.<br>આમ, ભારત એક કૃષિપ્રધાન દેશ છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ભારતનો આત્મા ગામડામાં છે. અડધાથી વધુ લોકોને નોકરી ખેતીમાંથી મળે છે, દેશની આવકમાં 22% હિસ્સો છે અને ઉદ્યોગોને કાચો માલ પણ ખેતી જ આપે છે. ખેતી વગર બધું બંધ!</div></div>"
     }
+
 
             
 
