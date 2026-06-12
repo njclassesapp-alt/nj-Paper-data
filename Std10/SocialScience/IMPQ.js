@@ -772,7 +772,251 @@ var Std10_SocialScience_imp = [
         year_asked: "[May 2025]",
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આપણા વારસાનું જતન શા માટે કરવું જોઈએ? (વારસાનું મહત્વ સમજાવો).</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આપણો ભવ્ય વારસો દેશ માટે અત્યંત મહત્વનો છે, કારણ કે:<br><br>&bull; <b>દેશની ઓળખ:</b> વારસો એ કોઈપણ દેશની વૈશ્વિક ઓળખ છે. વારસાની ગેરહાજરીમાં દેશનું અસ્તિત્વ અને સંસ્કૃતિ ભૂંસાઈ જાય છે.<br>&bull; <b>ગૌરવ:</b> આપણા પૂર્વજોએ કરેલા મહાન કાર્યો અને સ્થાપત્યો આપણા માટે ખૂબ મોટું ગૌરવ છે.<br>&bull; <b>પ્રેરણાનો સ્ત્રોત:</b> તે આવનારી નવી પેઢીઓ માટે પ્રેરણા પૂરી પાડે છે અને તેમનામાં દેશપ્રેમ જગાવે છે.<br>&bull; દેશના વિકાસ અને આર્થિક સમૃદ્ધિ (પ્રવાસન દ્વારા) માં પણ તે મોટો ફાળો આપે છે. તેથી તેનું જતન કરવું અનિવાર્ય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: વારસો એટલે દેશનું 'ઓળખપત્ર' (પાસપોર્ટ)! વારસો નહિ હોય તો દેશની વૈશ્વિક ઓળખ ભૂંસાઈ જશે. આપણા દાદા-પરદાદાની આ અમૂલ્ય નિશાની આપણે બચાવવી જ પડે!</div></div>"
+    },
+    
+    {
+        chapter: 8,
+        marks: 1,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સંસાધન એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કોઈપણ વસ્તુ કે તત્વ જેના પર માનવી આશ્રિત કે આધારિત હોય, જેનાથી માનવીની જરૂરિયાતો પૂરી થતી હોય અને માનવી પાસે તેનો ઉપભોગ કરવાની શારીરિક કે બૌદ્ધિક ક્ષમતા હોય, તેને <b>સંસાધન</b> કહેવાય છે.<br><br>કુદરતમાં હજારો તત્વો પડેલા છે, પણ જ્યાં સુધી માનવી પોતાની બુદ્ધિ અને કલા-કૌશલ્યથી તેનો ઉપયોગ ન કરે, ત્યાં સુધી તે સંસાધન કહેવાતા નથી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: જે વસ્તુ આપણા 'કામમાં આવે' અને વાપરવાની આપણામાં 'બુદ્ધિ કે તાકાત' હોય એ સંસાધન! જંગલમાં પડેલું લાકડું એમ જ હોય તો કચરો, પણ એમાંથી ખુરશી બનાવીએ તો લાકડું બની ગયું 'સંસાધન'!</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 2,
+        year_asked: "[May 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સંસાધનોના ઉપયોગો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સંસાધનો માનવીને અનેક રીતે ઉપયોગી છે:<br><br>૧. <b>ખોરાક તરીકે:</b> ફળો, ખેતીના પાકો, દૂધ, માંસ, માછલાં વગેરેનો આપણે ખોરાક તરીકે ઉપયોગ કરીએ છીએ.<br>૨. <b>કાચા માલના સ્ત્રોત તરીકે:</b> જંગલોમાંથી મળતી પેદાશો, ખેતીની સામગ્રી, અને ખનિજો ઉદ્યોગો માટે કાચો માલ પૂરો પાડે છે.<br>૩. <b>શક્તિ સંસાધન તરીકે:</b> કોલસો, પેટ્રોલિયમ, કુદરતી વાયુ, સૌર ઊર્જા અને પવન ઊર્જાનો ઉપયોગ આપણે વાહનો અને ઉદ્યોગો ચલાવવા માટે કરીએ છીએ.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: સંસાધનના 3 કામ યાદ રાખો - ખાઈએ (ખોરાક), બનાવીએ (ઉદ્યોગો માટે કાચો માલ) અને ગાડી ચલાવીએ (શક્તિ/પેટ્રોલ)!</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 3,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>માલિકીના આધારે સંસાધનોના પ્રકાર ઉદાહરણ આપી સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>માલિકીના આધારે સંસાધનોના ત્રણ પ્રકાર પડે છે:<br><br>૧. <b>વ્યક્તિગત સંસાધન:</b> કોઈ વ્યક્તિ કે પરિવારની માલિકીનું સંસાધન. (દા.ત. પોતાની જમીન, મકાન).<br>૨. <b>રાષ્ટ્રીય સંસાધન:</b> કોઈપણ દેશ કે પ્રદેશની સાર્વજનિક સંપત્તિ. (દા.ત. દેશનું લશ્કર, આંતરરાષ્ટ્રીય વેપાર).<br>૩. <b>વૈશ્વિક સંસાધન:</b> સમગ્ર દુનિયાની એવી ભૌતિક કે અભૌતિક સંપત્તિ જેનો ઉપયોગ માનવકલ્યાણ માટે થતો હોય. (દા.ત. દુનિયાના બધા રાષ્ટ્રોની સહિયારી માલિકીના મહાસાગરો).<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: કોનું છે એના પરથી 3 ભાગ પડે. મારું પોતાનું (વ્યક્તિગત), મારા દેશનું (રાષ્ટ્રીય) અને આખી દુનિયાનું (વૈશ્વિક મહાસાગર)!</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 3,
+        year_asked: "[May 2025, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિતરણ ક્ષેત્રના આધારે સંસાધનોના પ્રકાર વર્ણવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વિતરણ ક્ષેત્ર (ક્યાંથી મળે છે) મુજબ 4 પ્રકાર છે:<br><br>૧. <b>સર્વસુલભ સંસાધન:</b> વાતાવરણમાં રહેલા ઉપયોગી વાયુઓ. (દા.ત. ઓક્સિજન, નાઈટ્રોજન).<br>૨. <b>સામાન્ય સુલભ સંસાધન:</b> જે સરળતાથી મળી રહેતા હોય. (દા.ત. જમીન, જળ, ગોચર).<br>૩. <b>વિરલ સંસાધન:</b> જેના પ્રાપ્તિસ્થાનો મર્યાદિત હોય. (દા.ત. કોલસો, ખનિજ તેલ, સોનું, યુરેનિયમ).<br>૪. <b>એકલ સંસાધન:</b> દુનિયામાં ભાગ્યે જ એક કે બે સ્થળેથી મળતું ખનિજ. (દા.ત. ક્રાયોલાઈટ ખનિજ - માત્ર ગ્રીનલેન્ડમાંથી મળે છે).<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: બધે મળે (સર્વસુલભ-હવા), આસાનીથી મળે (સામાન્ય સુલભ-પાણી), ક્યાંક ક્યાંક મળે (વિરલ-પેટ્રોલ), અને દુનિયામાં 1 જ જગ્યાએ મળે (એકલ-ક્રાયોલાઈટ ગ્રીનલેન્ડમાં)!</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નવીનીકરણીય અને અનવીનીકરણીય સંસાધનો એટલે શું? ઉદાહરણ આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>૧. નવીનીકરણીય (પુનઃપ્રાપ્ય) સંસાધનો:</b> જે સંસાધનો પોતાની મેળે જ ચોક્કસ સમયમાં વપરાશી હિસ્સાની પૂર્તિ કરે છે એટલે કે તે અખૂટ હોય છે. (દા.ત. સૂર્યપ્રકાશ, પવન, જંગલો, પશુ-પક્ષીઓ).<br><br><b>૨. અનવીનીકરણીય (પુનઃઅપ્રાપ્ય) સંસાધનો:</b> જે સંસાધનો એકવાર વપરાયા પછી ભવિષ્યમાં ફરીથી બનાવી શકાતા નથી કે તરત તેનું પુનઃનિર્માણ અશક્ય છે. (દા.ત. કોલસો, ખનિજ તેલ, કુદરતી વાયુ).<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: વાપરો તોય ખૂટે નહિ અને પાછા બની જાય તે 'નવીનીકરણીય' (સૂરજ દાદા). એકવાર ખતમ એટલે ખેલ ખતમ, એને બનતા લાખો વર્ષ લાગે તે 'અનવીનીકરણીય' (પેટ્રોલ)!</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 2,
+        year_asked: "[July 2024 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જમીન નિર્માણની પ્રક્રિયા ટૂંકમાં સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જમીન એ પૃથ્વીના પોપડા પરનું પાતળું સ્તર છે. <br>આબોહવાની અસરથી તાપમાન, વરસાદ, હિમ, હવા વગેરે પરિબળો દ્વારા <b>મૂળ ખડકોનું ખવાણ અને ધોવાણ</b> થાય છે. તેનાથી બનેલા ઝીણા ભૂકા કે ખનિજ દ્રવ્યોમાં વનસ્પતિ અને જીવજંતુઓના સડવાથી <b>સેન્દ્રિય તત્વો</b> (હ્યુમસ) ભળે છે. આ ખનિજ દ્રવ્યો અને સેન્દ્રિય તત્વોના મિશ્રણથી જમીનનું નિર્માણ થાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: પથ્થરો તૂટીને ભૂકો થાય (ખવાણ) + તેમાં મરેલા પાંદડા અને જીવજંતુ ભળે (સેન્દ્રિય તત્વ) = બની ગઈ આપણી જમીન! </div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કાંપની જમીન (Alluvial Soil) વિશે માહિતી આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતના કુલ ક્ષેત્રફળના લગભગ <b>43% વિસ્તારમાં</b> કાંપની જમીન આવેલી છે.<br>&bull; <b>નિર્માણ:</b> આ જમીન નદીઓએ પાથરેલા કાંપને આભારી છે.<br>&bull; <b>તત્વો:</b> તેમાં પોટાશ, ફોસ્ફરિક એસિડ અને ચૂનાનું પ્રમાણ વધુ હોય છે, જ્યારે નાઈટ્રોજન અને હ્યુમસનું પ્રમાણ ઓછું હોય છે.<br>&bull; <b>પાક:</b> આ જમીનમાં ઘઉં, ડાંગર, શેરડી, શણ, કપાસ અને તેલીબિયાં જેવા પાકો લેવાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: કાંપની જમીન એટલે નદીઓની ગિફ્ટ! 43% જમીન રોકે છે, ઘઉં અને ચોખા માટે બેસ્ટ. માત્ર 'નાઈટ્રોજન' ઓછું હોય એટલે ખાતર નાખવું પડે!</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 2,
+        year_asked: "[May 2024, May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કાળી જમીનને 'કપાસની જમીન' શા માટે કહેવાય છે? તેની વિશેષતા જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કાળી જમીન કપાસના પાક માટે ખૂબ જ અનુકૂળ હોવાથી તેને <b>'કપાસની જમીન'</b> કે <b>'રેગુર' (Regur)</b> નામે ઓળખવામાં આવે છે. તે ભારતના 15% વિસ્તારમાં છે.<br><br><b>વિશેષતાઓ:</b><br>&bull; આ જમીનની ભેજ સંગ્રહ કરવાની શક્તિ ઘણી વધુ હોય છે.<br>&bull; જ્યારે ભેજ સુકાય ત્યારે જમીનમાં ફાંટો કે તિરાડો પડી જાય છે.<br>&bull; તેમાં લોહ, ચૂનો, કેલ્શિયમ, પોટાશ અને એલ્યુમિનિયમનું પ્રમાણ વધુ હોય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: કાળી જમીનનું બીજું નામ 'રેગુર'. એનું એક જ લક્ષણ મસ્ત છે: પાણી પીવે એટલે ફૂલી જાય (ચીકણી બને) અને પાણી સુકાય એટલે ફાટી જાય (તિરાડો પડે). કપાસ માટે નંબર 1!</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લાલ જમીન (Red Soil) વિશે નોંધ લખો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતના કુલ ક્ષેત્રફળના <b>19% વિસ્તારમાં</b> લાલ જમીન ફેલાયેલી છે. (દક્ષિણ ભારતમાં તમિલનાડુથી લઈ બુંદેલખંડ સુધી).<br><br>&bull; <b>રંગ:</b> આ જમીનમાં ફેરિક ઓક્સાઈડ (Ferric Oxide) હોવાથી તેનો રંગ લાલ દેખાય છે, અને નીચે જતા તે પીળા રંગની બને છે.<br>&bull; <b>તત્વો:</b> આ જમીનમાં ચૂનો, કાંકરા અને કાર્બોનેટ મળતા નથી. તેમાં મેગ્નેશિયમ, ફોસ્ફેટ અને નાઈટ્રોજનની ઉણપ હોય છે.<br>&bull; <b>પાક:</b> બાજરી, કપાસ, ઘઉં, જુવાર, અળસી વગેરે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: લોખંડ (ફેરિક ઓક્સાઈડ) ને કાટ લાગે એટલે લાલ થાય, બસ જમીનમાં એ જ તત્વ છે એટલે લાલ રંગ છે! 19% ભાગ યાદ રાખજો.</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 2,
+        year_asked: "[July 2025 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેટેરાઈટ કે પડખાઉ જમીન વિશે સમજૂતી આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'લેટેરાઈટ' શબ્દ લેટિન ભાષાના શબ્દ <b>'લેટર' (Later - એટલે કે ઈંટ)</b> પરથી પડ્યો છે. તેનો લાલ રંગ લોહ-ઓક્સાઈડને કારણે છે.<br><br>&bull; <b>નિર્માણ (પડખાઉ કેમ કહેવાય?):</b> ભારે વરસાદને કારણે જમીનનું ધોવાણ થાય છે. જમીનનું ઉપલું પડ ધોવાઈ જવાથી પોષકતત્વો ધોવાઈ જાય છે, તેથી તેને 'પડખાઉ જમીન' કહે છે.<br>&bull; <b>તત્વો:</b> તેમાં મુખ્યત્વે લોહતત્વ, પોટાશ અને એલ્યુમિનિયમ હોય છે.<br>&bull; <b>ખેતી:</b> ઓછી ફળદ્રુપ હોવાથી ખાતર નાખીને કાજુ, કોફી, રબર વગેરે લેવાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: લેટર = ઈંટ. વધુ વરસાદ પડે એટલે જમીનનું ઉપલું પોષકતત્વ વાળું પડ 'ધોવાઈ' જાય એટલે આનું દેશી નામ પડખાઉ જમીન છે. કાજુ પકવવા માટે બેસ્ટ!</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રણપ્રકારની જમીનની વિશેષતાઓ જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>રણપ્રકારની જમીન (Desert Soil) સૂકી અને અર્ધસૂકી આબોહવા વાળા વિસ્તારો (જેમ કે રાજસ્થાન, ગુજરાત, પંજાબ) માં જોવા મળે છે.<br><br><b>વિશેષતાઓ:</b><br>&bull; આ જમીન રેતાળ અને ઓછી ફળદ્રુપ હોય છે.<br>&bull; તેમાં દ્રાવ્ય ક્ષારોનું પ્રમાણ વધુ હોય છે અને સેન્દ્રિય તત્વો નહિવત હોય છે.<br>&bull; સિંચાઈની સગવડ થાય તો તેમાં બાજરી, જુવાર જેવા પાક લઈ શકાય છે (દા.ત. ઈન્દિરા ગાંધી નહેરથી રાજસ્થાનમાં ખેતી થાય છે).<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: રણ યાદ આવે એટલે રાજસ્થાનની રેતી અને બાજરી યાદ કરી લેવાની! ક્ષાર વધુ હોય પણ પાણી પહોંચાડી દો તો ખેતી શક્ય છે.</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 3,
+        year_asked: "[May 2024, May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જમીન ધોવાણ એટલે શું? તેને અટકાવવાના ઉપાયો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>જમીન ધોવાણ:</b> ગતિશીલ હવા કે વહેતા પાણી દ્વારા જમીનના ઉપલા કણોનું ઝડપથી એક સ્થળેથી બીજા સ્થળે દૂર થઈ જવું તેને જમીન ધોવાણ કહે છે.<br><br><b>અટકાવવાના ઉપાયો:</b><br>૧. પડતર જમીન પર <b>વૃક્ષોનું વાવેતર</b> કરવું (વૃક્ષના મૂળ જમીનને જકડી રાખે છે).<br>૨. ઢોળાવવાળી જમીનમાં <b>સીડીદાર પદ્ધતિથી</b> (પગથિયાં પાડીને) ખેતી કરવી.<br>૩. પાણીના વહેણ જ્યાં ખાડા પાડે છે ત્યાં <b>આડબંધ (Check dams)</b> બાંધવા.<br>૪. જમીન પર ચરાણની પ્રવૃત્તિઓનું નિયંત્રણ કરવું.<br>૫. પવનનો વેગ રોકવા ખેતરની ફરતે <b>વૃક્ષોની હારમાળા (Shelter belts)</b> ઉગાડવી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: માટીનું પાણી કે પવન સાથે 'ઉડી કે તણાઈ જવું'. અટકાવવા માટે જમીન પર ઝાડ વાવી દો, પર્વત પર પગથિયાં બનાવો અને પાણીના રસ્તામાં નાના ડેમ બનાવો!</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 3,
+        year_asked: "[March 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભૂમિ સંરક્ષણ એટલે શું? ભૂમિ સંરક્ષણના ઉપાયો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>ભૂમિ સંરક્ષણ:</b> જમીનનું ધોવાણ અટકાવીને જમીનની ગુણવત્તા જાળવી રાખવી તેને ભૂમિ સંરક્ષણ કહે છે.<br><br><b>ઉપાયો:</b><br>૧. <b>જંગલોનું જતન:</b> જંગલોના વૃક્ષોના મૂળ જમીનના કણોને જકડી રાખે છે.<br>૨. <b>નદીઓનું નિયંત્રણ:</b> નદી કોતરો અને પહાડી ઢોળાવો પર વૃક્ષારોપણ કરવું. એક નદીના પૂરને અન્ય સૂકી નદીમાં વાળીને પૂર અંકુશમાં લેવું.<br>૩. <b>રેતી ઊડતી અટકાવવી:</b> રણની નજીકના ક્ષેત્રોમાં વાતા પવનોને રોકવા વૃક્ષોની હારમાળા વાવવી.<br>૪. <b>સેન્દ્રિય ખાતર:</b> જે જમીનની ફળદ્રુપતા ગુમાવી ચૂકી છે, તેમાં ફરીથી સેન્દ્રિય પદાર્થો ઉમેરવા.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ધોવાણ અટકાવવું + જમીનની ક્વોલિટી બચાવવી = ભૂમિ સંરક્ષણ. નદીનું પૂર રોકો, રણ આગળ વધતું અટકાવો અને દેશી ખાતર નાખો!</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 3,
+        year_asked: "[May 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સંસાધનોના આયોજન અને સંરક્ષણની જરૂરિયાત શા માટે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સંસાધનોનું સંરક્ષણ કરવું એટલે <b>સંસાધનોનો વિવેકપૂર્ણ અને કરકસરભર્યો ઉપયોગ</b> કરવો.<br><br><b>જરૂરિયાત શા માટે?</b><br>૧. માનવીની જરૂરિયાતો અમર્યાદિત છે, જ્યારે કુદરતી સંસાધનો (ખનિજો, તેલ) મર્યાદિત છે.<br>૨. છેલ્લા 100 વર્ષમાં વિજ્ઞાન અને ટેક્નોલોજીના વિકાસ તથા વસ્તી વિસ્ફોટના કારણે સંસાધનોનો ભયંકર રીતે વપરાશ થયો છે.<br>૩. જો આ જ રીતે આંધળું શોષણ ચાલુ રહેશે, તો ભવિષ્યની પેઢી માટે આ સંસાધનો બચશે નહીં અને દેશનો વિકાસ અટકી જશે.<br>તેથી પર્યાવરણને નુકસાન ન થાય અને આવનારી પેઢીને તકલીફ ન પડે તે માટે સંસાધનોનું આયોજન જરૂરી છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: આપણી ઈચ્છાઓ 'અનલિમિટેડ' છે અને સાધનો 'લિમિટેડ' છે! જો બધું આપણે જ વાપરી નાખીશું તો આપણા છોકરાઓ શું વાપરશે? એટલે બચાવવા જરૂરી છે!</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પર્વતીય જમીન (Mountain Soil) ક્યાં જોવા મળે છે? તેની ખાસિયતો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પર્વતીય જમીન હિમાલયની ખીણો અને ઢોળાવોના ક્ષેત્રમાં આશરે <b>2700 મીટરથી 3000 મીટરની ઊંચાઈ</b> પર જોવા મળે છે. <br><br><b>ખાસિયતો:</b><br>&bull; આ જમીનનું સ્તર પાતળું અને અપરિપક્વ (કાચું) હોય છે.<br>&bull; તે અસમ, દાર્જિલિંગ, હિમાચલ પ્રદેશ, અને ઉત્તરાખંડમાં જોવા મળે છે.<br>&bull; આ જમીનમાં <b>ચીડ (Pine), દેવદાર અને પાઈન</b> ના વૃક્ષો ઉગે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: હિમાલય પર્વત પર જાવ, 3000 મીટર ઊંચાઈ પર પાતળી જમીન અને દેવદારના ઊંચા ઊંચા ઝાડ જોવા મળશે! બસ આ જ પર્વતીય જમીન.</div></div>"
+    },
+    
+    {
+        chapter: 9,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વહીવટી હેતુસર (વહીવટી દૃષ્ટિએ) જંગલોના પ્રકારો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વહીવટી દૃષ્ટિએ જંગલોના 3 પ્રકાર પડે છે:<br><br>૧. <b>અનામત જંગલ (Reserved Forest):</b> આ જંગલો સીધા સરકારી તંત્રના નિયંત્રણમાં હોય છે. તેમાં લાકડા કાપવા કે વીણવા અને પશુ ચરાવવાની <b>સંપૂર્ણ મનાઈ</b> હોય છે.<br>૨. <b>સંરક્ષિત જંગલ (Protected Forest):</b> આ જંગલોની દેખરેખ સરકારી તંત્ર રાખે છે. વૃક્ષોને નુકસાન પહોંચાડ્યા સિવાય લાકડા વીણવાની અને પશુ ચરાવવાની સ્થાનિક લોકોને <b>છૂટ</b> હોય છે.<br>૩. <b>અવર્ગીકૃત જંગલ (Unclassed Forest):</b> આ જંગલોનું વર્ગીકરણ હજુ સુધી થયું નથી. તેમાં વૃક્ષો કાપવા કે પશુ ચરાવવા પર કોઈ <b>પ્રતિબંધ હોતો નથી</b>.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: અનામત એટલે 'ફિક્સ' - કોઈને અંદર નહિ જવા દેવાનું! સંરક્ષિત એટલે ધ્યાન રાખવાનું પણ આજુબાજુવાળાને છૂટ આપવાની. અવર્ગીકૃત એટલે જેનો કોઈ 'ક્લાસ' નક્કી નથી, જે કરવું હોય એ કરો!</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 3,
+        year_asked: "[May 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>માલિકી, વહીવટ અને વ્યવસ્થાપનની દૃષ્ટિએ જંગલોના પ્રકારો વર્ણવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>માલિકી અને વ્યવસ્થાપનની દૃષ્ટિએ 3 પ્રકાર છે:<br><br>૧. <b>રાજ્ય માલિકીનું જંગલ (State Forest):</b> આ પ્રકારના જંગલો પર કેન્દ્ર કે રાજ્ય સરકારનું નિયંત્રણ હોય છે. દેશના મોટાભાગના જંગલો આ પ્રકારના છે.<br>૨. <b>સામુદાયિક જંગલ (Communal Forest):</b> આ જંગલો પર સ્થાનિક સ્વરાજ્યની સંસ્થાઓ (ગ્રામ પંચાયત, નગરપાલિકા, મહાનગરપાલિકા, જિલ્લા પંચાયત) નું નિયંત્રણ હોય છે.<br>૩. <b>ખાનગી જંગલ (Private Forest):</b> આ જંગલ વ્યક્તિગત માલિકીનું હોય છે. (દા.ત. ઓડિશા, મેઘાલય, પંજાબમાં જોવા મળે છે).<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: કોનું જંગલ છે એ જુઓ! સરકારનું હોય તો (રાજ્ય), આખા ગામનું હોય તો પંચાયતનું (સામુદાયિક), અને કોઈ એક માણસનું પોતાનું હોય તો (ખાનગી)!</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 1,
+        year_asked: "[March 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નિર્વનીકરણ (Deforestation) એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>નિર્વનીકરણ એટલે <b>જંગલોનું નષ્ટ થવું</b>. માનવીની સતત વિકાસ કરવાની લાલચ અને ઉદ્યોગોના કારણે જંગલોનો જે મોટા પાયે વિનાશ થઈ રહ્યો છે તેને નિર્વનીકરણ કહે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: 'નિર્' એટલે વગરનું અને 'વનીકરણ' એટલે જંગલ. જમીનને જંગલ વગરની (ઝાડ વગરની) કરી દેવી એટલે નિર્વનીકરણ! સાવ સીધી વાત.</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 3,
+        year_asked: "[May 2024, March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નિર્વનીકરણ (જંગલ વિનાશ) ની અસરો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જંગલોના વિનાશની અસરો ખૂબ જ વ્યાપક અને ભયંકર છે:<br>&bull; <b>CO2 માં વધારો:</b> વાતાવરણમાં કાર્બન ડાયોક્સાઈડ (CO2) નું પ્રમાણ વધે છે, જેથી ગ્રીનહાઉસ ઇફેક્ટની અસરો ઘેરી બને છે.<br>&bull; <b>વરસાદમાં ઘટાડો:</b> વૃક્ષો ઘટવાથી વરસાદનું પ્રમાણ ઘટે છે અને દુષ્કાળની સ્થિતિ સર્જાય છે.<br>&bull; <b>જમીનનું ધોવાણ:</b> જંગલો કાપવાથી માટીનું ધોવાણ વધે છે, જેનાથી ખેત ઉત્પાદન ઘટે છે.<br>&bull; <b>વન્યજીવો નિરાશ્રિત:</b> પ્રાણીઓએ પોતાના કુદરતી રહેઠાણો ગુમાવ્યા છે, તેથી ખોરાક-પાણીની શોધમાં તેઓ માનવ વસાહતોમાં આવી ચઢે છે અને સંઘર્ષ થાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ઝાડ કાપો એટલે 3 વસ્તુ ચોક્કસ થાય: ગરમી વધે (CO2), વરસાદ ઘટે (દુષ્કાળ), અને બિચારા પ્રાણીઓ ઘર વગરના (નિરાશ્રિત) થઈ આપણા ગામમાં ઘૂસી જાય!</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 3,
+        year_asked: "[March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વન સંરક્ષણ અંગેના ઉપાયો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જંગલો બચાવવા માટે નીચે મુજબના ઉપાયો કરી શકાય:<br>૧. <b>લાકડાનો વિકલ્પ:</b> લાકડાના સ્થાને વાપરી શકાય તેવી સામગ્રી (પ્લાસ્ટિક, સ્ટીલ, સોલાર એનર્જી) નો ઉપયોગ વધારવો.<br>૨. <b>વૃક્ષારોપણ:</b> જે વૃક્ષો કાપવા અનિવાર્ય હોય, તેની જગ્યાએ તે જ પ્રજાતિના નવા વૃક્ષો વાવવા જોઈએ.<br>૩. <b>દાવાનળ અટકાવવો:</b> જંગલોમાં લાગતી આગ (દાવાનળ) ને અટકાવવા અને ઝડપથી શમાવવા રાષ્ટ્રીય સ્તરે અલાયદું તંત્ર કે દળ ઊભું કરવું.<br>૪. <b>જાગૃતિ લાવવી:</b> શાળાના અભ્યાસક્રમમાં વન સંરક્ષણનું મહત્વ સમજાવવું અને પર્યાવરણ જાગૃતિના કાર્યક્રમો કરવા.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: જંગલ બચાવવા શું કરવું? 1. લાકડું ઓછું વાપરો 2. એક ઝાડ કાપો તો સામે બે નવા વાવો 3. જંગલમાં આગ લાગે તો તરત બુઝાવી દો! બસ આટલું લખો!</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 2,
+        year_asked: "[July 2024 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભારતની વૈવિધ્યસભર વન્યજીવ સૃષ્ટિ વિશે ટૂંકમાં માહિતી આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતમાં આબોહવા અને ભૂપૃષ્ઠમાં ઘણી વિવિધતા છે, જેના કારણે જીવજંતુઓ અને પશુ-પક્ષીઓમાં પણ ભારે વિવિધતા જોવા મળે છે.<br>&bull; વિશ્વમાં પશુ-પક્ષીઓની આશરે 15 લાખ પ્રજાતિઓ છે, તેમાંથી <b>81,251</b> પ્રજાતિઓ ભારતમાં જોવા મળે છે.<br>&bull; જૈવવિવિધતાની દૃષ્ટિએ ભારત વિશ્વમાં <b>12 મા ક્રમે</b> છે.<br>&bull; સમગ્ર એશિયા ખંડમાં <b>એશિયાઈ સિંહો માત્ર ગુજરાતના ગીરના જંગલોમાં</b> જોવા મળે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: આમાં માત્ર બે આંકડા યાદ રાખો: 81-251 પ્રજાતિ અને દુનિયામાં આપણો 12મો નંબર! અને હા, સિંહ માત્ર આપણા ગુજરાતના ગીરમાં જ છે એ લખવાનું ભૂલતા નહિ.</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 2,
+        year_asked: "[May 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લુપ્ત થતા વન્યજીવન વિશે નોંધ લખો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જે પ્રાણીઓની જાતિના છેલ્લા સભ્યના મૃત્યુ વિશે શંકા હોય અથવા જેઓ ખતમ થવાના આરે હોય તેને લુપ્ત થતું વન્યજીવન કહેવાય.<br>&bull; એક સમયે ભારતના જંગલોમાં જોવા મળતો <b>ચિત્તો</b> આજે ભારતના જંગલોમાંથી સંપૂર્ણ લુપ્ત થઈ ગયો છે.<br>&bull; અગાઉ ભારતના આકાશમાં આસાનીથી જોવા મળતા <b>ગીધ</b> આજે નાશપ્રાય અવસ્થામાં છે.<br>&bull; ગુજરાતના જંગલોમાંથી <b>વાઘ</b> સંપૂર્ણપણે લુપ્ત થઈ ગયા છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: લુપ્ત એટલે સાવ 'ગાયબ'. ભારતમાંથી કોણ ગાયબ? ચિત્તો! આકાશમાંથી કોણ ગાયબ? ગીધ! અને ગુજરાતમાંથી કોણ ગાયબ? વાઘ! આ ત્રણ ઉદાહરણ બેસ્ટ છે.</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 3,
+        year_asked: "[March 2024, May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વન્યજીવોના વિનાશનાં કારણો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પ્રાણીઓના વિનાશ માટે નીચેના કારણો જવાબદાર છે:<br>૧. <b>જંગલોનો નાશ:</b> માનવીએ ખેતી, ઉદ્યોગો અને શહેરો માટે જંગલો કાપ્યા, જેથી પ્રાણીઓના કુદરતી રહેઠાણો છીનવાઈ ગયા.<br>૨. <b>શિકાર:</b> પ્રાણીઓના વાળ, ચામડાં, હાડકાં, શિંગડાં અને નખ મેળવવા માટે તેમનો બેફામ શિકાર થાય છે.<br>૩. <b>માનવ-વન્યજીવ સંઘર્ષ:</b> જંગલો ઘટવાથી ખોરાકની શોધમાં પ્રાણીઓ ખેતરોમાં કે ગામમાં આવે છે, અને લોકો ડરના માર્યા તેમને મારી નાખે છે.<br>૪. <b>પ્રદૂષણ અને દાવાનળ:</b> જળ પ્રદૂષણ અને જંગલની આગ (દાવાનળ) માં અનેક બચ્ચા અને ઈંડા બળીને ખાખ થઈ જાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: પ્રાણીઓ કેમ મરે છે? આપણે એમના ઘર છીનવી લીધા (જંગલ કાપ્યા), શોખ માટે એમને માર્યા (શિકાર), અને એમના ઘરમાં આગ લગાડી (દાવાનળ)!</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 3,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વન્યજીવ સંરક્ષણ માટેના ઉપાયો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વન્યજીવોને બચાવવા આ મુજબ પગલાં લેવા જોઈએ:<br>૧. <b>કાયદાનો કડક અમલ:</b> શિકાર પ્રવૃત્તિ અટકાવવા માટે કડક કાયદા બનાવવા અને તેનો સખ્તાઈથી અમલ કરવો.<br>૨. <b>કુદરતી રહેઠાણોનું રક્ષણ:</b> જંગલો નષ્ટ થતા અટકાવવા, કારણ કે તે પ્રાણીઓના ઘર છે.<br>૩. <b>જળપ્લાવિત ક્ષેત્રોની જાળવણી:</b> જંગલોમાં તળાવો કે જળસ્ત્રોતો સુકાઈ ન જાય તેનું ધ્યાન રાખવું, જેથી પ્રાણીઓને પીવા પાણી મળી રહે.<br>૪. <b>જનજાગૃતિ:</b> સમાજમાં વન્યજીવોના મહત્વ વિશે જાગૃતિ લાવવા ઝુંબેશ ચલાવવી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: પ્રાણીઓને બચાવવા હોય તો 3 કામ કરો: શિકારીઓને જેલમાં નાખો (કડક કાયદા), પ્રાણીઓ માટે પીવાનું પાણી પૂરું પાડો અને લોકોને સમજાવો કે પ્રાણીઓ આપણા મિત્રો છે!</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 2,
+        year_asked: "[May 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'વાઘ પરિયોજના' (Project Tiger) વિશે માહિતી આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વાઘના અસ્તિત્વ સામે શિકાર અને જંગલોના વિનાશના કારણે મોટો ખતરો ઊભો થયો હતો. આથી, વાઘને બચાવવા માટે ભારત સરકારે <b>ઈ.સ. 1971 માં 'વાઘ પરિયોજના'</b> (Project Tiger) શરૂ કરી.<br><br>આ પ્રોજેક્ટ મુજબ વાઘના કુદરતી રહેઠાણોને સુરક્ષિત રાખવા અને પર્યાવરણીય સંતુલન જાળવવા રાષ્ટ્રીય સ્તરે પગલાં લેવાયા. આજે દેશમાં આ યોજના અંતર્ગત <b>44 જેટલા ક્ષેત્રો</b> કાર્યરત છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: પ્રોજેક્ટ ટાઇગરમાં સાલ '1971' ભૂલાવી ન જોઈએ! વાઘને બચાવવા સરકારનો આ પહેલો મોટો પ્રોજેક્ટ હતો, જેમાં 44 રિઝર્વ એરિયા બનાવ્યા.</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'હાથી પરિયોજના' (Project Elephant) વિશે નોંધ લખો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>હાથીઓને તેમના કુદરતી રહેઠાણોમાં રક્ષણ આપવા અને તેમના સ્થાનાંતરણના માર્ગોનું રક્ષણ કરવા સરકારે <b>ઈ.સ. 1992 માં 'હાથી પરિયોજના'</b> શરૂ કરી.<br><br>હાલમાં દેશમાં હાથીઓ માટેના <b>26 જેટલા સંરક્ષિત વિસ્તારો</b> છે. આ પ્રોજેક્ટની વિશેષતા એ છે કે તે જંગલી હાથીઓની સાથે સાથે <b>પાલતુ હાથીઓના પાલન-પોષણ</b> માટે પણ કામ કરે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: હાથી એટલે 1992! 26 વિસ્તારો યાદ રાખજો. અને સૌથી મોટો પ્લસ પોઇન્ટ - આ પ્રોજેક્ટ જંગલી હાથીઓ ઉપરાંત મંદિરમાં રહેતા 'પાલતુ હાથીઓ' નું પણ ધ્યાન રાખે છે!</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 2,
+        year_asked: "[July 2025 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ગેંડા પરિયોજના' (Project Rhino) વિશે ટૂંકમાં જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ પરિયોજના ભારતમાં જોવા મળતા <b>એકશિંગી ભારતીય ગેંડા</b> ના સંરક્ષણ માટે બનાવવામાં આવી છે. <br>ભારતમાં સૌથી વધુ ગેંડા <b>અસમ રાજ્યમાં</b> છે. આ ઉપરાંત પશ્ચિમ બંગાળના સુંદરવનમાં પણ તે જોવા મળે છે.<br><b>'રાઈનો વિઝન 2020' (Rhino Vision 2020)</b> ની વ્યૂહરચના મુજબ ભારતમાં ગેંડાની સંખ્યા 3000 સુધી લઈ જવાનો લક્ષ્યાંક રાખવામાં આવ્યો હતો.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ગેંડો એટલે એક શિંગડા વાળો! સૌથી વધુ ગેંડા અસમમાં છે. અને 'વિઝન 2020' શબ્દ પેપરમાં દેખાવો જ જોઈએ, જેમાં 3000 ગેંડા કરવાનો ટાર્ગેટ હતો!</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>અભયારણ્ય (Sanctuary) એટલે શું? ઉદાહરણ આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>અભયારણ્ય એટલે એવો સુરક્ષિત વિસ્તાર જ્યાં વન્યજીવો ભયમુક્ત રહી શકે અને તેમનું સંવર્ધન થઈ શકે.<br><br><b>લક્ષણો:</b><br>&bull; ચોક્કસ મર્યાદામાં માનવ પ્રવૃત્તિઓને છૂટ આપવામાં આવે છે.<br>&bull; સત્તાધિકારી પાસેથી મંજૂરી મેળવીને સ્થાનિક લોકોને પાલતુ પશુઓ ચરાવવાની છૂટ મળે છે.<br>&bull; અભયારણ્યની સ્થાપના <b>રાજ્ય સરકાર</b> દ્વારા થાય છે.<br><b>ઉદાહરણ:</b> પેરિયાર, ચંદ્રપ્રભા, એતુરનાગારમ. (ગુજરાતમાં: નળ સરોવર, બાલારામ).<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: અ-ભય-અરણ્ય = જ્યાં પ્રાણીઓને કોઈ ભય નથી! અહી નિયમો થોડા હળવા હોય છે, મંજૂરી લઈને ગાય-ભેંસ ચરાવી શકાય. આ રાજ્ય સરકાર બનાવે!</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 2,
+        year_asked: "[May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રાષ્ટ્રીય ઉદ્યાન (National Park) એટલે શું? ઉદાહરણ આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>અભયારણ્યની તુલનામાં રાષ્ટ્રીય ઉદ્યાન એ વધારે સુરક્ષિત ક્ષેત્ર છે. તેમાં એકથી વધુ પારિસ્થિતિક તંત્રો સમાવિષ્ટ હોય છે.<br><br><b>લક્ષણો:</b><br>&bull; અહી પાલતુ પશુઓને ચરાવવા પર <b>સંપૂર્ણ પ્રતિબંધ</b> હોય છે.<br>&bull; અહી કોઈ એક વિશેષ પ્રજાતિ પર કેન્દ્રિત હોતું નથી.<br>&bull; તેની સ્થાપના <b>રાજ્ય અને કેન્દ્ર સરકાર</b> ના સંકલનથી થાય છે.<br><b>ઉદાહરણ:</b> કાઝીરંગા, કોર્બેટ, વેળાવદર, દરિયાઈ રાષ્ટ્રીય ઉદ્યાન, ગીર, દચીગામ.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: આ 'નેશનલ' લેવલની વીઆઇપી જગ્યા છે! અહી પશુ ચરાવવાની બિલકુલ મનાઈ છે. આમાં રાજ્ય અને કેન્દ્ર સરકાર બંને ભેગા થઈને કામ કરે છે.</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 3,
+        year_asked: "[March 2025, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જૈવ આરક્ષિત ક્ષેત્ર (Biosphere Reserve) એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જૈવ આરક્ષિત ક્ષેત્રની રચના <b>આંતરરાષ્ટ્રીય માપદંડો</b> અનુસાર કરવામાં આવે છે.<br><br><b>લક્ષણો:</b><br>&bull; <b>હેતુ:</b> તે ક્ષેત્રની પ્રાકૃતિક અને સાંસ્કૃતિક વિવિધતાનું સંરક્ષણ કરવાનો છે. અહી તમામ પ્રકારની વનસ્પતિ, જીવજંતુઓ અને જમીન ઉપરાંત ત્યાં વસતા માનવ સમુદાયોની જીવનશૈલીનું પણ રક્ષણ થાય છે.<br>&bull; <b>પ્રતિબંધ:</b> અહી બહારની તમામ પ્રકારની માનવીય ગતિવિધિઓ (અવરજવર) પર સંપૂર્ણ પ્રતિબંધ હોય છે.<br>&bull; <b>વિસ્તાર:</b> આ ક્ષેત્રનો વિસ્તાર સરેરાશ <b>5000 ચોરસ કિમી કરતાં મોટો</b> હોય છે.<br><b>ઉદાહરણ:</b> નીલગિરિ, મન્નારની ખાડી, ગ્રેટ નિકોબાર, સુંદરવન. (ગુજરાતમાં કચ્છના રણનું જૈવ આરક્ષિત ક્ષેત્ર - 2008 માં ઘોષિત).<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: આ સૌથી મોટું અને સૌથી કડક! ઇન્ટરનેશનલ લેવલના નિયમો, 5000 ચો.કિમી. થી મોટો એરિયા, અને બહારના કોઈ માણસને એન્ટ્રી જ નહિ! કચ્છનું રણ બેસ્ટ ઉદાહરણ છે.</div></div>"
     }
+
+            
+
+    
 
 
 ];
