@@ -1132,7 +1132,249 @@ var Std10_SocialScience_imp = [
         year_asked: "[March 2024, March 2026]",
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભારતીય અર્થકારણમાં કૃષિનું યોગદાન (મહત્વ) સમજાવો.</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ખેતી એ ભારતનો મુખ્ય વ્યવસાય છે. ભારતના અર્થતંત્રમાં તેનું યોગદાન નીચે મુજબ છે:<br><br>૧. <b>રોજગારી:</b> દેશની લગભગ અડધા ભાગની વસ્તીને (આશરે 50%) કૃષિમાંથી રોજગારી મળે છે.<br>૨. <b>રાષ્ટ્રીય આવક:</b> દેશના કુલ ઘરેલુ પેદાશ (GDP) માં કૃષિનો હિસ્સો લગભગ <b>22%</b> જેટલો છે.<br>૩. <b>નિકાસની આવક:</b> ચા, કોફી, કપાસ, મસાલા અને તમાકુ જેવી ખેતપેદાશોની વિદેશમાં નિકાસ કરવાથી દેશને વિદેશી હૂંડિયામણ મળે છે.<br>૪. <b>ઉદ્યોગોને કાચો માલ:</b> સુતરાઉ કાપડ, ખાંડ, કાગળ અને ખાદ્ય-પ્રક્રિયા ઉદ્યોગોને જરૂરી કાચો માલ ખેતીમાંથી જ મળે છે.<br>આમ, ભારત એક કૃષિપ્રધાન દેશ છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ભારતનો આત્મા ગામડામાં છે. અડધાથી વધુ લોકોને નોકરી ખેતીમાંથી મળે છે, દેશની આવકમાં 22% હિસ્સો છે અને ઉદ્યોગોને કાચો માલ પણ ખેતી જ આપે છે. ખેતી વગર બધું બંધ!</div></div>"
+    },
+    
+    {
+        chapter: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જળ સંસાધનોના મુખ્ય સ્ત્રોત કયા કયા છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જળ સંસાધનોના મુખ્ય ત્રણ સ્ત્રોત છે:<br><br>૧. <b>વૃષ્ટિજળ (Rain Water):</b> પૃથ્વી પર જળ સંસાધનનો મુખ્ય સ્ત્રોત વરસાદ (વૃષ્ટિ) છે. નદી, સરોવર અને ભૂમિગત જળ એ બધા વરસાદને જ આભારી છે.<br>૨. <b>પૃષ્ઠીય જળ (Surface Water):</b> પૃથ્વીની સપાટી પર જોવા મળતું પાણી. દા.ત. નદીઓ, સરોવરો, તળાવો, સાગરો અને ઝરણાં.<br>૩. <b>ભૂમિગત જળ (Groundwater):</b> જમીનની સપાટી પરથી પાણી શોષાઈને જમીનના પેટાળમાં જમા થાય છે તેને ભૂમિગત જળ કહે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: પાણી 3 જગ્યાએ જોવા મળે! 1. ઉપર આકાશમાંથી પડે (વૃષ્ટિજળ), 2. જમીન પર વહે (પૃષ્ઠીય જળ), 3. જમીનની અંદર સંતાયેલું હોય (ભૂમિગત જળ). બસ આ 3 સ્ત્રોત યાદ રાખો!</div></div>"
+    },
+
+    {
+        chapter: 11,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભૂમિગત જળ (Groundwater) એટલે શું? તેના ઉપયોગો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વરસાદનું પાણી અને નદીઓનું પાણી જમીનમાં શોષાઈને જમીનના પેટાળમાં જમા થાય છે, તેને <b>ભૂમિગત જળ</b> કહે છે. તેનો જથ્થો અમર્યાદિત હોય છે.<br><br><b>ઉપયોગો:</b><br>ભૂમિગત જળનો સૌથી વધુ ઉપયોગ <b>સિંચાઈ (ખેતી)</b> માટે થાય છે. આ ઉપરાંત તે પીવા માટે, ઉદ્યોગોમાં અને ગટરની સાફસફાઈમાં પણ ઉપયોગી છે. ભારતમાં સૌથી વધુ ભૂમિગત જળ ઉત્તરના મેદાની વિસ્તારોમાં (42%) જોવા મળે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: જમીને પીધેલું પાણી એટલે ભૂમિગત જળ! ટ્યુબવેલ કે કૂવા દ્વારા આપણે જે પાણી બહાર કાઢીએ છીએ તે ભૂમિગત જળ જ છે. ખેતી માટે તે બેસ્ટ છે.</div></div>"
+    },
+
+    {
+        chapter: 11,
+        marks: 3,
+        year_asked: "[March 2025, May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>બહુહેતુક યોજના (Multipurpose Project) એટલે શું? તેના ઉદ્દેશો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>નદી-ખીણો સાથે સંકળાયેલી વિભિન્ન સમસ્યાઓ હલ કરવા નદીઓ પર બંધ બાંધીને મોટા જળાશયો બનાવવા તેને <b>બહુહેતુક યોજના</b> કહે છે.<br><br><b>ઉદ્દેશો (લાભો):</b><br>૧. <b>પૂર નિયંત્રણ:</b> નદીના વિનાશક પૂરને રોકવું.<br>૨. <b>સિંચાઈ અને પીવાનું પાણી:</b> ખેતી માટે અને શહેરો/ગામડાઓ માટે પાણી પૂરું પાડવું.<br>૩. <b>જળ-વિદ્યુત ઉત્પાદન:</b> બંધના ધોધ પરથી ટર્બાઈન ફેરવીને સસ્તી વીજળી ઉત્પન્ન કરવી.<br>૪. <b>ઉદ્યોગો:</b> ઉદ્યોગોને જરૂરી પાણી પૂરું પાડવું.<br>૫. <b>મત્સ્ય પાલન:</b> મોટા જળાશયોમાં માછલી ઉછેર કેન્દ્ર વિકસાવવા.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: એક તીરથી અનેક નિશાન! બંધ એક બાંધવાનો, પણ ફાયદા અનેક - પૂર રોકાય, લાઈટ બને, પીવા અને ખેતીને પાણી મળે, અને માછલીઓ પણ ઉછેરી શકાય.</div></div>"
+    },
+
+    {
+        chapter: 11,
+        marks: 2,
+        year_asked: "[July 2024 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નર્મદા ખીણ યોજના (સરદાર સરોવર યોજના) ના લાભો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>નર્મદા યોજના એ ગુજરાતની <b>'જીવાદોરી'</b> સમાન સૌથી મોટી બહુહેતુક યોજના છે.<br><br><b>લાભો:</b><br>&bull; મધ્યપ્રદેશ, ગુજરાત, રાજસ્થાન અને મહારાષ્ટ્રને તેનો લાભ મળે છે.<br>&bull; ગુજરાતના <b>સૌરાષ્ટ્ર અને કચ્છના સૂકા વિસ્તારોમાં</b> પીવાનું અને સિંચાઈનું પાણી નહેરો દ્વારા પહોંચાડવામાં આવ્યું છે.<br>&bull; આ ડેમ દ્વારા લાખો મેગાવોટ જળ-વિદ્યુત ઉત્પન્ન કરવામાં આવે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: સરદાર ડેમ એટલે આપણી લાઈફ-લાઈન! પાણી વિના તરડતા કચ્છ અને સૌરાષ્ટ્રને લીલાછમ કરવાનું કામ આ ડેમે કર્યું છે અને મફત જેવી વીજળી પણ આપે છે.</div></div>"
+    },
+
+    {
+        chapter: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભારતની કઈ કઈ નદીઓ પર કઈ બહુહેતુક યોજનાઓ આવેલી છે? (કોઈપણ ચાર).</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>સતલુજ નદી:</b> ભાખરા-નાંગલ યોજના (પંજાબ, હરિયાણા, રાજસ્થાન).<br>૨. <b>મહાનદી:</b> હીરાકુડ યોજના (ઓડિશા).<br>૩. <b>કૃષ્ણા નદી:</b> નાગાર્જુન સાગર યોજના (આંધ્રપ્રદેશ, તેલંગાણા).<br>૪. <b>નર્મદા નદી:</b> સરદાર સરોવર યોજના (ગુજરાત, મ.પ્ર., રાજસ્થાન).<br>૫. <b>કાવેરી નદી:</b> કૃષ્ણરાજ સાગર યોજના (કર્ણાટક, તમિલનાડુ).<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: પંજાબમાં સતલુજ પર ભાંગડા (ભાખરા), મહાન લોકો હીરો પહેરે (મહાનદી-હીરાકુડ), અને અર્જુનના સારથી કૃષ્ણ ભગવાન (નાગાર્જુન-કૃષ્ણા નદી)! ગોખવાની જરૂર જ નહિ.</div></div>"
+    },
+
+    {
+        chapter: 11,
+        marks: 3,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જળ સંકટ (Water Crisis) એટલે શું? ભારતમાં જળ સંકટના કારણો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જ્યારે કોઈપણ વિસ્તારમાં પાણીની ઉપલબ્ધતા કરતા પાણીની માંગ વધી જાય અને લોકોની પાયાની જરૂરિયાતો પૂરી ન થાય ત્યારે તેને <b>જળ સંકટ</b> કહેવાય.<br><br><b>કારણો:</b><br>૧. <b>વસ્તી વિસ્ફોટ:</b> દેશમાં સતત વધતી વસ્તીના કારણે પીવા અને રોજિંદા વપરાશ માટે પાણીની માંગ ખૂબ વધી છે.<br>૨. <b>રોકડિયા પાકો:</b> ખેડૂતો શેરડી, કપાસ જેવા રોકડિયા પાકો વધુ ઉગાડે છે જેને પાણીની ખૂબ જરૂર પડે છે.<br>૩. <b>શહેરીકરણ અને ઉદ્યોગો:</b> શહેરો અને ઉદ્યોગો વધવાથી પાણીનો વપરાશ અને પ્રદૂષણ બંને વધ્યા છે.<br>૪. <b>ભૂગર્ભ જળનું શોષણ:</b> ટ્યુબવેલ (બોરવેલ) દ્વારા જમીનમાંથી બેફામ પાણી ખેંચવામાં આવતા ભૂગર્ભ જળનું સ્તર ખૂબ નીચું ગયું છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: પાણી ખૂટવા પાછળ 4 ગુનેગાર: વધતી પબ્લિક, શેરડીની ખેતી, મોટી ફેક્ટરીઓ અને જમીનમાંથી મોટર મૂકીને પાણી ખેંચતા બોરવેલ!</div></div>"
+    },
+
+    {
+        chapter: 11,
+        marks: 3,
+        year_asked: "[May 2025, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વૃષ્ટિજળ સંચય (Rainwater Harvesting) એટલે શું? તેના ઉદ્દેશો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વરસાદના પાણીને વહી જતું રોકીને તેને કૂવા, ખેત-તલાવડી કે ટાંકાઓમાં એકઠું કરવું (જમા કરવું) તેને <b>વૃષ્ટિજળ સંચય</b> કહે છે.<br><br><b>ઉદ્દેશો:</b><br>૧. <b>ભૂગર્ભ જળ વધારવું:</b> જમીનમાં પાણી ઉતારીને ભૂગર્ભ જળનું સ્તર ઊંચું લાવવું.<br>૨. <b>જળ પ્રદૂષણ ઘટાડવું:</b> વરસાદના શુદ્ધ પાણીને બચાવીને પીવાના પાણીની ગુણવત્તા સુધારવી.<br>૩. <b>પૂર નિયંત્રણ:</b> માર્ગો અને રસ્તાઓ પર પાણી ભરાઈ જતું રોકવું.<br>૪. <b>ઉનાળા માટે બચાવ:</b> ઉનાળામાં અને લાંબા સમયના દુષ્કાળમાં પાણીની ઘરગથ્થુ જરૂરિયાતો પૂરી કરવી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: વરસાદનું પાણી ગટરમાં જવા દેવા કરતા ટાંકામાં ભરવું! બેંકમાં પૈસાની બચત કરીએ એમ પાણીની બચત કરો, જેથી ઉનાળામાં પાણી વેચાતું ન લેવું પડે.</div></div>"
+    },
+
+    {
+        chapter: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વૃષ્ટિજળ સંચય (પાણી બચાવવા) માટેની મુખ્ય પદ્ધતિઓ કઈ કઈ છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વરસાદના પાણીને ભેગું કરવા નીચે મુજબની પદ્ધતિઓ અપનાવવામાં આવે છે:<br>&bull; મકાનોની છત પર પડતા વરસાદી પાણીને <b>ભૂગર્ભ ટાંકા (Underground Tanks)</b> બનાવીને તેમાં જમા કરવું.<br>&bull; ગામ કે ખેતરમાં <b>ખેત તલાવડી</b> બનાવવી.<br>&bull; નદીઓ પર <b>આડબંધ (Check dams)</b> અને નાના બંધ બાંધવા.<br>&bull; સૂકાઈ ગયેલા કૂવા અને ટ્યુબવેલને રીચાર્જ કરવા (ફરીથી પાણીથી ભરવા).<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: છતનું પાણી ટાંકામાં ઉતારો, ખેતરનું પાણી ખેત-તલાવડીમાં રોકો અને નદીના પાણી પર ચેક ડેમ બનાવો. આ 3 જ મુખ્ય રસ્તા છે પાણી બચાવવાના!</div></div>"
+    },
+
+    {
+        chapter: 11,
+        marks: 2,
+        year_asked: "[May 2024, May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ખેત તલાવડી એટલે શું? તેનો ફાયદો શું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ખેતરના કોઈ એક નીચાણવાળા ભાગમાં માટીના પાળા બાંધીને એક <b>નાનકડું તળાવ</b> બનાવવામાં આવે છે, જેમાં ચોમાસામાં વરસાદનું પાણી જમા થાય છે, તેને ખેત તલાવડી કહે છે.<br><br><b>ફાયદો:</b><br>આ રીતે સંગ્રહિત થયેલું પાણી શિયાળા કે ઉનાળામાં ખેતરમાં પાકની સિંચાઈ માટે કામ લાગે છે. આનાથી 'ખેતરનું પાણી ખેતરમાં જ' રહે છે અને જમીનમાં ભેજ જળવાઈ રહે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: તમારા ખેતરનો ઢાળ જ્યાં જતો હોય ત્યાં પાળા બાંધી દો. મફતમાં તળાવ બની જશે! ઉનાળામાં જ્યારે કૂવો સુકાય ત્યારે આ જ તલાવડી ખેતર લીલું રાખશે.</div></div>"
+    },
+
+    {
+        chapter: 11,
+        marks: 3,
+        year_asked: "[March 2025, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જળ વ્યવસ્થાપન (Water Management) માટે કયા કયા મુદ્દાઓ ધ્યાનમાં રાખવા જોઈએ?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જળ વ્યવસ્થાપન માટે નીચેની બાબતો ધ્યાનમાં રાખવી જોઈએ:<br>૧. <b>કરકસર:</b> બાગ-બગીચા, વાહનો ધોવા, શૌચાલયો અને વોશ બેસિનમાં પાણીનો કરકસરપૂર્વક ઉપયોગ કરવો.<br>૨. <b>પુનઃઉપયોગ:</b> વપરાયેલા ગંદા પાણીને ટ્રીટમેન્ટ પ્લાન્ટ દ્વારા શુદ્ધ કરી ઉદ્યોગોમાં કે સિંચાઈમાં ફરી વાપરવું.<br>૩. <b>લીકેજ અટકાવવું:</b> પાણીના પાઇપલાઈનના ભંગાણ કે નળના લીકેજ તાત્કાલિક રીપેર કરાવવા.<br>૪. <b>જાગૃતિ:</b> જળ સંરક્ષણ અને જળ વ્યવસ્થાપનની પ્રવૃત્તિઓમાં લોકજાગૃતિ લાવી સ્થાનિક લોકોને સામેલ કરવા.<br>૫. <b>ભૂગર્ભ જળ કાયદો:</b> ભૂગર્ભ જળ ખેંચવા પર નિયંત્રણ મૂકતા કાયદાનો કડક અમલ કરવો.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: પાણીનું બિલ ઘટે એવા રસ્તા! લીક થતો નળ બંધ કરો, ગાડી ધોવામાં અડધી ડોલ જ વાપરો, અને લોકોને સમજાવો કે ભાઈ પાણી બચાવો નહિ તો ભવિષ્યમાં રડવું પડશે!</div></div>"
+    },
+
+    {
+        chapter: 11,
+        marks: 2,
+        year_asked: "[July 2025 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જળ પ્રદૂષણ અટકાવવાના ઉપાયો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જળ પ્રદૂષણ અટકાવવા નીચેના પગલાં લઈ શકાય:<br>&bull; ઉદ્યોગોના કેમિકલયુક્ત ગંદા પાણીને શુદ્ધ કર્યા વિના નદી કે તળાવમાં છોડવા પર <b>કડક પ્રતિબંધ</b> મૂકવો.<br>&bull; શહેરની ગટરના પાણીને ટ્રીટમેન્ટ પ્લાન્ટ દ્વારા શુદ્ધ કરીને જ નદીમાં છોડવું જોઈએ.<br>&bull; ખેતીમાં ઝેરી જંતુનાશકોને બદલે <b>સજીવ ખેતી</b> અપનાવવી જેથી જમીન અને ભૂગર્ભ જળ દૂષિત ન થાય.<br>&bull; નદીમાં કચરો, ફૂલહાર કે પ્લાસ્ટિક નાખનારા પર દંડ ફટકારવો.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: નદીને ડસ્ટબીન ન સમજો! ફેક્ટરીનું ઝેરી પાણી અને શહેરની ગટર નદીમાં જવા ન દો. નદી શુદ્ધ રહેશે તો બીમારીઓ આપોઆપ ઘટશે.</div></div>"
+    },
+
+    {
+        chapter: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભારતમાં સિંચાઈના મુખ્ય માધ્યમો કયા છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતમાં સિંચાઈ માટે મુખ્યત્વે 3 માધ્યમોનો ઉપયોગ થાય છે:<br>૧. <b>કૂવા અને ટ્યુબવેલ:</b> ભારતમાં સિંચાઈનું આ સૌથી મોટું અને મુખ્ય માધ્યમ છે. પંજાબ, હરિયાણા અને ગુજરાતમાં તેનો વ્યાપક ઉપયોગ થાય છે.<br>૨. <b>નહેરો (Canals):</b> આ સિંચાઈનું બીજું મુખ્ય માધ્યમ છે. સતલુજ, ગંગા અને નર્મદા જેવી નદીઓ પર બંધ બાંધીને તેમાંથી નહેરો કાઢવામાં આવી છે.<br>૩. <b>તળાવો:</b> દક્ષિણ ભારત અને પૂર્વના રાજ્યોમાં (જ્યાં જમીન પથરાળ છે) તળાવો દ્વારા સિંચાઈ વધુ થાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ખેતરમાં પાણી કેવી રીતે પહોંચે? મોટર ચાલુ કરો (કૂવો/ટ્યુબવેલ), સરકાર પાણી આપે (નહેર), કે પછી બાજુના ખાડામાંથી લાવો (તળાવ). સૌથી વધુ કૂવાઓથી સિંચાઈ થાય છે!</div></div>"
+    },
+
+    {
+        chapter: 11,
+        marks: 2,
+        year_asked: "[May 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભારતમાં જળપલાવિત ક્ષેત્ર વિકાસ (Watershed Development) કાર્યક્રમ શું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જળપલાવિત ક્ષેત્ર એ એક પ્રાકૃતિક એકમ છે. તેનો હેતુ નદી-ખીણ વિસ્તારોમાં વહી જતા પાણીને રોકીને સમગ્ર <b>વિસ્તારનો સર્વાંગી વિકાસ</b> કરવાનો છે.<br><br>આ કાર્યક્રમમાં જમીન અને ભેજ સંરક્ષણ, જળ સંચય, વૃક્ષારોપણ, ગૌચર વિકાસ અને ગોડાઉન નિર્માણ જેવી પ્રવૃત્તિઓનો સમાવેશ થાય છે. તેમાં સ્થાનિક લોકોની ભાગીદારી ખૂબ જરૂરી હોય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: વોટર-શેડ એટલે પાણીનું રક્ષણ કરતો છાંયડો! આખો વિસ્તાર લીલોછમ કરવો, પશુઓ માટે ઘાસ ઉગાડવું અને જમીનનું ધોવાણ અટકાવવું. પબ્લિકના સાથ વગર આ શક્ય નથી!</div></div>"
+    },
+
+    {
+        chapter: 11,
+        marks: 2,
+        year_asked: "[March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'જળ એ જીવન છે' વિધાન સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પૃથ્વી પર જીવસૃષ્ટિનું અસ્તિત્વ માત્ર અને માત્ર <b>જળ (પાણી)</b> ને આભારી છે.<br>&bull; માનવીને પીવા માટે, રોજિંદા કાર્યો માટે, ખેતીમાં પાક પકવવા માટે અને ઉદ્યોગો ચલાવવા માટે પાણી અનિવાર્ય છે.<br>&bull; કોઈપણ દેશની આર્થિક સમૃદ્ધિનો આધાર તેની ખેતી અને ઉદ્યોગો પર છે, અને આ બંને માટે પાણી મૂળભૂત જરૂરિયાત છે.<br>પાણીનો કોઈ બીજો વિકલ્પ નથી, તેથી જ કહેવાય છે કે 'જળ એ જ જીવન છે'.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: 2 દિવસ લાઈટ કે ઇન્ટરનેટ વગર ચાલી જશે, પણ 2 દિવસ પાણી વગર નહિ ચાલે! સવારથી સાંજ સુધી દરેક કામ માટે પાણી જોઈએ જ. જળ છે તો કાલ છે!</div></div>"
+    },
+
+    {
+        chapter: 11,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કાવેરી નદી જળ-વિવાદ વિશે માહિતી આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતમાં નદીઓના પાણીના વહેંચણી માટે બે રાજ્યો વચ્ચે અવારનવાર વિવાદ થતા હોય છે.<br>આવો જ એક જૂનો વિવાદ <b>કાવેરી નદી</b> ના પાણી માટે દક્ષિણ ભારતના બે રાજ્યો <b>કર્ણાટક અને તમિલનાડુ</b> વચ્ચે ચાલી રહ્યો છે. પાણીની વહેંચણીના ઝઘડા ઉકેલવા ભારત સરકારે <b>'રાષ્ટ્રીય જળ આયોગ' (ટ્રિબ્યુનલ)</b> ની રચના કરવી પડે છે, જે નિષ્પક્ષ રીતે ચુકાદો આપે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: કાવેરી માટે બે રાજ્યો લડે છે: 'ક' પરથી કર્ણાટક અને 'ત' પરથી તમિલનાડુ! બંનેને વધુ પાણી જોઈએ છે, એટલે સુપ્રીમ કોર્ટ કે આયોગે વચ્ચે પડવું પડે છે.</div></div>"
+    },
+    
+    {
+        chapter: 12,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ખનીજ એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કુદરતી કાર્બનિક કે અકાર્બનિક ક્રિયાથી તૈયાર થયેલા, અને <b>ચોક્કસ રાસાયણિક બંધારણ ધરાવતા</b> ઘન, પ્રવાહી કે વાયુ સ્વરૂપના પદાર્થોને 'ખનીજ' કહે છે.<br><br>પૃથ્વીના પેટાળમાં અનંતકાળથી ચાલતી ભૂગર્ભિક પ્રક્રિયાઓનું પરિણામ એટલે ખનીજો.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: કુદરતની ફેક્ટરીમાં બનેલું અને ચોક્કસ કેમિકલ ફોર્મ્યુલા વાળું તત્વ એટલે ખનીજ! પથ્થર ઘન છે, પેટ્રોલ પ્રવાહી છે અને ગેસ વાયુ છે - આ ત્રણેય ખનીજ જ છે!</div></div>"
+    },
+
+    {
+        chapter: 12,
+        marks: 3,
+        year_asked: "[March 2025, May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લોખંડ (Iron) ના મુખ્ય પ્રકારો જણાવી તેના ઉપયોગો લખો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લોખંડ એ આધુનિક વિશ્વના ઔદ્યોગિક વિકાસની પારાશીશી છે.<br><br><b>મુખ્ય 4 પ્રકારો:</b><br>૧. હેમેટાઈટ<br>૨. મેગ્નેટાઈટ<br>૩. લિમોનાઈટ<br>૪. સિડેરાઈટ<br><br><b>ઉપયોગો:</b><br>લોખંડ મજબૂત, ટકાઉ અને સસ્તું હોવાથી તેનો ઉપયોગ નાની ટાંકણીથી લઈને મોટા યંત્રો, વાહનો, રેલવે, પુલ, મકાનો અને શસ્ત્રો બનાવવા માટે થાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: લોખંડ વગર કોઈ ફેક્ટરી ન ચાલે! ટાંકણીથી લઈને ટ્રેન સુધી બધું જ લોખંડમાંથી બને છે. પ્રકાર યાદ રાખવાની ટ્રીક: 'હેમે-મેગ્ને-લિમો-સિડે'!</div></div>"
+    },
+
+    {
+        chapter: 12,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>મેંગેનીઝ (Manganese) ના ઉપયોગો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>મેંગેનીઝ લોખંડ-પોલાદ (Steel) ઉદ્યોગ માટે ખૂબ મહત્વની ધાતુ છે.<br><br><b>ઉપયોગો:</b><br>&bull; તેનો મુખ્ય ઉપયોગ લોખંડમાંથી <b>પોલાદ (Steel)</b> બનાવવા માટે થાય છે.<br>&bull; આ ઉપરાંત રાસાયણિક ઉદ્યોગો, જંતુનાશક દવાઓ, કાચ, વાર્નિશ, બ્લીચિંગ પાવડર અને બેટરી (Dry cell) બનાવવામાં તેનો ઉપયોગ થાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: મેંગેનીઝ એટલે સ્ટીલનો બેસ્ટ ફ્રેન્ડ! લોખંડમાં મેંગેનીઝ ભળે એટલે મજબૂત સ્ટીલ બની જાય. બાકી ઘડિયાળની બેટરી અને કાચમાં પણ વપરાય.</div></div>"
+    },
+
+    {
+        chapter: 12,
+        marks: 2,
+        year_asked: "[May 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>તાંબા (Copper) ના ઉપયોગો અને ગુણધર્મો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>તાંબુ એ પ્રાચીનકાળથી વપરાતી ધાતુ છે. તે <b>વિદ્યુતનું સુવાહક</b> છે.<br><br><b>ઉપયોગો:</b><br>&bull; વીજળીના તાર, મોટર, જનરેટર, ટેલિફોન અને રેડિયોના સાધનો બનાવવા માટે તે સૌથી વધુ વપરાય છે.<br>&bull; આ ઉપરાંત વાસણો, સિક્કા અને ઘરેણાં બનાવવામાં વપરાય છે.<br><b>મિશ્ર ધાતુઓ:</b><br>તાંબામાં જસત ભેળવવાથી <b>પિત્તળ</b> બને છે અને કલાઈ ભેળવવાથી <b>કાંસુ</b> બને છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: કરંટ પાસ કરવામાં તાંબુ નંબર 1! તમારા ઘરના બધા વાયરમાં તાંબુ જ છે. અને ખાસ યાદ રાખજો: તાંબુ+જસત=પિત્તળ, તાંબુ+કલાઈ=કાંસુ!</div></div>"
+    },
+
+    {
+        chapter: 12,
+        marks: 2,
+        year_asked: "[March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>બોક્સાઈટ (Bauxite) ધાતુ વિશે નોંધ લખો અને તેના ઉપયોગો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>બોક્સાઈટ એ <b>એલ્યુમિનિયમની કાચી ધાતુ</b> છે. સૌપ્રથમ વાર તે ફ્રાંસના 'લે-બોક્સ' પાસેથી મળ્યું હોવાથી તેનું નામ બોક્સાઈટ પડ્યું છે.<br><br><b>ઉપયોગો:</b><br>&bull; બોક્સાઈટમાંથી મળતું એલ્યુમિનિયમ વજનમાં હલકું, મજબૂત, અને કાટ ન લાગે તેવું હોવાથી <b>વિમાનો (Aeroplane) બાંધવામાં</b> વપરાય છે.<br>&bull; વિદ્યુતના સાધનો, વાસણો અને મોટરના સ્પેરપાર્ટ્સ બનાવવામાં વપરાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: બોક્સાઈટ એટલે એલ્યુમિનિયમની મમ્મી! વજનમાં હલકું અને કાટ ન લાગે એવું, એટલે જ તો આકાશમાં ઉડતું વિમાન આમાંથી જ બને છે!</div></div>"
+    },
+
+    {
+        chapter: 12,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સીસા (Lead) ના ઉપયોગો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સીસાની ધાતુને <b>'ગેલેના' (Galena)</b> કહેવામાં આવે છે. તે મુલાયમ અને વજનમાં ભારે હોય છે.<br><br><b>ઉપયોગો:</b><br>&bull; તેનો મુખ્ય ઉપયોગ સ્ટોરેજ બેટરી અને ઇન્વર્ટરની બેટરી બનાવવામાં થાય છે.<br>&bull; આ ઉપરાંત શસ્ત્રો, હથિયારોની ગોળીઓ, કલર (પેઇન્ટ), અને કાચ બનાવવામાં તેનો વ્યાપક ઉપયોગ થાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: સીસુ એટલે ભારે અને મુલાયમ ધાતુ (ગેલેના). ઇન્વર્ટરની બેટરી અને બંદૂકની ગોળી બંને બનાવવા માટે સીસું જ વપરાય!</div></div>"
+    },
+
+    {
+        chapter: 12,
+        marks: 2,
+        year_asked: "[July 2024 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>અબરખ (Mica) ના ગુણધર્મો અને ઉપયોગો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારત વિશ્વમાં અબરખના ઉત્પાદનમાં <b>પ્રથમ સ્થાને</b> છે. <br><br><b>ગુણધર્મો અને ઉપયોગો:</b><br>&bull; તે <b>વિદ્યુતનું અવાહક</b> (કરંટ ન લાગે તેવું) અને અગ્નિરોધક છે.<br>&bull; તેથી તેનો ઉપયોગ વિદ્યુતના સાધનો જેવા કે ઇલેક્ટ્રિક ઇસ્ત્રી, મોટર, રેડિયો, ડાયનેમો અને ટેલિફોન બનાવવામાં થાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: અબરખ એટલે કરંટને રોકનાર! ઇસ્ત્રી ગરમ થાય પણ આપણને કરંટ નથી લાગતો કારણ કે અંદર અબરખ હોય છે! ભારતમાં સૌથી વધુ થાય છે.</div></div>"
+    },
+
+    {
+        chapter: 12,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ચૂનાના પથ્થર (Limestone) ના ઉપયોગો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ચૂનાનો પથ્થર અનેક ઉદ્યોગો માટે કાચો માલ પૂરો પાડે છે.<br><br><b>ઉપયોગો:</b><br>&bull; તેનો સૌથી વધુ (આશરે 75%) ઉપયોગ <b>સિમેન્ટ બનાવવા</b> માટે થાય છે.<br>&bull; આ ઉપરાંત લોખંડ પીગળાવવાની ભઠ્ઠીમાં, રાસાયણિક ઉદ્યોગોમાં, સોડાએશ, સાબુ, કાગળ અને ખાંડને શુદ્ધ કરવામાં તેનો ઉપયોગ થાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ચૂનાનો પથ્થર એટલે સિમેન્ટનો કાચો માલ! મકાન બનાવવાની સિમેન્ટ આના વગર ન બને. ગંદી ખાંડને ધોઈને સફેદ કરવા પણ ચૂનો જ વપરાય!</div></div>"
+    },
+
+    {
+        chapter: 12,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શક્તિના સંસાધનો એટલે શું? તેના પ્રકારો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જે સાધનો કે સંસાધનોમાંથી ઉદ્યોગો, વાહનો અને ઘરો ચલાવવા માટે <b>ઊર્જા (શક્તિ)</b> પ્રાપ્ત થાય છે, તેને શક્તિના સંસાધનો કહે છે.<br><br><b>તેના 2 પ્રકાર છે:</b><br>૧. <b>પરંપરાગત સંસાધનો (વ્યાપારી):</b> જે ભવિષ્યમાં ખૂટી જવાની શક્યતા છે. દા.ત. કોલસો, ખનીજ તેલ (પેટ્રોલિયમ), કુદરતી વાયુ.<br>૨. <b>બિનપરંપરાગત સંસાધનો (બિનવ્યાપારી):</b> જે ક્યારેય ખૂટતા નથી અને પ્રદૂષણમુક્ત છે. દા.ત. સૌર ઊર્જા, પવન ઊર્જા, બાયોગેસ, ભરતી ઊર્જા.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: જેનાથી મશીન અને ગાડીઓ ચાલે એ શક્તિના સાધનો. જૂના જમાનાથી વપરાતા હોય એ 'પરંપરાગત' (જે ખૂટી જશે) અને નવા જમાનાના ફ્રી અને અખૂટ હોય એ 'બિનપરંપરાગત'!</div></div>"
+    },
+
+    {
+        chapter: 12,
+        marks: 3,
+        year_asked: "[May 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કોલસા (Coal) ના પ્રકારો જણાવી તેના વિશે ટૂંકમાં માહિતી આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કોલસામાં રહેલા <b>કાર્બન તત્વના પ્રમાણને આધારે</b> તેના 4 પ્રકાર પડે છે:<br><br>૧. <b>એન્થ્રેસાઈટ (Anthracite):</b> આ સૌથી શ્રેષ્ઠ કક્ષાનો કોલસો છે. તેમાં 80% થી 90% કાર્બન હોય છે અને તે ધુમાડો કર્યા વિના સળગે છે.<br>૨. <b>બિટ્યુમિનસ (Bituminous):</b> આ મધ્યમ કક્ષાનો કોલસો છે. તેમાં 70% થી 80% કાર્બન હોય છે.<br>૩. <b>લિગ્નાઈટ (Lignite):</b> આ હલકી કક્ષાનો કોલસો છે (25% થી 35% કાર્બન). સળગાવતા તેમાંથી ધુમાડો અને દુર્ગંધ આવે છે.<br>૪. <b>પીટ (Peat):</b> આ કોલસો બનવાની સૌથી પ્રારંભિક અવસ્થા છે, જેમાં કાર્બનનું પ્રમાણ 20% કરતા પણ ઓછું હોય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: કોલસાના 4 ભાઈઓ: એન્થ્રેસાઈટ સૌથી ડાહ્યો (શ્રેષ્ઠ), બિટ્યુમિનસ વચલો, લિગ્નાઈટ એનાથી નાનો અને પીટ સૌથી નકામો! યાદ રાખવાની ટ્રીક: A-B-L-P.</div></div>"
+    },
+
+    {
+        chapter: 12,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ખનીજ તેલ (Petroleum) નું મહત્વ સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ખનીજ તેલ (પેટ્રોલિયમ) પૃથ્વીના પેટાળના પ્રસ્તર ખડકોમાંથી મળે છે.<br><br><b>મહત્વ:</b><br>&bull; તેને રિફાઇનરીમાં શુદ્ધ કરીને તેમાંથી <b>પેટ્રોલ, ડીઝલ, કેરોસીન, ડામર, અને ઊંજણ તેલ (Lubricants)</b> બનાવવામાં આવે છે.<br>&bull; આજનો આખો પરિવહન વ્યવસાય (ગાડીઓ, પ્લેન, ટ્રેન) અને ઉદ્યોગો તેના પર નિર્ભર છે.<br>&bull; તેનું અતિશય મહત્વ હોવાથી તેને <b>'કાળું સોનું' (Black Gold)</b> પણ કહેવાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: જમીનમાંથી નીકળતું કાળું કીચડ જેવું પ્રવાહી જેને આપણે 'કાળું સોનું' કહીએ છીએ! રિફાઈનરીમાં સાફ કરો એટલે પેટ્રોલ-ડીઝલ અને ડામર બની જાય.</div></div>"
+    },
+
+    {
+        chapter: 12,
+        marks: 2,
+        year_asked: "[July 2025 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કુદરતી વાયુ (Natural Gas) ના ઉપયોગો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કુદરતી વાયુ મોટાભાગે ખનીજ તેલની સાથે જ પૃથ્વીના પેટાળમાંથી મળે છે. તે પ્રદૂષણરહિત અને સસ્તો ઊર્જા સ્ત્રોત છે.<br><br><b>ઉપયોગો:</b><br>&bull; <b>CNG (Compressed Natural Gas):</b> વાહનો ચલાવવા માટે પર્યાવરણને અનુકૂળ ઈંધણ તરીકે વપરાય છે.<br>&bull; <b>PNG (Piped Natural Gas):</b> ઘરોમાં રાંધણગેસ તરીકે પાઈપલાઈન દ્વારા પહોંચાડવામાં આવે છે.<br>&bull; રાસાયણિક ખાતરો અને વીજળી ઉત્પન્ન કરવામાં પણ વપરાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: પેટ્રોલની ફેક્ટરીમાંથી નીકળતો ફ્રી ગેસ! વાહનોમાં પ્રદૂષણ વગર સસ્તી મુસાફરી કરાવે (CNG) અને ઘરના રસોડામાં પાઇપથી આવે (PNG).</div></div>"
+    },
+
+    {
+        chapter: 12,
+        marks: 3,
+        year_asked: "[March 2024, May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સૌર ઊર્જા (Solar Energy) વિશે ટૂંકમાં માહિતી આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સૂર્યપ્રકાશમાંથી મળતી ઊર્જા એટલે સૌર ઊર્જા. તે <b>અખૂટ અને પ્રદૂષણમુક્ત</b> ઊર્જા છે.<br><br><b>વિશેષતાઓ અને ઉપયોગો:</b><br>&bull; ભારતમાં <b>ગુજરાત</b> સૌર ઊર્જા મેળવતું અગ્રણી રાજ્ય છે, કારણ કે અહીં વર્ષમાં આશરે 300 દિવસ સૂર્યપ્રકાશ મળે છે.<br>&bull; સોલાર કૂકર (રસોઈ માટે), સોલાર હીટર (પાણી ગરમ કરવા), અને સોલાર પેનલ દ્વારા વીજળી ઉત્પન્ન કરવા તેનો વ્યાપક ઉપયોગ થાય છે.<br>&bull; ગુજરાતમાં <b>માધવપુર પાસે</b> ખારા પાણીને મીઠું કરવા માટે સૌર ઊર્જાનો મોટો પ્લાન્ટ સ્થપાયો છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: સૂરજદાદાની મફત વીજળી! ક્યારેય ખૂટે નહિ અને ધુમાડો પણ ન કરે. ગુજરાતમાં 300 દિવસ સૂર્યપ્રકાશ રહે છે એટલે સોલાર માટે આપણું ગુજરાત બેસ્ટ છે!</div></div>"
+    },
+
+    {
+        chapter: 12,
+        marks: 3,
+        year_asked: "[May 2024, March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>બાયોગેસ (Biogas) એટલે શું? તેના ફાયદા જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ખેતરનો કચરો, પશુઓનું છાણ, અને માનવ મળમૂત્રને બંધ ખાડામાં સડાવીને તેમાંથી જે <b>મિથેન ગેસ</b> મેળવવામાં આવે છે, તેને બાયોગેસ કહે છે.<br><br><b>ફાયદા:</b><br>આ પ્લાન્ટથી ગામડાના લોકોને <b>'બેવડો લાભ'</b> થાય છે:<br>૧. રસોઈ બનાવવા અને લાઈટ માટે સસ્તો અને પ્રદૂષણમુક્ત ગેસ મળે છે.<br>૨. ગેસ નીકળી ગયા પછી વધેલા કચરામાંથી ઉત્તમ પ્રકારનું <b>સેન્દ્રિય ખાતર</b> મળે છે.<br>ગુજરાતમાં સિદ્ધપુર પાસે મેથાણ અને અમદાવાદ પાસે રુદાતલ ખાતે મોટા બાયોગેસ પ્લાન્ટ આવેલા છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: કચરામાંથી કંચન! છાણ અને કચરાને ખાડામાં સડાવવાથી બે ફાયદા: રાંધવા માટે ફ્રી ગેસ મળે અને ખેતર માટે બેસ્ટ દેશી ખાતર મળે!</div></div>"
+    },
+
+    {
+        chapter: 12,
+        marks: 3,
+        year_asked: "[March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ખનીજ સંરક્ષણના ઉપાયો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ખનીજો એ પુનઃઅપ્રાપ્ય (ખૂટી જાય તેવા) છે, તેથી તેનું સંરક્ષણ કરવું ખૂબ જરૂરી છે:<br><br>૧. <b>કરકસર:</b> ખનીજોનો આડેધડ ઉપયોગ ટાળીને, તેનો કરકસરપૂર્વક અને વિવેકપૂર્ણ ઉપયોગ કરવો.<br>૨. <b>રિસાયક્લિંગ (Recycling):</b> વપરાયેલી અને ભંગાર ધાતુઓ (લોખંડ, તાંબુ, એલ્યુમિનિયમ) ને ઓગાળીને ફરીથી નવી વસ્તુઓ બનાવવી જોઈએ.<br>૩. <b>વિકલ્પોનો ઉપયોગ:</b> જે ખનીજો જલ્દી ખૂટી જાય તેમ છે, તેના વિકલ્પો શોધવા (દા.ત. તાંબાની જગ્યાએ એલ્યુમિનિયમ કે પ્લાસ્ટિકનો ઉપયોગ).<br>૪. <b>બિનપરંપરાગત ઊર્જા:</b> પેટ્રોલ-કોલસાની બચત કરવા સૌર ઊર્જા, પવન ઊર્જા અને બાયોગેસનો મહત્તમ ઉપયોગ કરવો.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ખનીજો બચાવવાના 3 રસ્તા: ઓછું વાપરો (કરકસર), જૂનાને ફરી ઓગાળીને નવું બનાવો (રિસાયકલ) અને પેટ્રોલની જગ્યાએ સૂર્ય કે પવનની મફત ઊર્જા વાપરો!</div></div>"
     }
+
+
 
 
             
