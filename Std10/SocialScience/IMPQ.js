@@ -1852,8 +1852,512 @@ var Std10_SocialScience_imp = [
         year_asked: "[May 2024]",
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પર્યાવરણની સુરક્ષા માટે ભારતમાં કયા દિવસને કયા દિન તરીકે ઉજવવામાં આવે છે? પ્રદૂષણ અટકાવવા ભારતે કયો ધારો પસાર કર્યો છે?</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>&bull; <b>પર્યાવરણ દિવસ:</b> પર્યાવરણમાં લોકોની જાગૃતિ વધારવા માટે દર વર્ષે <b>5 જૂન</b> ને <b>'વિશ્વ પર્યાવરણ દિન'</b> તરીકે ઉજવવામાં આવે છે.<br>&bull; <b>કાયદો:</b> ભારતમાં હવાનું પ્રદૂષણ અટકાવવા માટે ભારત સરકારે <b>ઈ.સ. 1981 માં 'વાયુ પ્રદૂષણ નિયંત્રણ ધારો'</b> (Air Pollution Control Act) પસાર કર્યો છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: માત્ર 2 જવાબ યાદ રાખવાના છે. દિવસ પૂછે તો '5 જૂન' અને કાયદો પૂછે તો '1981 નો વાયુ પ્રદૂષણ ધારો'! 2 માર્ક સીધા ખિસ્સામાં.</div></div>"
+    },
+        
+    {
+        chapter: 17,
+        marks: 3,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગરીબી એટલે શું? ગરીબી રેખા નીચે જીવતા (BPL) લોકોનાં લક્ષણો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જે લોકો પોતાની પાયાની અને પ્રાથમિક જરૂરિયાતો (અનાજ, કપડાં, રહેઠાણ, શિક્ષણ અને આરોગ્ય) પણ પૂરતા પ્રમાણમાં સંતોષી શકતા નથી તેવી સ્થિતિને 'ગરીબી' કહે છે.<br><br><b>BPL (Below Poverty Line) લોકોનાં લક્ષણો:</b><br>&bull; તેમને બે ટંક પૂરતું જમવાનું મળતું ન હોય.<br>&bull; રહેવા માટે પૂરતી અને ખુલ્લી જગ્યા ન હોય (ગંદા સ્લમ વિસ્તારમાં રહેતા હોય).<br>&bull; પરિવારની આવક નિર્ધારિત ગરીબી રેખા કરતા ઓછી હોય.<br>&bull; આયુષ્ય રાષ્ટ્રીય સરેરાશ આયુષ્ય કરતા ઓછું હોય અને તેઓ વારંવાર બીમાર પડતા હોય.<br>&bull; બાળકોને ભણવાની ઉંમરે મજૂરીએ જવું પડતું હોય.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: 'રોટી, કપડાં, મકાન, શિક્ષણ અને દવા' - આ 5 વસ્તુના ફાંફા હોય એટલે એ ગરીબ! બે ટંક જમવાનું ન મળે અને બાળકોને મજૂરી કરવી પડે એ BPL નું સૌથી મોટું લક્ષણ.</div></div>"
+    },
+
+    {
+        chapter: 17,
+        marks: 3,
+        year_asked: "[May 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભારતમાં ગરીબી ઉદ્ભવવાનાં કારણો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતમાં ગરીબી માટે નીચેના કારણો જવાબદાર છે:<br>૧. <b>કૃષિ ક્ષેત્રે નબળાઈ:</b> ગામડામાં મોટાભાગના લોકો ખેતી પર આધારિત છે, પરંતુ અપૂરતી સિંચાઈ અને વરસાદની અનિયમિતતાને લીધે આવક ઓછી થાય છે.<br>૨. <b>વસ્તી વિસ્ફોટ:</b> દેશમાં મૃત્યુદરમાં ઘટાડો થયો પણ જન્મદર ન ઘટ્યો, જેથી વસ્તી ઝડપથી વધી અને રોજગારી ઘટી ગઈ.<br>૩. <b>નિરક્ષરતા:</b> શિક્ષણ અને વ્યવસાયિક તાલીમના અભાવે લોકો નવા ઉદ્યોગોમાં કામ કરી શકતા નથી.<br>૪. <b>સામાજિક કુરિવાજો:</b> લગ્ન કે મરણ પાછળ દેખાદેખીથી થતા મોટા ખર્ચાઓને કારણે લોકો દેવાદાર બને છે.<br>૫. <b>ભાવવધારો (મોંઘવારી):</b> આવક સ્થિર રહે અને મોંઘવારી વધે એટલે ખરીદશક્તિ ઘટે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ગરીબીના 4 મોટા દુશ્મન: 1. વરસાદ આધારિત ખેતી, 2. બેફામ વધતી વસ્તી, 3. ભણતરનો અભાવ અને 4. ખોટા રીતિ-રિવાજોમાં થતો ખર્ચ!</div></div>"
+    },
+
+    {
+        chapter: 17,
+        marks: 3,
+        year_asked: "[March 2025, May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>મનરેગા (MGNREGA) કાર્યક્રમ વિશે વિસ્તૃત માહિતી આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>મહાત્મા ગાંધી રાષ્ટ્રીય ગ્રામીણ રોજગાર બાંહેધરી યોજના (MGNREGA) ગરીબી નિવારણનો સૌથી મોટો કાર્યક્રમ છે.<br><b>ધ્યેય: 'આપણું ગામ, આપણું કામ - સાથે મળે છે વ્યાજબી દામ'.</b><br><br><b>જોગવાઈઓ:</b><br>&bull; ગામડામાં રહેતા દરેક કુટુંબના એક પુખ્ત સભ્યને <b>વર્ષમાં 100 દિવસની રોજગારીની ગેરંટી</b> આપવામાં આવે છે.<br>&bull; રોજગારીમાં <b>1/3 ભાગ મહિલાઓ</b> માટે અનામત રાખવામાં આવે છે.<br>&bull; જો સરકાર કામ પૂરું પાડવામાં નિષ્ફળ જાય તો નિયમ મુજબ <b>'બેરોજગારી ભથ્થું'</b> ચૂકવવામાં આવે છે.<br>&bull; આમાં નહેરો સાફ કરવી, ચેકડેમ બનાવવા, અને વૃક્ષારોપણ જેવા કામો કરાવાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: મનરેગા એટલે '100 દિવસની રોજગારીની ગેરંટી'! તમારે કામ માંગવાનું, 15 દિવસમાં કામ ન આપે તો સરકાર તમને ઘરે બેઠા પૈસા (ભથ્થું) આપશે!</div></div>"
+    },
+
+    {
+        chapter: 17,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>અન્નપૂર્ણા યોજના (Annapurna Yojana) વિશે ટૂંકમાં જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગરીબી રેખા નીચે જીવતા (BPL) લોકો માટે અને <b>અતિ ગરીબ પરિવારો માટે</b> સરકાર દ્વારા આ યોજના શરૂ કરવામાં આવી છે.<br><br>&bull; આ યોજના હેઠળ <b>65 વર્ષથી વધુ ઉંમરના નિરાધાર વૃદ્ધોને</b> દર મહિને <b>10 કિલોગ્રામ અનાજ બિલકુલ મફત</b> આપવામાં આવે છે.<br>&bull; આ ઉપરાંત ગરીબ પરિવારોને દર મહિને 35 કિલો અનાજ (ઘઉં 2 રૂ. પ્રતિ કિલો અને ચોખા 3 રૂ. પ્રતિ કિલો) ખૂબ જ સસ્તા ભાવે આપવામાં આવે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: અન્નપૂર્ણા એટલે અનાજ આપનારી માતા! 65 વર્ષથી મોટા નિરાધાર વૃદ્ધોને 10 કિલો અનાજ સાવ મફત આપવાની આ યોજના છે.</div></div>"
+    },
+
+    {
+        chapter: 17,
+        marks: 2,
+        year_asked: "[July 2024 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>બેરોજગારી (Unemployment) એટલે શું? બેરોજગાર કોને કહેવાય?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જ્યારે કોઈપણ વ્યક્તિની <b>કામ કરવાની ઉંમર (15 થી 60 વર્ષ)</b> હોય, બજારમાં ચાલતા વેતન પર <b>કામ કરવાની ઈચ્છા અને શક્તિ</b> ધરાવતો હોય, છતાં તેને કામ ન મળતું હોય તો તેવી સ્થિતિને બેરોજગારી કહે છે.<br><br>આવી ફરજિયાત બેકારી ભોગવતા વ્યક્તિને <b>બેરોજગાર (Unemployed)</b> કહેવાય છે. બાળકો, વૃદ્ધો કે બીમાર લોકો જે કામ નથી કરી શકતા, તેમને બેરોજગાર ગણવામાં આવતા નથી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: વ્યક્તિની ઈચ્છા હોય, શરીરમાં તાકાત હોય, અને પગાર પણ સ્વીકારવા તૈયાર હોય, છતાં જો કામ ગોતવા જઈએ ને ન મળે... તો જ તેને બેરોજગાર કહેવાય! જે લોકો ઈચ્છાથી ઘરે બેઠા છે તે બેરોજગાર નથી.</div></div>"
+    },
+
+    {
+        chapter: 17,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>મોસમી બેરોજગારી (Seasonal Unemployment) એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતમાં મોટાભાગની ખેતી વરસાદ પર આધારિત છે.<br><br>જ્યારે ખેડૂતોને માત્ર ચોમાસાની <b>મોસમ (ઋતુ) માં જ ખેતીનું કામ મળે</b> અને બાકીના 3 થી 7 મહિના (જ્યારે વરસાદ ન હોય અને સિંચાઈની સગવડ ન હોય) કામ વગર બેસી રહેવું પડે, ત્યારે તે સ્થિતિને <b>મોસમી બેરોજગારી</b> કહે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: નામમાં જ અર્થ છે 'મોસમ'! વરસાદની મોસમ હોય ત્યારે ભરપૂર કામ મળે, અને ચોમાસું પૂરું થાય એટલે સિંચાઈના અભાવે ઘરે બેસવાનો વારો આવે, આ જ મોસમી બેરોજગારી.</div></div>"
+    },
+
+    {
+        chapter: 17,
+        marks: 3,
+        year_asked: "[May 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પ્રચ્છન્ન અથવા છૂપી બેરોજગારી (Disguised Unemployment) એટલે શું? ઉદાહરણ આપી સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જ્યારે કોઈ વ્યવસાય કે ખેતીમાં <b>જરૂર કરતા વધારે શ્રમિકો</b> કામમાં રોકાયેલા હોય, અને તે વધારાના શ્રમિકોને કામ પરથી હટાવી લેવામાં આવે તો પણ <b>કુલ ઉત્પાદનમાં કોઈ જ ફેર પડતો ન હોય</b>, તો તે વધારાના શ્રમિકોને પ્રચ્છન્ન (છૂપા) બેરોજગાર કહેવાય છે.<br><br><b>ઉદાહરણ:</b> કોઈ એક ખેતરમાં 5 શ્રમિકોની જરૂર છે, પણ ઘરના 8 લોકો તે ખેતરમાં કામ કરતા હોય. જો તે વધારાના 3 લોકોને ખેતરમાંથી કાઢી મૂકવામાં આવે તો પણ પાકના ઉત્પાદનમાં કોઈ ઘટાડો થતો નથી. આ 3 લોકો દેખીતી રીતે કામ કરે છે, પણ વાસ્તવમાં તેઓ 'છૂપા બેરોજગાર' છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: 5 માણસનું કામ 8 માણસ કરે! પેલા 3 માણસ ખાલી ખેતરમાં આંટા મારે છે, એમનાથી કોઈ ફાયદો નથી થતો. એ કામ કરતા 'દેખાય' છે પણ હકીકતમાં 'છૂપા' બેરોજગાર છે.</div></div>"
+    },
+
+    {
+        chapter: 17,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>માળખાગત બેરોજગારી (Structural Unemployment) કોને કહે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતનું આર્થિક માળખું પછાત અને રૂઢિચુસ્ત છે. <br><br>જ્યારે ઉદ્યોગોમાં <b>જૂની ટેકનોલોજીની જગ્યાએ નવી ટેકનોલોજી</b> આવે છે, ત્યારે જૂના શ્રમિકોને તે નવી ટેકનોલોજી કે મશીન ચલાવતા આવડતું ન હોવાથી તેમને રોજગારી ગુમાવવી પડે છે. આને માળખાગત બેરોજગારી કહે છે.<br>(દા.ત. કોમ્પ્યુટર આવવાથી ટાઈપરાઈટર ચલાવનાર લોકો બેરોજગાર બન્યા).<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: જૂનું મશીન જાય અને નવું આવે, પણ મજૂરને નવું મશીન ચલાવતા ન આવડે એટલે શેઠ એને નોકરીમાંથી કાઢી મૂકે! આ ટેકનોલોજી બદલાવાથી આવતી બેરોજગારી છે.</div></div>"
+    },
+
+    {
+        chapter: 17,
+        marks: 2,
+        year_asked: "[May 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શિક્ષિત બેરોજગારી (Educated Unemployment) એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જ્યારે વ્યક્તિએ <b>ઓછામાં ઓછું માધ્યમિક શિક્ષણ (ધોરણ 10 પાસ)</b> કે તેથી વધુ ભણતર (ડિગ્રી) મેળવ્યું હોય, અને તેને પોતાની લાયકાત મુજબની નોકરી કે રોજગારી ન મળતી હોય, ત્યારે તેવી સ્થિતિને શિક્ષિત બેરોજગારી કહેવાય છે.<br><br>ભારતમાં માત્ર પુસ્તકિયું જ્ઞાન અપાતું હોવાથી અને વ્યવસાયલક્ષી શિક્ષણ ન હોવાથી શિક્ષિત બેરોજગારીનું પ્રમાણ ખૂબ વધ્યું છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ડિગ્રી હાથમાં છે પણ નોકરી નથી! ઓછામાં ઓછું 10મું ધોરણ પાસ હોય અને નોકરી ન મળે તો એને 'શિક્ષિત બેરોજગાર' કહેવાય.</div></div>"
+    },
+
+    {
+        chapter: 17,
+        marks: 3,
+        year_asked: "[March 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભારતમાં બેરોજગારી વધવાનાં મુખ્ય કારણો કયા છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતમાં બેરોજગારી વધવા પાછળ નીચેના કારણો જવાબદાર છે:<br>૧. <b>વસ્તી વિસ્ફોટ:</b> વસ્તી જે ઝડપે વધે છે, તે ઝડપે રોજગારીની તકો વધતી નથી.<br>૨. <b>માત્ર સૈદ્ધાંતિક જ્ઞાન:</b> શિક્ષણ વ્યવસ્થા માત્ર 'ચોપડિયું જ્ઞાન' આપે છે, પ્રેક્ટિકલ કે ટેકનિકલ જ્ઞાનનો અભાવ છે.<br>૩. <b>ખેતી પર આધાર:</b> ખેતી વરસાદ પર આધારિત હોવાથી મોસમી બેરોજગારી રહે છે.<br>૪. <b>શ્રમની અગતિશીલતા:</b> લોકો પોતાનું વતન કે પરિવાર છોડીને દૂર નોકરી કરવા જવા તૈયાર હોતા નથી.<br>૫. <b>નાના ઉદ્યોગોની અવગણના:</b> સરકાર દ્વારા મોટા ઉદ્યોગો પર જ ધ્યાન અપાયું, જેથી રોજગારી આપતા નાના ઉદ્યોગો ભાંગી પડ્યા.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ભારતની બેરોજગારી માટે 3 બાબતો જવાબદાર: બેફામ વસ્તી, ગોખણપટ્ટીવાળું ભણતર, અને પોતાનું ગામ છોડીને બહાર નોકરી કરવા જવાની આળસ!</div></div>"
+    },
+
+    {
+        chapter: 17,
+        marks: 3,
+        year_asked: "[July 2025 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>બેરોજગારી ઘટાડવાના ઉપાયો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>બેરોજગારી ઘટાડવા નીચે મુજબના પગલાં લેવા જોઈએ:<br>૧. <b>ઝડપી ઔદ્યોગિકીકરણ:</b> ખાનગી અને વિદેશી મૂડીરોકાણ વધારીને નવા ઉદ્યોગો સ્થાપવા જોઈએ.<br>૨. <b>વ્યવસાયલક્ષી શિક્ષણ:</b> શાળાઓ અને કૉલેજોમાં માત્ર પુસ્તકિયા જ્ઞાનને બદલે ITI અને એન્જિનિયરિંગ જેવું કૌશલ્યલક્ષી (Skill-based) શિક્ષણ આપવું.<br>૩. <b>નાના ઉદ્યોગોનો વિકાસ:</b> ગૃહ ઉદ્યોગ અને લઘુ ઉદ્યોગોને સબસિડી આપવી, કારણ કે તેઓ ઓછા પૈસે વધુ લોકોને રોજગારી આપે છે.<br>૪. <b>ગ્રામીણ વિકાસ:</b> ગામડાઓમાં ખેતી સિવાયના સમયે ડેરી ઉદ્યોગ, મત્સ્ય ઉછેર અને વનીકરણ જેવી પ્રવૃત્તિઓ વિકસાવવી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: જો નોકરીઓ વધારવી હોય તો - નવી ફેક્ટરીઓ ખોલો, વિદ્યાર્થીઓને હાથની કળા (સ્કિલ) શીખવાડો અને ગામડામાં ડેરી ઉદ્યોગ ચાલુ કરાવો!</div></div>"
+    },
+
+    {
+        chapter: 17,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શ્રમશક્તિનું આયોજન (Labour Planning) બેરોજગારી ઘટાડવામાં કેવી રીતે મદદરૂપ થાય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આજના સમયમાં કમ્પ્યુટર, આઈટી, એન્જિનિયરિંગ અને વ્યવસ્થાપન (મેનેજમેન્ટ) ના ક્ષેત્રમાં શ્રમિકોની ખૂબ માંગ છે.<br><br><b>શ્રમશક્તિનું આયોજન એટલે:</b> ઉદ્યોગોને જે પ્રકારના કર્મચારીઓની જરૂર છે, તેવા જ પ્રકારના અભ્યાસક્રમો શાળાઓ કે કૉલેજોમાં તૈયાર કરવા. યુવાનોને વ્યવસાયિક તાલીમ અને કૌશલ્યલક્ષી (Skill) શિક્ષણ આપવું. આનાથી જેવો યુવાન ભણીને બહાર આવશે, તેને તરત જ ઉદ્યોગોમાં નોકરી મળી જશે અને શિક્ષિત બેરોજગારી ઘટશે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: માર્કેટમાં જેની ડિમાન્ડ છે એ જ વસ્તુ ભણાવો! ફેક્ટરી વાળાને કમ્પ્યુટર ઓપરેટર જોઈએ છે તો વિદ્યાર્થીઓને કમ્પ્યુટર જ શીખવાડો, એટલે ભણીને સીધી નોકરી મળી જાય.</div></div>"
+    },
+
+    {
+        chapter: 17,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિશ્વ શ્રમ બજાર (World Labour Market) એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જ્યારે <b>એક દેશના શ્રમિકો (લોકો) બીજા દેશમાં</b> રોજગારી, વ્યાપાર, ઉચ્ચ અભ્યાસ કે તાલીમ મેળવવા માટે જાય છે, ત્યારે શ્રમિકોની આ આંતરરાષ્ટ્રીય હેરફેરને 'વિશ્વ શ્રમ બજાર' કહે છે.<br><br>આજના વૈશ્વિકીકરણના સમયમાં ઉચ્ચ શિક્ષણ અને સારી નોકરીની શોધમાં ભારતીયો વિદેશ જાય છે, તેને જ વિશ્વ શ્રમ બજારનો હિસ્સો કહેવાય.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: દેશની બોર્ડર પાર કરીને ડોલર કમાવવા જવું! નોકરી કે ભણવા માટે ભારતમાંથી કેનેડા કે અમેરિકા જવું એટલે તમે વિશ્વ શ્રમ બજારના ભાગ બની ગયા.</div></div>"
+    },
+
+    {
+        chapter: 17,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગરીબી નિવારણ કાર્યક્રમ (PAP) હેઠળ 'પ્રધાનમંત્રી કૃષિ સિંચાઈ યોજના' નો હેતુ શું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પ્રધાનમંત્રી કૃષિ સિંચાઈ યોજનાનો <b>મુખ્ય ઉદ્દેશ: 'હર ખેત કો પાની' (દરેક ખેતરને પાણી)</b> પૂરો પાડવાનો છે.<br><br>આ યોજના હેઠળ ખેડૂતોને વરસાદ પર આધાર ન રાખવો પડે તે માટે સિંચાઈની સગવડોમાં વધારો કરવામાં આવે છે. આમાં ટપક સિંચાઈ પદ્ધતિ વિકસાવવી, ચેકડેમ બાંધવા અને ખેત-તલાવડીઓ બનાવી જળ સંકટ દૂર કરવાનું આયોજન છે, જેથી કૃષિ ઉત્પાદન અને ખેડૂતોની આવક વધે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: નામમાં જ સિંચાઈ છે! 'હર ખેત કો પાની'. જો ખેતરમાં પાણી પૂરતું મળશે તો ખેડૂત ચોમાસા સિવાય પણ પાક લઈ શકશે અને ગરીબી દૂર થશે.</div></div>"
+    },
+
+    {
+        chapter: 17,
+        marks: 2,
+        year_asked: "[May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>બ્રેઈન ડ્રેઈન (Brain Drain - બુદ્ધિધનનું બહિર્ગમન) એટલે શું? તેને કઈ રીતે રોકી શકાય?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>દેશના અત્યંત બુદ્ધિશાળી અને ટેકનિકલ જ્ઞાન ધરાવતા લોકો (જેમ કે ડૉક્ટરો, એન્જિનિયરો, વૈજ્ઞાનિકો) <b>વધુ સારા પગાર, સગવડો અને ઊંચા જીવનધોરણની લાલચમાં પોતાના દેશને છોડીને વિદેશમાં કાયમી સ્થાયી</b> થઈ જાય છે, તેને 'બુદ્ધિધનનું બહિર્ગમન' (Brain Drain) કહે છે.<br><br><b>રોકવાના ઉપાયો:</b><br>આવા તેજસ્વી યુવાનોને પોતાના દેશમાં જ યોગ્ય રોજગારી, પૂરતો પગાર અને સંશોધન માટેનું મુક્ત વાતાવરણ પૂરું પાડવું જોઈએ.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: આપણા દેશનું મગજ (Brain) બહાર વહી જાય છે (Drain)! ભણે ભારતમાં અને સેવા અમેરિકામાં આપે! ડોક્ટરો અને સાયન્ટિસ્ટોને રોકવા હોય તો તેમને ભારતમાં જ સારો પગાર અને સન્માન આપવું પડશે.</div></div>"
+    },
+
+    {
+        chapter: 18,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભાવવધારો એટલે શું? તે ક્યારે સમસ્યા બને છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>અર્થતંત્રમાં ચીજવસ્તુઓ અને સેવાઓની કિંમતોમાં <b>સતત અને એકધાર્યા થતા વધારાને</b> ભાવવધારો (ફુગાવો) કહે છે.<br><br><b>સમસ્યા ક્યારે બને?</b><br>સામાન્ય અને સ્થિર ભાવવધારો અર્થતંત્રના વિકાસ માટે ફાયદાકારક છે. પરંતુ, જ્યારે બધી જ વસ્તુઓના ભાવ એકસાથે ખૂબ ઝડપથી અને સતત વધવા લાગે, અને લોકોની આવક ન વધે ત્યારે તે અર્થતંત્ર માટે ગંભીર સમસ્યા (ફુગાવો) બની જાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: થોડો ભાવ વધે તો વેપારીઓને ફાયદો થાય એટલે સારો કહેવાય, પણ જો રોજેરોજ બધી જ વસ્તુ મોંઘી થવા માંડે તો આપણા જેવા સામાન્ય માણસનું બજેટ ખોરવાઈ જાય! સતત વધારો એટલે જ ફુગાવો.</div></div>"
+    },
+
+    {
+        chapter: 18,
+        marks: 3,
+        year_asked: "[May 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભાવવધારાના મુખ્ય કારણો જણાવો. (કોઈપણ ચાર)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>બજારમાં વસ્તુની <b>માંગ વધે અને પુરવઠો ઘટે</b> ત્યારે ભાવ વધે છે. તેના મુખ્ય કારણો નીચે મુજબ છે:<br>૧. <b>નાણાંના પુરવઠામાં વધારો:</b> સરકાર વધુ નોટો છાપે કે બેંકો સસ્તી લોન આપે ત્યારે લોકો પાસે પૈસા વધે છે અને તેઓ વધુ ખરીદી કરે છે.<br>૨. <b>વસ્તીવૃદ્ધિ:</b> વસ્તી વધવાથી રોજિંદી વસ્તુઓની માંગ ખૂબ ઝડપથી વધે છે.<br>૩. <b>કાળું નાણું (Black Money):</b> ટેક્સ ચોરીના છૂપા પૈસા લોકો મોજશોખની વસ્તુઓ પાછળ ઉડાવે છે, જેથી ભાવ વધે છે.<br>૪. <b>સંગ્રહખોરી અને કાળાબજાર:</b> વેપારીઓ વસ્તુઓ છુપાવીને (સંગ્રહ કરીને) કૃત્રિમ અછત ઊભી કરે છે અને ઊંચા ભાવે વેચે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ખિસ્સામાં પૈસા વધે (નાણાં પુરવઠો), ઘરમાં માણસો વધે (વસ્તી), બ્લેક મની વાપરે અને વેપારીઓ ગોડાઉનમાં માલ સંતાડી દે (સંગ્રહખોરી) એટલે ભાવ આસમાને પહોંચે જ!</div></div>"
+    },
+
+    {
+        chapter: 18,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કાળું નાણું (Black Money) ભાવવધારા માટે કઈ રીતે જવાબદાર છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જે આવક પર <b>સરકારને ટેક્સ (કરવેરો) ચૂકવ્યો ન હોય</b> અને હિસાબી ચોપડે નોંધાયેલી ન હોય, તેને કાળું નાણું કહે છે.<br><br>કાળું નાણું ધરાવતા લોકો ઇન્કમટેક્સની રેડના ડરથી આ પૈસા બેંકમાં રાખવાને બદલે જલ્દીથી વાપરી નાખવાની વૃત્તિ ધરાવે છે. તેઓ મોજશોખની વસ્તુઓ, જમીન કે મકાન ગમે તેટલા ઊંચા ભાવે ખરીદી લે છે. આથી બજારમાં વસ્તુઓની માંગ વધે છે અને ભાવમાં ભયંકર ઉછાળો આવે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ટેક્સ ચોરીનો બેનામી રૂપિયો! પોલીસના ડરથી આવા લોકો ફટાફટ પૈસા ઉડાવે છે, 100 ની વસ્તુ 500 માં ખરીદી લે છે, એટલે પાછળથી આપણા જેવા સામાન્ય માણસ માટે ભાવ વધી જાય છે.</div></div>"
+    },
+
+    {
+        chapter: 18,
+        marks: 3,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભાવવધારાની અસરો (માઠી અસરો) જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સતત ભાવવધારાથી અર્થતંત્ર અને સમાજ પર માઠી (ખરાબ) અસરો પડે છે:<br>૧. <b>ગરીબીમાં વધારો:</b> ગરીબ અને મધ્યમ વર્ગના લોકોનું જીવનધોરણ કથળે છે. તેઓ પાયાની જરૂરિયાતો પણ પૂરી કરી શકતા નથી.<br>૨. <b>બચતોમાં ઘટાડો:</b> આવકનો મોટો ભાગ જીવનજરૂરી વસ્તુઓ પાછળ ખર્ચાઈ જતો હોવાથી લોકોની બચત ઘટી જાય છે.<br>૩. <b>ગુનાખોરી વધવી:</b> મોંઘવારીથી કંટાળીને અને જરૂરિયાત પૂરી ન થતાં સમાજમાં ચોરી, લૂંટફાટ, હત્યા અને ભ્રષ્ટાચાર જેવા ગુનાઓ વધે છે.<br>૪. <b>નિકાસમાં ઘટાડો:</b> દેશમાં વસ્તુઓ મોંઘી બનતા વિદેશમાં આપણો માલ મોંઘો પડે છે, જેથી નિકાસ ઘટે છે અને વિદેશી કમાણી ઘટે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: મોંઘવારી વધે એટલે ગરીબ વધુ ગરીબ બને, ઘરમાં પૈસા બચે નહિ, અને પેટનો ખાડો પૂરવા લોકો ચોરી કે લૂંટફાટ જેવા ખોટા રસ્તે ચઢી જાય. દેશનું બેલેન્સ બગડી જાય!</div></div>"
+    },
+
+    {
+        chapter: 18,
+        marks: 3,
+        year_asked: "[March 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જાહેર વિતરણ પ્રણાલી (PDS) એટલે શું? તે ભાવવધારાને નિયંત્રિત કરવામાં કઈ રીતે મદદ કરે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગરીબી રેખા નીચે જીવતા (BPL) અને ઓછી આવક ધરાવતા લોકોને રાહત દરે જીવનજરૂરી વસ્તુઓ પૂરી પાડવાની વ્યવસ્થાને <b>જાહેર વિતરણ પ્રણાલી (Public Distribution System - PDS)</b> કહે છે.<br><br><b>કાર્ય પદ્ધતિ:</b><br>&bull; દેશમાં આવેલી <b>વાજબી ભાવની દુકાનો (Fair Price Shops)</b> દ્વારા ગરીબોને દર મહિને ઘઉં, ચોખા, ખાંડ, કેરોસીન જેવી વસ્તુઓ બજાર ભાવ કરતા <b>ખૂબ સસ્તા ભાવે</b> આપવામાં આવે છે.<br>&bull; આ સિસ્ટમને કારણે ગરીબ લોકોને ખુલ્લા બજારના ઊંચા ભાવનો સામનો કરવો પડતો નથી. આમ, ગરીબોના જીવનધોરણને મોંઘવારીથી રક્ષણ મળે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: PDS એટલે આપણા ગામની 'કંટ્રોલની દુકાન' અથવા 'રેશન કાર્ડની દુકાન'! બજારમાં ઘઉં 30 રૂપિયે કિલો હોય પણ આ દુકાને 2 રૂપિયે મળે, જેથી ગરીબો ભૂખ્યા ન સૂવે.</div></div>"
+    },
+
+    {
+        chapter: 18,
+        marks: 2,
+        year_asked: "[May 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગ્રાહક (Consumer) એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જે વ્યક્તિ <b>નાણાં (પૈસા) ચૂકવીને અથવા ચૂકવવાની બાંહેધરી આપીને</b> બજારમાંથી પોતાના ઉપયોગ માટે ચીજવસ્તુઓ કે સેવાઓ ખરીદે છે, તેને 'ગ્રાહક' કહેવામાં આવે છે.<br><br>દા.ત. દુકાનમાંથી સાબુ ખરીદનાર વ્યક્તિ, ટિકિટ ખરીદીને બસમાં મુસાફરી કરનાર મુસાફર, કે ફી ભરીને ડૉક્ટરની સેવા લેનાર દર્દી - આ બધા જ ગ્રાહક છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: મફતમાં મળે તો ગ્રાહક નહિ! ખિસ્સામાંથી પૈસા કાઢીને કોઈ વસ્તુ કે સર્વિસ લઈએ એટલે આપણે બજારના 'રાજા' (ગ્રાહક) બની ગયા!</div></div>"
+    },
+
+    {
+        chapter: 18,
+        marks: 3,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>બજારમાં ગ્રાહકોનું શોષણ કઈ કઈ રીતે થાય છે? (કોઈપણ ચાર પ્રકાર)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લોભી વેપારીઓ અને ઉત્પાદકો દ્વારા નીચેની રીતે ગ્રાહકનું શોષણ થાય છે:<br>૧. <b>વજન અને માપમાં છેતરપિંડી:</b> પેકિંગ પર લખ્યા કરતાં ઓછું વજન આપવું અથવા તોલમાપના સાધનો સાથે છેડછાડ કરવી.<br>૨. <b>ભેળસેળ અને હલકી ગુણવત્તા:</b> ખાવાની વસ્તુઓમાં નુકસાનકારક ભેળસેળ કરવી, ડુપ્લીકેટ કે એક્સપાયરી ડેટ વાળી વસ્તુઓ પધરાવી દેવી.<br>૩. <b>વધુ કિંમત વસૂલવી:</b> વસ્તુ પર છાપેલી કિંમત (MRP) કરતા ગ્રાહક પાસેથી વધુ પૈસા પડાવવા.<br>૪. <b>ખોટી જાહેરાતો:</b> ટીવી કે છાપામાં આકર્ષક અને ખોટી જાહેરાતો આપીને ગ્રાહકને લલચાવવો અને હલકો માલ પધરાવવો.<br>૫. <b>ખામીયુક્ત સેવા:</b> ગેરંટી કે વોરંટી આપ્યા પછી પણ ખરાબ થયેલી વસ્તુ રિપેર ન કરી આપવી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: વજનમાં દાંડી મારવી, દૂધમાં પાણી ભેળવવું, 10 ની વસ્તુ ના 15 લેવા, અને ટીવીમાં ગોરા થવાની ખોટી જાહેરાત બતાવવી - આ બધું જ ગ્રાહકનું શોષણ છે!</div></div>"
+    },
+
+    {
+        chapter: 18,
+        marks: 3,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગ્રાહક શોષણ માટેના કારણો કયા છે? સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગ્રાહક છેતરાય છે તેની પાછળ મુખ્ય 4 કારણો જવાબદાર છે:<br>૧. <b>ગ્રાહક પોતે જવાબદાર:</b> ગ્રાહકોમાં પોતાના અધિકારો પ્રત્યે જાગૃતિ નથી. તેઓ અજ્ઞાની છે અને શોષણ સામે લડવાની કે કાનૂની પગલાં લેવાની વૃત્તિ ધરાવતા નથી.<br>૨. <b>મર્યાદિત માહિતી:</b> બજારમાં હજારો વસ્તુઓ છે, પણ ગ્રાહક પાસે કઈ વસ્તુ અસલી છે અને કઈ નકલી તેનું પૂરતું જ્ઞાન કે માહિતી હોતી નથી.<br>૩. <b>મર્યાદિત પુરવઠો:</b> જ્યારે બજારમાં વસ્તુની માંગ વધુ હોય અને પુરવઠો ઓછો (અછત) હોય, ત્યારે વેપારી કાળાબજાર કરીને ગ્રાહકને લૂંટે છે.<br>૪. <b>મર્યાદિત હરીફાઈ:</b> જ્યારે બજારમાં કોઈ એક જ કંપનીની મોનોપોલી (ઇજારો) હોય, ત્યારે તે મનમાની કિંમત વસૂલીને શોષણ કરે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ગ્રાહકનું શોષણ કેમ થાય? કારણ કે ગ્રાહક બિચારો ભોળો અને ડરપોક છે, એની પાસે નોલેજ નથી, વસ્તુની બજારમાં અછત છે, અને બિલ માંગતો નથી!</div></div>"
+    },
+
+    {
+        chapter: 18,
+        marks: 3,
+        year_asked: "[May 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગ્રાહક સુરક્ષા અધિનિયમ મુજબ ગ્રાહકોના અધિકારો (હકો) કયા કયા છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગ્રાહક સુરક્ષા કાયદા મુજબ ગ્રાહકને <b>6 મુખ્ય અધિકારો</b> આપવામાં આવ્યા છે:<br>૧. <b>સલામતીનો અધિકાર:</b> વસ્તુના વપરાશથી ગ્રાહકના જીવ કે આરોગ્યને નુકસાન ન થાય તેવી સલામતી મેળવવાનો હક.<br>૨. <b>માહિતી મેળવવાનો અધિકાર:</b> વસ્તુની કિંમત, ગુણવત્તા, વજન, અને એક્સપાયરી ડેટ જાણવાનો હક.<br>૩. <b>પસંદગીનો અધિકાર:</b> બજારમાં રહેલી અનેક વસ્તુઓમાંથી પોતાની પસંદગીની વસ્તુ ખરીદવાનો હક.<br>૪. <b>રજૂઆત કરવાનો અધિકાર:</b> જો શોષણ થાય તો ગ્રાહક મંડળો કે ફોરમમાં પોતાની ફરિયાદ રજૂ કરવાનો હક.<br>૫. <b>ફરિયાદ નિવારણનો અધિકાર:</b> નુકસાન થાય તો અદાલત પાસેથી યોગ્ય વળતર (પૈસા) મેળવવાનો હક.<br>૬. <b>ગ્રાહક શિક્ષણનો અધિકાર:</b> જીવનભર જાગૃત ગ્રાહક બનવા માટે જરૂરી જ્ઞાન અને શિક્ષણ મેળવવાનો હક.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: 6 શબ્દો ગોખી મારો - 1. સલામતી, 2. માહિતી, 3. પસંદગી, 4. રજૂઆત, 5. નિવારણ, 6. શિક્ષણ. આ છ અધિકારો કાયદાએ આપેલા હથિયારો છે!</div></div>"
+    },
+
+    {
+        chapter: 18,
+        marks: 3,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગ્રાહક તરીકે ખરીદી કરતી વખતે તમારી ફરજો કઈ કઈ છે? (ગ્રાહકની ફરજો)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગ્રાહકે જાગૃત રહીને નીચેની ફરજો બજાવવી જોઈએ:<br>૧. <b>બિલ માંગવું:</b> વસ્તુ ખરીદ્યા પછી હંમેશા GST વાળું પાકું બિલ (કેશમેમો) અચૂક માંગવું અને સાચવવું.<br>૨. <b>માર્કો જોવો:</b> ઇલેક્ટ્રોનિક્સ વસ્તુઓ પર <b>ISI</b>, અને ખાવાની વસ્તુઓ પર <b>AGMARK</b> કે FSSAI નો માર્કો જોઈને જ ખરીદી કરવી.<br>૩. <b>માહિતી ચકાસવી:</b> પેકિંગ પર લખેલી એક્સપાયરી ડેટ, વજન, કંપનીનું નામ અને કિંમત વાંચીને જ ખરીદી કરવી.<br>૪. <b>ગેરંટી કાર્ડ:</b> વોરંટી કે ગેરંટી કાર્ડ પર દુકાનદારનો સિક્કો અને સહી અચૂક કરાવવા.<br>૫. <b>ફરિયાદ કરવી:</b> જો દુકાનદાર છેતરે તો ડર્યા વિના ગ્રાહક અદાલતમાં ફરિયાદ કરવી, સમાધાન ન કરવું.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: હક માંગવા હોય તો ફરજ પણ પૂરી કરવી પડે! હંમેશા પાકું બિલ માંગો, ISI નો લોગો જુઓ, એક્સપાયરી ડેટ ચેક કરો અને છેતરાવ તો ચૂપ ન બેસો, કોર્ટમાં જાઓ!</div></div>"
+    },
+
+    {
+        chapter: 18,
+        marks: 2,
+        year_asked: "[July 2025 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગ્રાહક સુરક્ષા અધિનિયમ, 1986 એટલે શું? તેમાં 24 ડિસેમ્બરનું શું મહત્વ છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગ્રાહકોના હકોનું રક્ષણ કરવા અને વેપારીઓની છેતરપિંડીથી બચાવવા માટે ભારત સરકારે <b>ઈ.સ. 1986 માં ગ્રાહક સુરક્ષા અધિનિયમ</b> (કાયદો) પસાર કર્યો હતો. આ કાયદો ગ્રાહકો માટે 'રામબાણ' સમાન છે.<br><br><b>24 ડિસેમ્બરનું મહત્વ:</b><br>ભારતીય સંસદમાં <b>24 ડિસેમ્બર, 1986</b> ના રોજ રાષ્ટ્રપતિએ આ ખરડા પર સહી કરી કાયદો બનાવ્યો હતો. તેથી, ભારતમાં દર વર્ષે 24 ડિસેમ્બરના દિવસને <b>'રાષ્ટ્રીય ગ્રાહક અધિકાર દિન'</b> તરીકે ઉજવવામાં આવે છે. (નોંધ: 15 માર્ચ 'વિશ્વ ગ્રાહક દિન' છે).<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: 1986 નો કાયદો એટલે ગ્રાહકોની ઢાલ! 24 ડિસેમ્બરે ઇન્ડિયાનો ગ્રાહક દિવસ અને 15 માર્ચે દુનિયાનો (વર્લ્ડ) ગ્રાહક દિવસ ઉજવાય છે.</div></div>"
+    },
+
+    {
+        chapter: 18,
+        marks: 3,
+        year_asked: "[March 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ત્રિ-સ્તરીય ગ્રાહક સુરક્ષા ફોરમ (અદાલતો) વિશે ટૂંકમાં માહિતી આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગ્રાહકોની ફરિયાદના ઝડપી અને સસ્તા નિવારણ માટે કાયદા મુજબ ત્રણ સ્તરની અદાલતો બનાવવામાં આવી છે (રાષ્ટ્રીય ગ્રાહક સુરક્ષા ધારા-1986 મુજબ):<br><br>૧. <b>જિલ્લા ફોરમ (District Forum):</b> દરેક જિલ્લામાં એક હોય છે. તેમાં <b>20 લાખ રૂપિયા સુધીના</b> વળતરના દાવાઓની ફરિયાદ કરી શકાય છે.<br>૨. <b>રાજ્ય કમિશન (State Commission):</b> દરેક રાજ્યના પાટનગરમાં હોય છે. તેમાં <b>20 લાખથી વધુ અને 1 કરોડ રૂપિયા સુધીના</b> દાવાઓની ફરિયાદ કરી શકાય છે.<br>૩. <b>રાષ્ટ્રીય કમિશન (National Commission):</b> તે દેશની સૌથી મોટી ગ્રાહક અદાલત છે જે દિલ્હીમાં છે. તેમાં <b>1 કરોડ રૂપિયાથી વધુ</b> રકમના દાવાઓની ફરિયાદ થાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: આ આંકડા ગોખી જ નાખજો! જિલ્લો = 20 લાખ સુધી, રાજ્ય = 20 લાખથી 1 કરોડ, અને રાષ્ટ્રીય (દિલ્હી) = 1 કરોડથી ઉપર!</div></div>"
+    },
+
+    {
+        chapter: 18,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વસ્તુઓની ગુણવત્તા નક્કી કરતા માર્કા: ISI અને AGMARK વિશે જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>૧. ISI માર્કો:</b><br>ભારત સરકારે ગુણવત્તા જાળવવા 1947 માં ઇન્ડિયન સ્ટાન્ડર્ડ ઇન્સ્ટિટ્યૂટ (ISI) ની સ્થાપના કરી (જે હવે BIS - બ્યુરો ઓફ ઇન્ડિયન સ્ટાન્ડર્ડ્સ તરીકે ઓળખાય છે). ઔદ્યોગિક પેદાશો, ઇલેક્ટ્રોનિક્સ સાધનો અને લોખંડ-સિમેન્ટ જેવી વસ્તુઓ પર <b>ISI નો માર્કો</b> લગાવવામાં આવે છે.<br><br><b>૨. એગમાર્ક (AGMARK):</b><br>ખેતી આધારિત ઉત્પાદનો (દા.ત. ઘી, મધ, તેલ, મસાલા અને ફળો) ની શુદ્ધતા અને ગુણવત્તાની ખાતરી આપવા માટે ભારત સરકાર દ્વારા <b>એગમાર્ક (AGMARK)</b> નો લોગો લગાવવામાં આવે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ફેક્ટરીમાં બનતા મશીનો અને વાયર પર ISI, અને ખેતરમાં પાકતી કે ખાવા-પીવાની વસ્તુઓ (મસાલા, ઘી) પર AGMARK! સિમ્પલ.</div></div>"
+    },
+
+    {
+        chapter: 18,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સોના-ચાંદીના દાગીના ખરીદતી વખતે કયો માર્કો જોવો જોઈએ? હોલમાર્ક વિશે જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સોના-ચાંદીના આભૂષણોની શુદ્ધતાની ખાતરી માટે ભારત સરકારના BIS દ્વારા <b>હોલમાર્ક (Hallmark)</b> નો સિક્કો મારવામાં આવે છે.<br><br><b>હોલમાર્કમાં શું જોવું?</b><br>૧. <b>BIS નો લોગો:</b> તે શુદ્ધતાની ગેરંટી આપે છે.<br>૨. <b>શુદ્ધતાનો આંકડો:</b> 22 કેરેટ સોના માટે <b>916</b> નો આંકડો છાપેલો હોય છે. (જે દર્શાવે છે કે 91.6% શુદ્ધ સોનું છે).<br>૩. <b>જે-તે વર્ષનો લોગો:</b> કયા વર્ષે દાગીનો બન્યો તેનો અંગ્રેજી મૂળાક્ષર (દા.ત. 'J' એટલે 2008).<br>૪. <b>જ્વેલરનો સિક્કો:</b> જે દુકાનેથી લીધું હોય તેનો નિશાન.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: દિવાળીએ સોનું લેવા જાવ ત્યારે 3 વસ્તુ ચેક કરવાની: BIS નો ત્રિકોણ વાળો લોગો, '916' લખેલું હોવું જોઈએ (22 કેરેટ), અને જ્વેલરની દુકાનનો સિક્કો!</div></div>"
+    },
+
+    {
+        chapter: 18,
+        marks: 2,
+        year_asked: "[May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>FPO અને ECO માર્કા વિશે ટૂંકમાં માહિતી આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>૧. FPO (Fruit Products Order):</b><br>ફળો અને શાકભાજીમાંથી બનતી પ્રિઝર્વ્ડ (સાચવી રાખેલી) વસ્તુઓ, જેમ કે જામ, ફ્રૂટ જ્યુસ, સ્ક્વોશ, અને ડબ્બાપેક ફળો પર શુદ્ધતા માટે <b>FPO</b> નો માર્કો લગાવવામાં આવે છે.<br><br><b>૨. ECO (ઈકો માર્કો):</b><br>જે વસ્તુઓ પર્યાવરણને નુકસાન ન કરતી હોય (Environment Friendly), તેવી વસ્તુઓ પર <b>માટીના ઘડા</b> ના ચિહ્ન વાળો ECO માર્કો લગાવાય છે. દા.ત. સાબુ, ડિટર્જન્ટ, કાગળ, અને પેકિંગ મટીરીયલ.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: FPO એટલે ફ્રુટ વાળી આઈટમો (જામ, જ્યુસ). અને ECO એટલે ઈકો-ફ્રેન્ડલી (પર્યાવરણને બચાવનાર), જેનો લોગો 'માટીનો ઘડો' છે!</div></div>"
+    },
+ {
+        chapter: 18,
+        marks: 3,
+        year_asked: "[July 2024 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આંતરરાષ્ટ્રીય કક્ષાએ ગુણવત્તા નક્કી કરતી સંસ્થાઓ (ISO અને CAC) વિશે જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વૈશ્વિક સ્તરે વેપાર માટે બે આંતરરાષ્ટ્રીય સંસ્થાઓ કામ કરે છે:<br><br><b>૧. ISO (International Organization for Standardization):</b><br>&bull; તેનું વડુંમથક <b>જીનીવા (સ્વિટ્ઝર્લેન્ડ)</b> માં છે.<br>&bull; તેનું કામ આંતરરાષ્ટ્રીય સમજૂતી મુજબ ઔદ્યોગિક પેદાશોની ગુણવત્તાનું પ્રમાણપત્ર (જેમ કે ISO 9001) આપવાનું છે.<br><br><b>૨. CAC (Codex Alimentarius Commission):</b><br>&bull; તેનું વડુંમથક <b>રોમ (ઇટાલી)</b> માં છે. તેની સ્થાપના WHO અને FAO એ ભેગા મળીને કરી છે.<br>&bull; તેનું કામ આંતરરાષ્ટ્રીય સ્તરે <b>ખાદ્યપદાર્થો (ખોરાક)</b> માટે ગુણવત્તાના ધોરણો નક્કી કરવાનું છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ISO એટલે ફેક્ટરીના માલની ઇન્ટરનેશનલ ક્વોલિટી (જીનીવા). અને CAC એટલે ઇન્ટરનેશનલ લેવલે ખાવા-પીવાની વસ્તુઓની ક્વોલિટી ચેક કરનાર સંસ્થા (રોમ). આ બે સ્થળોના નામ યાદ રાખજો!</div></div>"
+    },
+
+    {
+        chapter: 18,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગ્રાહક મંડળો (Consumer Organizations) કયા કાર્યો કરે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગ્રાહકોમાં જાગૃતિ લાવવા અને તેમના હકોનું રક્ષણ કરવા માટે બિન-સરકારી સંસ્થાઓ (NGO) તરીકે ગ્રાહક મંડળો ચાલે છે.<br><br><b>તેમના કાર્યો:</b><br>&bull; ગ્રાહકોને તેમના અધિકારો વિશે માહિતી આપવા સેમિનાર અને પ્રદર્શનો યોજવા.<br>&bull; <b>'ઇનસાઇટ'</b> કે <b>'ગ્રાહક સુરક્ષા'</b> જેવા મેગેઝીનો અને પત્રિકાઓ છાપીને લોકજાગૃતિ લાવવી.<br>&bull; બજારની વસ્તુઓનું લેબોરેટરીમાં ટેસ્ટિંગ કરાવી ભેળસેળ ખુલ્લી પાડવી.<br>&bull; છેતરાયેલા ગ્રાહકોને અદાલતમાં મફતમાં કાનૂની માર્ગદર્શન અને મદદ પૂરી પાડવી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: 'જાગો ગ્રાહક જાગો'! આ મંડળો ગ્રાહકોના વકીલ છે. તે લોકોમાં જ્ઞાન વહેંચે છે, મેગેઝીન છાપે છે અને જો દુકાનદાર ન માને તો કોર્ટમાં લડવામાં મફત મદદ કરે છે.</div></div>"
+    },
+
+    {
+        chapter: 18,
+        marks: 3,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગ્રાહકે ફરિયાદ ક્યારે, ક્યાં અને કઈ રીતે કરવી જોઈએ?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જ્યારે દુકાનદાર ખામીયુક્ત વસ્તુ બદલી ન આપે અથવા વળતર ન આપે ત્યારે ગ્રાહકે ફરિયાદ કરવી જોઈએ.<br><br>&bull; <b>ક્યારે?:</b> વસ્તુ ખરીદ્યાના કે નુકસાન થયાના <b>બે વર્ષની અંદર</b> ફરિયાદ કરી દેવી જોઈએ.<br>&bull; <b>ક્યાં?:</b> નુકસાનની રકમ મુજબ જિલ્લા ફોરમ, રાજ્ય કમિશન કે રાષ્ટ્રીય કમિશનમાં ફરિયાદ થાય છે.<br>&bull; <b>કઈ રીતે?:</b> ફરિયાદ કરવા માટે <b>કોઈ વકીલની જરૂર નથી</b>. ગ્રાહક જાતે જ સાદા કાગળ પર, ટાઈપ કરીને કે ઈમેલ દ્વારા પોતાની વિગતો અને પુરાવા (બિલ, ગેરંટી કાર્ડની ઝેરોક્ષ) સાથે અરજી કરી શકે છે. ફરિયાદ માટે નજીવી કોર્ટ ફી ભરવી પડે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ડરવાની જરૂર નથી! ગ્રાહક અદાલતમાં વકીલનો ખર્ચો કરવાની કોઈ જરૂર નથી. સાદા કાગળ પર બિલની ઝેરોક્ષ લગાવીને જાતે જ ફરિયાદ આપી શકાય. માત્ર 2 વર્ષની સમયમર્યાદા યાદ રાખજો!</div></div>"
+    },
+        
+    {
+        chapter: 19,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>માનવ વિકાસ એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>માત્ર દેશની આવક વધે તે પૂરતું નથી, પરંતુ લોકોના <b>જીવનધોરણમાં સુધારો</b> થાય તેને માનવ વિકાસ કહેવાય.<br><br>માનવ વિકાસ એટલે માનવીની પોતાની રસ, રુચિ, આવડત અને બુદ્ધિક્ષમતા મુજબ <b>સફળ અને સર્જનાત્મક જીવન જીવવાની તકોમાં વધારો</b> કરવો. તેમાં સારું સ્વાસ્થ્ય, શિક્ષણ, સમાનતા અને માનવ અધિકારોનો સમાવેશ થાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: માત્ર ખિસ્સામાં પૈસા વધે એ 'આર્થિક વિકાસ', પણ માણસનું આયુષ્ય વધે, હોશિયાર બને અને ખુશ રહે એ 'માનવ વિકાસ'! માણસની કાબેલિયત ખીલવવી એટલે માનવ વિકાસ.</div></div>"
+    },
+
+    {
+        chapter: 19,
+        marks: 3,
+        year_asked: "[May 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>માનવ વિકાસ આંક (HDI) ના માપદંડો (નિર્દેશકો) કયા કયા છે? સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સંયુક્ત રાષ્ટ્ર વિકાસ કાર્યક્રમ (UNDP) દ્વારા માનવ વિકાસ આંક માપવા માટે <b>3 મુખ્ય નિર્દેશકો</b> નક્કી કરાયા છે:<br><br>૧. <b>અપેક્ષિત આયુષ્ય આંક (Life Expectancy Index - સ્વાસ્થ્ય):</b> બાળક જન્મ સમયે કેટલા વર્ષનું આયુષ્ય ભોગવશે તેવી અપેક્ષા. (મહત્તમ 83.6 વર્ષ અને ન્યૂનતમ 20 વર્ષ).<br>૨. <b>શિક્ષણ આંક (Education Index):</b> તેમાં બે બાબતો છે - શાળાકીય સરેરાશ વર્ષો અને શાળાકીય અપેક્ષિત વર્ષો.<br>૩. <b>આવક આંક (Income Index - જીવનધોરણ):</b> વ્યક્તિની માથાદીઠ આવક અને દેશની રાષ્ટ્રીય આવક (ડોલરમાં) મપાય છે, જે ખરીદશક્તિ દર્શાવે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: HDI ના 3 પાયા: 1. લાંબુ જીવવું (આયુષ્ય-આરોગ્ય), 2. સારું ભણવું (શિક્ષણ), અને 3. ખિસ્સામાં પૈસા હોવા (આવક-જીવનધોરણ). આ 3 વસ્તુ સારી તો દેશનો HDI સારો!</div></div>"
+    },
+
+    {
+        chapter: 19,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>માનવ વિકાસ અહેવાલ (HDR) 2015 મુજબ ભારતની સ્થિતિ શું હતી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વર્ષ 2015 માં UNDP દ્વારા 188 દેશોનો માનવ વિકાસ અહેવાલ બહાર પાડવામાં આવ્યો હતો.<br><br>&bull; <b>પ્રથમ ક્રમ:</b> તેમાં 0.944 ના ઉચ્ચતમ આંક સાથે <b>નોર્વે</b> દેશ પ્રથમ ક્રમે હતો.<br>&bull; <b>ભારતનો ક્રમ:</b> ભારતનો માનવ વિકાસ આંક 0.609 હતો અને તેનો <b>130 મો ક્રમ</b> હતો.<br>&bull; ભારતનો સમાવેશ 'મધ્યમ માનવ વિકાસ' વાળા દેશોની શ્રેણીમાં થયો હતો.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: પરીક્ષામાં આંકડા ગોખવા પડશે! કુલ 188 દેશો, પહેલો નંબર નોર્વે, અને આપણો ભારત 130 મા નંબરે પાસ થયો (મધ્યમ ક્લાસમાં)!</div></div>"
+    },
+
+    {
+        chapter: 19,
+        marks: 2,
+        year_asked: "[July 2024 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>માનવ વિકાસ અહેવાલમાં દેશોનું વર્ગીકરણ કઈ રીતે કરવામાં આવ્યું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>માનવ વિકાસ આંક (HDI) ના આધારે 188 દેશોને 4 વિભાગોમાં વહેંચવામાં આવ્યા છે:<br>૧. <b>ઉચ્ચતમ માનવ વિકાસ:</b> (1 થી 49 દેશો) - નોર્વે, ઓસ્ટ્રેલિયા.<br>૨. <b>ઉચ્ચ માનવ વિકાસ:</b> (50 થી 105 દેશો) - રશિયા, શ્રીલંકા.<br>૩. <b>મધ્યમ માનવ વિકાસ:</b> (106 થી 143 દેશો) - <b>ભારત</b>, ઈન્ડોનેશિયા.<br>૪. <b>નિમ્ન માનવ વિકાસ:</b> (144 થી 188 દેશો) - પાકિસ્તાન, નાઈઝર.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: 4 ક્લાસ પડ્યા: સુપર હોશિયાર (ઉચ્ચતમ), હોશિયાર (ઉચ્ચ), મધ્યમ (જેમાં આપણો દેશ ભારત આવે), અને નબળા (નિમ્ન - જેમાં પાકિસ્તાન આવે)!</div></div>"
+    },
+
+    {
+        chapter: 19,
+        marks: 2,
+        year_asked: "[March 2024, May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>માનવ વિકાસ સામેના મુખ્ય પડકારો (Challenges) કયા છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતમાં માનવ વિકાસ સાધવા માટે <b>મુખ્ય 3 પડકારો</b> રહેલા છે, જેને દૂર કરવા ખૂબ જરૂરી છે:<br><br>૧. <b>સ્વાસ્થ્ય (આરોગ્ય):</b> કુપોષણ, રોગો અને આરોગ્યની પૂરતી સુવિધાનો અભાવ.<br>૨. <b>લૈંગિક સમાનતા (સ્ત્રી-પુરુષ સમાનતા):</b> દેશમાં દીકરા અને દીકરીઓ વચ્ચે જોવા મળતો ભેદભાવ.<br>૩. <b>મહિલા સશક્તિકરણ:</b> સ્ત્રીઓને શિક્ષણ, રોજગારી અને નિર્ણય લેવાની સત્તામાં પાછળ રાખવી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: 3 મોટા દુશ્મન છે: 1. પબ્લિકનું ખરાબ આરોગ્ય, 2. દીકરા-દીકરી વચ્ચેનો ભેદભાવ, અને 3. સ્ત્રીઓને દબાવી રાખવી (સશક્તિકરણનો અભાવ).</div></div>"
+    },
+
+    {
+        chapter: 19,
+        marks: 3,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભારતમાં મહિલાઓ સાથે કેવા પ્રકારનો ભેદભાવ જોવા મળે છે? સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતીય સમાજમાં પ્રાચીનકાળથી સ્ત્રીઓ સાથે અનેક પ્રકારના ભેદભાવ થાય છે:<br>૧. <b>દીકરાની ઘેલછા:</b> ભારતીય સમાજમાં વંશ આગળ વધારવા દીકરાને જ મહત્વ અપાય છે, તેથી સ્ત્રી-ભ્રૂણ હત્યા (દીકરીને ગર્ભમાં જ મારી નાખવી) જોવા મળે છે.<br>૨. <b>શિક્ષણ અને ઉછેરમાં ભેદભાવ:</b> દીકરાને ભણાવવામાં આવે છે, જ્યારે દીકરીને માત્ર ઘરકામ માટે જ યોગ્ય માનવામાં આવે છે.<br>૩. <b>આર્થિક ભેદભાવ:</b> સમાન કામ કરવા છતાં સ્ત્રીઓને પુરુષો કરતાં ઓછો પગાર (વેતન) આપવામાં આવે છે.<br>૪. <b>નિર્ણયશક્તિ:</b> કુટુંબમાં કે સામાજિક બાબતોમાં સ્ત્રીઓને કોઈ નિર્ણય લેવાની સ્વતંત્રતા હોતી નથી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: દીકરો આવે તો પેંડા અને દીકરી આવે તો નિઃસાસા! દીકરો ભણવા જાય, દીકરી ઘરકામ કરે, અને નોકરીએ જાય તો પગાર પણ ઓછો મળે. આ 4 ભેદભાવ પેપરમાં લખી દેવા.</div></div>"
+    },
+
+    {
+        chapter: 19,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>મહિલા સશક્તિકરણ (Women Empowerment) એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સ્ત્રીઓને શારીરિક, માનસિક, સામાજિક અને આર્થિક રીતે સક્ષમ બનાવીને સમાજમાં પુરુષની સમાન દરજ્જો આપવો, તેને <b>મહિલા સશક્તિકરણ</b> કહેવાય છે.<br><br>તેનો મુખ્ય ઉદ્દેશ સ્ત્રીઓને પોતાના જીવનના નિર્ણયો જાતે લેવાની સ્વતંત્રતા આપવી, તેમને આર્થિક રીતે પગભર કરવી અને તેમના પર થતા અત્યાચારો અટકાવવાનો છે. જો સ્ત્રી સશક્ત બનશે, તો આખો પરિવાર અને દેશ સશક્ત બનશે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: સ્ત્રીઓને ઘરની 4 દીવાલોમાંથી બહાર કાઢી, ભણાવી-ગણાવીને આર્થિક રીતે સ્વતંત્ર કરવી અને પોતાના નિર્ણયો લેવાની પાવર (સત્તા) આપવી એટલે સશક્તિકરણ!</div></div>"
+    },
+
+    {
+        chapter: 19,
+        marks: 3,
+        year_asked: "[March 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>મહિલા કલ્યાણ માટે ગુજરાત સરકારની કોઈપણ 4 યોજનાઓ જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>મહિલા સશક્તિકરણ માટે ગુજરાત સરકારે નીચેની યોજનાઓ અમલમાં મૂકી છે:<br>૧. <b>સરસ્વતી સાધના યોજના:</b> ધોરણ 9 માં પ્રવેશ મેળવતી દીકરીઓને શાળાએ જવા માટે વિનામૂલ્યે <b>સાયકલ</b> આપવામાં આવે છે.<br>૨. <b>વિદ્યાલક્ષ્મી બોન્ડ:</b> દીકરીઓના ડ્રોપ-આઉટ (અધવચ્ચેથી શાળા છોડવી) ઘટાડવા માટે ધોરણ 1 માં પ્રવેશ વખતે <b>2000 રૂપિયાનો વિદ્યાલક્ષ્મી બોન્ડ</b> અપાય છે.<br>૩. <b>ચિરંજીવી યોજના:</b> ગરીબ મહિલાઓને પ્રસૂતિ (ડિલિવરી) વખતે સરકારી દવાખાનામાં વિનામૂલ્યે સારવાર અને દવાઓ અપાય છે.<br>૪. <b>ઈ-મમતા કાર્યક્રમ:</b> સગર્ભા માતા અને બાળકના સ્વાસ્થ્યની નોંધણી મોબાઈલ દ્વારા કરી તેમને રસીકરણ અને પોષણની માહિતી પૂરી પડાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: દીકરી સ્કૂલે જાય એટલે સાયકલ (સરસ્વતી), પહેલા ધોરણમાં બોન્ડ (વિદ્યાલક્ષ્મી), ડિલિવરી માટે મફત સારવાર (ચિરંજીવી) અને રસીકરણ માટે ઓનલાઇન સિસ્ટમ (ઈ-મમતા)! 4 નામ ગોખી મારો.</div></div>"
+    },
+
+    {
+        chapter: 19,
+        marks: 2,
+        year_asked: "[May 2024, July 2025 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'181 અભયમ હેલ્પલાઈન' વિશે ટૂંકમાં માહિતી આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>મહિલાઓની સુરક્ષા અને તેમને ત્વરિત ન્યાય આપવા માટે ગુજરાત સરકાર દ્વારા <b>'181 અભયમ મહિલા હેલ્પલાઇન'</b> શરૂ કરવામાં આવી છે.<br><br>&bull; ઘરેલુ હિંસા (મારઝૂડ), છેડતી કે જાતીય સતામણીથી પીડિત મહિલાઓ કોઈપણ સમયે (24x7) આ <b>ટોલ-ફ્રી નંબર</b> પર કૉલ કરી શકે છે.<br>&bull; કૉલ મળતા જ <b>રેસ્ક્યુ વાન (પોલીસ)</b> તાત્કાલિક તે મહિલા પાસે પહોંચે છે, તેને બચાવે છે અને કાનૂની માર્ગદર્શન કે કાઉન્સેલિંગ પણ પૂરું પાડે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: મહિલાઓને 'ભય' માંથી મુક્ત કરે તે 'અ-ભયમ'! કોઈ પણ છેડતી કરે કે હેરાન કરે, બસ 181 ડાયલ કરો, પોલીસ વાન 10 મિનિટમાં હાજર! 2 માર્કમાં સૌથી સહેલો પ્રશ્ન.</div></div>"
+    },
+
+    {
+        chapter: 19,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'બેટી બચાવો, બેટી પઢાવો' અભિયાનનો મુખ્ય હેતુ શું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતમાં ઘટતા જતા સ્ત્રીઓના પ્રમાણને (Sex Ratio) રોકવા અને સ્ત્રી-ભ્રૂણ હત્યા અટકાવવા માટે ભારત સરકારે <b>'બેટી બચાવો, બેટી પઢાવો'</b> અભિયાન શરૂ કર્યું છે.<br><br><b>હેતુ:</b> દીકરીને ગર્ભમાં મરતી બચાવવી, તેને શિક્ષિત કરવી અને સમાજમાં દીકરા સમાન દરજ્જો આપવો. આ અભિયાનથી સ્ત્રી સશક્તિકરણને વેગ મળે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ગર્ભપરીક્ષણ કરાવીને દીકરીઓને મારવાનું બંધ કરાવો! દીકરીને બચાવો અને પછી એને ભણાવો, જેથી તે પોતાના પગ પર ઊભી રહી શકે. બસ આ જ છે બેટી બચાવો.</div></div>"
+    },
+
+    {
+        chapter: 19,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આરોગ્ય ક્ષેત્રે (સ્વાસ્થ્યમાં) ભારતે કેવા સુધારા નોંધાવ્યા છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>માનવ વિકાસ માટે સારું આરોગ્ય ખૂબ જરૂરી છે. ભારતે આ ક્ષેત્રે મોટી સિદ્ધિઓ મેળવી છે:<br>&bull; <b>આયુષ્ય વધ્યું:</b> લોકોના સરેરાશ આયુષ્યમાં મોટો વધારો થયો છે (2015 માં 68 વર્ષ થયું છે).<br>&bull; <b>રોગો પર નિયંત્રણ:</b> રસીકરણ કાર્યક્રમથી <b>પોલિયો, શીતળા અને પ્લેગ</b> જેવા રોગોને ભારતમાંથી સંપૂર્ણ નાબૂદ કરી શકાયા છે.<br>&bull; બાળ મૃત્યુદર અને માતા મૃત્યુદરમાં નોંધપાત્ર ઘટાડો નોંધાયો છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: દવાખાનાઓ વધ્યા એટલે શું ફાયદો થયો? શીતળા-પોલિયો ગાયબ થઈ ગયા, બાળકોનું મરવાનું ઘટ્યું અને માણસો વધુ લાંબુ જીવવા લાગ્યા!</div></div>"
+    },
+
+    {
+        chapter: 19,
+        marks: 2,
+        year_asked: "[May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આર્થિક વિકાસ અને માનવ વિકાસ વચ્ચેનો સંબંધ સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આર્થિક વિકાસ (પૈસા વધવા) એ <b>સાધન</b> છે, જ્યારે માનવ વિકાસ (સુખી જીવન) એ તેનું <b>સાધ્ય (લક્ષ્ય)</b> છે.<br><br>જો દેશનો આર્થિક વિકાસ થાય પણ તેના ફળ ગરીબો સુધી ન પહોંચે, તો માનવ વિકાસ થતો નથી. માનવ વિકાસ ત્યારે જ થયો કહેવાય જ્યારે આવક વધવાની સાથે લોકોના આરોગ્ય, શિક્ષણ અને જીવનધોરણમાં વાસ્તવિક સુધારો થાય.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: માત્ર પૈસા કમાવા એ 'આર્થિક વિકાસ' છે, પણ એ પૈસાથી બાળકોને સારું ભણતર અને સારું ખાવાનું મળે તો જ 'માનવ વિકાસ' થયો કહેવાય! પૈસા સાધન છે, સુખ એ લક્ષ્ય છે.</div></div>"
+    },
+
+    {
+        chapter: 19,
+        marks: 3,
+        year_asked: "[May 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભારત સરકારે (કેન્દ્ર સરકારે) મહિલા સમાનતા માટે લીધેલા પગલાં જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કેન્દ્ર સરકારે મહિલાઓની સ્થિતિ સુધારવા અનેક કાયદા અને પગલાં લીધા છે:<br>૧. <b>રાષ્ટ્રીય મહિલા આયોગ:</b> 1992 માં સ્ત્રીઓના હકોના રક્ષણ માટે રાષ્ટ્રીય મહિલા આયોગની સ્થાપના કરી.<br>૨. <b>અનામત (Reservation):</b> પંચાયતી રાજની સંસ્થાઓ (સ્થાનિક સ્વરાજ્ય) માં મહિલાઓ માટે <b>33% બેઠકો અનામત</b> રાખવામાં આવી છે (ગુજરાતમાં 50% છે).<br>૩. <b>મિલકતમાં સમાન હક:</b> કાયદામાં સુધારો કરી પિતાની મિલકતમાં દીકરીઓને દીકરા સમાન સમાન હિસ્સો આપવામાં આવ્યો છે.<br>૪. <b>રાષ્ટ્રીય નીતિ:</b> 2001 માં કેન્દ્ર સરકારે 'મહિલા સશક્તિકરણ રાષ્ટ્રીય નીતિ' અમલમાં મૂકી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: 3 વસ્તુ ખાસ યાદ રાખો: સરપંચની ચૂંટણીમાં 33% મહિલાઓ જ ઊભી રહી શકે (અનામત), પપ્પાની જમીનમાં દીકરીને ભાગ મળે, અને 1992 માં મહિલા આયોગ બન્યું!</div></div>"
+    },
+
+    {
+        chapter: 19,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સંયુક્ત રાષ્ટ્ર વિકાસ કાર્યક્રમ (UNDP) વિશે માહિતી આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>UNDP (United Nations Development Programme)</b> એ સંયુક્ત રાષ્ટ્રોની એક સંસ્થા છે.<br><br>તે દર વર્ષે વિશ્વના દેશોનો <b>માનવ વિકાસ અહેવાલ (Human Development Report - HDR)</b> પ્રકાશિત કરે છે. 1990 થી આ અહેવાલ બહાર પાડવામાં આવે છે. તેમાં દેશોની કામગીરીનું મૂલ્યાંકન આયુષ્ય, શિક્ષણ અને આવકના 3 નિર્દેશકોના આધારે કરવામાં આવે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: દુનિયાભરના દેશોની 'માર્કશીટ' બનાવનારી સંસ્થા એટલે UNDP! દર વર્ષે તે રિપોર્ટ બહાર પાડે છે અને કોનો કયો નંબર આવ્યો તે જાહેર કરે છે (1990 થી).</div></div>"
+    },
+
+    {
+        chapter: 19,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સ્વાસ્થ્ય (આરોગ્ય) સુધારવા માટે કયા કયા પડકારો હજુ પણ બાકી છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતે આરોગ્ય ક્ષેત્રે પ્રગતિ કરી છે છતાં ઘણા પડકારો બાકી છે:<br>&bull; ભારતમાં <b>કુપોષણ</b> એક મોટી સમસ્યા છે. લાખો બાળકો અને સ્ત્રીઓ લોહતત્વની ઉણપ (એનીમિયા) નો શિકાર છે.<br>&bull; ડેન્ગ્યૂ, ચિકનગુનિયા, મેલેરિયા અને અન્ય પાણીજન્ય રોગો પર હજુ સંપૂર્ણ નિયંત્રણ મેળવી શકાયું નથી.<br>&bull; ગ્રામ્ય વિસ્તારોમાં હજુ પણ પૂરતા ડૉક્ટરો અને સરકારી હોસ્પિટલોની સગવડ નથી, તેમજ શુદ્ધ પીવાના પાણીનો અભાવ છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: પોલિયો તો મટી ગયો, પણ મચ્છરથી થતા ડેન્ગ્યુ-મેલેરિયા હજુ ચાલુ છે! ગામડાઓમાં હોસ્પિટલ નથી અને ગરીબોના બાળકો હજુ પૂરતો ખોરાક ન મળવાથી કુપોષિત છે. આ જ આપણા પડકારો છે.</div></div>"
+    },
+
+    {
+        chapter: 20,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સાંપ્રદાયિકતા (Communalism) એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જ્યારે કોઈ ધાર્મિક જૂથ કે સમુદાય પોતાના ધર્મને શ્રેષ્ઠ માને અને બીજા ધર્મોને નીચા દેખાડવાનો પ્રયાસ કરે, તથા રાષ્ટ્રના હિત કરતા <b>પોતાના ધાર્મિક હિતને વધુ મહત્વ આપે</b> ત્યારે તેવી વિચારધારાને 'સાંપ્રદાયિકતા' કહે છે.<br><br>આ વિચારધારા સમાજમાં નફરત, ઈર્ષ્યા અને ઝઘડાઓ ઊભા કરે છે, જે દેશની રાષ્ટ્રીય એકતા માટે સૌથી મોટો ખતરો છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: 'મારો ધર્મ જ બેસ્ટ અને તારો ધર્મ ખરાબ' - આવી કટ્ટર વિચારસરણી એટલે સાંપ્રદાયિકતા! આ ઝેર માણસને માણસનો દુશ્મન બનાવે છે અને દેશના ટુકડા કરે છે.</div></div>"
+    },
+
+    {
+        chapter: 20,
+        marks: 3,
+        year_asked: "[May 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સાંપ્રદાયિકતા દૂર કરવાના ઉપાયો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સાંપ્રદાયિકતા દૂર કરવા નીચે મુજબના પગલાં લેવા જોઈએ:<br>૧. <b>કડક કાયદા:</b> ધર્મના નામે તોફાનો કે હિંસા ફેલાવનારાઓ સામે કડક કાનૂની પગલાં લેવા જોઈએ.<br>૨. <b>શિક્ષણની ભૂમિકા:</b> શાળાઓના અભ્યાસક્રમમાં <b>'સર્વધર્મ સમભાવ'</b> અને તમામ ધર્મોના સારા મૂલ્યોનો સમાવેશ કરવો જોઈએ.<br>૩. <b>રાજકીય પક્ષો પર નિયંત્રણ:</b> ચૂંટણીમાં ધર્મ કે જ્ઞાતિના નામે મત માંગવા પર પ્રતિબંધ મૂકવો જોઈએ.<br>૪. <b>માધ્યમો (Media):</b> રેડિયો અને ટીવી પર ધાર્મિક કટ્ટરતા ફેલાવતા કાર્યક્રમોને બદલે રાષ્ટ્રીય એકતા વધારતા કાર્યક્રમો પ્રસારિત કરવા જોઈએ.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: 3 કામ કરો: બાળકોને સ્કૂલમાં ભાઈચારો ભણાવો, નેતાઓને ધર્મના નામે વોટ માંગતા રોકો અને ટીવી પર નફરત ફેલાવતા ન્યૂઝ બંધ કરો!</div></div>"
+    },
+
+    {
+        chapter: 20,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લઘુમતી (Minority) એટલે શું? ભારતમાં લઘુમતીઓ કોને કહેવાય?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતના બંધારણમાં લઘુમતીની કોઈ સ્પષ્ટ વ્યાખ્યા નથી, છતાં સામાન્ય રીતે <b>દેશની કુલ વસ્તીના 50% કરતા ઓછી વસ્તી</b> ધરાવતા ધાર્મિક કે ભાષાકીય સમૂહને 'લઘુમતી' કહે છે.<br><br><b>ભારતમાં લઘુમતીઓ:</b><br>ભારતમાં <b>હિન્દુ ધર્મ</b> બહુમતીમાં છે. જ્યારે મુસ્લિમ, ખ્રિસ્તી, શીખ, બૌદ્ધ, જૈન અને પારસી ધર્મ પાળતા લોકોને <b>રાષ્ટ્રીય સ્તરે લઘુમતી</b> તરીકે માન્યતા આપવામાં આવી છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: લઘુ એટલે નાનું. જે ધર્મ કે ભાષા બોલવા વાળા લોકો 50% કરતા ઓછા હોય તે લઘુમતી! ભારતમાં હિન્દુઓ સિવાયના બધા ધર્મો લઘુમતીમાં આવે છે.</div></div>"
+    },
+
+    {
+        chapter: 20,
+        marks: 3,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લઘુમતીઓના કલ્યાણ અને રક્ષણ માટેની બંધારણીય જોગવાઈઓ જણાવો. (આર્ટિકલ 29 અને 30)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>બંધારણમાં લઘુમતીઓના અધિકારોનું રક્ષણ કરવા માટે ખાસ જોગવાઈઓ છે:<br>૧. <b>કલમ 29 (સાંસ્કૃતિક અધિકાર):</b> કોઈપણ લઘુમતી સમુદાયને પોતાની <b>ભાષા, લિપિ કે સંસ્કૃતિને જાળવી રાખવાનો</b> પૂરો અધિકાર છે.<br>૨. <b>કલમ 30 (શૈક્ષણિક અધિકાર):</b> લઘુમતી સમુદાય પોતાના ધર્મ કે ભાષા આધારિત <b>શૈક્ષણિક સંસ્થાઓ (દા.ત. મદરેસા કે મિશનરી સ્કૂલ) સ્થાપી શકે છે</b> અને તેનું સંચાલન કરી શકે છે.<br>૩. રાજ્ય સરકાર ગ્રાન્ટ આપવામાં ધર્મના આધારે કોઈ શૈક્ષણિક સંસ્થા સાથે ભેદભાવ કરી શકશે નહિ.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: આર્ટિકલ 29 એટલે પોતાની ભાષા અને સંસ્કૃતિ બચાવવાની છૂટ! અને આર્ટિકલ 30 એટલે પોતાની સ્કૂલ કે કોલેજ ખોલવાની છૂટ! આ બે આર્ટિકલ ખાસ ગોખવા.</div></div>"
+    },
+
+    {
+        chapter: 20,
+        marks: 2,
+        year_asked: "[March 2024, May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>અનુસૂચિત જાતિ (SC) અને અનુસૂચિત જનજાતિ (ST) કોને કહેવાય?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>બંધારણના આદેશ દ્વારા જે જાતિઓને વિશિષ્ટ અનુસૂચિ (યાદી) માં મૂકવામાં આવી છે તેને SC/ST કહેવાય છે.<br><br><b>૧. અનુસૂચિત જાતિ (SC - Scheduled Caste):</b> <br>બંધારણની <b>કલમ 341</b> મુજબ, જે જાતિઓનો <b>અસ્પૃશ્યતા (Untouchability)</b> ને કારણે આર્થિક અને સામાજિક વિકાસ રૂંધાઈ ગયો હોય, તેમને આ યાદીમાં મૂકવામાં આવ્યા છે.<br><br><b>૨. અનુસૂચિત જનજાતિ (ST - Scheduled Tribe):</b> <br>બંધારણની <b>કલમ 342</b> મુજબ, જે લોકો <b>જંગલ કે પહાડી વિસ્તારોમાં રહે છે</b>, સામાન્ય સમાજથી દૂર છે અને આર્થિક રીતે પછાત છે, તેમને આ યાદીમાં મૂકવામાં આવ્યા છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: કલમ 341 એટલે SC (જેમને ગામમાં છૂત-અછૂતનો સામનો કરવો પડ્યો). અને કલમ 342 એટલે ST (આદિવાસી ભાઈઓ જે જંગલ અને પહાડમાં રહે છે)!</div></div>"
+    },
+
+    {
+        chapter: 20,
+        marks: 3,
+        year_asked: "[July 2024 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>અનુસૂચિત જાતિ (SC) ના રક્ષણ માટે બંધારણની કલમ 15 અને કલમ 17 ની જોગવાઈઓ જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>કલમ 15 (ભેદભાવનો નિષેધ):</b><br>આ કલમ મુજબ ધર્મ, જાતિ, જ્ઞાતિ, લિંગ કે જન્મસ્થાનના આધારે કોઈપણ નાગરિક સાથે ભેદભાવ કરી શકાશે નહિ. તેમને દુકાનો, હોટલો, સિનેમાઘરો, કૂવા, તળાવ કે જાહેર રસ્તાઓનો ઉપયોગ કરતા કોઈ રોકી શકશે નહિ.<br><br><b>કલમ 17 (અસ્પૃશ્યતા નાબૂદી):</b><br>આ કલમ દ્વારા <b>'અસ્પૃશ્યતા' (છૂત-અછૂત) ને સંપૂર્ણપણે નાબૂદ</b> કરવામાં આવી છે. અસ્પૃશ્યતાનું પાલન કરવું એ કાયદા મુજબ <b>શિક્ષાપાત્ર ગુનો</b> ગણાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: આર્ટિકલ 15 એટલે કોઈની જોડે ભેદભાવ નહિ (આયુષ્માન ખુરાનાની ફિલ્મ પણ બની છે આના પર!). અને આર્ટિકલ 17 એટલે અસ્પૃશ્યતા ખતમ! જો કોઈ છૂત-અછૂત રાખે તો સીધી જેલ.</div></div>"
+    },
+
+    {
+        chapter: 20,
+        marks: 3,
+        year_asked: "[March 2025, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આતંકવાદ (Terrorism) એટલે શું? તેના લક્ષણો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આતંકવાદ એ <b>વૈશ્વિક અને માનવસર્જિત સમસ્યા</b> છે. <br>પોતાના રાજકીય કે ધાર્મિક હેતુઓ પાર પાડવા માટે હથિયારોનો ઉપયોગ કરીને <b>નિર્દોષ લોકોમાં ભય, હિંસા અને ત્રાસ ફેલાવવાની પ્રવૃત્તિને આતંકવાદ કહે છે</b>.<br><br><b>લક્ષણો:</b><br>&bull; આતંકવાદને <b>કોઈ ધર્મ કે સંપ્રદાય હોતો નથી</b>.<br>&bull; તે ખુલ્લેઆમ નહિ પણ <b>છૂપી રીતે (ગુપ્ત)</b> હુમલા કરે છે.<br>&bull; આતંકવાદીઓ બોમ્બ બ્લાસ્ટ કરવા, અપહરણ કરવું, વિમાન હાઈજેક કરવું અને હત્યાઓ કરવી જેવી અમાનવીય પ્રવૃત્તિઓ કરે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: આતંકવાદ એટલે માત્ર અને માત્ર હિંસા! એમનો એક જ ઈરાદો હોય છે: નિર્દોષ લોકોને મારીને સરકાર અને પબ્લિકને ડરાવવી. અને ખાસ યાદ રાખજો, આતંકવાદીનો કોઈ ધર્મ નથી હોતો.</div></div>"
+    },
+
+    {
+        chapter: 20,
+        marks: 3,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>બળવાખોરી (Insurgency) અને આતંકવાદ (Terrorism) વચ્ચેનો તફાવત સ્પષ્ટ કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><table style='width: 100%; border-collapse: collapse; margin-top: 10px; text-align: left;'><tr style='background-color: #bbdefb;'><th style='padding: 8px; border: 1px solid #90caf9;'>બળવાખોરી (Insurgency)</th><th style='padding: 8px; border: 1px solid #90caf9;'>આતંકવાદ (Terrorism)</th></tr><tr><td style='padding: 8px; border: 1px solid #e0e0e0;'>૧. આ <b>પ્રાદેશિક (સ્થાનિક)</b> સમસ્યા છે. તે માત્ર પોતાના દેશની સરકાર વિરુદ્ધ જ થાય છે.</td><td style='padding: 8px; border: 1px solid #e0e0e0;'>૧. આ <b>વૈશ્વિક (Global)</b> સમસ્યા છે. તે આંતરરાષ્ટ્રીય સ્તરે કામ કરે છે.</td></tr><tr><td style='padding: 8px; border: 1px solid #e0e0e0;'>૨. તેને <b>સ્થાનિક લોકોનો ટેકો (Support)</b> મળતો હોય છે.</td><td style='padding: 8px; border: 1px solid #e0e0e0;'>૨. તેને સ્થાનિક લોકોનો <b>ટેકો મળતો નથી</b>.</td></tr><tr><td style='padding: 8px; border: 1px solid #e0e0e0;'>૩. બળવાખોરોનો વિકાસ તે પ્રદેશ પૂરતો જ સીમિત રહે છે.</td><td style='padding: 8px; border: 1px solid #e0e0e0;'>૩. આતંકવાદને દેશની સરહદો નડતી નથી, તે દુનિયાભરમાં ફેલાય છે.</td></tr></table><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: બળવાખોરી એટલે 'ઘરનો ઝઘડો' (પોતાના દેશમાં જ થાય અને પબ્લિકનો સપોર્ટ હોય). જ્યારે આતંકવાદ એટલે 'બહારથી આવેલો વાયરસ' (જે આખી દુનિયામાં ફેલાય અને પબ્લિક તેમને ધિક્કારે)!</div></div>"
+    },
+
+    {
+        chapter: 20,
+        marks: 3,
+        year_asked: "[May 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નક્સલવાદી આંદોલન વિશે ટૂંકનોંધ લખો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ચીનના માઓ-ત્સે-તુંગની વિચારધારાથી પ્રેરિત થઈને <b>ભારતમાં ઈ.સ. 1967 માં</b> નક્સલવાદી આંદોલનની શરૂઆત થઈ.<br><br><b>ઉદ્ભવ:</b> પશ્ચિમ બંગાળના <b>'નક્સલબારી'</b> નામના ગામથી આ આંદોલન <b>ચારુ મજુમદાર</b> ના નેતૃત્વમાં શરૂ થયું હોવાથી તેને નક્સલવાદ કહે છે.<br><b>હેતુ:</b> જમીનદારો દ્વારા ખેતમજૂરોનું થતું શોષણ અટકાવવા તેમણે હથિયારો ઉઠાવ્યા અને હિંસક માર્ગ અપનાવ્યો.<br><b>ફેલાવો:</b> આજે આ બળવાખોરી પશ્ચિમ બંગાળમાંથી ઝારખંડ, બિહાર, આંધ્રપ્રદેશ, છત્તીસગઢ અને ઓડિશા (Red Corridor) સુધી ફેલાઈ ચૂકી છે. પીપલ્સ વૉર ગ્રૂપ (PWG) એ તેમનું મુખ્ય સંગઠન છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: 'નક્સલબારી' ગામથી શરૂ થયું એટલે નક્સલવાદ! 1967 માં ચારુ મજુમદારે ગરીબ મજૂરોને હથિયાર આપીને અમીર જમીનદારો સામે લડાવ્યા. ઝારખંડ-છત્તીસગઢના જંગલોમાં આજે પણ આ હિંસા ચાલુ છે.</div></div>"
+    },
+
+    {
+        chapter: 20,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ઉત્તર-પૂર્વ ભારતમાં ચાલતી બળવાખોરી વિશે ટૂંકમાં માહિતી આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આઝાદી પછી ઉત્તર-પૂર્વ ભારતના (સેવન સિસ્ટર્સ) રાજ્યોમાં અલગ રાજ્યની માંગણી માટે બળવાખોરી શરૂ થઈ. આ બળવાખોર સંગઠનો આંતરરાષ્ટ્રીય સરહદોનો ફાયદો ઉઠાવીને હથિયારો મેળવે છે.<br><br><b>મુખ્ય સંગઠનો:</b><br>&bull; <b>અસમ:</b> ULFA (ઉલ્ફા) અને UMFA.<br>&bull; <b>નાગાલેન્ડ:</b> NSCN (નાગાલેન્ડનું સૌથી જૂનું સંગઠન).<br>&bull; <b>ત્રિપુરા:</b> NLF, ATTF.<br>આ સંગઠનો હિંસા અને લૂંટફાટ કરે છે, જેનાથી ત્યાંનો આર્થિક વિકાસ રૂંધાઈ ગયો છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: માત્ર 2 નામ ગોખી નાખજો: અસમમાં ULFA (ઉલ્ફા) અને નાગાલેન્ડમાં 'નાગા' (NSCN). આ લોકો પોતાનું અલગ રાજ્ય બનાવવા માટે હથિયાર ઉપાડી સરકાર સામે લડે છે.</div></div>"
+    },
+
+    {
+        chapter: 20,
+        marks: 3,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જમ્મુ-કાશ્મીરમાં આતંકવાદ વિશે નોંધ લખો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતની આઝાદી પછી તરત જ પાકિસ્તાને જમ્મુ-કાશ્મીર પચાવી પાડવા હુમલો કર્યો હતો.<br>&bull; <b>શરૂઆત:</b> ઈ.સ. <b>1988 પછી</b> પાકિસ્તાને કાશ્મીરમાં આતંકવાદને પ્રોત્સાહન આપવાનું શરૂ કર્યું. આ પડોશી દેશ પ્રેરિત આતંકવાદ (Cross-border terrorism) છે.<br>&bull; <b>અસરો:</b> આતંકવાદીઓ હત્યા, અપહરણ અને બોમ્બ વિસ્ફોટો કરીને ડર ફેલાવે છે.<br>&bull; <b>પંડિતોનું પલાયન:</b> આતંકવાદના ડરથી લાખો <b>'કાશ્મીરી પંડિતો'</b> ને રાતોરાત પોતાની સંપત્તિ છોડીને વતનમાંથી હિજરત (પલાયન) કરવી પડી. આજે તેઓ શરણાર્થી તરીકે જીવે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: 1988 ની સાલ અને પાકિસ્તાનનું નામ! પાકિસ્તાને પૈસા અને બંદૂકો આપીને આતંકવાદ શરૂ કરાવ્યો, જેના કારણે બિચારા કાશ્મીરી પંડિતોને પોતાનું ઘર છોડીને ભાગવું પડ્યું.</div></div>"
+    },
+
+    {
+        chapter: 20,
+        marks: 2,
+        year_asked: "[July 2025 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આતંકવાદની આર્થિક અસરો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આતંકવાદથી દેશના અર્થતંત્રને ભારે નુકસાન થાય છે:<br>૧. <b>સંપત્તિનો નાશ:</b> આતંકવાદીઓ રેલવે, પુલ અને સરકારી ઇમારતોને બોમ્બથી ઉડાવી દે છે, જેને ફરી બનાવવા કરોડો રૂપિયાનો ખર્ચ થાય છે.<br>૨. <b>પ્રવાસન ઉદ્યોગને ફટકો:</b> આતંકવાદગ્રસ્ત વિસ્તારોમાં (જેમ કે કાશ્મીર) ડરના કારણે પ્રવાસીઓ જતા નથી, જેથી ટુરિઝમ ઉદ્યોગ ભાંગી પડે છે.<br>૩. <b>સંરક્ષણ ખર્ચ:</b> સરકારે શિક્ષણ કે વિકાસના કામોમાં પૈસા વાપરવાના બદલે, પોલીસ અને લશ્કરની સુરક્ષા પાછળ પૈસા ખર્ચવા પડે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: બોમ્બ ફૂટે એટલે સરકારી બિલ્ડીંગ તૂટે (સંપત્તિનો નાશ), કોઈ ટુરિસ્ટ ફરવા ન આવે (ટુરિઝમ ખતમ), અને સરકારે દેશના વિકાસના પૈસા બંદૂકો ખરીદવામાં વાપરવા પડે!</div></div>"
+    },
+
+    {
+        chapter: 20,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આતંકવાદની સામાજિક અસરો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આતંકવાદ સમાજને અંદરથી તોડી નાખે છે:<br>૧. <b>ભય અને શંકા:</b> સમાજમાં ડર અને ભયનું વાતાવરણ ઊભું થાય છે. લોકો એકબીજા પર શંકા કરવા લાગે છે.<br>૨. <b>ભાઈચારો ખતમ:</b> હિન્દુ-મુસ્લિમ કે અન્ય ધર્મો વચ્ચે વિશ્વાસ ઘટે છે અને કોમી ભાઈચારો તૂટી જાય છે.<br>૩. <b>બાળકો પર અસર:</b> હિંસા અને ખૂન-ખરાબા જોઈને બાળકોના માનસ પર ખરાબ અસર પડે છે, તેમનું ભણતર બગડે છે.<br>૪. <b>ઉત્સવોનો અભાવ:</b> ડરના કારણે લોકો ભેગા થઈને ખુશીથી તહેવારો ઉજવી શકતા નથી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: બોમ્બ ફૂટે એટલે ભાઈચારો તૂટે! સમાજમાં એકબીજા પ્રત્યે શંકા જન્મે, ડરના માર્યા મેળાઓ બંધ થઈ જાય, અને બાળકો બિચારા ડરી જાય. આતંકવાદ સમાજને ખોખલો કરી નાખે છે.</div></div>"
+    },
+
+    {
+        chapter: 20,
+        marks: 2,
+        year_asked: "[March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>અનુસૂચિત જાતિ (SC) અને અનુસૂચિત જનજાતિ (ST) માટે પંચાયતી રાજમાં અનામતની શી જોગવાઈ છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>રાજકીય ક્ષેત્રે પછાત વર્ગોને પ્રતિનિધિત્વ આપવા બંધારણમાં અનામતની જોગવાઈ છે:<br><br>ગ્રામ પંચાયત, તાલુકા પંચાયત, જિલ્લા પંચાયત તેમજ નગરપાલિકાઓ અને મહાનગરપાલિકાઓની ચૂંટણીમાં <b>અનુસૂચિત જાતિ (SC) અને અનુસૂચિત જનજાતિ (ST) ની વસ્તીના પ્રમાણમાં</b> તેમના માટે બેઠકો (સીટો) અનામત રાખવામાં આવે છે. જેથી આ વર્ગના લોકો પણ સત્તામાં ભાગીદાર બની શકે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: જે ગામમાં જેટલી વસ્તી, એટલી એમની રિઝર્વ સીટ! સરપંચ કે કોર્પોરેટરની ચૂંટણીમાં પછાત વર્ગની વસ્તીના ટકાવારી મુજબ તેમની બેઠક 'અનામત' (રિઝર્વ) રખાય છે.</div></div>"
+    },
+
+    {
+        chapter: 20,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'રાષ્ટ્રીય એકતામાં સાંપ્રદાયિકતા સૌથી મોટો અવરોધ છે' - આ વિધાન સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારત એ વિવિધ ધર્મો ધરાવતો દેશ છે.<br>સાંપ્રદાયિકતામાં લોકો પોતાના ધર્મને દેશ કરતા પણ મોટો માનવા લાગે છે. જેના કારણે સમાજમાં નફરત ફેલાય છે અને વારંવાર <b>કોમી રમખાણો (Hindu-Muslim Riots)</b> થાય છે.<br><br>રમખાણોને કારણે નિર્દોષ લોકોના જીવ જાય છે, સંપત્તિ સળગાવી દેવાય છે, અને દેશનો વિકાસ અટકી જાય છે. જ્યાં સુધી લોકો ધર્મના નામે લડતા રહેશે ત્યાં સુધી દેશ એક થઈ શકશે નહિ, તેથી સાંપ્રદાયિકતા એ રાષ્ટ્રીય એકતા માટે સૌથી મોટો ખતરો (અવરોધ) છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ઘરમાં 4 ભાઈઓ હોય ને અંદરોઅંદર ધર્મના નામે બાખડે તો ઘર કેવી રીતે ચાલે? બસ એવું જ દેશનું છે. જ્યાં સુધી કોમી રમખાણો થશે ત્યાં સુધી દેશ ક્યારેય નંબર 1 નહિ બની શકે!</div></div>"
     }
 
+        
 
 
 ];
