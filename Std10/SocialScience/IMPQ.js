@@ -1732,6 +1732,126 @@ var Std10_SocialScience_imp = [
         year_asked: "[May 2025, March 2026]",
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>મિશ્ર અર્થતંત્ર (Mixed Economy) એટલે શું? ભારતે શા માટે મિશ્ર અર્થતંત્ર અપનાવ્યું છે?</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>બજાર પદ્ધતિ અને સમાજવાદી પદ્ધતિ બંનેની ખામીઓ દૂર કરીને બંનેના સારા લક્ષણોનો સમન્વય કરી જે પદ્ધતિ બનાવી તેને <b>મિશ્ર અર્થતંત્ર</b> કહે છે. (ભારત, ફ્રાંસ અને ઈંગ્લેન્ડે આ પદ્ધતિ અપનાવી છે).<br><br><b>ભારતનું મિશ્ર અર્થતંત્ર:</b><br>&bull; <b>સહ-અસ્તિત્વ:</b> ભારતમાં જાહેર ક્ષેત્ર (સરકારી કંપનીઓ - દા.ત. રેલવે, વીજળી) અને ખાનગી ક્ષેત્ર (પ્રાઈવેટ કંપનીઓ - દા.ત. ટાટા, રિલાયન્સ) બંને એકસાથે મળીને કામ કરે છે.<br>&bull; <b>સરકારી અંકુશ:</b> ખાનગી કંપનીઓ માત્ર નફા પાછળ ન ભાગે તે માટે સરકાર તેમના પર કરવેરા અને કાયદા દ્વારા નિયંત્રણ રાખે છે.<br>&bull; પછાત વિસ્તારોમાં ઉદ્યોગો સ્થાપવા સરકાર સબસિડી પણ આપે છે. આમ, તે <b>નિયંત્રિત આર્થિક પદ્ધતિ</b> છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: મિશ્ર એટલે આપણી 'મિક્સ સબ્જી'! અમેરિકાનું પ્રાઈવેટ મોડેલ પણ લીધું અને રશિયાનું સરકારી મોડેલ પણ લીધું. જિયો (પ્રાઈવેટ) અને બીએસએનએલ (સરકારી) બંને સાથે કામ કરે એ જ ભારતનું મિશ્ર અર્થતંત્ર!</div></div>"
+    },
+
+    {
+        chapter: 16,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ઈ.સ. 1991 ની નવી આર્થિક નીતિના ત્રણ મુખ્ય આધારસ્તંભો કયા છે? શા માટે આ નીતિ અમલમાં મૂકવી પડી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતને આઝાદી મળ્યા પછી આર્થિક વિકાસ સાધવા માટે સરકારે આયોજનબદ્ધ માર્ગ અપનાવ્યો, પરંતુ તેમાં ધારી સફળતા મળી નહિ. 1991 માં ભારત પર વિદેશી દેવું વધી ગયું અને આર્થિક કટોકટી સર્જાઈ.<br><br>આથી અર્થતંત્રને બચાવવા માટે <b>ઈ.સ. 1991 માં નવી આર્થિક નીતિ</b> અમલમાં મૂકવામાં આવી. તેના 3 મુખ્ય આધારસ્તંભો છે:<br>૧. <b>ઉદારીકરણ (Liberalization)</b><br>૨. <b>ખાનગીકરણ (Privatization)</b><br>૩. <b>વૈશ્વિકીકરણ (Globalization)</b><br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: નવી આર્થિક નીતિ એટલે ટૂંકમાં 'LPG' કનેક્શન! L=Liberalization, P=Privatization, G=Globalization. 1991 માં દેશમાં પૈસા ખૂટી ગયા એટલે આ ત્રણ સુધારા કરવા જ પડ્યા!</div></div>"
+    },
+
+    {
+        chapter: 16,
+        marks: 2,
+        year_asked: "[May 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આર્થિક ઉદારીકરણ (Economic Liberalization) એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ખાનગી ક્ષેત્ર પરના સરકારી અંકુશો અને નિયંત્રણોમાં ક્રમશઃ ઘટાડો કરી, દેશના <b>આર્થિક વિકાસને પ્રોત્સાહિત કરવાની નીતિને 'આર્થિક ઉદારીકરણ'</b> કહે છે.<br><br>તેમાં સરકારે 18 જેટલા ઉદ્યોગોને બાદ કરતા અન્ય તમામ ઉદ્યોગો માટે <b>પરવાના પદ્ધતિ (Licensing) રદ કરી</b> દીધી. વિદેશી મૂડીરોકાણ માટેના નિયમો હળવા કર્યા અને આયાત-નિકાસને સરળ બનાવી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ઉદારીકરણ એટલે સરકારનું 'ઉદાર' બનવું! ફેક્ટરી નાખવા માટે પહેલા 50 ફોર્મ ભરવા પડતા, એ લાઈસન્સ સિસ્ટમ સરકારે કાઢી નાખી અને બિઝનેસ કરવાનું સહેલું બનાવી દીધું.</div></div>"
+    },
+
+    {
+        chapter: 16,
+        marks: 3,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આર્થિક ઉદારીકરણના લાભો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ઉદારીકરણની નીતિથી દેશને નીચે મુજબના લાભ થયા છે:<br>૧. <b>ઉત્પાદનમાં વધારો:</b> ખાનગી ક્ષેત્રને મુક્ત વાતાવરણ મળવાથી દેશમાં ઔદ્યોગિક ઉત્પાદન ખૂબ વધ્યું.<br>૨. <b>વિદેશી વેપાર વધ્યો:</b> આયાત-નિકાસના નિયમો હળવા થવાથી વિદેશી વેપારમાં મોટો વધારો થયો.<br>૩. <b>વિદેશી હૂંડિયામણ:</b> વિદેશી વેપાર વધવાથી દેશની વિદેશી હૂંડિયામણ (ડોલર) ની અનામતોમાં વધારો થયો.<br>૪. <b>આંતરમાળખાકીય સુવિધાઓ:</b> દેશમાં રસ્તા, વીજળી, અને સંદેશાવ્યવહાર જેવી માળખાકીય સગવડો ઝડપથી વધી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: સરકારે છૂટ આપી એટલે ફેક્ટરીઓ વધી (ઉત્પાદન), માલ વિદેશમાં ગયો (વેપાર), દેશમાં ડોલર આવ્યા (હૂંડિયામણ), અને દેશના રસ્તા-વીજળી સુધર્યા!</div></div>"
+    },
+
+    {
+        chapter: 16,
+        marks: 2,
+        year_asked: "[May 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આર્થિક ઉદારીકરણના ગેરલાભ (મર્યાદાઓ) જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ઉદારીકરણથી કેટલાક નુકસાન પણ થયા છે:<br>૧. <b>ઈજારાશાહી:</b> ખાનગી ક્ષેત્રને છૂટ મળતા અમુક મોટી કંપનીઓની બજારમાં મોનોપોલી (ઇજારો) વધી ગઈ.<br>૨. <b>કૃષિની અવગણના:</b> ઔદ્યોગિક ક્ષેત્રનો વિકાસ થયો, પરંતુ કૃષિ ક્ષેત્ર પાછળ રહી ગયું.<br>૩. <b>આવકની અસમાનતા:</b> અમીર લોકો વધુ અમીર બન્યા અને ગરીબ વધુ ગરીબ, જેનાથી આવકની અસમાનતા વધી ગઈ.<br>૪. <b>દેવામાં વધારો:</b> વિદેશી વસ્તુઓની આયાત વધવાથી અને નિકાસ ઘટવાથી દેશના વિદેશી દેવામાં વધારો થયો.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ફાયદો માત્ર અમીરોને અને ઉદ્યોગોને જ થયો. ખેડૂતો બિચારા પાછળ રહી ગયા, મોટી કંપનીઓએ બજાર કબજે કરી લીધું અને દેશનું દેવું વધી ગયું!</div></div>"
+    },
+
+    {
+        chapter: 16,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ખાનગીકરણ (Privatization) એટલે શું? તેના માર્ગો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>રાજ્ય (સરકાર) ની માલિકીના <b>જાહેર ક્ષેત્રના ઉદ્યોગોની માલિકી અને સંચાલન ખાનગી ક્ષેત્રને સોંપી દેવાની પ્રક્રિયા</b> એટલે ખાનગીકરણ.<br><br><b>ખાનગીકરણના બે માર્ગો:</b><br>૧. પહેલા જે ઉદ્યોગો સરકાર માટે અનામત હતા, તે ક્ષેત્રો ખાનગી કંપનીઓ માટે ખોલી નાખવામાં આવ્યા. (દા.ત. બેન્કિંગ, ટેલિકોમ).<br>૨. સરકારી કંપનીઓની માલિકી સરકાર પોતાની પાસે રાખે અને સંચાલન (Management) ખાનગી કંપનીને સોંપે, અથવા સંચાલન સરકાર કરે અને માલિકી ખાનગી કંપનીને વેચી દે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: સરકારી વસ્તુ પ્રાઈવેટ વાળાને વેચી દેવી અથવા ચલાવવા માટે આપી દેવી એટલે ખાનગીકરણ! જેમ કે એર ઇન્ડિયા સરકારે ટાટા ને વેચી દીધી.</div></div>"
+    },
+
+    {
+        chapter: 16,
+        marks: 3,
+        year_asked: "[July 2024 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ખાનગીકરણના લાભ અને ગેરલાભ જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>લાભ (ફાયદા):</b><br>&bull; દેશમાં ઉદ્યોગોની સંખ્યા અને ઔદ્યોગિક ઉત્પાદનમાં વધારો થયો છે.<br>&bull; ખાનગી કંપનીઓ મૂડી અને ટેકનોલોજી લાવતી હોવાથી ચીજવસ્તુઓની ગુણવત્તા (Quality) માં સુધારો થયો છે.<br>&bull; સરકારી કંપનીઓની કાર્યક્ષમતામાં વધારો થયો છે.<br><br><b>ગેરલાભ (નુકસાન):</b><br>&bull; <b>ઈજારાશાહી:</b> આર્થિક સત્તા માત્ર થોડા અમીર ઉદ્યોગપતિઓના હાથમાં કેન્દ્રિત થવાથી ઈજારાશાહી (Monopoly) વધી છે.<br>&bull; <b>નાના ઉદ્યોગોને નુકસાન:</b> મોટા ઉદ્યોગો સામે નાના અને ગૃહ ઉદ્યોગો ટકી શક્યા નહિ.<br>&bull; <b>ભાવવધારો:</b> ખાનગી કંપનીઓ નફા માટે કામ કરતી હોવાથી વસ્તુઓના ભાવ પર અંકુશ રહ્યો નહિ, પરિણામે મોંઘવારી વધી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: પ્રાઈવેટ કંપની આવે એટલે 'ક્વોલિટી' સારી મળે (લાભ), પણ એ લોકો ગરીબોનું નહિ વિચારે, ભાવ વધારી દેશે અને નાના વેપારીને મારી નાખશે (ગેરલાભ)!</div></div>"
+    },
+
+    {
+        chapter: 16,
+        marks: 2,
+        year_asked: "[March 2025, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વૈશ્વિકીકરણ (Globalization) એટલે શું? તેમાં કયા સુધારા કરવામાં આવ્યા?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>દેશના અર્થતંત્રને <b>વિશ્વના અર્થતંત્ર સાથે જોડવાની પ્રક્રિયા</b> એટલે વૈશ્વિકીકરણ. જેના પરિણામે ચીજવસ્તુઓ, સેવાઓ, ટેકનોલોજી અને શ્રમનો પ્રવાહ વિશ્વમાં સરળતાથી મળી રહે.<br><br><b>સુધારા (પગલાં):</b><br>&bull; બે દેશો વચ્ચેના વેપાર પરના <b>અવરોધો (ટેક્સ/કરવેરા) દૂર કરવામાં</b> આવ્યા.<br>&bull; વિદેશી મૂડીરોકાણ માટેના દરવાજા ખોલી નાખવામાં આવ્યા (FDI ની છૂટ).<br>&bull; ટેકનોલોજી અને શ્રમિકોની આપ-લે માટેના નિયમો હળવા કરવામાં આવ્યા.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: આખી દુનિયા એક મોટું 'બજાર' બની જાય! ભારતનો માલ અમેરિકા વેચાય અને અમેરિકાની એપલ કંપની ભારતમાં આવીને આઇફોન બનાવે, એ જ વૈશ્વિકીકરણ.</div></div>"
+    },
+
+    {
+        chapter: 16,
+        marks: 3,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વૈશ્વિકીકરણના લાભ અને ગેરલાભ જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>લાભ (ફાયદા):</b><br>&bull; દેશમાં વિદેશી મૂડીરોકાણ (FDI) વધ્યું છે.<br>&bull; વિદેશની આધુનિક ટેકનોલોજી અને નવી વસ્તુઓ ભારતમાં સરળતાથી મળતી થઈ છે.<br>&bull; ભારતનો તૈયાર માલ વિદેશના બજારોમાં વેચાઈ શકે છે (નિકાસ વધી).<br><br><b>ગેરલાભ (મર્યાદાઓ):</b><br>&bull; ગરીબી અને બેરોજગારી દૂર કરવામાં ધારી સફળતા મળી નથી.<br>&bull; વૈશ્વિકીકરણનો મોટો લાભ મોટા ઉદ્યોગોને જ મળ્યો છે, નાના અને લઘુ ઉદ્યોગો વિદેશી કંપનીઓ સામે હરીફાઈમાં ટકી શક્યા નહિ અને બંધ પડ્યા છે.<br>&bull; નિકાસ કરતા આયાત વધુ વધવાથી દેશનું દેવું વધ્યું છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: નવી ટેકનોલોજી અને ફોરેનની વસ્તુઓ ભારતમાં આવી એ મોટો લાભ! પણ બિચારા નાના દુકાનદારો અને હાથશાળ વાળા એમેઝોન કે મોટી વિદેશી કંપની સામે ટકી ન શક્યા એ મોટું નુકસાન!</div></div>"
+    },
+
+    {
+        chapter: 16,
+        marks: 3,
+        year_asked: "[March 2024, May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિશ્વ વ્યાપાર સંગઠન (WTO) ની સ્થાપના ક્યારે થઈ? તેના મુખ્ય ધ્યેયો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સંયુક્ત રાષ્ટ્રો (UN) ના સભ્ય દેશો દ્વારા <b>1 જાન્યુઆરી, 1995</b> ના રોજ વિશ્વ વ્યાપાર સંગઠન (WTO - World Trade Organization) ની સ્થાપના કરવામાં આવી. તેનું વડુંમથક સ્વિટ્ઝર્લેન્ડના <b>જીનીવા (Geneva)</b> શહેરમાં છે.<br><br><b>મુખ્ય ધ્યેયો (Objectives):</b><br>૧. વિશ્વના દેશો વચ્ચેના વેપાર પરના અવરોધો દૂર કરવા.<br>૨. વિદેશી વેપાર માટે દેશના ઉદ્યોગોને અપાતું રક્ષણ દૂર કરવું.<br>૩. વૈશ્વિક વેપાર નીતિ અને આર્થિક નીતિઓ વચ્ચે સંકલન સાધવું.<br>૪. વિશ્વમાં વેપાર સંબંધિત ઉદ્ભવતા ઝઘડાઓ કે વિવાદોનું નિવારણ લાવવું.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: WTO એટલે દુનિયાના વેપારનો કંટ્રોલ રૂમ! '1 જાન્યુઆરી 1995' અને 'જીનીવા' આ બે શબ્દો પેપરમાં દેખાવા જ જોઈએ. એનું મુખ્ય કામ છે દુનિયામાં શાંતિથી વેપાર કરાવવો અને ઝઘડા ઉકેલવા.</div></div>"
+    },
+
+    {
+        chapter: 16,
+        marks: 3,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિશ્વ વ્યાપાર સંગઠન (WTO) ના કાર્યો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>WTO નીચે મુજબના કાર્યો કરે છે:<br>૧. <b>નિયમો બનાવવા:</b> બહુરાષ્ટ્રીય વ્યાપારના કરારો માટે જરૂરી માળખું પૂરું પાડે છે અને કરારોનો અમલ કરાવે છે.<br>૨. <b>ચર્ચા માટે મંચ:</b> સભ્ય દેશો વચ્ચે વેપાર સંબંધિત ચર્ચાઓ અને વાટાઘાટો માટે 'ફોરમ' (પ્લેટફોર્મ) પૂરું પાડે છે.<br>૩. <b>નિષ્પક્ષતા:</b> તે મુક્ત વ્યાપારને પ્રોત્સાહન આપે છે અને દેશો વચ્ચે વેપારમાં ભેદભાવ ન થાય તેનું ધ્યાન રાખે છે.<br>૪. <b>નિરીક્ષણ:</b> તે પોતાના સભ્ય દેશોની રાષ્ટ્રીય વ્યાપાર નીતિઓ પર નજર રાખે છે અને જરૂર પડે તો માર્ગદર્શન આપે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: WTO નું કામ પંચાયત કરવા જેવું છે! વેપારના નિયમો બનાવવા, દેશોને મીટિંગ માટે ભેગા કરવા, કોઈ દેશ ચીટીંગ ન કરે તેનું ધ્યાન રાખવું અને સાચી સલાહ આપવી.</div></div>"
+    },
+
+    {
+        chapter: 16,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ટકાઉ વિકાસ (Sustainable Development) એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વિકાસની એવી પ્રક્રિયા જે <b>'ભવિષ્યની પેઢીની જરૂરિયાતો પૂરી પાડવાની ક્ષમતાને નુકસાન પહોંચાડ્યા વિના, વર્તમાન પેઢીની જરૂરિયાતો સંતોષે છે.'</b> તેને ટકાઉ વિકાસ અથવા સુપોષિત વિકાસ કહે છે.<br><br>ટૂંકમાં, પર્યાવરણ અને પ્રકૃતિને નુકસાન કર્યા વગર, કુદરતી સંસાધનોનો કરકસરપૂર્વક ઉપયોગ કરી આર્થિક વિકાસ સાધવો તે ટકાઉ વિકાસ છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: બધું આપણે જ વાપરી નાખીશું તો આપણા છોકરાઓ શું ખાશે? પેટ્રોલ-કોલસો એવી રીતે વાપરો કે આપણું કામ પણ થઈ જાય અને ભવિષ્ય માટે બચે પણ ખરું. આ જ છે ટકાઉ વિકાસ!</div></div>"
+    },
+
+    {
+        chapter: 16,
+        marks: 3,
+        year_asked: "[July 2025 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ટકાઉ વિકાસ (સુપોષિત વિકાસ) ની વ્યૂહરચના સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પ્રકૃતિને બચાવીને વિકાસ કરવા માટે નીચેની વ્યૂહરચના અપનાવવી જોઈએ:<br>૧. <b>પુનઃઉપયોગ:</b> ખેતીલાયક જમીન, જંગલો અને જળ-સંપત્તિનો એવી રીતે ઉપયોગ કરવો કે તેમની ગુણવત્તા જળવાઈ રહે.<br>૨. <b>કરકસર:</b> કોલસો, પેટ્રોલિયમ અને ખનિજો જેવા પુનઃઅપ્રાપ્ય (ખૂટી જાય તેવા) સંસાધનોનો એકદમ કરકસરપૂર્વક ઉપયોગ કરવો.<br>৩. <b>બિનપરંપરાગત ઊર્જા:</b> સૂર્ય ઊર્જા, પવન ઊર્જા અને સોલાર પેનલનો ઉપયોગ વધારવો, કારણ કે તે પ્રદૂષણ ફેલાવતા નથી અને અખૂટ છે.<br>૪. <b>પ્રદૂષણ કંટ્રોલ:</b> ઉદ્યોગોનો ઝેરી કચરો અને ગંદુ પાણી સીધું નદી કે જમીન પર છોડવા પર કડક પ્રતિબંધ મૂકવો.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ટકાઉ વિકાસ કરવા 3 કામ કરો: 1. પેટ્રોલની જગ્યાએ સૂર્ય કે પવનની મફત ઊર્જા વાપરો 2. જે વસ્તુ ખૂટી જાય એવી છે તેને સાચવીને વાપરો 3. પ્રદૂષણ ફેલાવતી ફેક્ટરીઓને દંડ ફટકારો!</div></div>"
+    },
+
+    {
+        chapter: 16,
+        marks: 3,
+        year_asked: "[March 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પર્યાવરણની સુરક્ષા માટે લેવાયેલા વૈશ્વિક પ્રયાસો અને પગલાં જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પર્યાવરણને બચાવવા વિશ્વ અને ભારત સરકારે નીચે મુજબ પગલાં લીધા છે:<br>૧. <b>પૃથ્વી પરિષદ (Earth Summit):</b> પર્યાવરણ જાગૃતિ માટે સૌપ્રથમ <b>ઈ.સ. 1992 માં બ્રાઝિલના રિઓ-ડી-જાનેરો</b> શહેરમાં પૃથ્વી પરિષદ યોજાઈ હતી.<br>૨. <b>પર્યાવરણ દિવસ:</b> દર વર્ષે <b>5 જૂન</b> ને 'વિશ્વ પર્યાવરણ દિન' તરીકે ઉજવવામાં આવે છે.<br>૩. <b>પ્રદૂષણ નિયંત્રણ બોર્ડ:</b> ભારતમાં વાયુ અને જળ પ્રદૂષણ રોકવા માટે કેન્દ્ર અને રાજ્ય સ્તરે પ્રદૂષણ નિયંત્રણ બોર્ડની સ્થાપના કરવામાં આવી છે.<br>૪. <b>કડક કાયદા:</b> ભારતમાં 1981 માં 'વાયુ પ્રદૂષણ નિયંત્રણ ધારો' પસાર કરાયો છે. ઉપરાંત, ઓઝોન સ્તરના ગાબડા અને ગ્લોબલ વોર્મિંગ અટકાવવા વૈશ્વિક કરારો થયા છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: પર્યાવરણ બચાવવા માટે 2 વસ્તુ ગોખી જ નાખજો: પહેલી મીટિંગ '1992 બ્રાઝિલ' માં થઈ અને પર્યાવરણનો બર્થડે '5 જૂન' ના રોજ ઉજવાય છે! ભારતમાં પ્રદૂષણ બોર્ડ પણ બન્યા છે.</div></div>"
+    },
+
+    {
+        chapter: 16,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિશ્વ વ્યાપાર સંગઠન (WTO) માં જોડાવાથી ભારતને શું લાભ થશે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારત શરૂઆતથી જ WTO નું સભ્ય છે, જેનાથી ભારતને નીચેના લાભ અપેક્ષિત છે:<br>&bull; વિશ્વ વેપારમાં ભારતનો હિસ્સો વધશે, ખાસ કરીને <b>ખેતપેદાશો અને તૈયાર કપડાંની નિકાસમાં</b> મોટો વધારો નોંધાયો છે.<br>&bull; નિકાસ વધવાથી દેશમાં <b>વિદેશી હૂંડિયામણ</b> (ડોલર) ની આવક વધશે.<br>&bull; વિદેશી મૂડીરોકાણ (FDI) ભારતમાં આસાનીથી આવી શકશે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: આ સંગઠનમાં જોડાવવાથી આપણા ખેડૂતોનો માલ અને ફેક્ટરીના કપડાં વિદેશમાં આસાનીથી વેચાય છે, અને બદલામાં દેશને ડોલર મળે છે!</div></div>"
+    },
+
+    {
+        chapter: 16,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પર્યાવરણની સુરક્ષા માટે ભારતમાં કયા દિવસને કયા દિન તરીકે ઉજવવામાં આવે છે? પ્રદૂષણ અટકાવવા ભારતે કયો ધારો પસાર કર્યો છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>&bull; <b>પર્યાવરણ દિવસ:</b> પર્યાવરણમાં લોકોની જાગૃતિ વધારવા માટે દર વર્ષે <b>5 જૂન</b> ને <b>'વિશ્વ પર્યાવરણ દિન'</b> તરીકે ઉજવવામાં આવે છે.<br>&bull; <b>કાયદો:</b> ભારતમાં હવાનું પ્રદૂષણ અટકાવવા માટે ભારત સરકારે <b>ઈ.સ. 1981 માં 'વાયુ પ્રદૂષણ નિયંત્રણ ધારો'</b> (Air Pollution Control Act) પસાર કર્યો છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: માત્ર 2 જવાબ યાદ રાખવાના છે. દિવસ પૂછે તો '5 જૂન' અને કાયદો પૂછે તો '1981 નો વાયુ પ્રદૂષણ ધારો'! 2 માર્ક સીધા ખિસ્સામાં.</div></div>"
     }
 
 
