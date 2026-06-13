@@ -1372,6 +1372,126 @@ var Std10_SocialScience_imp = [
         year_asked: "[March 2026]",
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ખનીજ સંરક્ષણના ઉપાયો જણાવો.</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ખનીજો એ પુનઃઅપ્રાપ્ય (ખૂટી જાય તેવા) છે, તેથી તેનું સંરક્ષણ કરવું ખૂબ જરૂરી છે:<br><br>૧. <b>કરકસર:</b> ખનીજોનો આડેધડ ઉપયોગ ટાળીને, તેનો કરકસરપૂર્વક અને વિવેકપૂર્ણ ઉપયોગ કરવો.<br>૨. <b>રિસાયક્લિંગ (Recycling):</b> વપરાયેલી અને ભંગાર ધાતુઓ (લોખંડ, તાંબુ, એલ્યુમિનિયમ) ને ઓગાળીને ફરીથી નવી વસ્તુઓ બનાવવી જોઈએ.<br>૩. <b>વિકલ્પોનો ઉપયોગ:</b> જે ખનીજો જલ્દી ખૂટી જાય તેમ છે, તેના વિકલ્પો શોધવા (દા.ત. તાંબાની જગ્યાએ એલ્યુમિનિયમ કે પ્લાસ્ટિકનો ઉપયોગ).<br>૪. <b>બિનપરંપરાગત ઊર્જા:</b> પેટ્રોલ-કોલસાની બચત કરવા સૌર ઊર્જા, પવન ઊર્જા અને બાયોગેસનો મહત્તમ ઉપયોગ કરવો.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ખનીજો બચાવવાના 3 રસ્તા: ઓછું વાપરો (કરકસર), જૂનાને ફરી ઓગાળીને નવું બનાવો (રિસાયકલ) અને પેટ્રોલની જગ્યાએ સૂર્ય કે પવનની મફત ઊર્જા વાપરો!</div></div>"
+    },
+    
+    {
+        chapter: 13,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ઉદ્યોગ એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>માનવી દ્વારા પોતાની બૌદ્ધિક, સાંસ્કૃતિક અને આર્થિક ક્ષમતા પ્રમાણે <b>કુદરતી સંસાધનોના રૂપને બદલીને</b> ઉપયોગમાં લઈ શકાય તેવી પ્રક્રિયાને 'ઉદ્યોગ' કહેવામાં આવે છે.<br><br>દાખલા તરીકે: કપાસમાંથી સુતરાઉ કાપડ બનાવવું, શેરડીમાંથી ખાંડ બનાવવી કે માટીમાંથી ઇંટો બનાવવી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: કુદરતી વસ્તુનું રૂપ બદલીને માણસના કામમાં આવે તેવી વસ્તુ બનાવવી એટલે ઉદ્યોગ! જંગલના લાકડામાંથી ખુરશી બને તો એ ફર્નિચર ઉદ્યોગ થઈ ગયો.</div></div>"
+    },
+
+    {
+        chapter: 13,
+        marks: 3,
+        year_asked: "[May 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રાષ્ટ્રીય અર્થતંત્રમાં ઉદ્યોગોનું મહત્વ જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કોઈપણ દેશના આર્થિક વિકાસ માટે ઉદ્યોગો પાયાની જરૂરિયાત છે:<br>૧. <b>રોજગારી:</b> ઉદ્યોગોના વિકાસથી લાખો લોકોને રોજગારી મળે છે, જેનાથી દેશની ગરીબી અને બેરોજગારી ઘટે છે.<br>૨. <b>આવકમાં વધારો:</b> ઉદ્યોગોને કારણે લોકોની આવક વધે છે અને જીવનધોરણ ઊંચું આવે છે.<br>૩. <b>કૃષિનો વિકાસ:</b> ખેતીને જરૂરી ટ્રેક્ટર, પંપ અને રાસાયણિક ખાતરો ઉદ્યોગો જ પૂરા પાડે છે.<br>૪. <b>વિદેશી હૂંડિયામણ:</b> ઔદ્યોગિક પેદાશોની વિદેશમાં નિકાસ કરવાથી દેશને વિદેશી કમાણી (હૂંડિયામણ) પ્રાપ્ત થાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: દેશની પ્રગતિનું એન્જિન એટલે ઉદ્યોગ! રોજગારી મળે, ગરીબી જાય, ખેડૂતને ટ્રેક્ટર મળે અને વસ્તુઓ બહાર વેચીએ એટલે ડોલર કમાવા મળે.</div></div>"
+    },
+
+    {
+        chapter: 13,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કૃષિ આધારિત ઉદ્યોગો અને ખનીજ આધારિત ઉદ્યોગો વચ્ચેનો તફાવત આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>૧. કૃષિ આધારિત ઉદ્યોગો:</b><br>જે ઉદ્યોગોમાં કાચો માલ ખેતી (કૃષિ) માંથી પ્રાપ્ત થતો હોય તેને કૃષિ આધારિત ઉદ્યોગ કહેવાય. (દા.ત. સુતરાઉ કાપડ, શણ, રેશમી કાપડ, ખાંડ, કાગળ).<br><br><b>૨. ખનીજ આધારિત ઉદ્યોગો:</b><br>જે ઉદ્યોગોમાં કાચો માલ જમીનમાંથી મળતા ખનીજોમાંથી પ્રાપ્ત થતો હોય તેને ખનીજ આધારિત ઉદ્યોગ કહેવાય. (દા.ત. લોખંડ-પોલાદ, સિમેન્ટ, એલ્યુમિનિયમ, તાંબુ-ગાળણ).<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: કાચો માલ ક્યાંથી આવે છે એ જુઓ! ખેતરમાંથી આવે (કપાસ, શેરડી) તો કૃષિ આધારિત, અને ખાણમાંથી આવે (લોખંડ, ચૂનો) તો ખનીજ આધારિત!</div></div>"
+    },
+
+    {
+        chapter: 13,
+        marks: 3,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સુતરાઉ કાપડ ઉદ્યોગ વિશે નોંધ લખો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતની ઔદ્યોગિક અર્થવ્યવસ્થામાં સુતરાઉ કાપડ ઉદ્યોગ <b>સૌથી મોટો અને સૌથી વધુ રોજગારી આપતો</b> ઉદ્યોગ છે. (આશરે 3.5 કરોડ લોકોને રોજગારી આપે છે).<br><br>&bull; <b>મુંબઈ:</b> મહારાષ્ટ્રના મુંબઈમાં કાપડની સૌથી વધુ મિલો હોવાથી તેને <b>'સુતરાઉ કાપડનું વિશ્વ મહાનગર'</b> કહે છે.<br>&bull; <b>અમદાવાદ:</b> ગુજરાતમાં અમદાવાદને <b>'પૂર્વનું માનચેસ્ટર'</b> અને <b>'ડેનિમ સિટી ઓફ ઇન્ડિયા'</b> તરીકે ઓળખવામાં આવે છે.<br>&bull; સુતરાઉ કાપડની નિકાસમાં ભારત વિશ્વમાં બીજા ક્રમે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: આપણો સૌથી જૂનો અને ફેમસ ઉદ્યોગ! બે નામ ક્યારેય ન ભૂલતા: કાપડનું મહાનગર એટલે મુંબઈ અને પૂર્વનું માનચેસ્ટર એટલે આપણું અમદાવાદ!</div></div>"
+    },
+
+    {
+        chapter: 13,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શણ ઉદ્યોગ (Jute Industry) મોટાભાગે પશ્ચિમ બંગાળમાં જ કેમ કેન્દ્રિત થયો છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતમાં શણ ઉદ્યોગની સૌથી વધુ મિલો પશ્ચિમ બંગાળમાં <b>હુગલી નદી</b> ના કિનારે આવેલી છે, કારણ કે:<br>૧. શણને સાફ કરવા માટે પુષ્કળ પાણીની જરૂર પડે છે, જે હુગલી નદીમાંથી મળી રહે છે.<br>૨. આસપાસના વિસ્તારોમાં શણનું પુષ્કળ વાવેતર થાય છે.<br>૩. સસ્તો અને કુશળ મજૂર વર્ગ આસાનીથી મળી રહે છે.<br>૪. શણની નિકાસ કરવા માટે <b>કોલકાતા બંદર (Port)</b> ની સગવડ નજીકમાં જ છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: શણ (કોથળા) ને પાણી બહુ જોઈએ! બંગાળમાં હુગલી નદીનું પુષ્કળ પાણી, સસ્તા મજૂરો અને કોલકાતા બંદર હોવાથી બધી ફેક્ટરી ત્યાં જ બની.</div></div>"
+    },
+
+    {
+        chapter: 13,
+        marks: 2,
+        year_asked: "[March 2025, May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ખાંડ ઉદ્યોગ શેરડી ઉત્પાદક વિસ્તારોની નજીક જ કેમ સ્થપાય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>શેરડી વજનમાં ભારે હોય છે અને તે <b>બગડી જતો (નાશવંત) કાચો માલ</b> છે.<br><br>શેરડીને કાપ્યા પછી જો <b>24 કલાકમાં જ પીલવામાં ન આવે</b> તો તે સુકાવા લાગે છે અને તેમાંથી મળતા ખાંડ (રસ) નું પ્રમાણ ઘટી જાય છે. વળી, ભારે શેરડીને દૂરના અંતરે લઈ જવાનો ટ્રાન્સપોર્ટ ખર્ચ પણ વધે છે. તેથી, ખાંડના કારખાના શેરડી જ્યાં પાકતી હોય તેની નજીક જ સ્થાપવામાં આવે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: શેરડી કાપ્યા પછી 24 કલાકમાં ફેક્ટરી પહોંચવી જ જોઈએ, નહીંતર સુકાઈ જાય અને ખાંડ ઓછી બને! વજનદાર હોય એટલે ટ્રાન્સપોર્ટનો ખર્ચો બચાવવા ફેક્ટરી ખેતરની બાજુમાં જ હોય.</div></div>"
+    },
+
+    {
+        chapter: 13,
+        marks: 3,
+        year_asked: "[March 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લોખંડ અને પોલાદ ઉદ્યોગને 'પાયાનો ઉદ્યોગ' કે 'ચાવીરૂપ ઉદ્યોગ' કેમ કહેવાય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કોઈપણ દેશના આર્થિક અને ઔદ્યોગિક વિકાસનો <b>આધારસ્તંભ</b> લોખંડ-પોલાદ ઉદ્યોગ છે.<br><br><b>કારણ:</b><br>&bull; અન્ય નાના-મોટા તમામ ઉદ્યોગોના મશીનો, યંત્રો, અને સાધનો લોખંડમાંથી જ બને છે.<br>&bull; વાહનવ્યવહાર (ટ્રેન, બસ, જહાજ), પુલ, મકાનો અને સંરક્ષણ સામગ્રીના નિર્માણમાં લોખંડ અને પોલાદ (Steel) અનિવાર્ય છે.<br>આમ, લોખંડ વગર બીજા કોઈ ઉદ્યોગનો વિકાસ શક્ય ન હોવાથી તેને પાયાનો (Base) ઉદ્યોગ કહેવાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: સોયથી લઈને શિપ (જહાજ) અને ફેક્ટરીના બધા જ મશીનો લોખંડમાંથી બને. જો લોખંડ ન હોય તો બીજો કોઈ ઉદ્યોગ ચાલે જ નહિ! એટલે એ બેઝિક 'પાયો' છે.</div></div>"
+    },
+
+    {
+        chapter: 13,
+        marks: 2,
+        year_asked: "[July 2024 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>એલ્યુમિનિયમ ગાળણ ઉદ્યોગની વિશેષતાઓ જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લોખંડ-પોલાદ પછી એલ્યુમિનિયમ ગાળણ એ બીજો મહત્વનો ધાતુ ઉદ્યોગ છે. બોક્સાઈટ એ તેની કાચી ધાતુ છે.<br><br><b>વિશેષતાઓ:</b><br>&bull; એલ્યુમિનિયમ વજનમાં હલકું, મજબૂત, અને <b>કાટ ન લાગે</b> તેવું હોય છે.<br>&bull; તે ટીપી શકાય તેવું અને <b>વિદ્યુત-ઉષ્માનું સુવાહક</b> છે.<br>&bull; આ ગુણોના કારણે તેનો ઉપયોગ મોટરકાર, <b>હવાઈ જહાજ (વિમાનો)</b>, વાસણો અને વિદ્યુતના તાર બનાવવામાં થાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: એલ્યુમિનિયમની 3 ખૂબીઓ ગોખી જ નાખો: વજનમાં સાવ હલકું, ક્યારેય કાટ ન લાગે અને કરંટ પાસ કરે! એટલે જ વિમાન અને ઘરના વાયર આમાંથી જ બને.</div></div>"
+    },
+
+    {
+        chapter: 13,
+        marks: 2,
+        year_asked: "[May 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રાસાયણિક ખાતર ઉદ્યોગ (Fertilizer Industry) વિશે માહિતી આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતમાં રાસાયણિક ખાતરનું પ્રથમ કારખાનું 1906માં તમિલનાડુના <b>રાનીપેટ</b> ખાતે સ્થપાયું હતું. <br>ખેતીમાં 'હરિયાળી ક્રાંતિ' આવ્યા પછી ખાતર ઉદ્યોગનો ઝડપી વિકાસ થયો.<br><br><b>ગુજરાતમાં:</b><br>ગુજરાતમાં કલોલ, કંડલા, ભરૂચ, હજીરા અને વડોદરા ખાતે ખાતરના મોટા કારખાના આવેલા છે. (IFFCO, KRIBHCO અને GSFC જેવી કંપનીઓ જાણીતી છે).<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ખેતરને લીલુંછમ કરવા ખાતર જોઈએ! ભારતમાં પહેલું ફેક્ટરી રાનીપેટમાં શરૂ થઈ. ગુજરાતમાં IFFCO અને KRIBHCO ના પ્લાન્ટ કલોલ-કંડલામાં છે તે યાદ રાખજો!</div></div>"
+    },
+
+    {
+        chapter: 13,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સિમેન્ટ ઉદ્યોગ માટે કયો કાચો માલ વપરાય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>મકાનો, રસ્તા, પુલ અને ડેમના નિર્માણ માટે સિમેન્ટ અત્યંત જરૂરી છે. <br><br><b>જરૂરી કાચો માલ:</b><br>સિમેન્ટ બનાવવા માટે <b>ચૂનાનો પથ્થર, કોલસો, ચિરોડી (જિપ્સમ), બોક્સાઈટ, અને ચીકણી માટી</b> નો ઉપયોગ થાય છે.<br>આ કાચો માલ વજનમાં ભારે હોવાથી સિમેન્ટના કારખાના મોટાભાગે કાચો માલ મળતો હોય (ખાણ) તેની નજીક જ સ્થાપવામાં આવે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: સિમેન્ટ બનાવવા માટે 'ચૂ-કો-ચી-બો'! (ચૂનાનો પથ્થર, કોલસો, ચિરોડી, બોક્સાઈટ). આ બધું ભારે હોય એટલે ફેક્ટરી પણ ખાણની નજીક જ હોય.</div></div>"
+    },
+
+    {
+        chapter: 13,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ઇલેક્ટ્રોનિક્સ ઉદ્યોગ વિશે ટૂંકનોંધ લખો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતમાં ઇલેક્ટ્રોનિક્સ ઉદ્યોગની શરૂઆત રેડિયો અને ટેલિફોન ઉદ્યોગથી થઈ હતી.<br>&bull; 1956 માં બેંગલુરુમાં <b>ભારત ઇલેક્ટ્રોનિક્સ લિમિટેડ (BEL)</b> ની સ્થાપના થઈ.<br>&bull; <b>બેંગલુરુ:</b> આજે બેંગલુરુને ભારતની <b>'ઇલેક્ટ્રોનિક્સ રાજધાની'</b> અથવા <b>'સિલિકોન વેલી' (Silicon Valley)</b> તરીકે ઓળખવામાં આવે છે.<br>&bull; કમ્પ્યુટર, મોબાઈલ, ટેલિવિઝન અને સોફ્ટવેર ક્ષેત્રે ભારતે આ ઉદ્યોગમાં હરણફાળ ભરી છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: કમ્પ્યુટર કે સોફ્ટવેરનું નામ પડે એટલે 'બેંગલુરુ' જ યાદ આવવું જોઈએ! ભારતનું આ આઇટી હબ છે જેને સિલિકોન વેલી કહેવાય છે.</div></div>"
+    },
+
+    {
+        chapter: 13,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પરિવહન ઉપકરણ ઉદ્યોગ એટલે શું? ઉદાહરણ આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>મુસાફરી કરવા માટે અને માલસામાનની હેરફેર માટે જે <b>વાહનો (સાધનો)</b> બનાવવામાં આવે છે, તેવા ઉદ્યોગને પરિવહન ઉપકરણ ઉદ્યોગ કહેવાય છે.<br><br><b>તેમાં નીચેના ઉદ્યોગોનો સમાવેશ થાય છે:</b><br>૧. <b>રેલવે:</b> રેલવેના ડબ્બા (કોચ), એન્જિન અને માલગાડીના ડબ્બા બનાવવા.<br>૨. <b>સડક વાહનો:</b> ટ્રેક્ટર, સાયકલ, બસ, ટ્રક, કાર અને મોટરસાઇકલ બનાવવા.<br>૩. <b>જળ પરિવહન:</b> જહાજ (Ship) અને સબમરીન બાંધકામ.<br>૪. <b>હવાઈ પરિવહન:</b> હેલિકોપ્ટર અને વિમાનો બનાવવા.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: યાત્રા કરવાના સાધનો! સાયકલથી લઈને ટ્રેન, કાર અને એરોપ્લેન બનાવતી કંપનીઓ એટલે પરિવહન ઉદ્યોગ. ભારત ટ્રેનના ડબ્બા અને ટ્રેક્ટર જાતે જ બનાવે છે!</div></div>"
+    },
+
+    {
+        chapter: 13,
+        marks: 3,
+        year_asked: "[March 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ઔદ્યોગિક પ્રદૂષણના મુખ્ય પ્રકારો કયા કયા છે? ટૂંકમાં વર્ણવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ઉદ્યોગોના કારણે મુખ્યત્વે 4 પ્રકારના પ્રદૂષણ ફેલાય છે:<br>૧. <b>હવા પ્રદૂષણ:</b> કારખાનાની ચીમનીઓમાંથી નીકળતો ઝેરી ધુમાડો, કાર્બન મોનોક્સાઇડ અને સલ્ફર ડાયોક્સાઇડ હવાને દૂષિત કરે છે.<br>૨. <b>જળ પ્રદૂષણ:</b> ઉદ્યોગોનું કેમિકલયુક્ત ગંદુ પાણી શુદ્ધ કર્યા વિના સીધું નદી કે તળાવમાં છોડવાથી પાણી પ્રદૂષિત થાય છે.<br>૩. <b>ભૂમિ પ્રદૂષણ:</b> કારખાનાનો ઘન કચરો, પ્લાસ્ટિક અને ઝેરી રસાયણો ખુલ્લી જમીન પર નાખવાથી જમીનની ફળદ્રુપતા નાશ પામે છે.<br>૪. <b>ધ્વનિ પ્રદૂષણ:</b> જૂના મશીનો અને વાહનોના ભારે અવાજથી ઘોંઘાટ (ધ્વનિ પ્રદૂષણ) થાય છે, જેનાથી બહેરાશ અને માનસિક તણાવ આવે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ફેક્ટરીના ધુમાડાથી હવા બગડે, ગંદા પાણીથી નદી બગડે, કચરાથી જમીન બગડે અને મશીનોના અવાજથી કાન બગડે (ધ્વનિ પ્રદૂષણ)! 4 પ્રકાર સાવ સહેલા.</div></div>"
+    },
+
+    {
+        chapter: 13,
+        marks: 2,
+        year_asked: "[July 2025 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પર્યાવરણીય અતિક્રમણ (Environmental Degradation) એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>માનવીએ પોતાના સ્વાર્થ અને આર્થિક વિકાસ માટે ઉદ્યોગો અને શહેરીકરણ વધાર્યા છે.<br>માનવીની આ પ્રવૃત્તિઓ અને ઔદ્યોગિક પ્રદૂષણને કારણે <b>કુદરતી પર્યાવરણની ગુણવત્તામાં જે મોટો ઘટાડો કે બગાડ થયો છે</b>, તેને પર્યાવરણીય અતિક્રમણ કહે છે. તેનાથી કુદરતનું સંતુલન ખોરવાઈ ગયું છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: અતિક્રમણ એટલે લિમિટ ક્રોસ કરવી! માણસ ઉદ્યોગો અને પ્રદૂષણ વધારીને કુદરતની બેલેન્સ બગાડે છે અને પર્યાવરણની પથારી ફેરવે છે, તે જ અતિક્રમણ!</div></div>"
+    },
+
+    {
+        chapter: 13,
+        marks: 3,
+        year_asked: "[May 2025, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પર્યાવરણીય અતિક્રમણ રોકવાના (પ્રદૂષણ ઘટાડવાના) ઉપાયો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પર્યાવરણને બચાવવા માટે નીચેના પગલાં લઈ શકાય:<br>૧. <b>યોગ્ય આયોજન:</b> ઉદ્યોગોને રહેણાંક વિસ્તારથી દૂર સ્થાપવા જોઈએ.<br>૨. <b>આધુનિક મશીનો:</b> જૂના મશીનોની જગ્યાએ નવા આધુનિક અને અવાજ ન કરે તેવા સાધનો વાપરવા.<br>૩. <b>હવા પ્રદૂષણ રોકવું:</b> ફેક્ટરીની ચીમનીઓમાં <b>સ્ક્રબર અને ફિલ્ટર</b> લગાવવા, જેથી ઝેરી ધુમાડો શુદ્ધ થઈને હવામાં ભળે.<br>૪. <b>જળ પ્રદૂષણ રોકવું:</b> ઉદ્યોગોના ગંદા પાણીને સીધું નદીમાં છોડવાને બદલે <b>ટ્રીટમેન્ટ પ્લાન્ટ (ETP)</b> દ્વારા શુદ્ધ કરીને જ નિકાલ કરવો જોઈએ.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: નદીમાં પાણી છોડતા પહેલા સાફ કરો (ટ્રીટમેન્ટ), ચીમનીમાં ફિલ્ટર નાખો જેથી ધુમાડો સાફ થાય, અને અવાજ ન કરે એવા સાઇલેન્ટ મશીનો વાપરો! એટલે પ્રદૂષણ કંટ્રોલ.</div></div>"
     }
 
 
