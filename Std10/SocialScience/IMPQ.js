@@ -1612,7 +1612,128 @@ var Std10_SocialScience_imp = [
         year_asked: "[March 2025]",
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભારતના આંતરરાષ્ટ્રીય વ્યાપારની બદલાતી તરેહ (Trends) વર્ણવો.</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સમયની સાથે ભારતના વિદેશ વેપારમાં મોટો બદલાવ આવ્યો છે:<br><br><b>પહેલાનો સમય:</b> ભારત માત્ર ખેત-પેદાશો, કાચો માલ અને મસાલાની જ <b>નિકાસ</b> કરતું, જ્યારે મશીનરી અને તૈયાર માલની વિદેશથી <b>આયાત</b> કરતું હતું.<br><b>વર્તમાન સમય (બદલાતી તરેહ):</b><br>&bull; આજે ભારત તૈયાર કપડાં, ઇલેક્ટ્રોનિક સામાન, એન્જિનિયરિંગ ગુડ્સ, અને ખાસ કરીને <b>સોફ્ટવેર (IT) ની મોટી નિકાસ</b> કરે છે.<br>&bull; ભારતની આયાતમાં આજે સૌથી મોટો હિસ્સો <b>ખનીજ તેલ (પેટ્રોલિયમ), સોનું-ચાંદી અને રસાયણોનો</b> છે.<br>આમ, ભારત હવે એક વિકાસશીલ અને ઔદ્યોગિક દેશ તરીકે ઊભરી રહ્યો છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: અંગ્રેજોના ટાઈમમાં આપણે માત્ર કાચો માલ આપતા અને તૈયાર કપડાં મંગાવતા. હવે ટ્રેન્ડ બદલાયો છે! આપણે ખુદ સોફ્ટવેર અને મશીનો બનાવીને દુનિયાને વેચીએ છીએ.</div></div>"
+    },
+        
+    {
+        chapter: 15,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આર્થિક વિકાસ (Economic Development) એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આર્થિક વિકાસ એ સતત ચાલતી પ્રક્રિયા છે, જેમાં ત્રણ બાબતોનો સમાવેશ થાય છે:<br>૧. દેશની <b>રાષ્ટ્રીય આવક</b>માં સતત વધારો થવો.<br>૨. દેશની <b>માથાદીઠ આવક</b> (Per Capita Income) માં વધારો થવો.<br>૩. લોકોના <b>જીવનધોરણમાં સુધારો</b> થવો (શિક્ષણ, આરોગ્ય, રહેઠાણ વગેરે સુવિધાઓ વધવી).<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: આર્થિક વિકાસ એટલે દેશ પાસે પૈસા વધે (રાષ્ટ્રીય આવક), પબ્લિક પાસે પૈસા વધે (માથાદીઠ આવક) અને પબ્લિકની લાઈફસ્ટાઈલ સુધરે (જીવનધોરણ). આ 3 પોઈન્ટ લખો એટલે 2 માર્ક પાક્કા!</div></div>"
+    },
+
+    {
+        chapter: 15,
+        marks: 3,
+        year_asked: "[May 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આર્થિક વૃદ્ધિ અને આર્થિક વિકાસ વચ્ચેનો તફાવત સ્પષ્ટ કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><table style='width: 100%; border-collapse: collapse; margin-top: 10px; text-align: left;'><tr style='background-color: #bbdefb;'><th style='padding: 8px; border: 1px solid #90caf9;'>આર્થિક વિકાસ (Economic Development)</th><th style='padding: 8px; border: 1px solid #90caf9;'>આર્થિક વૃદ્ધિ (Economic Growth)</th></tr><tr><td style='padding: 8px; border: 1px solid #e0e0e0;'>૧. તે <b>પ્રથમ અવસ્થા</b> છે. (વિકાસશીલ દેશો સાથે જોડાયેલ છે).</td><td style='padding: 8px; border: 1px solid #e0e0e0;'>૧. તે આર્થિક વિકાસ પછીની <b>બીજી અવસ્થા</b> છે. (વિકસિત દેશો સાથે જોડાયેલ છે).</td></tr><tr><td style='padding: 8px; border: 1px solid #e0e0e0;'>૨. તેમાં <b>ગુણાત્મક</b> (Qualitative) અને પરિમાણાત્મક બંને ફેરફારો થાય છે.</td><td style='padding: 8px; border: 1px solid #e0e0e0;'>૨. તેમાં માત્ર <b>પરિમાણાત્મક</b> (Quantitative - માત્ર આવક વધે) ફેરફારો થાય છે.</td></tr><tr><td style='padding: 8px; border: 1px solid #e0e0e0;'>૩. વણખેડાયેલી જમીન ખેતીમાં લેવાય તે આર્થિક વિકાસ છે.</td><td style='padding: 8px; border: 1px solid #e0e0e0;'>૩. ખેડાયેલી જમીનમાં ઉત્પાદન વધે તે આર્થિક વૃદ્ધિ છે.</td></tr></table><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: 'વિકાસ' એટલે ગરીબમાંથી અમીર બનવું (ભારત). 'વૃદ્ધિ' એટલે અમીર હોઈએ અને એમાં વધુ પૈસા ઉમેરાય (અમેરિકા). વૃદ્ધિમાં માત્ર પૈસા વધે (પરિમાણ), વિકાસમાં ગુણ (ક્વોલિટી) પણ સુધરે!</div></div>"
+    },
+
+    {
+        chapter: 15,
+        marks: 3,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિકાસશીલ અર્થતંત્ર (Developing Economy) નાં લક્ષણો જણાવો. (કોઈપણ ચાર).</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વિકાસશીલ દેશ (જેમ કે ભારત) ના મુખ્ય લક્ષણો નીચે મુજબ છે:<br>૧. <b>નીચી માથાદીઠ આવક:</b> વસ્તીવૃદ્ધિ વધુ હોવાથી લોકોની સરેરાશ આવક નીચી હોય છે.<br>૨. <b>કૃષિ પર અવલંબન:</b> દેશના 60% થી વધુ લોકો રોજગારી માટે ખેતી પર આધાર રાખે છે.<br>૩. <b>બેરોજગારી અને ગરીબી:</b> કુલ શ્રમિકોના 3% કરતા વધુ લોકો બેરોજગાર હોય છે અને દેશની ત્રીજા ભાગની વસ્તી ગરીબ હોય છે.<br>૪. <b>આવકની અસમાનતા:</b> ધનિક લોકો વધુ ધનિક અને ગરીબ લોકો વધુ ગરીબ બને છે.<br>૫. <b>દ્વિમુખી અર્થતંત્ર:</b> એક બાજુ ગામડામાં જૂની પદ્ધતિથી ખેતી થાય છે, જ્યારે બીજી બાજુ શહેરોમાં આધુનિક ઉદ્યોગો જોવા મળે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: વિકાસશીલ દેશ એટલે આપણા ભારતને જ યાદ કરી લેવાનું! વસ્તી વધારે, આવક ઓછી, ખેતી પર આધાર, ગરીબી અને બેરોજગારી. બસ આ લક્ષણો લખી દેવાના.</div></div>"
+    },
+
+    {
+        chapter: 15,
+        marks: 2,
+        year_asked: "[March 2024, May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આર્થિક પ્રવૃત્તિ અને બિનઆર્થિક પ્રવૃત્તિ વચ્ચેનો તફાવત ઉદાહરણ આપી સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>૧. આર્થિક પ્રવૃત્તિ (Economic Activity):</b><br>જે પ્રવૃત્તિનો હેતુ <b>આવક મેળવવાનો કે ખર્ચ કરવાનો</b> (નાણાકીય વળતરનો) હોય તેને આર્થિક પ્રવૃત્તિ કહેવાય.<br><i>ઉદાહરણ:</i> ખેડૂત ખેતી કરે, વેપારી દુકાન ચલાવે, શિક્ષક શાળામાં ભણાવે.<br><br><b>૨. બિનઆર્થિક પ્રવૃત્તિ (Non-Economic Activity):</b><br>જે પ્રવૃત્તિનો હેતુ આવક મેળવવાનો હોતો નથી, પરંતુ <b>પ્રેમ, દયા, સેવા કે લાગણીથી</b> પ્રેરાઈને થતી હોય તેને બિનઆર્થિક પ્રવૃત્તિ કહેવાય.<br><i>ઉદાહરણ:</i> માતા પોતાના બાળકને ઉછેરે, ડૉક્ટર ગરીબોની મફત સેવા કરે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: સીધી વાત, જેમાં 'પૈસા' મળે એ આર્થિક અને જેમાં 'પ્રેમ કે પુણ્ય' મળે એ બિનઆર્થિક! શિક્ષક સ્કૂલમાં ભણાવે તો પગાર મળે (આર્થિક), પણ એ જ શિક્ષક પોતાના છોકરાને ઘરે ભણાવે તો ફી ન મળે (બિનઆર્થિક)!</div></div>"
+    },
+
+    {
+        chapter: 15,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભારતીય અર્થતંત્રના માળખાના ત્રણ ક્ષેત્રો (વિભાગો) જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વિવિધ આર્થિક પ્રવૃત્તિઓને આધારે ભારતીય અર્થતંત્રને મુખ્ય 3 ક્ષેત્રોમાં વહેંચવામાં આવ્યું છે:<br>૧. <b>પ્રાથમિક ક્ષેત્ર (Primary Sector):</b> સીધી કુદરત સાથે જોડાયેલી પ્રવૃત્તિઓ. દા.ત. ખેતી, પશુપાલન, જંગલ પેદાશો.<br>૨. <b>માધ્યમિક ક્ષેત્ર (Secondary Sector):</b> કુદરતી સંપત્તિનું રૂપ બદલીને નવી વસ્તુઓ બનાવવી. દા.ત. ઉદ્યોગો, બાંધકામ.<br>૩. <b>સેવા ક્ષેત્ર (Tertiary Sector):</b> વિવિધ પ્રકારની સેવાઓ પૂરી પાડવી. દા.ત. વેપાર, વાહનવ્યવહાર, બેન્કિંગ, શિક્ષણ.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: અર્થતંત્રના 3 માળ: પહેલો માળ 'ખેતર' (પ્રાથમિક), બીજો માળ 'ફેક્ટરી' (માધ્યમિક) અને ત્રીજો માળ 'ઓફિસ' (સેવા ક્ષેત્ર)!</div></div>"
+    },
+
+    {
+        chapter: 15,
+        marks: 2,
+        year_asked: "[July 2024 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પ્રાથમિક ક્ષેત્ર (Primary Sector) એટલે શું? તેમાં કઈ પ્રવૃત્તિઓનો સમાવેશ થાય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જે પ્રવૃત્તિઓ <b>સીધી રીતે કુદરત પર આધારિત</b> છે અને તેમાંથી ઉત્પાદન મેળવવામાં આવે છે, તેને પ્રાથમિક ક્ષેત્ર કહે છે.<br><br><b>સમાવિષ્ટ પ્રવૃત્તિઓ:</b><br>&bull; ખેતી કરવી અને ખેતી સાથે જોડાયેલી પ્રવૃત્તિઓ.<br>&bull; પશુપાલન, મરઘાં-બતકાં ઉછેર, અને મત્સ્ય ઉદ્યોગ (માછીમારી).<br>&bull; જંગલમાંથી લાકડું કે ઔષધિઓ એકઠી કરવી અને કાચી ધાતુઓનું ખોદકામ કરવું.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ભગવાન (કુદરત) પાસેથી જે ડાયરેક્ટ મળે એ બધું પ્રાથમિક! જમીનમાંથી પાક મળે, ગાય-ભેંસ દૂધ આપે, દરિયામાંથી માછલી મળે - આ બધું કુદરતી છે એટલે પ્રાથમિક.</div></div>"
+    },
+
+    {
+        chapter: 15,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>માધ્યમિક ક્ષેત્ર અને સેવા ક્ષેત્ર વિશે ટૂંકમાં માહિતી આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>૧. માધ્યમિક ક્ષેત્ર (Secondary Sector):</b><br>આ ક્ષેત્રમાં ટાંકણીથી લઈને મોટા યંત્રો બનાવવાના તમામ નાના-મોટા ઉદ્યોગોનો સમાવેશ થાય છે. તેને <b>'ઉદ્યોગ ક્ષેત્ર'</b> પણ કહેવાય છે. દા.ત. કાપડ ઉદ્યોગ, બાંધકામ પ્રવૃત્તિ, ઇલેક્ટ્રોનિક્સ, અને વીજળી ઉત્પાદન.<br><br><b>૨. સેવા ક્ષેત્ર (Tertiary/Service Sector):</b><br>આ ક્ષેત્ર કોઈ વસ્તુનું ઉત્પાદન નથી કરતું પણ લોકો અને ઉદ્યોગોને સેવાઓ પૂરી પાડે છે. દા.ત. વેપાર, સંદેશાવ્યવહાર, પરિવહન, શિક્ષણ, આરોગ્ય, બેન્કિંગ, અને વીમા કંપનીઓ.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: કપાસ ખેતરમાં ઉગે એ પ્રાથમિક, ફેક્ટરીમાં કપાસમાંથી શર્ટ બને એ માધ્યમિક, અને એ શર્ટ ટ્રકમાં ભરીને દુકાનદાર (વેપારી) તમને વેચે એ સેવા ક્ષેત્ર!</div></div>"
+    },
+
+    {
+        chapter: 15,
+        marks: 2,
+        year_asked: "[March 2024, May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ઉત્પાદનનાં મુખ્ય સાધનો કયા કયા છે? નામ જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કુદરતી સંપત્તિ અને માનવ પ્રયત્નો ભેગા કરી વસ્તુઓનું ઉત્પાદન કરવા માટે મુખ્ય <b>ચાર સાધનો</b> ની જરૂર પડે છે:<br><br>૧. <b>જમીન (Land):</b> કુદરતી સંપત્તિ.<br>૨. <b>મૂડી (Capital):</b> માનવસર્જિત સાધનો અને નાણાં.<br>૩. <b>શ્રમ (Labor):</b> માનવીની શારીરિક કે માનસિક મહેનત.<br>૪. <b>નિયોજક (Entrepreneur):</b> ઉપરના ત્રણેય સાધનોને ભેગા કરી જોખમ ઉઠાવનાર વ્યક્તિ.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ફેક્ટરી નાખવી હોય તો શું જોઈએ? પહેલા જમીન જોઈએ, મશીન લાવવા મૂડી (પૈસા) જોઈએ, કામ કરવા મજૂર (શ્રમ) જોઈએ, અને આ બધું મેનેજ કરવા માલિક (નિયોજક) જોઈએ! ટૂંકમાં: 'જ-મૂ-શ્ર-નિ'.</div></div>"
+    },
+
+    {
+        chapter: 15,
+        marks: 2,
+        year_asked: "[May 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ઉત્પાદનનું સાધન 'જમીન' (Land) અર્થશાસ્ત્રની ભાષામાં સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સામાન્ય અર્થમાં પૃથ્વીના ઉપરના પડને આપણે જમીન કહીએ છીએ.<br><br>પરંતુ <b>અર્થશાસ્ત્રની પરિભાષામાં</b>, 'જમીન' એટલે તમામ પ્રકારની <b>કુદરતી સંપત્તિ</b>.<br>જેમાં પૃથ્વીની સપાટી પર આવેલા જંગલો, નદીઓ અને પર્વતો તથા પૃથ્વીના પેટાળમાંથી મળતા ખનીજો અને ધાતુઓ વગેરે તમામ કુદરતી વસ્તુઓનો સમાવેશ જમીનમાં જ થાય છે. તે <b>ઉત્પાદનનું કુદરતી સાધન</b> છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: અર્થશાસ્ત્રમાં 'જમીન' એટલે માત્ર પ્લોટ નહિ! જે પણ વસ્તુ ભગવાને મફતમાં આપી છે (નદી, પર્વત, ખનીજ, જંગલ) એ બધી જ સંપત્તિ અર્થશાસ્ત્ર માટે 'જમીન' છે!</div></div>"
+    },
+
+    {
+        chapter: 15,
+        marks: 2,
+        year_asked: "[July 2025 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ઉત્પાદનનું સાધન 'શ્રમ' (Labor) એટલે શું? શ્રમિક કોને કહેવાય?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>આર્થિક વળતર (પગાર કે વેતન) મેળવવાની અપેક્ષાથી</b> કરવામાં આવતા કોઈપણ શારીરિક કે માનસિક કાર્યને <b>શ્રમ</b> કહે છે.<br>અને આ શ્રમ કરનાર વ્યક્તિને <b>શ્રમિક (Laborer)</b> કહેવાય છે. શ્રમ એ ઉત્પાદનનું <b>સજીવ સાધન</b> છે.<br><br>દા.ત. ખેતમજૂરો, ઔદ્યોગિક કામદારો, શિક્ષકો, અને ડૉક્ટરોના કાર્યને શ્રમ કહેવાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: શ્રમ એટલે માત્ર પથ્થર તોડવા એવું નહિ! પગાર માટે થતું કોઈ પણ કામ (પછી એ મજૂરનું હોય કે એસી માં બેઠેલા સોફ્ટવેર એન્જિનિયરનું) અર્થશાસ્ત્રમાં તેને શ્રમ જ કહેવાય! સજીવ સાધન છે.</div></div>"
+    },
+
+    {
+        chapter: 15,
+        marks: 3,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>બજાર પદ્ધતિ (મૂડીવાદી પદ્ધતિ) ના લક્ષણો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>અમેરિકા અને જાપાન જેવા દેશોએ બજાર પદ્ધતિ અપનાવી છે. તેના લક્ષણો નીચે મુજબ છે:<br>૧. <b>ખાનગી માલિકી:</b> ઉત્પાદનનાં સાધનોની માલિકી સરકારની નહિ, પણ ખાનગી વ્યક્તિઓની હોય છે.<br>૨. <b>નફાનો હેતુ:</b> આ પદ્ધતિમાં આર્થિક પ્રવૃત્તિના કેન્દ્રમાં માત્ર <b>'નફો' (Profit)</b> હોય છે.<br>૩. <b>ગ્રાહકોને પસંદગી:</b> બજારમાં હરીફાઈ હોવાથી ગ્રાહકોને વસ્તુઓ પસંદ કરવાની વિશાળ તક મળે છે.<br>૪. <b>સરકારની ભૂમિકા શૂન્ય:</b> તેમાં રાજ્ય (સરકાર) નો કોઈ હસ્તક્ષેપ કે દખલગીરી હોતી નથી, તેથી તેને <b>મુક્ત અર્થતંત્ર</b> પણ કહે છે.<br>૫. <b>ભાવ નિર્ધારણ:</b> વસ્તુના ભાવ બજારની માંગ અને પુરવઠા પરથી આપોઆપ નક્કી થાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: બજાર પદ્ધતિ એટલે 'અમેરિકન સ્ટાઈલ'! બધી જ કંપની પ્રાઈવેટ, સરકાર કોઈ રૂલ્સ ન બનાવે, બસ જે વેચવું હોય એ વેચો અને દબાવીને 'નફો' કમાવો!</div></div>"
+    },
+
+    {
+        chapter: 15,
+        marks: 3,
+        year_asked: "[May 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>બજાર પદ્ધતિના લાભ અને ગેરલાભ (મર્યાદાઓ) જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>લાભ (ફાયદા):</b><br>&bull; વ્યક્તિનું આર્થિક સ્વાતંત્ર્ય જળવાય છે.<br>&bull; હરીફાઈ હોવાથી વસ્તુની ગુણવત્તા (Quality) શ્રેષ્ઠ બને છે.<br>&bull; નવા સંશોધનો સતત થતા રહે છે, જેનાથી આર્થિક વિકાસ ઝડપી થાય છે.<br><br><b>ગેરલાભ (મર્યાદાઓ/ખામીઓ):</b><br>&bull; <b>નફાને પ્રાધાન્ય:</b> નફો વધુ મળતો હોય તેવી મોજશોખની વસ્તુઓ વધુ બને છે, જ્યારે ગરીબોની પ્રાથમિક જરૂરિયાતની વસ્તુઓ ઓછી બને છે.<br>&bull; <b>શોષણ:</b> ગ્રાહકો અને મજૂરોનું શોષણ થાય છે.<br>&bull; <b>અસમાનતા:</b> આવક અને સંપત્તિની અસમાનતા વધે છે (અમીર વધુ અમીર બને છે).<br>&bull; <b>ઇજારો:</b> કોઈ એક કંપનીની મોનોપોલી (ઇજારો) વધવાનો ભય રહે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ફાયદો એ કે હરીફાઈને લીધે પબ્લિકને બેસ્ટ વસ્તુ મળે. પણ નુકસાન એ કે કંપનીવાળા ફક્ત અમીરો માટે મોંઘી કાર જ બનાવશે, ગરીબો માટે સસ્તું અનાજ નહિ ઉગાડે, કારણ કે એમાં 'નફો' નથી!</div></div>"
+    },
+
+    {
+        chapter: 15,
+        marks: 3,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સમાજવાદી પદ્ધતિ (Socialist System) એટલે શું? તેના લક્ષણો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>બજાર પદ્ધતિની નિષ્ફળતામાંથી રશિયા અને ચીન જેવા દેશોએ સમાજવાદી પદ્ધતિ અપનાવી. આ પદ્ધતિ બજાર પદ્ધતિથી તદ્દન વિરોધી છે.<br><br><b>લક્ષણો:</b><br>૧. <b>સરકારી માલિકી:</b> ઉત્પાદનનાં તમામ સાધનોની માલિકી રાજ્ય (સરકાર) ની હોય છે.<br>૨. <b>સમાજ કલ્યાણ:</b> આર્થિક પ્રવૃત્તિના કેન્દ્રમાં 'નફો' નહિ, પણ <b>સમાજનું કલ્યાણ</b> હોય છે.<br>૩. <b>આયોજન:</b> અર્થતંત્રના તમામ નિર્ણયો (શું ઉત્પાદન કરવું, કેટલા ભાવ રાખવા) રાજ્ય સરકાર દ્વારા લેવાય છે.<br>૪. <b>શ્રમિકોને વેતન:</b> શ્રમિકોને કામના બદલામાં યોગ્ય વેતન આપવામાં આવે છે, તેમનું શોષણ થતું નથી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: આ 'રશિયન સ્ટાઈલ' છે! બધું સરકારનું! કોઈ પ્રાઈવેટ કંપની નહિ, એટલે કોઈ નફો ન કમાય. સરકાર નક્કી કરશે કે કોને કેટલો સામાન આપવો જેથી બધાનું ભલું (કલ્યાણ) થાય.</div></div>"
+    },
+
+    {
+        chapter: 15,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સમાજવાદી પદ્ધતિની ખામીઓ (મર્યાદાઓ) જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સમાનતા અને સમાજ કલ્યાણના સારા હેતુ હોવા છતાં, સમાજવાદી પદ્ધતિમાં નીચેની ખામીઓ જોવા મળે છે:<br>૧. ઉત્પાદનના સાધનો સરકાર પાસે હોવાથી, લોકોમાં <b>ઉત્પાદન વધારવા માટે પ્રોત્સાહન</b> (Motivation) રહેતું નથી.<br>૨. બજારમાં હરીફાઈ કે સ્પર્ધા ન હોવાથી નવા સંશોધનો થતા નથી.<br>૩. આમાં વ્યક્તિગત આર્થિક સ્વાતંત્ર્ય જળવાતું નથી.<br>૪. સંપૂર્ણ અર્થતંત્ર પર રાજ્ય (સરકાર) નો અંકુશ હોવાથી <b>અમલદારશાહી (ભ્રષ્ટાચાર)</b> નો ભય ઊભો થાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: તમે ગમે તેટલી સારી પ્રોડક્ટ બનાવો, નફો તો સરકાર જ લઈ જશે! તો પછી લોકો મહેનત કેમ કરે? એટલે જ આ પદ્ધતિમાં નવી શોધ-ખોળ નથી થતી અને સરકારી બાબુઓનું રાજ ચાલે છે.</div></div>"
+    },
+
+    {
+        chapter: 15,
+        marks: 3,
+        year_asked: "[May 2025, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>મિશ્ર અર્થતંત્ર (Mixed Economy) એટલે શું? ભારતે શા માટે મિશ્ર અર્થતંત્ર અપનાવ્યું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>બજાર પદ્ધતિ અને સમાજવાદી પદ્ધતિ બંનેની ખામીઓ દૂર કરીને બંનેના સારા લક્ષણોનો સમન્વય કરી જે પદ્ધતિ બનાવી તેને <b>મિશ્ર અર્થતંત્ર</b> કહે છે. (ભારત, ફ્રાંસ અને ઈંગ્લેન્ડે આ પદ્ધતિ અપનાવી છે).<br><br><b>ભારતનું મિશ્ર અર્થતંત્ર:</b><br>&bull; <b>સહ-અસ્તિત્વ:</b> ભારતમાં જાહેર ક્ષેત્ર (સરકારી કંપનીઓ - દા.ત. રેલવે, વીજળી) અને ખાનગી ક્ષેત્ર (પ્રાઈવેટ કંપનીઓ - દા.ત. ટાટા, રિલાયન્સ) બંને એકસાથે મળીને કામ કરે છે.<br>&bull; <b>સરકારી અંકુશ:</b> ખાનગી કંપનીઓ માત્ર નફા પાછળ ન ભાગે તે માટે સરકાર તેમના પર કરવેરા અને કાયદા દ્વારા નિયંત્રણ રાખે છે.<br>&bull; પછાત વિસ્તારોમાં ઉદ્યોગો સ્થાપવા સરકાર સબસિડી પણ આપે છે. આમ, તે <b>નિયંત્રિત આર્થિક પદ્ધતિ</b> છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: મિશ્ર એટલે આપણી 'મિક્સ સબ્જી'! અમેરિકાનું પ્રાઈવેટ મોડેલ પણ લીધું અને રશિયાનું સરકારી મોડેલ પણ લીધું. જિયો (પ્રાઈવેટ) અને બીએસએનએલ (સરકારી) બંને સાથે કામ કરે એ જ ભારતનું મિશ્ર અર્થતંત્ર!</div></div>"
     }
+
 
 
 ];
