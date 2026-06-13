@@ -2475,10 +2475,180 @@ var Std10_SocialScience_imp = [
         year_asked: "[March 2024, July 2025 (Supplementary)]",
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રાષ્ટ્રીય અન્ન સલામતી કાયદો (National Food Security Act - 2013) નો મુખ્ય હેતુ શું છે? 'મા અન્નપૂર્ણા યોજના' શું છે?</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>હેતુ:</b> કોઈ પણ નાગરિક ભૂખ્યો ન સૂવે અને ગરીબ લોકોને પૂરતું પોષણક્ષમ અનાજ મળી રહે તે માટે ભારત સરકારે 2013 માં રાષ્ટ્રીય અન્ન સલામતી કાયદો પસાર કર્યો.<br><br><b>મા અન્નપૂર્ણા યોજના:</b> ગુજરાત સરકારે આ કાયદા હેઠળ 'મા અન્નપૂર્ણા યોજના' શરૂ કરી છે:<br>&bull; તેમાં <b>અંત્યોદય (અતિ ગરીબ) પરિવારોને દર મહિને 35 કિલો અનાજ બિલકુલ મફત</b> આપવામાં આવે છે.<br>&bull; અન્ય BPL પરિવારોને વ્યક્તિદીઠ <b>5 કિલો અનાજ</b> રાહત દરે (ઘઉં 2 રૂપિયા/કિલો અને ચોખા 3 રૂપિયા/કિલો) આપવામાં આવે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: અન્ન સલામતી એટલે ગરીબોને 'Right to Food' (ભોજનનો અધિકાર)! અતિ ગરીબને 35 કિલો અનાજ મફત અને બાકીના ગરીબોને 2 રૂપિયે કિલો ઘઉં. કોઈ ભૂખ્યું ન સુવે એ જ લક્ષ્ય છે.</div></div>"
+    },
+
+    // ==========================================
+    // પ્રકરણ 22: પ્રકૃતિમાં પોષણ-વ્યવસ્થા ના 10 પ્રશ્નો
+    // ==========================================
+    {
+        chapter: 22,
+        marks: 2,
+        year_asked: "[Board IMP]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આહારશૃંખલા (Food Chain) એટલે શું? ઉદાહરણ આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>નિવસનતંત્રમાં એક સજીવ ખોરાક માટે બીજા સજીવ પર આધાર રાખે છે. સજીવોની એકબીજાને ખાવાની અને ખોરાક બનવાની આ સીધી કડીને <b>આહારશૃંખલા</b> કહે છે.<br><br><b>ઉદાહરણ:</b> ઘાસ ➔ તીડ (કીટક) ➔ દેડકો ➔ સાપ ➔ સમડી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: 'કોણ કોને ખાય છે' તેની લાઈન એટલે આહારશૃંખલા! ઘાસને તીડ ખાય, તીડને દેડકો ખાય, દેડકાને સાપ ખાય. એકદમ સિમ્પલ ચેઇન!</div></div>"
+    },
+
+    {
+        chapter: 22,
+        marks: 2,
+        year_asked: "[Board IMP]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ઉત્પાદકો (Producers) કોને કહેવાય? પ્રકૃતિમાં તેમનું મહત્વ શું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જે સજીવો સૂર્યપ્રકાશ અને ક્લોરોફિલની મદદથી પ્રકાશસંશ્લેષણની ક્રિયા કરી <b>પોતાનો ખોરાક જાતે બનાવે છે</b>, તેમને ઉત્પાદકો કહેવાય છે. (દા.ત. બધી જ લીલી વનસ્પતિઓ અને કેટલાક જીવાણુઓ).<br><br><b>મહત્વ:</b> તેઓ સમગ્ર જીવસૃષ્ટિ (પ્રાણીઓ અને મનુષ્યો) માટે ખોરાકનો એકમાત્ર મૂળ સ્ત્રોત છે. તેમના વિના પૃથ્વી પર જીવન શક્ય નથી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: પ્રકૃતિના 'રસોઈયા'! જે કોઈના પર આધાર ન રાખે અને સૂરજદાદાના તાપમાં પોતાનું જમવાનું જાતે જ બનાવે એ ઉત્પાદકો. લીલી વનસ્પતિ એનું બેસ્ટ ઉદાહરણ છે.</div></div>"
+    },
+
+    {
+        chapter: 22,
+        marks: 3,
+        year_asked: "[Most IMP]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ઉપભોગીઓ (Consumers) એટલે શું? તેના પ્રકાર જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જે સજીવો પોતાનો ખોરાક જાતે બનાવી શકતા નથી અને પ્રત્યક્ષ કે પરોક્ષ રીતે <b>લીલી વનસ્પતિ (ઉત્પાદકો) પર આધાર રાખે છે</b>, તેમને ઉપભોગીઓ કહે છે.<br><br><b>તેના 3 પ્રકાર છે:</b><br>૧. <b>પ્રાથમિક ઉપભોગી (તૃણાહારી):</b> માત્ર વનસ્પતિ ખાનારા. (દા.ત. ગાય, હરણ, સસલું).<br>૨. <b>દ્વિતીયક ઉપભોગી (માંસાહારી):</b> તૃણાહારી પ્રાણીઓને ખાનારા. (દા.ત. શિયાળ, દેડકો).<br>૩. <b>તૃતીયક/ઉચ્ચ કક્ષાના ઉપભોગી:</b> જે અન્ય માંસાહારીઓને ખાય છે. (દા.ત. સિંહ, વાઘ, ગરુડ).<br>૪. <b>મિશ્રાહારી:</b> વનસ્પતિ અને પ્રાણી બંને ખાનારા. (દા.ત. મનુષ્ય, કાગડો).<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ઉપભોગી એટલે 'રેડીમેડ ખાવાવાળા'! શાકભાજી ખાય એ પ્રાઇમરી, શાકભાજી ખાવાવાળાને ખાઈ જાય એ સેકન્ડરી, અને જે બધાયના બાપ હોય (સિંહ) એ ઉચ્ચ કક્ષાના માંસાહારી!</div></div>"
+    },
+
+    {
+        chapter: 22,
+        marks: 2,
+        year_asked: "[Board IMP]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિઘટકો (Decomposers) નું નિવસનતંત્રમાં કાર્ય શું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વિઘટકો (જેમ કે <b>બેક્ટેરિયા અને ફૂગ</b>) એ મૃત સજીવો અને વનસ્પતિ-પ્રાણીઓના કચરાનું વિઘટન (તોડવાનું) કાર્ય કરે છે.<br><br><b>કાર્ય:</b> તેઓ જટિલ કાર્બનિક પદાર્થોને સરળ અકાર્બનિક પદાર્થોમાં ફેરવે છે, જે જમીનમાં ભળીને તેને ફળદ્રુપ બનાવે છે. વનસ્પતિ આ પોષકતત્વોનો ફરીથી ઉપયોગ કરે છે. આમ, તેઓ પ્રકૃતિમાં <b>'સફાઈ કામદાર'</b> તરીકેનું કાર્ય કરે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: વિઘટકો એટલે પ્રકૃતિના સ્વીપર (સફાઈ કામદાર)! જંગલમાં મરેલા પ્રાણીઓને કોહડાવીને માટીમાં ભેળવી દેવાનું કામ ફૂગ અને બેક્ટેરિયા જ કરે છે.</div></div>"
+    },
+
+    {
+        chapter: 22,
+        marks: 3,
+        year_asked: "[Most IMP]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આહારજાળ (Food Web) એટલે શું? તે આહારશૃંખલાથી કઈ રીતે અલગ છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કુદરતમાં કોઈપણ આહારશૃંખલા સ્વતંત્ર કે સીધી હોતી નથી. એક સજીવ પોતાના ખોરાક માટે <b>એકથી વધુ પ્રકારના સજીવો પર આધાર</b> રાખતો હોય છે.<br><br>આમ, નિવસનતંત્રમાં અનેક આહારશૃંખલાઓ એકબીજા સાથે જોડાઈને જે <b>જાળી જેવી ગૂંચવણભરી રચના</b> બનાવે છે, તેને આહારજાળ કહે છે.<br><b>તફાવત:</b> આહારશૃંખલા એ સીધી રેખામાં હોય છે, જ્યારે આહારજાળમાં અનેક શાખાઓ અને વિકલ્પો હોય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: શૃંખલા એટલે એક સીધી 'ચેન' અને જાળ એટલે કરોળિયાનું 'જાળું'! સાપ દેડકાને પણ ખાય અને ઉંદરને પણ ખાય, એટલે આખી સિસ્ટમ ગૂંચવાઈને જાળી બની જાય છે.</div></div>"
+    },
+
+    {
+        chapter: 22,
+        marks: 2,
+        year_asked: "[Board IMP]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જૈવિક વિશાલન (Biological Magnification) એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ખેતીમાં પાકને બચાવવા માટે છાંટવામાં આવતા <b>ઝેરી રસાયણો અને જંતુનાશકો (જેમ કે DDT)</b> જમીન અને પાણીમાં ભળે છે. <br><br>આ રસાયણોનું વિઘટન થતું નથી અને તે આહારશૃંખલા દ્વારા એક સજીવમાંથી બીજા સજીવમાં પ્રવેશે છે. દરેક પોષક સ્તરે આ <b>ઝેરી રસાયણોના પ્રમાણમાં ક્રમશઃ થતા વધારાને</b> જૈવિક વિશાલન કહે છે. આહારશૃંખલામાં મનુષ્ય સૌથી ટોચ પર હોવાથી મનુષ્યના શરીરમાં આ ઝેર સૌથી વધુ જમા થાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ખેતરમાં નાખેલું ઝેર વનસ્પતિમાંથી પ્રાણીમાં અને ત્યાંથી માણસમાં જાય! જેમ જેમ સ્ટેપ વધે તેમ ઝેરની અસર ડબલ થતી જાય, એને જ જૈવિક વિશાલન કહેવાય.</div></div>"
+    },
+
+    {
+        chapter: 22,
+        marks: 2,
+        year_asked: "[Board IMP]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નિવસનતંત્ર (Ecosystem) માં ઊર્જાનો પ્રવાહ હંમેશા એકમાર્ગી શા માટે હોય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સૂર્યમાંથી મળતી ઊર્જા ઉત્પાદકો (વનસ્પતિ) મેળવે છે, ત્યાંથી તૃણાહારીઓ અને પછી માંસાહારીઓમાં જાય છે.<br><br>પરંતુ, માંસાહારીઓમાંથી ઊર્જા પાછી તૃણાહારીઓમાં કે વનસ્પતિમાંથી પાછી સૂર્યમાં <b>ક્યારેય રિવર્સ (ઊંધી) જતી નથી</b>. દરેક સ્તરે કેટલીક ઊર્જા ઉષ્મા રૂપે વ્યય પામે છે. તેથી ઊર્જાનો પ્રવાહ હંમેશા <b>એક જ દિશામાં (એકમાર્ગી)</b> વહે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: વન વે ટ્રાફિક! સૂરજનું તેજ ઝાડમાં જાય, ઝાડ હરણ ખાય, હરણ સિંહ ખાય. પણ સિંહની એનર્જી પાછી સૂરજને ન મળે! એટલે આ રસ્તો વન-વે છે.</div></div>"
+    },
+
+    {
+        chapter: 22,
+        marks: 2,
+        year_asked: "[Board IMP]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પોષકસ્તરો (Trophic Levels) એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આહારશૃંખલાના <b>દરેક ચરણ કે પગથિયાં</b> કે જ્યાં ઊર્જા અને ખોરાકનું સ્થળાંતર થાય છે, તેને પોષકસ્તર કહે છે.<br><br>&bull; <b>પ્રથમ પોષકસ્તર:</b> ઉત્પાદકો (લીલી વનસ્પતિ).<br>&bull; <b>દ્વિતીય પોષકસ્તર:</b> પ્રાથમિક ઉપભોગીઓ (તૃણાહારી પ્રાણીઓ).<br>&bull; <b>તૃતીય પોષકસ્તર:</b> દ્વિતીયક ઉપભોગીઓ (માંસાહારી પ્રાણીઓ).<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: જમવાના અલગ અલગ માળ! ગ્રાઉન્ડ ફ્લોર પર ઝાડ-પાન, પહેલા માળે હરણ-ગાય, બીજા માળે શિયાળ અને સૌથી ઉપરના માળે સિંહ! દરેક માળ એટલે પોષકસ્તર.</div></div>"
+    },
+
+    {
+        chapter: 22,
+        marks: 3,
+        year_asked: "[Most IMP]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પર્યાવરણીય સમતુલા જાળવવા માટે આપણે કયા કયા પગલાં લેવા જોઈએ?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પ્રકૃતિની પોષણ વ્યવસ્થા અને પર્યાવરણને બચાવવા માટે નીચે મુજબના પગલાં લેવા જોઈએ:<br>૧. <b>વૃક્ષારોપણ વધારવું:</b> જંગલો કાપવા પર પ્રતિબંધ મૂકવો અને વધુને વધુ વૃક્ષો વાવવા.<br>૨. <b>જંતુનાશકોનો મર્યાદિત ઉપયોગ:</b> ખેતીમાં રાસાયણિક ખાતર અને ઝેરી દવાઓને બદલે સજીવ (ઓર્ગેનિક) ખેતી અપનાવવી.<br>૩. <b>વન્યજીવોનું રક્ષણ:</b> શિકાર પર પ્રતિબંધ મૂકી આહારશૃંખલાના પ્રાણીઓને બચાવવા.<br>૪. <b>કચરાનું વ્યવસ્થાપન:</b> પ્લાસ્ટિકનો ઉપયોગ બંધ કરવો અને કચરાનું રિસાયક્લિંગ કરવું.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: બેલેન્સ બચાવવું હોય તો 3 જ વસ્તુ કરો: 1. ઝાડ વાવો, 2. ખેતરમાં ઝેર (દવા) છાંટવાનું બંધ કરો, અને 3. પ્રાણીઓને મારવાનું બંધ કરો!</div></div>"
+    },
+
+    {
+        chapter: 22,
+        marks: 2,
+        year_asked: "[Board IMP]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નિવસનતંત્રના મુખ્ય બે ઘટકો કયા છે? ટૂંકમાં જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કોઈપણ નિવસનતંત્ર મુખ્ય બે ઘટકોનું બનેલું છે:<br>૧. <b>જૈવિક ઘટકો (Biotic Factors):</b> બધા જ સજીવોનો સમાવેશ થાય છે. જેમ કે વનસ્પતિઓ (ઉત્પાદકો), પ્રાણીઓ (ઉપભોગીઓ) અને સૂક્ષ્મજીવો (વિઘટકો).<br>૨. <b>અજૈવિક ઘટકો (Abiotic Factors):</b> બધા જ નિર્જીવ તત્વોનો સમાવેશ થાય છે. જેમ કે હવા, પાણી, જમીન, સૂર્યપ્રકાશ, તાપમાન અને ખનીજ તત્વો.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: જૈવિક એટલે જેમાં 'જીવ' છે (ઝાડ, પ્રાણી, બેક્ટેરિયા) અને અજૈવિક એટલે જેમાં જીવ નથી (હવા, પાણી, માટી)! આ બંને ભેગા થાય એટલે નિવસનતંત્ર બની જાય.</div></div>"
+    },
+
+    // ==========================================
+    // પ્રકરણ 23: માર્ગ-સલામતી અને વાહનચાલક ના 10 પ્રશ્નો
+    // ==========================================
+    {
+        chapter: 23,
+        marks: 2,
+        year_asked: "[Board IMP]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>માર્ગ સલામતી (Road Safety) શા માટે અત્યંત જરૂરી છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વાહનોની સંખ્યા વધવાથી માર્ગ અકસ્માતોનું પ્રમાણ ચિંતાજનક રીતે વધ્યું છે.<br>&bull; અકસ્માતોને કારણે નિર્દોષ લોકોએ જીવ ગુમાવવો પડે છે અથવા આજીવન અપંગતા ભોગવવી પડે છે.<br>&bull; ટ્રાફિકના નિયમોનું પાલન કરવાથી આપણો અને રસ્તા પર ચાલતા અન્ય લોકોનો <b>જીવ બચાવી શકાય છે</b>.<br>આથી, માનવજીવનનું રક્ષણ કરવા માટે માર્ગ સલામતીના નિયમો પાળવા અત્યંત જરૂરી છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: 'જાન હૈ તો જહાન હૈ'! ઘરે તમારો પરિવાર રાહ જોવે છે. અકસ્માતથી બચવા અને હાથ-પગ સલામત રાખવા માટે માર્ગ સલામતી જરૂરી છે.</div></div>"
+    },
+
+    {
+        chapter: 23,
+        marks: 2,
+        year_asked: "[Board IMP]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ટ્રાફિક સિગ્નલની લાઈટોના 3 રંગોનો અર્થ સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ચાર રસ્તા પર ટ્રાફિક નિયંત્રણ માટે 3 રંગની લાઈટો હોય છે:<br>૧. <b>લાલ (Red):</b> વાહન <b>ઊભું રાખો</b> (Stop). તે ભય અથવા રોકાવાનો સંકેત આપે છે.<br>૨. <b>પીળી (Yellow):</b> વાહન ચલાવવા માટે <b>તૈયાર રહો</b> (Ready) અથવા વાહનની ગતિ ધીમી પાડો.<br>૩. <b>લીલી (Green):</b> આગળ <b>વધવા માટે છૂટ</b> છે (Go).<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: લાલ એટલે બ્રેક મારો! પીળી એટલે ગાડી સ્ટાર્ટ કરીને રેડી રહો! અને લીલી એટલે લીલી ઝંડી, હવે જવા દો!</div></div>"
+    },
+
+    {
+        chapter: 23,
+        marks: 3,
+        year_asked: "[Most IMP]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>માર્ગ અકસ્માત (Road Accidents) માટે જવાબદાર મુખ્ય કારણો કયા છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>અકસ્માત માટે મોટાભાગે વાહનચાલકની બેદરકારી જ જવાબદાર હોય છે:<br>૧. <b>ઓવરસ્પીડિંગ:</b> નક્કી કરેલી મર્યાદા કરતા વધુ ઝડપે વાહન ચલાવવું.<br>૨. <b>દારૂ પીને વાહન ચલાવવું (Drunk Driving):</b> નશાની હાલતમાં ડ્રાઇવિંગ કરવાથી કાબૂ રહેતો નથી.<br>૩. <b>મોબાઈલનો ઉપયોગ:</b> ચાલુ વાહને ફોન પર વાત કરવી કે મેસેજ ટાઈપ કરવા.<br>૪. <b>ખોટી ઓવરટેક:</b> રસ્તા પર ખોટી બાજુએથી કે જોયા વગર બીજા વાહનની આગળ નીકળવાની ઉતાવળ.<br>૫. <b>ટ્રાફિક નિયમોનો ભંગ:</b> લાલ લાઈટ તોડવી, હેલ્મેટ કે સીટબેલ્ટ ન પહેરવો.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: અકસ્માતના 4 મોટા વિલન: 1. સ્પીડ, 2. દારૂ, 3. ચાલુ ગાડીએ મોબાઈલ, 4. ખોટી ઓવરટેક! આ ચાર વસ્તુ ટાળો એટલે અકસ્માત ન થાય.</div></div>"
+    },
+
+    {
+        chapter: 23,
+        marks: 2,
+        year_asked: "[Board IMP]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વાહન ચલાવતી વખતે સીટબેલ્ટ (Seatbelt) અને હેલ્મેટ (Helmet) પહેરવાના ફાયદા જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>&bull; <b>હેલ્મેટ:</b> ટુ-વ્હીલર પરથી પડી જવાના કિસ્સામાં હેલ્મેટ માથાના ભાગે થતી ગંભીર ઈજાઓથી બચાવે છે. માથાની ઈજા જીવલેણ હોઈ શકે છે, તેથી હેલ્મેટ જીવરક્ષક છે.<br>&bull; <b>સીટબેલ્ટ:</b> કારમાં અચાનક બ્રેક વાગવાથી કે અકસ્માત વખતે સીટબેલ્ટ મુસાફરને આગળની તરફ પછડાતો અને કાચ તોડીને બહાર ફેંકાતો અટકાવે છે.<br>બંને વસ્તુઓ કાયદાકીય રીતે ફરજિયાત છે અને સીધી રીતે જીવન બચાવે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: હેલ્મેટ પહેરો તો માથું ન ફૂટે અને સીટબેલ્ટ બાંધો તો બ્રેક વાગ્યે મોઢું ડેશબોર્ડમાં ન અથડાય! બંનેનો એક જ રોલ છે - તમારો જીવ બચાવવો.</div></div>"
+    },
+
+    {
+        chapter: 23,
+        marks: 2,
+        year_asked: "[Board IMP]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ઝીબ્રા ક્રોસિંગ (Zebra Crossing) એટલે શું? તેનો શું ઉપયોગ છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>રસ્તા પર કાળા ડામર ઉપર <b>સફેદ રંગના જાડા પટ્ટાઓ</b> દોરેલા હોય છે, જે દેખાવમાં ઝીબ્રા પ્રાણીના પટ્ટા જેવા લાગતા હોવાથી તેને 'ઝીબ્રા ક્રોસિંગ' કહેવાય છે.<br><br><b>ઉપયોગ:</b> તે <b>પદયાત્રીઓ (ચાલીને રસ્તો ઓળંગનારા)</b> ની સલામતી માટે હોય છે. જ્યારે ટ્રાફિક સિગ્નલ લાલ હોય અને વાહનો ઉભા હોય, ત્યારે લોકોએ આ સફેદ પટ્ટાઓ પર ચાલીને જ રસ્તો ક્રોસ કરવો જોઈએ. વાહનચાલકોએ પોતાનું વાહન ઝીબ્રા ક્રોસિંગની પહેલાં જ ઊભું રાખવું જોઈએ.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ડામરના કાળા રસ્તા પર સફેદ પટ્ટા એટલે ઝીબ્રા! આ રસ્તો ગાડીઓ માટે નહિ, પણ પગપાળા ચાલતા લોકોને રસ્તો ક્રોસ કરવા માટેનો સેફ રસ્તો છે.</div></div>"
+    },
+
+    {
+        chapter: 23,
+        marks: 3,
+        year_asked: "[Most IMP]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આદર્શ વાહનચાલક (Good Driver) ની ફરજો / લક્ષણો કયા કયા છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>એક જવાબદાર અને આદર્શ ડ્રાઈવરે નીચેની ફરજો બજાવવી જોઈએ:<br>૧. <b>લાયસન્સ અને કાગળો:</b> હંમેશા પોતાની પાસે ડ્રાઇવિંગ લાઇસન્સ, આર.સી. બુક, વીમો અને PUC સાથે રાખવા.<br>૨. <b>નિયમોનું પાલન:</b> ટ્રાફિક સિગ્નલ અને રસ્તા પરના સાઈનબોર્ડ (Speed limit) નું ચુસ્તપણે પાલન કરવું.<br>૩. <b>નો મોબાઈલ - નો નશો:</b> ચાલુ વાહને મોબાઈલનો ઉપયોગ ન કરવો અને દારૂ પીને ક્યારેય વાહન ન ચલાવવું.<br>૪. <b>જમણી બાજુથી ઓવરટેક:</b> હંમેશા આગળના વાહનને જમણી બાજુએથી જ (ઇન્ડિકેટર આપીને) ઓવરટેક કરવું.<br>૫. <b>એમ્બ્યુલન્સને રસ્તો:</b> એમ્બ્યુલન્સ કે ફાયરબ્રિગેડના વાહનને હંમેશા પહેલી પ્રાથમિકતા આપી રસ્તો કરી આપવો.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: સારો ડ્રાઈવર કોણ? જે ખિસ્સામાં લાયસન્સ રાખે, લાલ લાઈટે ઉભો રહે, ચાલુ ગાડીએ ફોન ન વાપરે અને પાછળથી એમ્બ્યુલન્સ આવે તો સાઈડમાં ઊભો રહી જાય!</div></div>"
+    },
+{
+        chapter: 23,
+        marks: 3,
+        year_asked: "[Most IMP]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આદર્શ વાહનચાલક (Good Driver) ની ફરજો / લક્ષણો કયા કયા છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>એક જવાબદાર અને આદર્શ ડ્રાઈવરે નીચેની ફરજો બજાવવી જોઈએ:<br>૧. <b>લાયસન્સ અને કાગળો:</b> હંમેશા પોતાની પાસે ડ્રાઇવિંગ લાઇસન્સ, આર.સી. બુક, વીમો અને PUC સાથે રાખવા.<br>૨. <b>નિયમોનું પાલન:</b> ટ્રાફિક સિગ્નલ અને રસ્તા પરના સાઈનબોર્ડ (Speed limit) નું ચુસ્તપણે પાલન કરવું.<br>૩. <b>નો મોબાઈલ - નો નશો:</b> ચાલુ વાહને મોબાઈલનો ઉપયોગ ન કરવો અને દારૂ પીને ક્યારેય વાહન ન ચલાવવું.<br>૪. <b>જમણી બાજુથી ઓવરટેક:</b> હંમેશા આગળના વાહનને જમણી બાજુએથી જ (ઇન્ડિકેટર આપીને) ઓવરટેક કરવું.<br>૫. <b>એમ્બ્યુલન્સને રસ્તો:</b> એમ્બ્યુલન્સ કે ફાયરબ્રિગેડના વાહનને હંમેશા પહેલી પ્રાથમિકતા આપી રસ્તો કરી આપવો.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: સારો ડ્રાઈવર કોણ? જે ખિસ્સામાં લાયસન્સ રાખે, લાલ લાઈટે ઉભો રહે, ચાલુ ગાડીએ ફોન ન વાપરે અને પાછળથી એમ્બ્યુલન્સ આવે તો સાઈડમાં ઊભો રહી જાય!</div></div>"
+    },
+
+    {
+        chapter: 23,
+        marks: 2,
+        year_asked: "[Board IMP]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ડ્રાઇવિંગ લાઇસન્સ (Driving License) શા માટે ફરજિયાત છે? તે કોણ આપે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતના મોટર વ્હીકલ એક્ટ મુજબ, જાહેર રસ્તા પર કોઈપણ પ્રકારનું મોટર વાહન ચલાવવા માટે <b>ડ્રાઇવિંગ લાઇસન્સ હોવું ફરજિયાત</b> છે.<br><br>&bull; તે એક પ્રમાણપત્ર છે જે દર્શાવે છે કે વ્યક્તિને વાહન ચલાવતા આવડે છે અને તે ટ્રાફિકના નિયમો જાણે છે.<br>&bull; લાયસન્સ વગર વાહન ચલાવવું એ <b>શિક્ષાપાત્ર ગુનો</b> છે.<br>&bull; આ લાયસન્સ રાજ્ય સરકારના <b>RTO (Regional Transport Office)</b> વિભાગ દ્વારા જરૂરી ટેસ્ટ લીધા પછી આપવામાં આવે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: પાસપોર્ટ વગર વિદેશ ન જવાય, એમ લાયસન્સ વગર ગાડી ન ચલાવાય! આ પ્રૂફ છે કે તમને ડ્રાઇવિંગ આવડે છે, અને તે RTO ઓફિસમાંથી જ મળે.</div></div>"
+    },
+
+    {
+        chapter: 23,
+        marks: 2,
+        year_asked: "[Board IMP]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>માર્ગ અકસ્માત થાય ત્યારે પ્રાથમિક સારવાર (First Aid) તરીકે સૌથી પહેલા શું કરવું જોઈએ?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>રસ્તા પર અકસ્માત થાય ત્યારે <b>ગોલ્ડન અવર (Golden Hour - પહેલો એક કલાક)</b> ખૂબ જ અગત્યનો હોય છે.<br>&bull; ઘાયલ વ્યક્તિની આસપાસ ભીડ ન કરવી અને તેને ખુલ્લી હવા મળવા દેવી.<br>&bull; તાત્કાલિક એમ્બ્યુલન્સ માટે <b>108 નંબર</b> પર કૉલ કરવો.<br>&bull; જો કોઈ વ્યક્તિને રક્તસ્ત્રાવ (લોહી નીકળતું) થતો હોય, તો તેને સાફ કપડાંથી દબાવીને લોહી વહેતું અટકાવવાનો પ્રયાસ કરવો.<br>&bull; ઘાયલ વ્યક્તિને હૂંફ અને સાંત્વના આપવી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: અકસ્માત થાય તો ફોટા પાડીને વાયરલ કરવા કરતા 108 ને ફોન કરવો! ઘાયલ માણસની આજુબાજુ ટોળું વળીને ઊભા રહેવાને બદલે તેને હવા આવવા દો.</div></div>"
+    },
+
+    {
+        chapter: 23,
+        marks: 2,
+        year_asked: "[Board IMP]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ઓવરસ્પીડિંગ' (વધુ પડતી ઝડપ) શા માટે જોખમી છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ઝડપની મજા ઘણીવાર સજા બની જાય છે. <b>'સ્પીડ થ્રિલ્સ બટ કિલ્સ' (Speed Thrills But Kills).</b><br><br>&bull; વધુ ઝડપે વાહન ચલાવતી વખતે જો અચાનક રસ્તા પર કોઈ પ્રાણી કે ખાડો આવી જાય, તો વાહન પર <b>કંટ્રોલ રહેતો નથી</b>.<br>&bull; ઓવરસ્પીડમાં બ્રેક મારવા છતાં વાહન તરત ઊભું રહેતું નથી અને ગંભીર અકસ્માત સર્જાય છે.<br>&bull; તેમાં અકસ્માતની તીવ્રતા એટલી ભયંકર હોય છે કે જીવ બચવાની શક્યતા ખૂબ ઘટી જાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: મોડા પડો તો ચાલશે, પણ કાયમ માટે મોડા ન પડી જાવ એનું ધ્યાન રાખો! 100 ની સ્પીડમાં અચાનક ગાય આવી જાય તો બ્રેક પણ કામ નથી કરતી, એટલે લિમિટમાં જ ચલાવવું.</div></div>"
+    },
+
+    {
+        chapter: 23,
+        marks: 3,
+        year_asked: "[Most IMP]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ટ્રાફિક સમસ્યા દૂર કરવા માટે સામાન્ય નાગરિક તરીકે તમે શું યોગદાન આપી શકો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ટ્રાફિક જામ ઘટાડવા માટે આપણે નીચે મુજબનું યોગદાન આપી શકીએ:<br>૧. <b>પબ્લિક ટ્રાન્સપોર્ટનો ઉપયોગ:</b> ખાનગી કાર કે બાઈક લઈને જવાને બદલે બસ કે મેટ્રો ટ્રેન (BRTS/AMTS) નો મહત્તમ ઉપયોગ કરવો.<br>૨. <b>કાર-પૂલિંગ (Car-pooling):</b> ઓફિસ જવા માટે એક જ રસ્તાના 4 લોકોએ અલગ અલગ કાર લઈ જવાને બદલે 1 જ કારમાં સાથે જવું જોઈએ.<br>૩. <b>યોગ્ય પાર્કિંગ:</b> વાહનો રસ્તાની વચ્ચે કે નો-પાર્કિંગમાં ઊભા રાખવાને બદલે યોગ્ય પાર્કિંગ ઝોનમાં જ પાર્ક કરવા.<br>૪. <b>નિયમોનું પાલન:</b> લેન ડ્રાઇવિંગ (પોતાની સાઈડમાં જ ચલાવવું) કરવું અને સિગ્નલનો ભંગ ન કરવો.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ટ્રાફિક હળવો કરવાના 3 રસ્તા: એકલા જવાને બદલે મિત્રો સાથે એક જ કારમાં જાઓ (કાર-પૂલિંગ), સિટી બસ વાપરો અને રસ્તા પર આડેધડ પાર્કિંગ ન કરો!</div></div>"
     }
-
-
-        
 
 
 ];
