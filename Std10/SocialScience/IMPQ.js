@@ -2355,7 +2355,128 @@ var Std10_SocialScience_imp = [
         year_asked: "[March 2024]",
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'રાષ્ટ્રીય એકતામાં સાંપ્રદાયિકતા સૌથી મોટો અવરોધ છે' - આ વિધાન સમજાવો.</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારત એ વિવિધ ધર્મો ધરાવતો દેશ છે.<br>સાંપ્રદાયિકતામાં લોકો પોતાના ધર્મને દેશ કરતા પણ મોટો માનવા લાગે છે. જેના કારણે સમાજમાં નફરત ફેલાય છે અને વારંવાર <b>કોમી રમખાણો (Hindu-Muslim Riots)</b> થાય છે.<br><br>રમખાણોને કારણે નિર્દોષ લોકોના જીવ જાય છે, સંપત્તિ સળગાવી દેવાય છે, અને દેશનો વિકાસ અટકી જાય છે. જ્યાં સુધી લોકો ધર્મના નામે લડતા રહેશે ત્યાં સુધી દેશ એક થઈ શકશે નહિ, તેથી સાંપ્રદાયિકતા એ રાષ્ટ્રીય એકતા માટે સૌથી મોટો ખતરો (અવરોધ) છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ઘરમાં 4 ભાઈઓ હોય ને અંદરોઅંદર ધર્મના નામે બાખડે તો ઘર કેવી રીતે ચાલે? બસ એવું જ દેશનું છે. જ્યાં સુધી કોમી રમખાણો થશે ત્યાં સુધી દેશ ક્યારેય નંબર 1 નહિ બની શકે!</div></div>"
+    },
+        
+    {
+        chapter: 21,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સામાજિક પરિવર્તન (Social Change) એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સમાજની રચના, કાર્યો, સામાજિક સંસ્થાઓ, લોકોના વિચારો અને જીવનશૈલીમાં આવતા નોંધપાત્ર અને કાયમી બદલાવને <b>સામાજિક પરિવર્તન</b> કહે છે.<br><br>પશ્ચિમીકરણ, વૈશ્વિકીકરણ, શહેરીકરણ અને શિક્ષણના પ્રસારને કારણે આપણા જૂના રીતિ-રિવાજો, પહેરવેશ અને વિચારોમાં જે બદલાવ આવ્યો છે તે સામાજિક પરિવર્તનનું જ ઉદાહરણ છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: જૂના જમાનાની 'ધોતી-કુરતા' અને 'સંયુક્ત કુટુંબ' ની પ્રથા છોડીને 'જીન્સ' અને 'વિભક્ત કુટુંબ' તરફ વળવું એટલે સામાજિક પરિવર્તન! સમાજની વિચારસરણીમાં આવતો બદલાવ.</div></div>"
+    },
+
+    {
+        chapter: 21,
+        marks: 3,
+        year_asked: "[May 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>બાળકોના મુખ્ય અધિકારો (Child Rights) કયા કયા છે? (કોઈપણ ચાર)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સંયુક્ત રાષ્ટ્રો (UN) એ 1992 માં બાળકોના અધિકારો જાહેર કર્યા હતા, જે ભારતના બંધારણમાં પણ છે:<br>૧. <b>જીવવાનો અધિકાર:</b> જાતિ, રંગ કે ધર્મના ભેદભાવ વિના દરેક બાળકને જીવવાનો જન્મસિદ્ધ અધિકાર છે.<br>૨. <b>પોષણનો અધિકાર:</b> માતાપિતા દ્વારા બાળકને યોગ્ય પોષણ અને તંદુરસ્ત જીવન પૂરું પાડવાનો અધિકાર છે.<br>૩. <b>શિક્ષણનો અધિકાર:</b> દરેક બાળકને મફત અને ફરજિયાત પ્રાથમિક શિક્ષણ મેળવવાનો હક છે.<br>૪. <b>શોષણ સામે રક્ષણ:</b> કોઈપણ બાળકને જોખમી કામમાં કે બાળમજૂરીમાં ધકેલી શકાશે નહિ.<br>૫. <b>અભિવ્યક્તિનો અધિકાર:</b> બાળકને રમતગમત, મનોરંજન અને પોતાના વિચારો રજૂ કરવાની સ્વતંત્રતા છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: 18 વર્ષથી નાના બાળકના હકો: રોટી (પોષણ), કપડાં, ભણતર (શિક્ષણ), અને રમવાની આઝાદી! અને કોઈ એની પાસે મજૂરી કરાવી શકે નહિ.</div></div>"
+    },
+
+    {
+        chapter: 21,
+        marks: 3,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>બાળ મજૂરી (Child Labour) ના મુખ્ય કારણો જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>બાળ મજૂરી એ એક મોટો સામાજિક કલંક છે. તેના મુખ્ય કારણો નીચે મુજબ છે:<br>૧. <b>ગરીબી (સૌથી મોટું કારણ):</b> પરિવારની આવક ઓછી હોવાથી પેટનો ખાડો પૂરવા માતા-પિતા બાળકોને મજૂરીએ મોકલે છે.<br>૨. <b>નિરક્ષરતા:</b> અભણ માતા-પિતા શિક્ષણનું મહત્વ સમજતા નથી.<br>૩. <b>મોટું કુટુંબ:</b> ઘરમાં સભ્યો વધુ હોય અને કમાનાર એક જ હોય ત્યારે બાળકોને કામે લગાડવા પડે છે.<br>૪. <b>સસ્તી મજૂરી:</b> માલિકોને મોટા માણસો કરતા બાળકો સસ્તામાં અને વધુ કલાકો કામ કરવા મળી રહે છે, વળી બાળકો માલિકનો વિરોધ પણ કરી શકતા નથી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ગરીબી એ બાળ મજૂરીનો સૌથી મોટો વિલન! ઘરમાં ખાવા ન હોય, છોકરાઓ વધુ હોય, પપ્પા અભણ હોય અને શેઠને સસ્તો મજૂર જોઈતો હોય એટલે બાળ મજૂરી વધે.</div></div>"
+    },
+
+    {
+        chapter: 21,
+        marks: 2,
+        year_asked: "[July 2024 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભારતમાં બાળ મજૂરી કયા કયા સ્વરૂપે જોવા મળે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતમાં બાળકો પાસે જોખમી અને બિનજોખમી અનેક જગ્યાએ કામ કરાવવામાં આવે છે:<br>&bull; ચાની લારીઓ, ઢાબા અને હોટલો પર વાસણ સાફ કરવા.<br>&bull; ગેરેજમાં કે ઓટોમોબાઈલ રિપેરિંગમાં.<br>&bull; ઈંટોના ભઠ્ઠાઓમાં, બાંધકામ ક્ષેત્રે અને ખેતમજૂરીમાં.<br>&bull; જોખમી ઉદ્યોગો જેવા કે ફટાકડા બનાવવાની ફેક્ટરી, કાચની ફેક્ટરી, અને હીરા ઘસવાના ઉદ્યોગોમાં.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ચા ની લારીએ 'છોટુ કટિંગ લાવ' થી લઈને ફટાકડાની ફેક્ટરી સુધી દરેક જગ્યાએ બાળકો કામ કરતા જોવા મળે છે. આ જ બાળ મજૂરીનું સ્વરૂપ છે.</div></div>"
+    },
+
+    {
+        chapter: 21,
+        marks: 3,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વૃદ્ધોની (Senior Citizens) મુખ્ય સમસ્યાઓ વર્ણવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વૃદ્ધાવસ્થામાં લોકોને શારીરિક, માનસિક અને આર્થિક સમસ્યાઓનો સામનો કરવો પડે છે:<br>૧. <b>એકલતા:</b> વિભક્ત કુટુંબ પ્રથા વધવાથી અને દીકરાઓ નોકરી-ધંધે બહારગામ જતા રહેવાથી વૃદ્ધો એકલવાયું અને નિરાધાર જીવન જીવે છે.<br>૨. <b>આર્થિક તંગી:</b> નોકરીમાંથી નિવૃત્ત થયા પછી આવક બંધ થઈ જાય છે અને તેઓ સંતાનો પર આશ્રિત બની જાય છે.<br>૩. <b>શારીરિક બીમારી:</b> ઉંમર વધવાની સાથે શરીર નબળું પડે છે અને અનેક બીમારીઓ ઘેરી લે છે.<br>૪. <b>ઉપેક્ષા (અપમાન):</b> ઘણીવાર સંતાનો દ્વારા વૃદ્ધોની પૂરતી સારસંભાળ રખાતી નથી, તેમનું અપમાન થાય છે અને કેટલાકને તો વૃદ્ધાશ્રમમાં મૂકી દેવાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ઘડપણમાં શરીર સાથ ન આપે (બીમારી), ખિસ્સામાં પૈસા ન હોય, દીકરાઓ ભેગા ન રાખે એટલે એકલતા લાગે, અને અંતે વૃદ્ધાશ્રમમાં જવાનો વારો આવે!</div></div>"
+    },
+
+    {
+        chapter: 21,
+        marks: 3,
+        year_asked: "[May 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વૃદ્ધોની સુરક્ષા અને કલ્યાણ માટે સરકારે કયા કયા પગલાં લીધા છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વૃદ્ધો સન્માનપૂર્વક જીવન જીવી શકે તે માટે સરકારે <b>'રાષ્ટ્રીય નીતિ - 1999'</b> બનાવી છે:<br>૧. <b>પેન્શન યોજના:</b> નિરાધાર વૃદ્ધોને સરકાર દ્વારા દર મહિને આર્થિક સહાય (પેન્શન) આપવામાં આવે છે.<br>૨. <b>પ્રવાસમાં રાહત:</b> એસ.ટી. બસ (ST) અને રેલવેની મુસાફરીમાં વૃદ્ધોને ટિકિટમાં 30% થી 50% સુધીની છૂટ આપવામાં આવે છે.<br>૩. <b>વ્યાજમાં વધારો:</b> બેંક કે પોસ્ટ ઓફિસમાં મૂકેલી બચત (FD) પર સિનિયર સિટીઝનોને સામાન્ય નાગરિક કરતા વધુ વ્યાજ અપાય છે.<br>૪. <b>વૃદ્ધાશ્રમો:</b> દરેક જિલ્લામાં સુવિધાયુક્ત વૃદ્ધાશ્રમો ખોલવામાં આવ્યા છે.<br>૫. <b>કાયદાકીય રક્ષણ:</b> 2007 ના કાયદા મુજબ માતા-પિતાને તરછોડનાર સંતાનોને સજા કરવાની જોગવાઈ છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: દાદા-દાદી માટે સરકારની 4 ગિફ્ટ: બસની અડધી ટિકિટ, બેંકમાં વધુ વ્યાજ, દર મહિને પેન્શન અને જો દીકરો કાઢી મૂકે તો જેલ!</div></div>"
+    },
+
+    {
+        chapter: 21,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભ્રષ્ટાચાર (Corruption) એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભ્રષ્ટાચાર એટલે <b>જે વસ્તુ આપણા હકની હોય, તે મેળવવા માટે આપણે કંઈક ચૂકવવું પડે તે!</b><br><br>વ્યાપક અર્થમાં: વ્યક્તિ પોતાની સત્તા, સ્થાન કે હોદ્દાનો દુરુપયોગ કરી, પોતાના અંગત લાભ માટે <b>લાંચ (Bribe) લે, ભેટ-સોગાદ સ્વીકારે કે સગાવાદ (Nepotism) કરે</b>, તો તેને ભ્રષ્ટાચાર કહેવાય છે. તે સામાજિક જીવનનું સૌથી મોટું દૂષણ છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ટેબલ નીચેથી પૈસા લેવા એટલે લાંચ! તમારું કાયદેસરનું કામ કરાવવા માટે પણ સરકારી અધિકારીને ઉપરથી પૈસા આપવા પડે, તેને જ ભ્રષ્ટાચાર કહેવાય.</div></div>"
+    },
+
+    {
+        chapter: 21,
+        marks: 3,
+        year_asked: "[May 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભ્રષ્ટાચારની અસરો (માઠી અસરો) જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભ્રષ્ટાચારથી દેશના વિકાસ પર ભયંકર અસરો પડે છે:<br>૧. <b>કાળું નાણું વધે:</b> ભ્રષ્ટાચારના કારણે બજારમાં કાળું નાણું વધે છે, જેથી મોંઘવારીમાં વધારો થાય છે.<br>૨. <b>માનવ અધિકારોનો ભંગ:</b> ગરીબ અને સામાન્ય માણસને પોતાના હકની વસ્તુ માટે પણ રઝળવું પડે છે, જેથી તેના અધિકારો છીનવાય છે.<br>૩. <b>નૈતિકતાનું પતન:</b> સમાજમાં પ્રામાણિક લોકો નિરાશ થાય છે અને નીતિ-નિયમો નેવે મુકાય છે.<br>૪. <b>કાયદાનો ડર ખતમ:</b> ગુનેગારો પોલીસ અને ન્યાયાધીશોને લાંચ આપીને છૂટી જાય છે, જેથી કાયદા વ્યવસ્થા પરથી લોકોનો વિશ્વાસ ઊઠી જાય છે.<br>૫. <b>આર્થિક અસમાનતા:</b> અમીરો વધુ અમીર બને છે અને ગરીબોનું શોષણ થાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: લાંચખોરીથી શું થાય? બ્લેક મની વધે, મોંઘવારી વધે, ઈમાનદાર માણસ દુઃખી થાય અને ગુનેગારો પૈસા ખવડાવીને આસાનીથી છૂટી જાય! દેશ આખો ખોખલો થઈ જાય.</div></div>"
+    },
+
+    {
+        chapter: 21,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભ્રષ્ટાચાર અટકાવવા માટે ગુજરાત સરકારે કઈ સંસ્થાની સ્થાપના કરી છે? તેનો હેલ્પલાઈન નંબર કયો છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગુજરાત સરકારે ભ્રષ્ટાચાર અને લાંચ-રુશવત અટકાવવા માટે <b>લાંચ રુશવત વિરોધી બ્યુરો (Anti Corruption Bureau - ACB)</b> ની સ્થાપના 1964 માં કરી છે. તેનું મુખ્ય મથક અમદાવાદમાં છે.<br><br><b>હેલ્પલાઈન:</b> જો કોઈ સરકારી અધિકારી કામ માટે લાંચ માંગે, તો નાગરિકો સીધા <b>ટોલ-ફ્રી નંબર 1064</b> પર કૉલ કરીને ફરિયાદ નોંધાવી શકે છે. ફરિયાદ કરનારનું નામ ગુપ્ત રાખવામાં આવે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: કોઈ બાબુ પૈસા માંગે તો ડરવાનું નહિ, સીધો '1064' પર ફોન ઘુમાવો! ACB વાળા આવીને રંગેહાથ પકડી જશે. ACB નું ફૂલ ફોર્મ અને નંબર ગોખી મારજો.</div></div>"
+    },
+
+    {
+        chapter: 21,
+        marks: 3,
+        year_asked: "[May 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>માહિતી મેળવવાનો અધિકાર (Right to Information - RTI, 2005) એટલે શું? તેનો મુખ્ય હેતુ જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લોકશાહીમાં સરકાર જે કંઈ પણ કામ કરે છે તે પ્રજાના પૈસાથી થાય છે. આથી સરકારી કામકાજમાં શું ચાલી રહ્યું છે તે જાણવાનો નાગરિકોને પૂરો હક છે. ભારત સરકારે 15 જૂન 2005 ના રોજ <b>RTI (Right to Information) Act</b> પસાર કર્યો.<br><br><b>મુખ્ય હેતુ:</b><br>&bull; સરકારી વહીવટમાં <b>પારદર્શિતા (Transparency)</b> લાવવી.<br>&bull; સરકારી અધિકારીઓની <b>જવાબદારી</b> નક્કી કરવી.<br>&bull; સરકારી કામકાજમાંથી <b>ભ્રષ્ટાચારને સંપૂર્ણપણે નાબૂદ કરવો</b>.<br>આ કાયદા મુજબ કોઈપણ સામાન્ય નાગરિક સરકારી ખાતામાં અરજી કરીને 30 દિવસમાં માહિતી મેળવી શકે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: RTI એટલે સરકારનો હિસાબ માંગવાનો પાવર! આપણા ટેક્સના પૈસાથી બનેલો રોડ બે જ દિવસમાં કેમ તૂટી ગયો, તેનો હિસાબ તમે RTI દ્વારા માંગી શકો છો.</div></div>"
+    },
+
+    {
+        chapter: 21,
+        marks: 2,
+        year_asked: "[July 2025 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>RTI કાયદા હેઠળ કઈ માહિતી આપવાનો ઇનકાર કરી શકાય છે? (કઈ માહિતી ન મળે?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જોકે નાગરિકોને બધી માહિતી માંગવાનો હક છે, પરંતુ દેશના હિતમાં કેટલીક માહિતી આપી શકાતી નથી:<br>૧. <b>દેશની સુરક્ષા:</b> દેશની આંતરિક કે બાહ્ય સુરક્ષા, લશ્કરી ગુપ્ત બાબતો અને શસ્ત્રોની માહિતી.<br>૨. <b>વિદેશી સંબંધો:</b> અન્ય દેશો સાથેના સંબંધો બગડે તેવી કોઈ માહિતી.<br>૩. <b>અદાલતનો તિરસ્કાર:</b> જે માહિતી આપવાથી અદાલતના નિયમોનો ભંગ થતો હોય.<br>૪. <b>ગુપ્તચર સંસ્થાઓ:</b> RAW કે IB જેવી રાષ્ટ્રીય સુરક્ષા સંસ્થાઓની માહિતી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: મિલિટરી વાળા બોમ્બ ક્યાં બનાવવાના છે કે પાકિસ્તાન પર ક્યારે હુમલો કરવાના છે, એવી સિક્રેટ માહિતી RTI માં ન મંગાય! દેશની સિક્યોરિટી સૌથી પહેલી.</div></div>"
+    },
+
+    {
+        chapter: 21,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>RTI કાયદા હેઠળ માહિતી મેળવવાની પ્રક્રિયા ટૂંકમાં જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>&bull; <b>અરજી:</b> માહિતી માંગનાર વ્યક્તિએ નિર્ધારિત નમૂનામાં, સાદા કાગળ પર અથવા ઈ-મેલ દ્વારા જે-તે વિભાગના 'જાહેર માહિતી અધિકારી' (PIO) ને અરજી કરવાની હોય છે.<br>&bull; <b>ફી:</b> અરજી સાથે <b>રૂપિયા 20 ની રોકડ, પોસ્ટલ ઓર્ડર કે પે-ઓર્ડર ફી</b> જમા કરાવવાની હોય છે. <b>BPL (ગરીબી રેખા નીચેના) પરિવારો માટે અરજી બિલકુલ મફત છે</b>.<br>&bull; <b>સમય:</b> અધિકારીએ અરજી મળ્યાના <b>30 દિવસની અંદર</b> (જો જીવન-મરણનો પ્રશ્ન હોય તો 48 કલાકમાં) માહિતી પૂરી પાડવી પડે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: માત્ર 20 રૂપિયાનો પોસ્ટલ ઓર્ડર લગાવો અને 30 દિવસમાં સરકારી ઓફિસમાંથી જવાબ મેળવો! જો તમારી પાસે BPL કાર્ડ હોય તો એ 20 રૂપિયા પણ આપવાની જરૂર નથી.</div></div>"
+    },
+
+    {
+        chapter: 21,
+        marks: 2,
+        year_asked: "[March 2025, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>મફત અને ફરજિયાત શિક્ષણનો અધિકાર (RTE Act, 2009) એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતના બંધારણની કલમ 21(A) મુજબ <b>Right to Education (RTE) Act - 2009</b> પસાર કરવામાં આવ્યો છે.<br><br>આ કાયદા મુજબ દેશના <b>6 થી 14 વર્ષની ઉંમરના દરેક બાળકને મફત અને ફરજિયાત પ્રાથમિક શિક્ષણ</b> (ધોરણ 1 થી 8) મેળવવાનો મૂળભૂત અધિકાર છે. કોઈ પણ બાળક પૈસાના અભાવે ભણતરથી વંચિત ન રહી જાય તે જોવાની જવાબદારી સરકારની છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: RTE = Right To Education! 6 થી 14 વર્ષની ઉંમર ગોખી નાખો. આ ઉંમરના બાળકને મફતમાં ભણાવવો એ સરકારની કાનૂની ફરજ છે અને બાળકનો જન્મસિદ્ધ અધિકાર છે!</div></div>"
+    },
+
+    {
+        chapter: 21,
+        marks: 3,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>RTE કાયદા (શિક્ષણના અધિકાર) ની મુખ્ય જોગવાઈઓ જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>RTE કાયદામાં બાળકો માટે નીચે મુજબના નિયમો છે:<br>૧. <b>ખાનગી શાળાઓમાં અનામત:</b> કોઈપણ ખાનગી (પ્રાઈવેટ) શાળાએ <b>SC, ST અને BPL પરિવારના બાળકો માટે ધોરણ 1 માં 25% બેઠકો અનામત</b> (ફ્રી) રાખવી પડશે.<br>૨. <b>ડોનેશન કે ટેસ્ટ પર પ્રતિબંધ:</b> શાળામાં એડમિશન વખતે બાળક કે માતાપિતાનો કોઈ <b>ઇન્ટરવ્યુ, એન્ટ્રન્સ ટેસ્ટ કે કેપિટેશન ફી (ડોનેશન)</b> લઈ શકાશે નહિ.<br>૩. <b>શારીરિક શિક્ષા પર પ્રતિબંધ:</b> શિક્ષક દ્વારા બાળકને લાકડીથી મારવા કે માનસિક ત્રાસ આપવા પર કડક પ્રતિબંધ છે.<br>૪. <b>જન્મનો દાખલો:</b> જો બાળકના જન્મનો દાખલો ન હોય તો હોસ્પિટલના રેકોર્ડ કે માતાપિતાના સોગંદનામાના આધારે પ્રવેશ આપવો જ પડશે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ગમે તેવી હાઇફાઇ પ્રાઈવેટ સ્કૂલ હોય, ગરીબના બાળક માટે 25% સીટો ફ્રીમાં રાખવી જ પડે! એડમિશન વખતે કોઈ ટેસ્ટ કે ડોનેશન નહિ, અને ક્લાસમાં સાહેબ હવે ફૂટપટ્ટીથી મારી શકે નહિ!</div></div>"
+    },
+
+    {
+        chapter: 21,
+        marks: 2,
+        year_asked: "[March 2024, July 2025 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રાષ્ટ્રીય અન્ન સલામતી કાયદો (National Food Security Act - 2013) નો મુખ્ય હેતુ શું છે? 'મા અન્નપૂર્ણા યોજના' શું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>હેતુ:</b> કોઈ પણ નાગરિક ભૂખ્યો ન સૂવે અને ગરીબ લોકોને પૂરતું પોષણક્ષમ અનાજ મળી રહે તે માટે ભારત સરકારે 2013 માં રાષ્ટ્રીય અન્ન સલામતી કાયદો પસાર કર્યો.<br><br><b>મા અન્નપૂર્ણા યોજના:</b> ગુજરાત સરકારે આ કાયદા હેઠળ 'મા અન્નપૂર્ણા યોજના' શરૂ કરી છે:<br>&bull; તેમાં <b>અંત્યોદય (અતિ ગરીબ) પરિવારોને દર મહિને 35 કિલો અનાજ બિલકુલ મફત</b> આપવામાં આવે છે.<br>&bull; અન્ય BPL પરિવારોને વ્યક્તિદીઠ <b>5 કિલો અનાજ</b> રાહત દરે (ઘઉં 2 રૂપિયા/કિલો અને ચોખા 3 રૂપિયા/કિલો) આપવામાં આવે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: અન્ન સલામતી એટલે ગરીબોને 'Right to Food' (ભોજનનો અધિકાર)! અતિ ગરીબને 35 કિલો અનાજ મફત અને બાકીના ગરીબોને 2 રૂપિયે કિલો ઘઉં. કોઈ ભૂખ્યું ન સુવે એ જ લક્ષ્ય છે.</div></div>"
     }
+
 
         
 
