@@ -1492,14 +1492,127 @@ var Std10_SocialScience_imp = [
         year_asked: "[May 2025, March 2026]",
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પર્યાવરણીય અતિક્રમણ રોકવાના (પ્રદૂષણ ઘટાડવાના) ઉપાયો જણાવો.</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પર્યાવરણને બચાવવા માટે નીચેના પગલાં લઈ શકાય:<br>૧. <b>યોગ્ય આયોજન:</b> ઉદ્યોગોને રહેણાંક વિસ્તારથી દૂર સ્થાપવા જોઈએ.<br>૨. <b>આધુનિક મશીનો:</b> જૂના મશીનોની જગ્યાએ નવા આધુનિક અને અવાજ ન કરે તેવા સાધનો વાપરવા.<br>૩. <b>હવા પ્રદૂષણ રોકવું:</b> ફેક્ટરીની ચીમનીઓમાં <b>સ્ક્રબર અને ફિલ્ટર</b> લગાવવા, જેથી ઝેરી ધુમાડો શુદ્ધ થઈને હવામાં ભળે.<br>૪. <b>જળ પ્રદૂષણ રોકવું:</b> ઉદ્યોગોના ગંદા પાણીને સીધું નદીમાં છોડવાને બદલે <b>ટ્રીટમેન્ટ પ્લાન્ટ (ETP)</b> દ્વારા શુદ્ધ કરીને જ નિકાલ કરવો જોઈએ.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: નદીમાં પાણી છોડતા પહેલા સાફ કરો (ટ્રીટમેન્ટ), ચીમનીમાં ફિલ્ટર નાખો જેથી ધુમાડો સાફ થાય, અને અવાજ ન કરે એવા સાઇલેન્ટ મશીનો વાપરો! એટલે પ્રદૂષણ કંટ્રોલ.</div></div>"
+    },
+    [
+    {
+        chapter: 14,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પરિવહન (Transportation) એટલે શું? તેનું મહત્વ જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>એક સ્થળેથી બીજા સ્થળે માનવી કે માલસામાનની હેરફેર કરવાની પ્રક્રિયાને <b>પરિવહન</b> કહે છે.<br><br><b>મહત્વ:</b><br>&bull; ઉદ્યોગો માટે કાચો માલ લાવવા અને તૈયાર માલ બજાર સુધી પહોંચાડવા માટે પરિવહન અનિવાર્ય છે.<br>&bull; તેનાથી રાષ્ટ્રીય એકતા વધે છે અને સાંસ્કૃતિક આદાન-પ્રદાન શક્ય બને છે.<br>&bull; કોઈપણ દેશના આર્થિક વિકાસનો આધાર પરિવહન પર રહેલો છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: માલ કે માણસને એક જગ્યાએથી બીજી જગ્યાએ પહોંચાડવા એટલે પરિવહન. વાહનવ્યવહાર વિના ઉદ્યોગો અને બજારો બંને બંધ પડી જાય!</div></div>"
+    },
+
+    {
+        chapter: 14,
+        marks: 3,
+        year_asked: "[May 2025, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભારતીય સડક માર્ગોનું વર્ગીકરણ કરો (સડકોના પ્રકાર જણાવો).</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતમાં સડકોને તેના મહત્વ અને બાંધકામની જવાબદારીના આધારે <b>5 પ્રકારમાં</b> વહેંચવામાં આવે છે:<br>૧. <b>રાષ્ટ્રીય ધોરીમાર્ગ (National Highways):</b> દેશના મુખ્ય શહેરોને જોડતા માર્ગો.<br>૨. <b>રાજ્ય ધોરીમાર્ગ (State Highways):</b> રાજ્યના પાટનગરને જિલ્લા મથકો સાથે જોડતા માર્ગો.<br>૩. <b>જિલ્લા માર્ગ (District Roads):</b> જિલ્લાના મુખ્ય મથકને તાલુકાઓ સાથે જોડતા માર્ગો.<br>૪. <b>ગ્રામીણ સડકો (Village Roads):</b> ગામડાઓને તાલુકા મથક સાથે જોડતા માર્ગો.<br>૫. <b>સરહદી માર્ગો (Border Roads):</b> દેશની સરહદ (બોર્ડર) પર લશ્કર માટે બનાવવામાં આવતા માર્ગો.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: મોટાથી નાના તરફ જવાનું! પહેલા આખો દેશ (રાષ્ટ્રીય), પછી આપણું રાજ્ય, પછી જિલ્લો, પછી ગામડું અને છેલ્લે બોર્ડર! 5 રસ્તાઓ યાદ રહી ગયા.</div></div>"
+    },
+
+    {
+        chapter: 14,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રાષ્ટ્રીય ધોરીમાર્ગ (National Highway) વિશે ટૂંકનોંધ લખો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>રાષ્ટ્રીય ધોરીમાર્ગો આર્થિક અને સંરક્ષણની દૃષ્ટિએ સૌથી વધુ મહત્વના છે.<br>&bull; <b>બાંધકામ:</b> તેનું બાંધકામ અને જાળવણી <b>કેન્દ્ર સરકાર (CPWD)</b> દ્વારા થાય છે.<br>&bull; <b>જોડાણ:</b> તે દેશના મુખ્ય બંદરો, રાજધાનીઓ, ઔદ્યોગિક શહેરો અને પડોશી દેશોને જોડે છે.<br>&bull; <b>સૌથી લાંબો:</b> ભારતનો સૌથી લાંબો રાષ્ટ્રીય ધોરીમાર્ગ <b>નંબર 44</b> છે, જે શ્રીનગરથી કન્યાકુમારી સુધી જાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: નેશનલ હાઇવે એટલે દેશના વીઆઇપી રસ્તા! કેન્દ્ર સરકાર બનાવે. પરીક્ષા માટે આંકડો યાદ રાખજો: 'નંબર 44' સૌથી લાંબો!</div></div>"
+    },
+
+    {
+        chapter: 14,
+        marks: 2,
+        year_asked: "[July 2025 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'સ્વર્ણિમ ચતુર્ભુજ યોજના' (Golden Quadrilateral) વિશે ટૂંકમાં માહિતી આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ ભારતનો સૌથી મોટો એક્સપ્રેસ હાઈવે પ્રોજેક્ટ છે.<br>&bull; <b>જોડાણ:</b> આ યોજના અંતર્ગત ભારતના ચાર મહાનગરો <b>દિલ્હી, મુંબઈ, ચેન્નઈ અને કોલકાતા</b> ને 4 થી 6 લેન વાળા રસ્તાથી જોડવામાં આવ્યા છે.<br>&bull; <b>લંબાઈ:</b> આ માર્ગની કુલ લંબાઈ <b>5846 કિમી</b> છે.<br>&bull; તેનો મુખ્ય હેતુ મોટા શહેરો વચ્ચેનો મુસાફરીનો સમય અને અંતર ઘટાડવાનો છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ભારતના નકશામાં 4 ખૂણે 4 મોટા શહેરો (દિલ્હી, મુંબઈ, ચેન્નઈ, કોલકાતા) ને જોડીને બનેલો 'ચોરસ' રસ્તો એટલે સ્વર્ણિમ ચતુર્ભુજ!</div></div>"
+    },
+
+    {
+        chapter: 14,
+        marks: 3,
+        year_asked: "[May 2024, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભારતીય રેલવે (Indian Railways) ના મહત્વ વિશે નોંધ લખો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતીય રેલવે એ દેશનું <b>સૌથી મોટું જાહેર ક્ષેત્રનું સંસ્થાન</b> છે.<br>&bull; <b>શરૂઆત:</b> ભારતમાં સૌપ્રથમ રેલવે <b>ઈ.સ. 1853 માં મુંબઈ અને થાણા</b> વચ્ચે શરૂ થઈ હતી.<br>&bull; <b>મહત્વ:</b> ખેતીનો કાચો માલ અને ખનીજોને ઉદ્યોગો સુધી પહોંચાડવામાં રેલવેની ભૂમિકા સૌથી મોટી છે. દુકાળ કે ભૂકંપ જેવી આપત્તિ વખતે અનાજ અને રાહત સામગ્રી પહોંચાડવામાં રેલવે શ્રેષ્ઠ માર્ગ છે.<br>&bull; <b>ગેજ:</b> ભારતમાં બ્રોડ ગેજ, મીટર ગેજ અને નેરો ગેજ એમ ત્રણ પ્રકારના રેલવે માર્ગો છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: સસ્તું ભાડું અને સૌથી લાંબી મુસાફરી! બે વસ્તુ ગોખી મારજો: સૌથી મોટો સરકારી ઉદ્યોગ છે, અને પહેલી ટ્રેન 1853 માં મુંબઈથી થાણા દોડી હતી!</div></div>"
+    },
+
+    {
+        chapter: 14,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જળમાર્ગો (Waterways) નું મહત્વ સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતમાં પ્રાચીનકાળથી જળમાર્ગોનો ઉપયોગ થાય છે.<br><b>મહત્વ:</b><br>&bull; જળમાર્ગ એ પરિવહનનો <b>સૌથી સસ્તો માર્ગ</b> છે, કારણ કે તેમાં સડક કે રેલવે ટ્રેક બનાવવાનો કોઈ ખર્ચ થતો નથી.<br>&bull; વિદેશ સાથેના આંતરરાષ્ટ્રીય વ્યાપારમાં મોટાભાગનો માલસામાન (આશરે 95%) દરિયાઈ જળમાર્ગો દ્વારા જ થાય છે.<br>&bull; વજનમાં ભારે અને કદમાં મોટી વસ્તુઓ માટે જહાજો શ્રેષ્ઠ છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: રસ્તા બનાવવાનો કે રિપેર કરવાનો કોઈ ખર્ચો નહિ, સીધું પાણીમાં ચલાવો! એટલે જળમાર્ગ સૌથી સસ્તો છે. મોટા ભાગનો વિદેશી વેપાર સ્ટીમરથી જ થાય.</div></div>"
+    },
+
+    {
+        chapter: 14,
+        marks: 2,
+        year_asked: "[March 2024, May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભારતના મુખ્ય રાષ્ટ્રીય જળમાર્ગો કયા કયા છે? </div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારત સરકારે નીચેની નદીઓના માર્ગોને રાષ્ટ્રીય જળમાર્ગ (National Waterways) તરીકે જાહેર કર્યા છે:<br>૧. <b>રાષ્ટ્રીય જળમાર્ગ 1:</b> ગંગા નદી (હલ્દિયા થી અલ્હાબાદ - 1620 કિમી). આ સૌથી લાંબો જળમાર્ગ છે.<br>૨. <b>રાષ્ટ્રીય જળમાર્ગ 2:</b> બ્રહ્મપુત્ર નદી (ધુબરી થી સાદિયા - 891 કિમી).<br>૩. <b>રાષ્ટ્રીય જળમાર્ગ 3:</b> પશ્ચિમ કિનારાની નહેર (ઉદ્યોગમંડળ કેનાલ, કેરલ - 205 કિમી).<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: NW-1 એટલે ગંગા માતાનો રસ્તો (સૌથી મોટો), NW-2 એટલે બ્રહ્મપુત્રનો રસ્તો અને NW-3 એટલે કેરલની કેનાલ. બે યાદ રહેશે તો પણ માર્ક પાક્કા!</div></div>"
+    },
+
+    {
+        chapter: 14,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>હવાઈ માર્ગો (Airways) વિશે નોંધ લખી, 'પવનહંસ' વિશે જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>હવાઈ માર્ગ એ <b>સૌથી ઝડપી પરંતુ સૌથી મોંઘો</b> પરિવહન માર્ગ છે. જ્યાં સડક કે રેલવે ન પહોંચી શકે તેવા પર્વતીય કે દુર્ગમ વિસ્તારોમાં હવાઈ માર્ગ ખૂબ ઉપયોગી છે.<br><br><b>પવનહંસ હેલિકોપ્ટર:</b><br>ભારતમાં <b>ONGC</b> (ઓઇલ એન્ડ નેચરલ ગેસ કોર્પોરેશન) ને દરિયામાં તેલના કૂવાઓ સુધી પહોંચવા, તથા કેન્દ્ર સરકારને દુર્ગમ પર્વતીય વિસ્તારોમાં સેવા આપવા <b>'પવનહંસ'</b> નામની હેલિકોપ્ટર સેવા ઉપલબ્ધ છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: ટાઇમ બચાવવો હોય તો પ્લેન બેસ્ટ, પણ ખિસ્સું ખાલી થઈ જાય! ONGC વાળા દરિયામાં જવા માટે જે હેલિકોપ્ટર વાપરે છે એનું જ નામ 'પવનહંસ'.</div></div>"
+    },
+
+    {
+        chapter: 14,
+        marks: 2,
+        year_asked: "[July 2024 (Supplementary)]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રજ્જુમાર્ગ (Ropeway) એટલે શું? ગુજરાતમાં તે ક્યાં આવેલા છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પહાડી વિસ્તારોમાં જ્યાં સડક કે રેલવે માર્ગ બનાવવો શક્ય ન હોય, ત્યાં <b>તારના મજબૂત દોરડા પર ટ્રોલી લટકાવીને</b> મુસાફરોની કે માલસામાનની હેરફેર કરવામાં આવે છે, તેને રજ્જુમાર્ગ (રોપ-વે) કહે છે.<br><br><b>ગુજરાતમાં ઉદાહરણો:</b><br>ગુજરાતમાં પાવાગઢ, અંબાજી, સાપુતારા અને ગિરનાર ખાતે રોપ-વેની સુવિધા આવેલી છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: રજ્જુ એટલે દોરડું. ઉડનખટોલા! ગિરનાર અને પાવાગઢમાં માતાજીના દર્શન કરવા જઈએ અને જે ટ્રોલીમાં બેસીએ તે જ આપણો રોપ-વે!</div></div>"
+    },
+
+    {
+        chapter: 14,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પાઇપલાઇન પરિવહન વિશે માહિતી આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>પ્રવાહી પદાર્થો</b> (જેમ કે પાણી, ખનીજ તેલ) અને <b>વાયુઓ</b> (કુદરતી ગેસ) ને એક સ્થળેથી બીજા સ્થળે સુરક્ષિત રીતે લઈ જવા માટે પાઇપલાઇન પરિવહન શ્રેષ્ઠ છે.<br><br><b>ઉદાહરણ:</b><br>&bull; ભારતમાં <b>HVJ (હજીરા-વિજયપુર-જગદીશપુર)</b> ગેસ પાઇપલાઇન ખૂબ જાણીતી છે.<br>&bull; ગુજરાતમાં કલોલથી કોયલી અને સલાયાથી મથુરા સુધી ખનીજ તેલની પાઇપલાઇન આવેલી છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: લિક્વિડ અને ગેસને વગર ટ્રાફિકે મોકલવાનો બેસ્ટ રસ્તો! HVJ પાઇપલાઇનનું ફૂલ ફોર્મ યાદ રાખી લેજો, 1 માર્કમાં પૂછાઈ શકે!</div></div>"
+    },
+
+    {
+        chapter: 14,
+        marks: 3,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સંદેશાવ્યવહાર (Communication) ના વિભાગો સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>એક સ્થળેથી બીજા સ્થળે માહિતી કે સંદેશો પહોંચાડવાની વ્યવસ્થાને સંદેશાવ્યવહાર કહે છે. તેના બે વિભાગ છે:<br><br>૧. <b>વ્યક્તિગત સંદેશાવ્યવહાર:</b> જ્યારે બે વ્યક્તિઓ વચ્ચે માહિતીની આપ-લે થતી હોય. દા.ત. ટેલિફોન, મોબાઈલ, ઈમેલ, અને પોસ્ટલ (ટપાલ) સેવા. આમાં ઇન્ટરનેટ અને સ્માર્ટફોને ક્રાંતિ લાવી છે.<br>૨. <b>સામૂહિક સંદેશાવ્યવહાર (Mass Communication):</b> જ્યારે એક જ સમયે લાખો લોકો સુધી માહિતી પહોંચાડવાની હોય. તેના બે ભાગ છે:<br>   &bull; <b>મુદ્રિત માધ્યમ:</b> અખબારો (News papers) અને પત્રિકાઓ.<br>   &bull; <b>ઇલેક્ટ્રોનિક માધ્યમ:</b> આકાશવાણી (રેડિયો) અને દૂરદર્શન (TV).<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: તમે મિત્રને ફોન કરો તો વ્યક્તિગત કહેવાય, અને મોદી સાહેબ 15 મી ઓગસ્ટે ટીવી પર ભાષણ આપે તો લાખો લોકો સાંભળે, એટલે એ સામૂહિક કહેવાય!</div></div>"
+    },
+
+    {
+        chapter: 14,
+        marks: 2,
+        year_asked: "[May 2025, March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ઇલેક્ટ્રોનિક માધ્યમ તરીકે આકાશવાણી અને દૂરદર્શનનું મહત્વ જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>૧. આકાશવાણી (Radio):</b> આ માત્ર <b>શ્રાવ્ય (સાંભળી શકાય તેવું)</b> માધ્યમ છે. ભારતમાં પ્રસાર ભારતી દ્વારા 415 જેટલા સ્ટેશનોથી 23 ભાષાઓમાં કાર્યક્રમો અપાય છે. તે ખેડૂતો અને અંતરિયાળ ગામડાઓ માટે ખૂબ ઉપયોગી છે.<br><br><b>૨. દૂરદર્શન (TV):</b> આ <b>દ્રશ્ય-શ્રાવ્ય (જોઈ અને સાંભળી શકાય તેવું)</b> માધ્યમ છે. દેશમાં રાષ્ટ્રીય અને પ્રાદેશિક ચેનલો દ્વારા સમાચાર, મનોરંજન, કૃષિ અને શિક્ષણની માહિતી ઘર-ઘર સુધી પહોંચાડવામાં આવે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: રેડિયો માત્ર કાનનું કામ કરે (શ્રાવ્ય), જ્યારે ટીવી કાન અને આંખ બંનેનું કામ કરે (દ્રશ્ય-શ્રાવ્ય)! 415 રેડિયો સ્ટેશનનો આંકડો યાદ રાખવો.</div></div>"
+    },
+
+    {
+        chapter: 14,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વ્યાપાર એટલે શું? આંતરિક અને આંતરરાષ્ટ્રીય વ્યાપાર વચ્ચેનો ભેદ સ્પષ્ટ કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ચીજવસ્તુઓ કે સેવાઓના બદલામાં બીજી ચીજવસ્તુ, સેવા કે નાણાંની આપ-લે કરવી તેને <b>વ્યાપાર (Trade)</b> કહે છે.<br><br><b>૧. આંતરિક વ્યાપાર:</b> એક જ દેશની સરહદની અંદર અલગ અલગ રાજ્યો કે શહેરો વચ્ચે થતો વ્યાપાર. (દા.ત. ગુજરાતમાંથી કપાસ પંજાબમાં મોકલવો).<br><b>૨. આંતરરાષ્ટ્રીય વ્યાપાર:</b> વિશ્વના બે કે તેથી વધુ દેશો વચ્ચે થતો વ્યાપાર. (દા.ત. ભારતમાંથી ચા અમેરિકા મોકલવી). તેમાં ચલણ (કરન્સી) અને નિયમો બદલાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: દેશની અંદર અંદર માલ વેચાય (રૂપિયામાં) તો આંતરિક, અને દેશની બોર્ડર પાર કરીને વિદેશમાં જાય (ડોલરમાં) તો આંતરરાષ્ટ્રીય!</div></div>"
+    },
+
+    {
+        chapter: 14,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વ્યાપાર તુલા (Balance of Trade) એટલે શું? હકારાત્મક અને નકારાત્મક વ્યાપાર તુલા સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કોઈપણ દેશની આયાત (Import) અને નિકાસ (Export) ના <b>મૂલ્ય વચ્ચેના તફાવતને</b> વ્યાપાર તુલા કહે છે.<br><br>&bull; <b>હકારાત્મક વ્યાપાર તુલા (Positive):</b> જ્યારે દેશની <b>નિકાસ વધુ હોય</b> અને આયાત ઓછી હોય. (આનાથી દેશને પૈસા મળે, ફાયદો થાય).<br>&bull; <b>નકારાત્મક વ્યાપાર તુલા (Negative):</b> જ્યારે દેશની <b>આયાત વધુ હોય</b> અને નિકાસ ઓછી હોય. (આનાથી દેશના પૈસા વિદેશમાં જાય, નુકસાન થાય). ભારતની વ્યાપાર તુલા મોટેભાગે નકારાત્મક રહે છે કારણ કે આપણે પેટ્રોલિયમની મોટી આયાત કરીએ છીએ.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: વિદેશમાં માલ વધુ વેચીએ અને પૈસા કમાઈએ તો ફાયદો (હકારાત્મક), પણ જો બહારથી વધુ માલ મંગાવીએ અને પૈસા ચૂકવવા પડે તો નુકસાન (નકારાત્મક)!</div></div>"
+    },
+
+    {
+        chapter: 14,
+        marks: 3,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભારતના આંતરરાષ્ટ્રીય વ્યાપારની બદલાતી તરેહ (Trends) વર્ણવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સમયની સાથે ભારતના વિદેશ વેપારમાં મોટો બદલાવ આવ્યો છે:<br><br><b>પહેલાનો સમય:</b> ભારત માત્ર ખેત-પેદાશો, કાચો માલ અને મસાલાની જ <b>નિકાસ</b> કરતું, જ્યારે મશીનરી અને તૈયાર માલની વિદેશથી <b>આયાત</b> કરતું હતું.<br><b>વર્તમાન સમય (બદલાતી તરેહ):</b><br>&bull; આજે ભારત તૈયાર કપડાં, ઇલેક્ટ્રોનિક સામાન, એન્જિનિયરિંગ ગુડ્સ, અને ખાસ કરીને <b>સોફ્ટવેર (IT) ની મોટી નિકાસ</b> કરે છે.<br>&bull; ભારતની આયાતમાં આજે સૌથી મોટો હિસ્સો <b>ખનીજ તેલ (પેટ્રોલિયમ), સોનું-ચાંદી અને રસાયણોનો</b> છે.<br>આમ, ભારત હવે એક વિકાસશીલ અને ઔદ્યોગિક દેશ તરીકે ઊભરી રહ્યો છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 ભારતી મેડમની શોર્ટકટ ટ્રીક: અંગ્રેજોના ટાઈમમાં આપણે માત્ર કાચો માલ આપતા અને તૈયાર કપડાં મંગાવતા. હવે ટ્રેન્ડ બદલાયો છે! આપણે ખુદ સોફ્ટવેર અને મશીનો બનાવીને દુનિયાને વેચીએ છીએ.</div></div>"
     }
-
-
-
-
-            
-
-    
 
 
 ];
