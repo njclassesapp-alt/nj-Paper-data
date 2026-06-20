@@ -2865,6 +2865,232 @@ var Std10_Gujarati_imp = [
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જયંત પાઠકના આ સોનેટમાં વતન છોડવાની અત્યંત કરુણ અને હૃદયસ્પર્શી વેદના આલેખાઈ છે.<br><br>૧. <b>છૂટતો સાથ:</b> રજાઓ પૂરી થતા કવિ પોતાના વતનના ડુંગર, નદી, વન અને લોકોને છોડીને જઈ રહ્યા છે. તેમનું હૃદય ભારે છે અને આંખો વારંવાર પોતાના બંધ પડેલા જૂના ઘર તરફ ખેંચાય છે.<br>૨. <b>મજબૂરી અને મનોમંથન:</b> કવિના પગ જાણે રસ્તા પર જડાઈ ગયા છે. તેઓ પોતાના મનને આશ્વાસન આપે છે કે "ચાલ જીવ, વીતેલા સમય રૂપી નદીના વહેણમાં આપણે પાછા જઈ શકીશું નહિ. એટલે વતનની યાદોનો ભાર માથે ઊંચકીને પણ આગળ તો વધવું જ પડશે."<br>૩. <b>માતાનો આભાસ:</b> વતનની હદ પૂરી થાય છે ત્યારે કૂતરો પણ પાછો ફરી જાય છે. આ સમયે દૂર ખેતરમાં કવિને એવો આભાસ થાય છે કે જાણે કોઈ રિસાયેલા બાળકને તેની માતા બે હાથ ઊંચા કરીને પાછો બોલાવી રહી હોય! આ ભ્રમણા તેમની વતન પ્રત્યેની અતૂટ માયા દર્શાવે છે.<br><br>આમ, કાવ્યમાં વતન પ્રત્યેનો સાચો પ્રેમ અને ત્યાંથી છૂટા પડવાનું ભારે દુઃખ (વેદના) સચોટ રીતે વર્ણવાયું છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: આ 4 માર્ક્સના પ્રશ્ન માટે 3 દૃશ્યો યાદ રાખો: 1. પાછળ જોતી આંખો (બંધ ઘર માટે), 2. જડાઈ ગયેલા પગ (મજબૂરી), 3. બે હાથ ઊંચી કરતી મા (ભ્રમણા). આ 3 વસ્તુ સમજાવી દો એટલે જવાબ 100% પૂરો!</div></div>"
     },
 
+    // પ્રકરણ 14: જન્મોત્સવ (સુરેશ જોષી) - N. J. Classes (Target 2026)
+
+    {
+        chapter: 14,
+        q_no: 1,
+        marks: 1,
+        year_asked: "[March 2022, 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'જન્મોત્સવ' પાઠના લેખકનું નામ અને તેનો સાહિત્ય પ્રકાર જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખકનું નામ <b>સુરેશ જોષી</b> છે અને આ પાઠનો સાહિત્ય પ્રકાર <b>નવલિકા (ટૂંકી વાર્તા)</b> છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકના 'જન્મ' નો સમય કોણ જુએ? 'જોષી' (જ્યોતિષી)! એટલે પાઠનું નામ 'જન્મોત્સવ' અને લેખક 'સુરેશ જોષી'. આ બેસ્ટ ટ્રીક છે!</div></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 2,
+        marks: 1,
+        year_asked: "[August 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આ નવલિકા લેખકના કયા વાર્તાસંગ્રહમાંથી લેવામાં આવી છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ નવલિકા સુરેશ જોષીના <b>'ગૃહપ્રવેશ'</b> નામના વાર્તાસંગ્રહમાંથી લેવામાં આવી છે.<br><br></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 3,
+        marks: 1,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>અસિત કોણ હતો અને તે ક્યાંથી આવ્યો હતો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>અસિત વૃંદાવનદાસનો દીકરો હતો અને તે <b>અમેરિકાથી ઇલેક્ટ્રિકલ એન્જિનિયરિંગનું</b> ભણીને આવ્યો હતો.<br><br></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 4,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>અસિતે લોકોને આકર્ષવા માટે શું ગોઠવ્યું હતું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>અસિતે પોતાના એન્જિનિયરિંગના જ્ઞાનનો ઉપયોગ કરીને <b>વીજળી અને કરામતથી શ્રીકૃષ્ણના જન્મનો આબેહૂબ જીવંત દેખાવ (Light Show)</b> ગોઠવ્યો હતો. જેમાં વરસાદ પડવો, વાસુદેવનું કૃષ્ણને લઈને ગોકુળ જવું વગેરે દૃશ્યો ઇલેક્ટ્રિક લાઈટ્સથી બતાવવાના હતા.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: અસિત એટલે આજનો ટેકનિકલ માસ્ટર. એણે અમેરિકાથી ભણીને ગામમાં 'થ્રીડી લાઈટ શો' (3D Light Show) ચાલુ કરી દીધો હતો!</div></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 5,
+        marks: 1,
+        year_asked: "[Board MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ઝૂંપડપટ્ટીમાં કોનો જન્મ થવાનો હતો? <br>(A) અસિતનો (B) કિશનનો (C) કાનજીનો (D) દેવજીનો</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(B) કિશનનો</b> (માણેકના પેટથી).<br><br></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 6,
+        marks: 1,
+        year_asked: "[Mock Test N. J. Classes]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કાનજી અને દેવજી નવજાત બાળકને લઈને કોની પાસે ગયા?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કાનજી અને દેવજી નવજાત બાળકને લઈને <b>વેલજી ડોસા</b> પાસે ગયા.<br><br></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 7,
+        marks: 1,
+        year_asked: "[Grammar Section]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સમાનાર્થી શબ્દો આપો: વૃષ્ટિ, અકિંચન, રુદન</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>વૃષ્ટિ</b> = વરસાદ / મેહ<br>૨. <b>અકિંચન</b> = અત્યંત ગરીબ / દરિદ્ર<br>૩. <b>રુદન</b> = રડવું / વિલાપ<br><br></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 8,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિરુદ્ધાર્થી શબ્દો લખો: જન્મોત્સવ, સ્તબ્ધ, ઉલ્લાસ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>જન્મોત્સવ</b> x મરણોત્સવ / શોક<br>૨. <b>સ્તબ્ધ</b> x ચંચળ / ગતિશીલ<br>૩. <b>ઉલ્લાસ</b> x શોક / દુઃખ<br><br></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 9,
+        marks: 2,
+        year_asked: "[March 2025 Expected]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રૂઢિપ્રયોગનો અર્થ આપી વાક્ય બનાવો: 'છાતી ફાટી જવી' અને 'કલેજું કોરાઈ જવું'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>છાતી ફાટી જવી</b> = અસહ્ય આઘાત લાગવો કે ભારે દુઃખ થવું.<br><i>વાક્ય:</i> દીકરાના અકસ્માતના સમાચાર સાંભળીને માતાની છાતી ફાટી ગઈ.<br>૨. <b>કલેજું કોરાઈ જવું</b> = હૃદયમાં ભારે પીડા થવી.<br><i>વાક્ય:</i> બાળકના પગ તોડવાનો અવાજ સાંભળીને માણેકનું કલેજું કોરાઈ ગયું.<br><br></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 10,
+        marks: 1,
+        year_asked: "[Vocabulary Quiz]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શબ્દસમૂહ માટે એક શબ્દ આપો: 'જન્મ નિમિત્તે ઉજવાતો ઉત્સવ' અને 'ઘૂંટણથી નીચેનો પગનો ભાગ કામ ન કરતો હોય તેવું'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. જન્મ નિમિત્તે ઉજવાતો ઉત્સવ = <b>જન્મોત્સવ</b><br>૨. ઘૂંટણથી નીચેનો પગનો ભાગ કામ ન કરતો હોય તેવું = <b>અપંગ / પાંગળું</b><br><br></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>માણેકની સ્થિતિ કેવી હતી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>માણેક ઝૂંપડપટ્ટીમાં રહેતી એક અત્યંત ગરીબ સ્ત્રી હતી. તે પ્રસૂતિની (ડિલિવરીની) અસહ્ય પીડા સહન કરી રહી હતી. વરસાદ અને કાદવ કીચડ વચ્ચે તે એક ફાટેલા ગોદડા પર પીડાથી કણસી રહી હતી.<br><br></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 12,
+        marks: 2,
+        year_asked: "[July 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કાનજી અને દેવજી બાળકને લઈને વેલજી ડોસા પાસે શા માટે ગયા?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કાનજી અને દેવજી અત્યંત ગરીબ હતા. ભીખ માંગીને જ તેમનું ગુજરાન ચાલતું હતું. તેઓ નવજાત બાળક (કિશન) ને લઈને વેલજી ડોસા પાસે ગયા <b>જેથી વેલજી ડોસો બાળકના પગ મરડીને તેને આજીવન અપંગ બનાવી શકે,</b> જેથી ભવિષ્યમાં લોકો દયા ખાઈને તે બાળકને સારી ભીખ આપે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરીબી એટલી ભયંકર છે કે બાપ પોતાના જ દીકરાના પગ તોડાવી નાખે છે! કારણ? એક જ... અપંગ બાળકને ભીખ જલ્દી મળે. આ પાઠનો સૌથી દર્દનાક વળાંક છે.</div></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 13,
+        marks: 1,
+        year_asked: "[MCQ - Target 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જ્યારે બાળકને લઈ જવામાં આવતું હતું ત્યારે માણેક શું બોલી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>માણેક રડતા રડતા બોલી, <b>"એલા, મારા છોરાને ક્યાં લઈ જાવ છો? મારા પેટનું કાપીને મને આપો ને!"</b><br><br></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 14,
+        marks: 2,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>બંને જન્મોત્સવ વખતે વાતાવરણ (ઋતુ) કેવું હતું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>બંને જન્મોત્સવ (શ્રીકૃષ્ણનો આભાસી જન્મ અને કિશનનો વાસ્તવિક જન્મ) <b>મધ્યરાત્રિના 12 વાગ્યે</b> થયા હતા. તે સમયે આકાશમાં કાળા વાદળો ઘેરાયેલા હતા, વીજળીના કડાકા-ભડાકા થઈ રહ્યા હતા અને અત્યંત <b>ભારે વરસાદ (ધોધમાર વરસાદ)</b> વરસી રહ્યો હતો.<br><br></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 15,
+        marks: 1,
+        year_asked: "[Knowledge Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શ્રીકૃષ્ણના જન્મોત્સવમાં લોકો કોની પ્રતીક્ષા કરી રહ્યા હતા?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લોકો આતુરતાથી <b>મધ્યરાત્રિના 12 વાગવાની અને શ્રીકૃષ્ણના જન્મના દર્શનની</b> પ્રતીક્ષા કરી રહ્યા હતા.<br><br></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 16,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કિશનના જન્મ સમયે ઝૂંપડપટ્ટીમાં કેવો માહોલ હતો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>શ્રીકૃષ્ણના જન્મ સમયે એક તરફ ખુશી અને લાઈટો હતી, જ્યારે બીજી તરફ કિશનના જન્મ સમયે ઝૂંપડપટ્ટીમાં <b>ઘોર અંધકાર, ગંદકી, કાદવ અને ગરીબી હતી.</b> ત્યાં માત્ર વરસાદનો અવાજ, દેડકાંનો ડ્રાઉં-ડ્રાઉં અવાજ અને માણેકની પીડાભરી ચીસો સંભળાતી હતી.<br><br></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 17,
+        marks: 1,
+        year_asked: "[Objective MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વેલજી ડોસાએ કિશનના પગ મરડ્યા પછી શું કહ્યું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વેલજી ડોસાએ કહ્યું, <b>"લે, છોરો હવે દાબડો (પાંગળો/અપંગ) થઈ ગયો, હવે કોઈ દાડો ભૂખે નહિ મરે!"</b><br><br></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 18,
+        marks: 2,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>માણેકની કરુણતા (દુઃખ) શેમાં છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>માણેકની કરુણતા એમાં છે કે તેણે નવ મહિના પીડા સહન કરીને બાળકને જન્મ આપ્યો, પરંતુ તે <b>બાળકનું મુખ પણ સરખી રીતે જોઈ શકી નહિ.</b> ગરીબીના કારણે તેના જ પતિએ તેના બાળકના પગ તોડાવી નાખ્યા, અને માતૃત્વની આ વેદના સામે તે સાવ લાચાર અને બેબસ હતી.<br><br></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 19,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સાચી જોડણી ઓળખાવો: વિજળી / વીજળી, અસ્તિત્વ / અસ્તીત્વ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સાચી જોડણી: <b>વીજળી</b> અને <b>અસ્તિત્વ</b><br><br></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 20,
+        marks: 2,
+        year_asked: "[Expected 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નવલિકાના અંતમાં કયો વિરોધાભાસ જોવા મળે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>નવલિકાના અંતમાં ભયંકર વિરોધાભાસ છે. એક તરફ <b>શ્રીકૃષ્ણના જન્મની ખુશીમાં પંજરી (પ્રસાદ) વહેંચાઈ રહી છે, ભજનો ગવાઈ રહ્યા છે અને લોકો આનંદમાં છે.</b> જ્યારે બીજી તરફ, વાસ્તવિકતામાં <b>કિશનના પગ તોડી નંખાયા છે અને તેની માતા માણેક પોતાના અપંગ બાળકની વેદનામાં આંસુ સારી રહી છે.</b> આ ધર્મ અને ગરીબી વચ્ચેનો સૌથી મોટો વિરોધાભાસ છે.<br><br></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 21,
+        marks: 3,
+        year_asked: "[March 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>અસિતનું પાત્રાલેખન ટૂંકમાં કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>અસિત એ આધુનિક ટેકનોલોજી અને ધનિક વર્ગનું પ્રતીક છે. તે અમેરિકાથી ભણીને આવેલો ઇલેક્ટ્રિકલ એન્જિનિયર છે. <br>તે પોતાના જ્ઞાનનો ઉપયોગ સમાજ માટે નહિ, પણ માત્ર લોકોના મનોરંજન અને આકર્ષણ માટે કરે છે. તે વીજળીની કમાલથી કૃષ્ણ જન્મોત્સવનો ભવ્ય 3D શો ગોઠવે છે. તેને વાસ્તવિક ગરીબી કે ઝૂંપડપટ્ટીમાં જન્મતા કિશન સાથે કોઈ લેવાદેવા નથી. તે માત્ર આભાસી (નકલી) દુનિયામાં જીવનારો આધુનિક યુવાન છે.<br><br></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 22,
+        marks: 1,
+        year_asked: "[MCQ - N. J. Classes Mock]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'હાલો ભાઈ હાલો, હવે પંજરી વહેંચાય છે' - આ વાક્ય શું દર્શાવે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ વાક્ય દર્શાવે છે કે મંદિરમાં <b>શ્રીકૃષ્ણનો આભાસી જન્મોત્સવ પૂરો થઈ ગયો છે</b> અને હવે લોકો માત્ર પ્રસાદ ખાવામાં જ વ્યસ્ત છે.<br><br></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 23,
+        marks: 3,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કાનજીના પાત્રની માનસિકતા સ્પષ્ટ કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કાનજી એ ભારતીય સમાજની ગરીબી અને મજબૂરીનું કરુણ પ્રતીક છે.<br>એક પિતા હોવા છતાં ગરીબીએ તેની પાસે એવું અમાનવીય કામ કરાવ્યું કે તેણે પોતાના જ નવજાત બાળકના પગ વેલજી ડોસા પાસે મરડાવી નાખ્યા. કાનજી ક્રૂર નથી, પણ <b>પરિસ્થિતિનો ગુલામ</b> છે. તેને ખબર છે કે જો બાળક સાજુ-નરવું હશે તો તેમને ભીખ નહિ મળે અને તેઓ ભૂખે મરી જશે. પેટનો ખાડો પૂરવા માટે એક પિતાએ પોતાના બાળકની જિંદગી બરબાદ કરી નાખી, આ તેની સૌથી લાચાર માનસિકતા છે.<br><br></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 24,
+        marks: 4,
+        year_asked: "[Most IMP Long Question 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'જન્મોત્સવ' નવલિકામાં રજૂ થયેલા બે ભિન્ન (અલગ) જગતના વિરોધાભાસનું વર્ણન કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સુરેશ જોષીની આ નવલિકામાં બે સાવ અલગ જગત એક જ રાત્રે સામસામે ઊભા છે:<br><br>૧. <b>શ્રીમંતોનું આભાસી જગત:</b> એક તરફ વૃંદાવનદાસના ઘરમાં અમેરિકાથી આવેલા અસિતે લાઈટ્સ અને ટેકનોલોજીની મદદથી શ્રીકૃષ્ણના જન્મનો ભવ્ય શો ઊભો કર્યો છે. ત્યાં શંખ, ઝાલર, સુંવાળા વસ્ત્રો, મિષ્ટાન અને પંજરીનો પ્રસાદ છે. ત્યાં માત્ર દેખાડો અને ઉત્સવ છે.<br>૨. <b>ગરીબોનું વાસ્તવિક જગત:</b> બરાબર તે જ સમયે (મધ્યરાત્રિએ) બહાર ઝૂંપડપટ્ટીમાં માણેક અત્યંત પીડા સાથે કિશનને જન્મ આપે છે. ત્યાં અંધકાર, કાદવ, ગરીબી અને લાચારી છે. ત્યાં જન્મેલા બાળકને આવકારવાને બદલે તેના પગ તોડીને તેને આજીવન અપંગ અને ભિખારી બનાવી દેવામાં આવે છે.<br><br><b>નિષ્કર્ષ:</b> ભગવાનના જન્મની ઉજવણી પાછળ લાખો રૂપિયા ખર્ચાતા હોય છે, જ્યારે ભગવાનના જ બનાવેલા માણસ (કિશન) નો જન્મ ગરીબીને કારણે અભિશાપ બની જાય છે. આ જ નવલિકાનો સૌથી મોટો અને હૃદયદ્રાવક વિરોધાભાસ છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: આ 4 માર્ક્સના પ્રશ્ન માટે બે કોલમ યાદ રાખો. ડાબી બાજુ અમીરોની 3D લાઈટ, ઝાલર અને પંજરી (પ્રસાદ). જમણી બાજુ ગરીબોનું અંધારું, કાદવ અને તૂટેલા પગ. બંનેને સરખાવી દો એટલે જવાબ 100% પૂરો!</div></div>"
+    },
+
+    {
+        chapter: 14,
+        q_no: 25,
+        marks: 4,
+        year_asked: "[Central Idea / Title Justification]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'જન્મોત્સવ' નવલિકાનું શીર્ષક વાર્તાના આધારે યથાર્થ સાબિત કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'જન્મોત્સવ' શીર્ષક અત્યંત કટાક્ષપૂર્ણ અને યોગ્ય છે.<br><br>પાઠમાં 'જન્મોત્સવ' શબ્દ બે અર્થમાં વપરાયો છે. એક તરફ ભગવાન શ્રીકૃષ્ણનો જન્મોત્સવ છે, જેની રાહ લોકો ધામધૂમથી જોઈ રહ્યા છે. આ માત્ર આભાસી અને દેખાડા પૂરતો ઉત્સવ છે. બીજી તરફ માણેકની કૂખે કિશનનો વાસ્તવિક જન્મ થાય છે. સાચા અર્થમાં બાળકના જન્મ સમયે ખુશી (ઉત્સવ) હોવી જોઈએ, પરંતુ ગરીબીને કારણે આ જન્મ ઉત્સવ ન રહેતા એક 'અભિશાપ' બની જાય છે.<br>લેખકે આ શીર્ષક દ્વારા સમાજની વરવી વાસ્તવિકતા પર કટાક્ષ કર્યો છે કે <b>આપણે પથ્થર કે મૂર્તિના જન્મની તો ઉજવણી કરીએ છીએ, પણ જીવતા જાગતા બાળકના જન્મ સમયે તેને અપંગ બનાવી દઈએ છીએ.</b> આમ, આ શીર્ષક એકદમ યથાર્થ અને માર્મિક છે.<br><br></div>"
+    },
 
 ];
 
