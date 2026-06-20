@@ -1278,7 +1278,234 @@ var Std10_Gujarati_imp = [
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'વાયરલ ઇન્ફેક્શન' પાઠનો કેન્દ્રીય વિચાર (Central Idea) તમારા શબ્દોમાં સ્પષ્ટ કરો.</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'વાયરલ ઇન્ફેક્શન' નિબંધનો મુખ્ય કેન્દ્રીય વિચાર <b>ભારતીય સમાજની આરોગ્ય પ્રત્યેની ગંભીર બેદરકારી પર કટાક્ષ કરવાનો અને સ્વાસ્થ્ય પ્રત્યે જાગૃતિ લાવવાનો છે.</b><br><br>લેખક સમજાવે છે કે આપણે શરીરને એક વાહન સમજીને ગમે તેમ હંકારીએ છીએ. આપણે પૈસા કમાવવાની આંધળી દોટમાં શારીરિક અને માનસિક સ્વાસ્થ્યને નુકસાન પહોંચાડી રહ્યા છીએ. ગંદકી, વ્યસનો, અને અહંકાર આપણા સમાજમાં વાયરલ ઇન્ફેક્શનની જેમ ઝડપથી ફેલાઈ ગયા છે.<br>નિબંધના અંતમાં લેખક એક જ સુંદર સંદેશ આપે છે કે 'પ્રિવેન્શન ઈઝ બેટર ધેન ક્યોર' (રોગ થાય તે પહેલા જ સાવચેતી રાખવી). અને તમામ માનસિક તથા શારીરિક બીમારીઓનો રામબાણ ઈલાજ <b>'પરિવારનો પ્રેમ અને શાંતિ'</b> છે. આ સત્ય સમજવું એ જ આ પાઠનો મુખ્ય ઉદ્દેશ્ય છે.<br><br></div>"
     },
-        
+    
+
+    // પ્રકરણ 7: હું એવો ગુજરાતી (વિનોદ જોશી) - N. J. Classes (Target 2026)
+
+    {
+        chapter: 7,
+        q_no: 1,
+        marks: 1,
+        year_asked: "[March 2022, 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'હું એવો ગુજરાતી' કાવ્યના કવિનું નામ અને તેનો સાહિત્ય પ્રકાર જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિનું નામ <b>વિનોદ જોશી</b> છે અને આ કાવ્યનો સાહિત્ય પ્રકાર <b>ગીત</b> છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતી માણસ હંમેશા આનંદ અને 'વિનોદ' (મજાક-મસ્તી) માં જ હોય, અને નવરાત્રીમાં 'ગીત' ગાતો હોય! આ રીતે કવિ 'વિનોદ જોશી' અને પ્રકાર 'ગીત' આસાનીથી યાદ રહી જશે.</div></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 2,
+        marks: 1,
+        year_asked: "[August 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિની છાતી શા માટે ગજગજ ફૂલે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ પોતે એક <b>ગુજરાતી છે</b>, માત્ર આ જ વાતના ગૌરવથી તેમની છાતી ગજગજ ફૂલે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 3,
+        marks: 2,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ પોતાના રક્ત (લોહી) અને શ્વાસમાં કોનો વાસ હોવાનું કહે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ કહે છે કે તેમના <b>રક્તમાં (લોહીમાં) નર્મદા નદીના જળ</b> વહે છે અને તેમના <b>શ્વાસમાં મહીસાગરના ધબકારા</b> વસેલા છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો <b>RN</b> અને <b>SM</b>. <br><b>R</b> = રક્ત, <b>N</b> = નર્મદા.<br><b>S</b> = શ્વાસ, <b>M</b> = મહીસાગર! આખી જિંદગી નહિ ભૂલાય.</div></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 4,
+        marks: 1,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિના પ્રાણમાં કોણ ધબકે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિના પ્રાણમાં <b>રત્નાકર (સમુદ્ર)</b> ધબકે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 5,
+        marks: 1,
+        year_asked: "[Board MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'હું એવો ગુજરાતી' કાવ્યમાં કયા પર્વતનો ઉલ્લેખ છે? <br>(A) હિમાલય (B) અરવલ્લી (C) વિંધ્યાચલ (D) સાતપુડા</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(B) અરવલ્લી</b> (પંક્તિ: 'અરવલ્લીનો પિંડ, પ્રાણમાં ધબકે છે રત્નાકર')<br><br></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 6,
+        marks: 1,
+        year_asked: "[Mock Test N. J. Classes]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ પોતાને કોનો ગર્ભદીપ માને છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ પોતાને <b>નવરાત્રીનો ગર્ભદીપ</b> (ગરબો) માને છે.<br><br></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 7,
+        marks: 1,
+        year_asked: "[Grammar Section]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સમાનાર્થી શબ્દો આપો: રત્નાકર, આયુધ, રક્ત</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>રત્નાકર</b> = સમુદ્ર / દરિયો<br>૨. <b>આયુધ</b> = શસ્ત્ર / હથિયાર<br>૩. <b>રક્ત</b> = લોહી / રુધિર<br><br></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 8,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિરુદ્ધાર્થી શબ્દો લખો: મૌન, શ્યામ, પ્રકાશ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>મૌન</b> x વાચાળ / બોલકું<br>૨. <b>શ્યામ</b> x શ્વેત / ગૌર<br>૩. <b>પ્રકાશ</b> x અંધકાર<br><br></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 9,
+        marks: 2,
+        year_asked: "[March 2025 Model Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રૂઢિપ્રયોગનો અર્થ આપી વાક્ય બનાવો: 'ગજગજ છાતી ફૂલવી'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>અર્થ:</b> ખૂબ જ ગર્વ થવો અથવા આનંદથી અભિમાન થવું.<br><b>વાક્ય:</b> ઓલિમ્પિકમાં ભારતને ગોલ્ડ મેડલ મળતા દરેક ભારતીયની છાતી ગજગજ ફૂલવા લાગી.<br><br></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 10,
+        marks: 1,
+        year_asked: "[Vocabulary Quiz]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શબ્દસમૂહ માટે એક શબ્દ આપો: 'કાણાંવાળા ગરબાની અંદર મૂકવામાં આવતો દીવો'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>ગર્ભદીપ</b><br><br></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગાંધીજી અને સરદાર પટેલ વિશે કવિ શું કહે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ કહે છે કે <b>"હું ગાંધીનું મૌન છું અને હું જ સરદારની હાક (પડકાર) છું."</b> <br>ગાંધીજીએ શાંતિ અને મૌનથી અંગ્રેજો સામે લડત આપી, જ્યારે સરદાર પટેલે પોતાના બુલંદ અવાજ (હાક) અને દૃઢતાથી રજવાડાંઓને એક કર્યા. આ બંને મહાનુભાવો ગુજરાતની જ ધરતીના પુત્રો છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી સ્વભાવે શાંત હતા એટલે 'મૌન', અને સરદાર પટેલ લોખંડી પુરુષ હતા એટલે તેમની 'હાક' (બૂમ/પડકાર) વાગતી! બસ આ શબ્દો જ પરીક્ષામાં માર્ક્સ અપાવશે.</div></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 12,
+        marks: 2,
+        year_asked: "[July 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કાવ્યમાં નરસિંહ મહેતા અને મીરાંબાઈનો ઉલ્લેખ કયા સંદર્ભે થયો છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગુજરાતી સાહિત્ય અને ભક્તિરસમાં <b>નરસિંહ મહેતાના 'પ્રભાતિયાં'</b> (સવારના ભજનો) અને <b>મીરાંબાઈની 'કરતાલ'</b> (ભક્તિ) અત્યંત પ્રખ્યાત છે. કવિ કહે છે કે હું પોતે જ નરસિંહના પ્રભાતિયાં અને મીરાંની કરતાલ છું.<br><br></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 13,
+        marks: 1,
+        year_asked: "[MCQ - Target 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ સત્યને કોની સાથે સરખાવે છે? <br>(A) ઢાલ (B) તલવાર (C) આયુધ (D) બાણ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(C) આયુધ</b> (સત્યના આયુધની જેની દિગદિગંતમાં ધાક - ગાંધીજીનું સત્ય રૂપી શસ્ત્ર).<br><br></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 14,
+        marks: 2,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સૂર્યમંદિર અને શત્રુંજય વિશે કવિ શું જણાવે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ કહે છે કે તેમના વસ્ત્રો પર <b>મોઢેરાના સૂર્યમંદિરનો ગુંજારવ</b> (તેજ/ભવ્યતા) છવાયેલો છે. અને તેમના હૃદયમાં <b>શત્રુંજય (પાલીતાણા) શિખરનો વાસ</b> છે, જે જૈન ધર્મનું પવિત્ર યાત્રાધામ છે.<br><br></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 15,
+        marks: 1,
+        year_asked: "[Knowledge Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'હું જ ભવાની, હું જ ભૃંગ' - આમાં ભવાની શબ્દ કોના માટે વપરાયો છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'ભવાની' શબ્દ માતા અંબા (નવરાત્રીના ગરબાના સંદર્ભમાં) <b>શક્તિના પ્રતીક</b> તરીકે વપરાયો છે.<br><br></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 16,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિની અંદર કયો કૃષ્ણ વસે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ કહે છે કે, <b>"હું જ દ્વારિકા, હું જ કૃષ્ણ છું."</b> દ્વારિકાના નાથ ભગવાન શ્રીકૃષ્ણ જે પ્રેમ, નીતિ અને રાજધર્મના પ્રતીક છે, તે કૃષ્ણ તેમના પોતાના અસ્તિત્વમાં વસેલા છે.<br><br></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 17,
+        marks: 1,
+        year_asked: "[Objective MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'માટીનો જાયો' એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'માટીનો જાયો' એટલે <b>ધરતીનો પુત્ર (ગુજરાતની પવિત્ર માટીમાં જન્મ લેનાર)</b>.<br><br></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 18,
+        marks: 2,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>દુહા-છંદ અને કાઠિયાવાડી બોલી વિશે કવિ શું માને છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગુજરાતી લોકસાહિત્યમાં દુહા અને છંદની રમઝટ ખૂબ પ્રખ્યાત છે. કવિ માને છે કે આ દુહા-છંદ અને આપણી મીઠી કાઠિયાવાડી બોલી એ <b>પવિત્ર સુધા (અમૃત)</b> સમાન છે, જેને પીને દરેક ગુજરાતી પાવન (પવિત્ર) થાય છે.<br><br></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 19,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નીચેના તળપદા શબ્દોના શિષ્ટ રૂપ આપો: પરભાતી, જંતર, પાવન</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>પરભાતી</b> = પ્રભાતિયાં<br>૨. <b>જંતર</b> = વાજિંત્ર<br>૩. <b>પાવન</b> = પવિત્ર<br><br></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 20,
+        marks: 2,
+        year_asked: "[Expected 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'હું કેવળ હું હોઉં છતાં, હું સદા હોઉં મહાજાતિ' - પંક્તિનો અર્થ સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ પંક્તિમાં કવિ કહે છે કે ભલે હું એક વ્યક્તિ તરીકે એકલો (કેવળ હું) હોઉં, પરંતુ મારા લોહીમાં અને સંસ્કારોમાં આખું ગુજરાત વસેલું છે. તેથી હું કોઈ સામાન્ય માણસ નથી, પણ <b>ગુજરાતી નામની મહાન જાતિનો (મહાજાતિનો)</b> પ્રતિનિધિ છું.<br><br></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 21,
+        marks: 3,
+        year_asked: "[March 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કાવ્યમાં ગુજરાતની કઈ કઈ નદીઓ અને પર્વતોનો ઉલ્લેખ થયો છે? તેનાથી કવિ શું દર્શાવવા માંગે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કાવ્યમાં ગુજરાતની <b>નર્મદા અને મહીસાગર નદીઓ</b> તથા <b>અરવલ્લી, ગિરનાર અને શત્રુંજય જેવા પર્વતો</b> નો ઉલ્લેખ થયો છે.<br>આ પ્રાકૃતિક સૌંદર્ય દ્વારા કવિ દર્શાવવા માંગે છે કે ગુજરાતની પ્રકૃતિ કેટલી સમૃદ્ધ છે. કવિ પોતાના શરીરને (પિંડને) અરવલ્લી સમાન મજબૂત માને છે અને નદીઓના જળ પોતાના લોહીમાં વહેતા હોવાનો ગર્વ અનુભવે છે. ગુજરાત માત્ર જમીનનો ટુકડો નથી, પણ કવિનો જીવ છે.<br><br></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 22,
+        marks: 1,
+        year_asked: "[MCQ - N. J. Classes Mock]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'દિગદિગંતમાં ધાક' કોની હતી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગાંધીજીના <b>સત્ય રૂપી આયુધની (શસ્ત્રની)</b> દશે દિશાઓમાં ધાક હતી.<br><br></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 23,
+        marks: 3,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગુજરાતની સાંસ્કૃતિક વિરાસત (વારસા) વિશે કાવ્યમાં કઈ કઈ બાબતો જણાવાઈ છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કાવ્યમાં ગુજરાતના ભવ્ય સાંસ્કૃતિક વારસાની અદભુત ઝલક જોવા મળે છે:<br>૧. જગપ્રસિદ્ધ નવરાત્રીનો <b>ગર્ભદીપ (ગરબો)</b>.<br>૨. શિલ્પ અને સ્થાપત્ય કળાનો નમૂનો એવું <b>મોઢેરાનું સૂર્યમંદિર</b>.<br>૩. પવિત્ર યાત્રાધામો <b>દ્વારિકા અને શત્રુંજય (પાલીતાણા)</b>.<br>૪. સાહિત્યમાં <b>દુહા અને છંદની રમઝટ</b>.<br>૫. ભક્તિ પરંપરામાં <b>નરસિંહના પ્રભાતિયાં અને મીરાંની કરતાલ</b>.<br>આ તમામ બાબતો ગુજરાતની ભવ્ય સંસ્કૃતિની ઓળખ છે.<br><br></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 24,
+        marks: 4,
+        year_asked: "[Most IMP Long Question 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'હું એવો ગુજરાતી' કાવ્યના આધારે કવિનો ગુજરાતી હોવાનો ગર્વ સવિસ્તાર વર્ણવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ વિનોદ જોશી એક ગુજરાતી હોવાના નાતે પોતાના અસ્તિત્વ પર અત્યંત ગૌરવ અનુભવે છે.<br><br>૧. <b>પ્રાકૃતિક ગૌરવ:</b> કવિને ગર્વ છે કે તેમના નસ-નસમાં નર્મદા અને મહીસાગર જેવી પવિત્ર નદીઓનું જળ વહી રહ્યું છે. તેમનો દેહ અરવલ્લી પર્વત જેવો મજબૂત છે અને તેમના પ્રાણમાં ગુજરાતનો વિશાળ સમુદ્ર (રત્નાકર) ધબકી રહ્યો છે.<br>૨. <b>સાંસ્કૃતિક અને ધાર્મિક ગૌરવ:</b> તેઓ ગુજરાતની નવરાત્રી (ગર્ભદીપ), સૂર્યમંદિરનું તેજ, દ્વારિકાના શ્રીકૃષ્ણ, પાલીતાણાના જૈન મંદિરો, મીરાંની ભક્તિ અને નરસિંહના પ્રભાતિયાંનો વારસો હોવાનું ગૌરવ લે છે.<br>૩. <b>મહાપુરુષોનું ગૌરવ:</b> કવિ ગર્વથી કહે છે કે આ એ જ માટી છે જેણે ગાંધીજી જેવા અહિંસાના પૂજારી અને સરદાર પટેલ જેવા લોખંડી પુરુષ આપ્યા છે, જેમના 'સત્ય' રૂપી શસ્ત્રથી આખી દુનિયા ડરતી હતી.<br><br>આમ, કવિ પોતાના શરીર, શ્વાસ અને આત્મામાં આખા ગુજરાતને સમાવીને ગર્વથી કહે છે કે, "હું એવો ગુજરાતી છું!"<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટો પ્રશ્ન પૂછાય એટલે ગુજરાતના 3 ફેમસ મુદ્દા પકડી લેવાના: ૧. નદીઓ-પર્વતો (નર્મદા, અરવલ્લી), ૨. મંદિરો અને તહેવારો (દ્વારિકા, નવરાત્રી), અને 3. આપણા હીરો (ગાંધીજી અને સરદાર). આ 3 પોઇન્ટ લખી નાખો એટલે જવાબ પૂરો!</div></div>"
+    },
+
+    {
+        chapter: 7,
+        q_no: 25,
+        marks: 4,
+        year_asked: "[Central Idea / Title Justification]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'હું એવો ગુજરાતી' કાવ્યનો કેન્દ્રીય વિચાર (Central Idea) તમારા શબ્દોમાં સ્પષ્ટ કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'હું એવો ગુજરાતી' ગીતનો કેન્દ્રીય વિચાર <b>ગુજરાતની અસ્મિતા (ગૌરવ) અને માતૃભૂમિ પ્રત્યેના અખૂટ પ્રેમનું વર્ણન</b> કરવાનો છે.<br><br>કવિ વિનોદ જોશી એ સાબિત કરે છે કે ગુજરાત માત્ર એક રાજ્ય નથી, પરંતુ તે એક ભવ્ય ઇતિહાસ, સંસ્કૃતિ અને સંસ્કારોનો સંગમ છે. કાવ્યમાં ગુજરાતની નદીઓ, પર્વતો, મંદિરો, સંતો અને શૂરવીરોને યાદ કરીને કવિ એક ગુજરાતી હોવાના અદભુત અહેસાસને વાચા આપે છે. <br>કવિનો મુખ્ય સંદેશ એ છે કે ભલે આપણે દુનિયાના કોઈ પણ ખૂણે હોઈએ, પરંતુ આપણા શ્વાસમાં અને લોહીમાં હંમેશા આપણી માતૃભૂમિ ધબકતી હોવી જોઈએ. આ 'ગુજરાતીપણાં' નો ગર્વ એ જ કાવ્યનો આત્મા છે.<br><br></div>"
+    },
 
 ];
 
