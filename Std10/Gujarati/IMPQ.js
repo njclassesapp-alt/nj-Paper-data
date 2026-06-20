@@ -4903,6 +4903,462 @@ var Std10_Gujarati_imp = [
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'હિમાલયમાં એક સાહસ' પ્રવાસ નિબંધનો કેન્દ્રીય વિચાર (Central Idea) સ્પષ્ટ કરો.</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ પ્રવાસ નિબંધનો કેન્દ્રીય વિચાર <b>યુવાનોમાં પ્રકૃતિપ્રેમ, રોમાંચ અને મુશ્કેલીઓ સામે લડવાની સાહસિક વૃત્તિ જગાડવાનો છે.</b><br><br>જવાહરલાલ નેહરુ પોતાના જીવનના એક અનુભવ દ્વારા સમજાવે છે કે કુદરતનું સૌંદર્ય જેટલું આકર્ષક છે, તેટલું જ ભયાનક પણ હોઈ શકે છે. હિમાલયની ભવ્યતા માણસને પોતાની તરફ ખેંચે છે, પરંતુ ત્યાં ડગલે ને પગલે મોત (ખાઈઓ) છુપાયેલું છે. <br>આ પાઠ શીખવે છે કે જીવનમાં કોઈપણ મોટું લક્ષ્ય (જેમ કે અમરનાથ દર્શન) પ્રાપ્ત કરવા માટે હિંમત અને જોખમ લેવાની તૈયારી હોવી જોઈએ. સાથે જ, ઉત્સાહની સાથે-સાથે પૂરતા સાધનો અને સમજદારી પણ એટલા જ જરૂરી છે, જેથી અકસ્માત સમયે જીવ બચાવી શકાય.<br><br></div>"
     },
-        
+    
+
+    // પ્રકરણ 23: લઘુકાવ્યો (દુહા-મુક્તક-હાઈકુ) - N. J. Classes (Target 2026)
+
+    {
+        chapter: 23,
+        q_no: 1,
+        marks: 1,
+        year_asked: "[March 2022, 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'લઘુકાવ્યો' પ્રકરણમાં કયા કયા સાહિત્ય પ્રકારોનો સમાવેશ થાય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લઘુકાવ્યો એટલે ટૂંકા કાવ્યો. તેમાં <b>દુહા, મુક્તક અને હાઈકુ</b> નો સમાવેશ થાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લઘુ' એટલે નાનું. જે કવિતા 2 કે 3 લીટીમાં જ પૂરી થઈ જાય તેને લઘુકાવ્ય કહેવાય!</div></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 2,
+        marks: 1,
+        year_asked: "[August 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'હાઈકુ' કયા દેશનો સાહિત્ય પ્રકાર છે? તેનું બંધારણ જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>હાઈકુ <b>જાપાન</b> દેશનો સાહિત્ય પ્રકાર છે. તેમાં કુલ <b>૧૭ અક્ષરો</b> હોય છે. તેનું બંધારણ <b>૫-૭-૫</b> (પહેલી લીટીમાં 5, બીજીમાં 7, ત્રીજીમાં 5 અક્ષર) હોય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: જાપાનના લોકો ટૂંકું અને સચોટ બોલે! એટલે માત્ર 17 અક્ષરમાં આખી કવિતા પૂરી! યાદ રાખો: 5+7+5 = 17.</div></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 3,
+        marks: 1,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'સફળતા જિંદગીની હસ્તરેખામાં નથી હોતી' - આ મુક્તકના કવિનું નામ અને ઉપનામ જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ મુક્તકના કવિનું નામ <b>બરકત વીરાણી</b> છે અને તેમનું ઉપનામ <b>'બેફામ'</b> છે.<br><br></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 4,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ 'બેફામ' ના મતે સફળતા શેમાં નથી હોતી? તે શું સમજાવે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિના મતે જિંદગીની <b>સફળતા માત્ર હાથની રેખાઓમાં (નસીબમાં) નથી હોતી.</b> જે રીતે નકશામાં દોરેલી ઈમારત ક્યારેય જાતે ચણાતી (બનતી) નથી, તેના માટે મહેનત કરવી પડે છે, તેવી જ રીતે માત્ર નસીબના ભરોસે બેસી રહેવાથી સફળતા મળતી નથી. તેના માટે પુરુષાર્થ (મહેનત) કરવો પડે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 5,
+        marks: 1,
+        year_asked: "[Board MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ચણાયેલી ઇમારત શેમાં નથી હોતી? <br>(A) સિમેન્ટમાં (B) નકશામાં (C) ઈંટોમાં (D) પાયામાં</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(B) નકશામાં</b><br><br></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 6,
+        marks: 1,
+        year_asked: "[Mock Test N. J. Classes]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>મુક્તક એટલે શું? તેને કોની સાથે સરખાવવામાં આવે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>મુક્તક એટલે મુક્ત રહેલું સ્વતંત્ર કાવ્યરૂપ. તેને <b>મોતી</b> સાથે સરખાવવામાં આવે છે, કારણ કે જેમ મોતી નાનું હોવા છતાં મૂલ્યવાન છે, તેમ મુક્તક બે જ લીટીમાં મોટો વિચાર આપી જાય છે.<br><br></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 7,
+        marks: 1,
+        year_asked: "[Grammar Section]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સમાનાર્થી શબ્દો આપો: હસ્તરેખા, ઈમારત, ઉજાસ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>હસ્તરેખા</b> = હાથની રેખા / નસીબની રેખા<br>૨. <b>ઈમારત</b> = મકાન / ભવન<br>૩. <b>ઉજાસ</b> = પ્રકાશ / અજવાળું<br><br></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 8,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિરુદ્ધાર્થી શબ્દો લખો: સફળતા, અંધકાર, આકાશ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>સફળતા</b> x નિષ્ફળતા<br>૨. <b>અંધકાર</b> x પ્રકાશ / ઉજાસ<br>૩. <b>આકાશ</b> x પાતાળ / ધરતી<br><br></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 9,
+        marks: 2,
+        year_asked: "[March 2025 Expected]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રૂઢિપ્રયોગનો અર્થ આપી વાક્ય બનાવો: 'નસીબના ભરોસે બેસી રહેવું'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>અર્થ:</b> મહેનત કર્યા વગર માત્ર ભાગ્ય પર આધાર રાખવો.<br><b>વાક્ય:</b> જે વિદ્યાર્થીઓ નસીબના ભરોસે બેસી રહે છે, તેઓ પરીક્ષામાં ક્યારેય પાસ થતા નથી.<br><br></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 10,
+        marks: 1,
+        year_asked: "[Vocabulary Quiz]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શબ્દસમૂહ માટે એક શબ્દ આપો: 'જાપાનનો ૧૭ અક્ષરનો કાવ્યપ્રકાર'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>હાઈકુ</b><br><br></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>દુહા એ કયા સાહિત્યની ઓળખ છે? દુહાની વિશેષતા શું હોય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>દુહા એ મુખ્યત્વે <b>લોકસાહિત્યની (અને ચારણી સાહિત્યની)</b> ઓળખ છે. તેમાં બે પંક્તિઓ હોય છે અને તે અત્યંત ચોટદાર રીતે જીવનનું સત્ય, વીરતા કે પ્રેમ રજૂ કરે છે. દુહાને લોકસાહિત્યનો આત્મા કહેવાય છે.<br><br></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 12,
+        marks: 2,
+        year_asked: "[July 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>અનિરુદ્ધ બ્રહ્મભટ્ટના હાઈકુ 'આંધળી ડોશી' માં કયું ચિત્ર ઊભું થાય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ હાઈકુમાં રાત્રિના અંધકાર અને લાચારીનું ચિત્ર છે. એક આંધળી ડોશી પાસે દીવો નથી. તે અંધારામાં વાસણો શોધે છે પણ તેને મળતા નથી. આ કાવ્ય <b>ડોશીની લાચારી અને એકલતાનું કરુણ ચિત્ર</b> ૧૭ અક્ષરમાં જ ઊભું કરી દે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 13,
+        marks: 1,
+        year_asked: "[MCQ - Target 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>હાઈકુની પ્રથમ પંક્તિમાં કેટલા અક્ષરો હોય છે? <br>(A) ૭ (B) ૫ (C) ૮ (D) ૩</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(B) ૫</b> (બંધારણ: ૫-૭-૫).<br><br></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 14,
+        marks: 2,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રઈશ મણિયારના દુહામાં જીવનનો કયો બોધ આપવામાં આવ્યો છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>રઈશ મણિયાર પોતાના દુહામાં સમજાવે છે કે <b>જીવનમાં જીત અને હાર બંને સમાન છે.</b> જો જીત મળે તો અભિમાન ન કરવું જોઈએ અને હાર મળે તો નિરાશ ન થવું જોઈએ. સુખ અને દુઃખ બંને પરિસ્થિતિમાં માણસે સમભાવ (સમાન ભાવ) જાળવવો જોઈએ.<br><br></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 15,
+        marks: 1,
+        year_asked: "[Knowledge Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ મુરલી ઠાકુરના મુક્તકમાં કોનો મહિમા ગાવામાં આવ્યો છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ મુરલી ઠાકુરના મુક્તકમાં <b>મહેનત (શ્રમ) અને આત્મનિર્ભરતાનો</b> મહિમા ગાવામાં આવ્યો છે.<br><br></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 16,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લઘુકાવ્યો (નાના કાવ્યો) ની સૌથી મોટી વિશેષતા (તાકાત) કઈ હોય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લઘુકાવ્યોની સૌથી મોટી વિશેષતા <b>'લાઘવ' (ટૂંકાણ) માં 'ચોટદાર રજૂઆત'</b> કરવાની છે. એટલે કે, કવિ બે-ત્રણ લીટીમાં કે 17 અક્ષરમાં જ જીવનનું કોઈ મોટું સત્ય કે ફિલોસોફી સમજાવી દે છે. જે કામ મોટો નિબંધ ન કરી શકે, તે બે લીટીનું મુક્તક કે દુહો કરી દે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 17,
+        marks: 1,
+        year_asked: "[Objective MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ખોરડું નાનું, સૂરજનો ઉજાસ...' આ પંક્તિ કયા સાહિત્ય પ્રકારની છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ પંક્તિ <b>હાઈકુ</b> સાહિત્ય પ્રકારની છે.<br><br></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 18,
+        marks: 2,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ 'બેફામ' નકશા અને ઇમારતનું ઉદાહરણ આપીને શું સાબિત કરે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ સાબિત કરે છે કે જેમ નકશો માત્ર એક કાગળ છે, ઈમારત ઊભી કરવા માટે ઈંટો અને સિમેન્ટથી ખરેખર મજૂરી કરવી પડે છે, <b>તેમ હાથની રેખાઓ માત્ર નકશો છે. સફળતાની ઈમારત ચણવા માટે કર્મ (મહેનત) કરવું જ પડે છે.</b><br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશો = નસીબ (હાથની રેખા). બિલ્ડીંગ = સફળતા. એન્જિનિયર ગમે તેવો સારો નકશો બનાવે, પણ કડિયા-મજૂર મહેનત ન કરે તો મકાન બને જ નહિ!</div></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 19,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સાચી જોડણી ઓળખાવો: ઇમારત / ઈમારત, હાઈકુ / હાઇકુ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સાચી જોડણી: <b>ઇમારત</b> અને <b>હાઈકુ</b><br><br></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 20,
+        marks: 2,
+        year_asked: "[Expected 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>હાઈકુ કાવ્યપ્રકારમાં મુખ્યત્વે શેનું વર્ણન જોવા મળે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>હાઈકુમાં મુખ્યત્વે <b>પ્રકૃતિનું સૌંદર્ય, ઋતુઓનું વર્ણન અથવા જીવનની કોઈ ચોટદાર ક્ષણનું (દૃશ્યનું)</b> વર્ણન એકદમ સૂક્ષ્મ અને સચોટ રીતે જોવા મળે છે. તે ચિત્ર દોરવા જેવું કાવ્ય છે.<br><br></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 21,
+        marks: 3,
+        year_asked: "[March 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'લઘુકાવ્યો' માંથી વિદ્યાર્થીઓને કયો બોધ (શીખ) મળે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ લઘુકાવ્યોમાંથી 3 મુખ્ય બોધ મળે છે:<br>૧. <b>કર્મનો સિદ્ધાંત:</b> બરકત વીરાણીનું મુક્તક શીખવે છે કે નસીબના ભરોસે બેસી રહેવાથી કંઈ નહિ મળે, મહેનત જ સફળતાની ચાવી છે.<br>૨. <b>સમભાવ:</b> રઈશ મણિયારનો દુહો શીખવે છે કે જીવનમાં સુખ-દુઃખ કે હાર-જીતમાં સમાન ભાવ જાળવવો, અભિમાન ન કરવું.<br>૩. <b>લાગણી:</b> હાઈકુ જેવા કાવ્યો આપણને આસપાસની પ્રકૃતિ અને ગરીબ માણસો (આંધળી ડોશી) પ્રત્યે સંવેદનશીલ બનતા શીખવે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 22,
+        marks: 1,
+        year_asked: "[MCQ - N. J. Classes Mock]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગુજરાતી સાહિત્યમાં સૌથી ટૂંકો કાવ્યપ્રકાર કયો ગણાય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>હાઈકુ</b> (માત્ર ૧૭ અક્ષર હોવાથી તે સૌથી ટૂંકો સાહિત્ય પ્રકાર છે).<br><br></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 23,
+        marks: 3,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ 'બેફામ' નું પરિચય ટૂંકમાં આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ <b>બરકતઅલી ગુલામહુસૈન વીરાણી</b> નું ઉપનામ 'બેફામ' છે. તેમનો જન્મ ભાવનગર જિલ્લાના ઘાંઘળી ગામમાં થયો હતો. તેઓ ગુજરાતી ગઝલ અને મુક્તક સાહિત્યના અત્યંત પ્રખ્યાત કવિ છે. તેમના કાવ્યોમાં જીવનની ફિલોસોફી અને વાસ્તવિકતા અત્યંત સરળ શબ્દોમાં રજૂ થાય છે.<br><br></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 24,
+        marks: 4,
+        year_asked: "[Most IMP Long Question 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'સફળતા જિંદગીની હસ્તરેખામાં નથી હોતી' - આ મુક્તકનો ભાવાર્થ (સમજૂતી) સવિસ્તાર વર્ણવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ બરકત વીરાણી 'બેફામ' ના આ મુક્તકમાં <b>પુરુષાર્થ (મહેનત) નો મહિમા</b> ગાવામાં આવ્યો છે.<br><br>સામાન્ય રીતે ઘણા લોકો જ્યોતિષ અને હાથની રેખાઓ બતાવીને પોતાના નસીબમાં સફળતા છે કે નહિ તે શોધતા હોય છે અને નસીબના ભરોસે બેસી રહે છે. કવિ આવા લોકોને કટાક્ષ કરતા સમજાવે છે કે, <b>જિંદગીની સાચી સફળતા હાથની રેખાઓમાં ક્યારેય નથી હોતી.</b><br>આ વાતને સમજાવવા કવિ નકશા અને ઈમારતનું સચોટ ઉદાહરણ આપે છે. કાગળ પર ગમે તેટલો સુંદર નકશો દોર્યો હોય, પણ જો તેને ચણવામાં ન આવે, તો તેમાંથી ક્યારેય મકાન કે ઈમારત બનતી નથી. ઈમારત બનાવવા માટે ઈંટો અને સિમેન્ટથી મજૂરી કરવી જ પડે છે.<br><br>આમ, આપણા હાથની રેખાઓ માત્ર નકશો છે. જીવનમાં સફળતાની ઈમારત ઊભી કરવા માટે સખત મહેનત અને પરિશ્રમ જ એકમાત્ર વિકલ્પ છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: આ 4 માર્ક્સનો પ્રશ્ન પૂછાય તો 'નસીબ Vs મહેનત' ની વાત લખવાની. નકશાનું ઉદાહરણ આપીને સાબિત કરી દેવાનું કે ખાલી હાથ જોવાથી પાસ ન થવાય, ચોપડી વાંચવી પડે!</div></div>"
+    },
+
+    {
+        chapter: 23,
+        q_no: 25,
+        marks: 4,
+        year_asked: "[Central Idea / Value Based Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'લઘુકાવ્યો' પ્રકરણનો કેન્દ્રીય વિચાર (Central Idea) તમારા શબ્દોમાં સ્પષ્ટ કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'લઘુકાવ્યો' પ્રકરણનો મુખ્ય ઉદ્દેશ્ય <b>વિદ્યાર્થીઓને ઓછા શબ્દોમાં જીવનના ગહન સત્યો સમજાવવાનો છે.</b><br><br>દુહા, મુક્તક અને હાઈકુ એ 'સાગરમાં ગાગર' સમાન છે. આ નાના કાવ્યો આપણને મહેનત કરવાનું, જીવનના સુખ-દુઃખમાં સમતા જાળવવાનું અને નસીબના ભરોસે ન બેસી રહેવાનું શીખવે છે. આ ઉપરાંત, હાઈકુ દ્વારા કવિ પ્રકૃતિ અને માનવજીવનની કરુણતાનું ચિત્ર દોરે છે. આ પ્રકરણ સાબિત કરે છે કે સાહિત્યનું મૂલ્ય તેની લંબાઈમાં નહિ, પરંતુ તેમાં રહેલા વિચારની ઊંડાઈ અને તેની ચોટદાર રજૂઆતમાં રહેલું છે.<br><br></div>"
+    },
+    
+
+    // પ્રકરણ 24: ઘોડીની સ્વામીભક્તિ (જોરાવરસિંહ જાદવ) - N. J. Classes (Target 2026)
+
+    {
+        chapter: 24,
+        q_no: 1,
+        marks: 1,
+        year_asked: "[March 2022, 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ઘોડીની સ્વામીભક્તિ' પાઠના લેખકનું નામ અને તેનો સાહિત્ય પ્રકાર જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખકનું નામ <b>જોરાવરસિંહ જાદવ</b> છે અને આ પાઠનો સાહિત્ય પ્રકાર <b>લોકકથા</b> છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પ્રાણી પોતાના માલિકનો જીવ બચાવે એ 'જોરાવર' (તાકાતવર) જ હોય! આ રીતે લેખકનું નામ યાદ રાખો. અને ગામડાઓમાં પેઢીઓથી કહેવાતી કથા એટલે 'લોકકથા'.</div></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 2,
+        marks: 1,
+        year_asked: "[August 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આ લોકકથા કયા પુસ્તકમાંથી લેવામાં આવી છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ લોકકથા જોરાવરસિંહ જાદવના <b>'લોકસાહિત્યની અશ્વકથાઓ'</b> નામના પુસ્તકમાંથી લેવામાં આવી છે.<br><br></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 3,
+        marks: 1,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આંબા પટેલ કયા ગામના વતની હતા અને તેમને શેનો શોખ હતો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આંબા પટેલ <b>વાવડી</b> ગામના વતની હતા. તેમને નાનપણથી જ <b>ઘોડાં પાળવાનો</b> અને સારી જાતના અશ્વો (ઘોડાઓ) નો ભારે શોખ હતો.<br><br></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 4,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આંબા પટેલ પાસે કેવી જાતની ઘોડી હતી? તેનું નામ શું હતું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આંબા પટેલ પાસે <b>કાઠિયાવાડી (તાજણ) જાતની</b> અત્યંત સુંદર અને વફાદાર ઘોડી હતી. તેનું નામ <b>'ઢેલ'</b> હતું.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘોડી ઢેલ (મોર ઢેલ) જેવી રૂપાળી અને રુઆબદાર હતી, એટલે જ આંબા પટેલે તેનું નામ 'ઢેલ' પાડ્યું હતું.</div></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 5,
+        marks: 1,
+        year_asked: "[Board MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આંબા પટેલના મામાનું ગામ કયું હતું? <br>(A) વાવડી (B) મણાર (C) રાજપુર (D) ભાવનગર</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(B) મણાર</b><br><br></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 6,
+        marks: 1,
+        year_asked: "[Mock Test N. J. Classes]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>મામાએ આંબા પટેલને તાત્કાલિક કેમ બોલાવ્યા હતા?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>મામાને કંઈક અગત્યનું કામ આવી પડ્યું હોવાથી તેમણે એક યુવાનને મોકલીને આંબા પટેલને <b>તાબડતોબ (તરત જ) મણાર</b> બોલાવ્યા હતા.<br><br></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 7,
+        marks: 1,
+        year_asked: "[Grammar Section]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સમાનાર્થી શબ્દો આપો: અશ્વ, કાંઠો, નીર</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>અશ્વ</b> = ઘોડો / તોખાર / હય<br>૨. <b>કાંઠો</b> = કિનારો / તટ<br>૩. <b>નીર</b> = પાણી / જળ<br><br></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 8,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિરુદ્ધાર્થી શબ્દો લખો: સ્વામી, ઉગમણું, વફાદાર</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>સ્વામી</b> x સેવક / દાસ<br>૨. <b>ઉગમણું</b> x આથમણું<br>૩. <b>વફાદાર</b> x બેવફા / દગાબાજ<br><br></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 9,
+        marks: 2,
+        year_asked: "[March 2025 Expected]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રૂઢિપ્રયોગનો અર્થ આપી વાક્ય બનાવો: 'ખાંડાના ખેલ હોવા' અને 'સડક થઈ જવું'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>ખાંડાના ખેલ હોવા</b> = અત્યંત જોખમી કે મુશ્કેલ કામ હોવું.<br><i>વાક્ય:</i> ઘોડાપૂર આવેલી નદી પાર કરવી એ કોઈ રમત નથી, એ તો ખાંડાના ખેલ છે.<br>૨. <b>સડક થઈ જવું</b> = આશ્ચર્યથી સ્તબ્ધ થઈ જવું (ચોંકી જવું).<br><i>વાક્ય:</i> અચાનક ઢેલ ઘોડીને પાણીમાં ડૂબકી મારતી જોઈને આંબા પટેલ સડક થઈ ગયા.<br><br></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 10,
+        marks: 1,
+        year_asked: "[Vocabulary Quiz]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શબ્દસમૂહ માટે એક શબ્દ આપો: 'ઘોડાને બાંધવાની જગ્યા' અને 'ઘોડા પર સવારી કરનાર'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. ઘોડાને બાંધવાની જગ્યા = <b>ઘોડાર / તબેલો</b><br>૨. ઘોડા પર સવારી કરનાર = <b>અસવાર (અશ્વારોહક)</b><br><br></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>મામાએ આંબા પટેલને મણાર રોકાઈ જવાનો આગ્રહ કેમ કર્યો? આંબા પટેલ કેમ ન માન્યા?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>મામાના ઘરે પહોંચ્યા પછી <b>અતિશય ભારે વરસાદ</b> પડવા લાગ્યો. મામાએ કહ્યું કે નદીઓમાં પૂર આવ્યા હશે, તેથી અત્યારે રોકાઈ જાવ. <br>પરંતુ આંબા પટેલ ન માન્યા, કારણ કે <b>તેઓ પોતાની પત્નીને વચન આપીને આવ્યા હતા કે કામ પતાવીને સાંજ સુધીમાં તેઓ વાવડી પાછા ફરશે.</b> પોતાની પત્ની ચિંતા કરતી હશે તેવા વિચારે તેઓ નીકળી ગયા.<br><br></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 12,
+        marks: 2,
+        year_asked: "[July 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શેત્રુંજી નદી પાસે પહોંચીને આંબા પટેલ કેમ મૂંઝાયા?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>મણારથી પાછા ફરતી વખતે રસ્તામાં શેત્રુંજી નદી આવતી હતી. ભારે વરસાદને કારણે <b>શેત્રુંજી નદીમાં ઘોડાપૂર (ભયંકર પૂર) આવ્યું હતું.</b> નદીના બંને કાંઠે પાણી છલકાઈ રહ્યા હતા. આટલા ગાંડાતૂર પ્રવાહને કેવી રીતે પાર કરવો, તે વિચારીને આંબા પટેલ મૂંઝાયા.<br><br></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 13,
+        marks: 1,
+        year_asked: "[MCQ - Target 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આંબા પટેલે કઈ નદીમાં ઘોડી ઉતારી? <br>(A) નર્મદા (B) મહીસાગર (C) શેત્રુંજી (D) સાબરમતી</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(C) શેત્રુંજી</b><br><br></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 14,
+        marks: 2,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શેત્રુંજીમાં પૂર જોઈને આંબા પટેલે ઢેલ ઘોડીને શું કહ્યું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પૂર જોઈને આંબા પટેલે ઢેલને પ્રેમથી પંપાળીને કહ્યું: <b>"બાપ ઢેલ! આજે જો તું મને સાથ નહિ આપે તો મારી આબરૂ જશે અને ઘેર તારી મા (મારી પત્ની) મારી ચિંતામાં જીવ કાઢી નાખશે. આજની રાત તું મને પાર ઉતારી દે."</b><br><br></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 15,
+        marks: 1,
+        year_asked: "[Knowledge Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આંબા પટેલ ઘોડી પરથી પાણીમાં કેવી રીતે પડી ગયા?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>શેત્રુંજીના ભયંકર ધસમસતા પ્રવાહમાં <b>પાણીના એક મોટા મોજા (ઉછાળા) એ</b> આંબા પટેલને ઘોડી પરથી પછાડી દીધા અને તેઓ પાણીમાં તણાવા લાગ્યા.<br><br></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 16,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નદીમાંથી હેમખેમ બહાર નીકળી ગયેલી ઢેલ ઘોડી કેમ પાછી ફરી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ઢેલ ઘોડી તરીને સામા કાંઠે સુરક્ષિત પહોંચી ગઈ હતી. પરંતુ <b>જ્યારે તેણે પાછળ ફરીને જોયું તો તેનો માલિક (આંબા પટેલ) તેની પીઠ પર ન હતો.</b> પોતાના માલિકને પાણીમાં ડૂબતા અને વલખાં મારતા જોઈને વફાદાર ઘોડીથી રહેવાયું નહિ, અને તેણે માલિકનો જીવ બચાવવા ફરીથી પૂરના પાણીમાં કૂદકો માર્યો.<br><br></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 17,
+        marks: 1,
+        year_asked: "[Objective MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ઢેલ ઘોડીએ આંબા પટેલને બચાવવા માટે તેમને શું પકડાવ્યું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ઢેલ ઘોડીએ આંબા પટેલને <b>પોતાની પૂંછડી</b> પકડાવી દીધી.<br><br></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 18,
+        marks: 2,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નીચેના તળપદા શબ્દોના શિષ્ટ રૂપ આપો: ખાબકવું, ઓહાણ, બોકાસાં</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>ખાબકવું</b> = કૂદી પડવું / પડવું<br>૨. <b>ઓહાણ</b> = યાદ / ખ્યાલ<br>૩. <b>બોકાસાં</b> = મોટેથી રાડ પાડવી / બૂમો<br><br></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 19,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સાચી જોડણી ઓળખાવો: સ્વામિભક્તિ / સ્વામીભક્તિ, શેત્રુંજી / સેત્રુંજી</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સાચી જોડણી: <b>સ્વામીભક્તિ</b> અને <b>શેત્રુંજી</b><br><br></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 20,
+        marks: 2,
+        year_asked: "[Expected 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>બચી ગયા પછી આંબા પટેલે ઢેલ ઘોડી પ્રત્યે કેવો પ્રેમ વ્યક્ત કર્યો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જીવ બચી ગયા પછી આંબા પટેલ ગળગળા થઈ ગયા. તેમણે ઘોડીને ભેટી પડીને કહ્યું, <b>"બાપ ઢેલ! આજે તેં મારો જીવ બચાવ્યો છે. આજથી તું મારી ઘોડી નહિ, પણ મારી દીકરી છે."</b> તેમણે ઘોડીને પોતાની સગી દીકરી સમાન દરજ્જો આપ્યો.<br><br></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 21,
+        marks: 3,
+        year_asked: "[March 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આંબા પટેલે ઢેલને કેવી રીતે ઉછેરી હતી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આંબા પટેલ અશ્વપ્રેમી હતા. તેમણે ઢેલ ઘોડીને એક <b>પોતાના સંતાન (દીકરી) ની જેમ અત્યંત લાડકોડથી ઉછેરી હતી.</b> તેને સારામાં સારો ચારો ખવડાવતા, તેને રોજ પ્રેમથી પંપાળતા અને તેને ક્યારેય મારતા કે ખીજાતા નહિ. તેમની આ વર્ષોની માવજત અને પ્રેમનો જ આ બદલો હતો કે ઘોડીએ પોતાનો જીવ જોખમમાં મૂકીને તેમને બચાવ્યા.<br><br></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 22,
+        marks: 1,
+        year_asked: "[MCQ - N. J. Classes Mock]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આંબા પટેલનું પાત્ર શેનું પ્રતીક છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આંબા પટેલનું પાત્ર <b>અશ્વપ્રેમ (પશુપ્રેમ), વચનપાલન અને વીરતાનું</b> ઉત્તમ પ્રતીક છે.<br><br></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 23,
+        marks: 3,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આંબા પટેલનું પાત્રાલેખન ટૂંકમાં કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વાવડી ગામના આંબા પટેલ સાચા કાઠિયાવાડી માણસ છે.<br>તેમને ઘોડાઓનો અનહદ શોખ છે. તેઓ પશુઓને માત્ર વાહન નહિ, પણ પરિવારના સભ્ય માને છે. વચનપાલક તરીકે તેઓ પત્નીને આપેલા વચન ખાતર ધોધમાર વરસાદમાં પણ ઘરે પાછા ફરવાનું સાહસ કરે છે. જ્યારે તેઓ ડૂબી રહ્યા હતા ત્યારે તેઓ પોતાની જાતને નહિ, પણ પોતાની પત્ની અને બાળકોનો જ વિચાર કરતા હતા. તેમનો ઘોડી પ્રત્યેનો પ્રેમ જ તેમને નવજીવન આપે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 24,
+        marks: 4,
+        year_asked: "[Most IMP Long Question 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ઘોડીની સ્વામીભક્તિ' પાઠના આધારે ઢેલ ઘોડીની વફાદારી અને તેનો બચાવ પ્રસંગ સવિસ્તાર વર્ણવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જોરાવરસિંહ જાદવની આ લોકકથામાં પ્રાણીની પોતાના માલિક પ્રત્યેની અદભુત વફાદારી (સ્વામીભક્તિ) વર્ણવવામાં આવી છે.<br><br>૧. <b>શેત્રુંજીમાં પ્રવેશ:</b> મણારથી પાછા ફરતી વખતે આંબા પટેલ શેત્રુંજી નદીના ઘોડાપૂરમાં ફસાયા. તેમણે ઢેલને વિનંતી કરી અને વફાદાર ઘોડીએ પોતાના માલિકના આદેશથી જીવના જોખમે પાણીમાં ઝંપલાવ્યું.<br>૨. <b>માલિકનો વિખૂટા પડવું:</b> પ્રવાહ એટલો ભયંકર હતો કે એક મોટા મોજાએ આંબા પટેલને ઘોડી પરથી પછાડી દીધા. ઢેલ ઘોડી તરીને સુરક્ષિત કાંઠે પહોંચી ગઈ, પણ તેણે જોયું કે પીઠ પર માલિક નથી.<br>૩. <b>સ્વામીભક્તિ:</b> પોતાનો માલિક પાણીમાં ડૂબી રહ્યો છે તે જોઈને ઘોડી પોતાના જીવની પરવા કર્યા વગર ફરીથી ધસમસતા પ્રવાહમાં કૂદી પડી. તે માલિક પાસે ગઈ, પોતાની પૂંછડી તેમને પકડાવી અને ખેંચીને તેમને સુરક્ષિત બહાર લઈ આવી.<br><br>આમ, એક મૂંગા પ્રાણીએ પોતાના ઉછેર અને પ્રેમનું ઋણ પોતાનો જીવ દાવ પર લગાવીને ચૂકવ્યું. આ અદભુત ઘટના ઢેલ ઘોડીની અતૂટ સ્વામીભક્તિ સાબિત કરે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: આ 4 માર્ક્સના પ્રશ્ન માટે બસ એક સિક્વન્સ યાદ રાખો: નદીમાં કૂદ્યા -> માલિક પડી ગયા -> ઘોડી બહાર પહોંચી ગઈ -> માલિકને જોયા વગર પાછી કૂદી -> પૂંછડી પકડાવીને બચાવ્યા. પ્રાણીની વફાદારી માણસ કરતા પણ મહાન છે!</div></div>"
+    },
+
+    {
+        chapter: 24,
+        q_no: 25,
+        marks: 4,
+        year_asked: "[Central Idea / Value Based Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ઘોડીની સ્વામીભક્તિ' પાઠનો કેન્દ્રીય વિચાર (Central Idea) તમારા શબ્દોમાં સ્પષ્ટ કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ લોકકથાનો મુખ્ય કેન્દ્રીય વિચાર <b>પશુ અને માનવી વચ્ચેના અતૂટ પ્રેમ, ઋણસ્વીકાર અને વફાદારીનો સંદેશ આપવાનો છે.</b><br><br>આપણે સામાન્ય રીતે પશુઓને માત્ર આપણા ઉપયોગની વસ્તુ માનીએ છીએ. પરંતુ આ પાઠ સાબિત કરે છે કે મૂંગા પ્રાણીઓ પણ પ્રેમ અને લાગણીને ખૂબ સારી રીતે સમજે છે. જો માણસ પશુઓ પ્રત્યે દયા અને પ્રેમ રાખે (જેમ આંબા પટેલે ઢેલને દીકરીની જેમ ઉછેરી), તો પ્રાણીઓ પણ સમય આવ્યે પોતાનો જીવ આપીને માલિકને બચાવી શકે છે.<br>ઢેલ ઘોડી સુરક્ષિત કાંઠે પહોંચી ગઈ હોવા છતાં, પોતાના માલિકને બચાવવા માટે તે ફરીથી પૂરના પાણીમાં કૂદી પડે છે. આ ઘટના માનવીને શીખવે છે કે સ્વાર્થવિહોણો પ્રેમ અને વફાદારી શું છે.<br><br></div>"
+    }
+
 ];
 
