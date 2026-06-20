@@ -2645,5 +2645,226 @@ var Std10_Gujarati_imp = [
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ચોપડાની ઇન્દ્રજાળ' પાઠનો કેન્દ્રીય વિચાર (Central Idea) તમારા શબ્દોમાં સ્પષ્ટ કરો.</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'ચોપડાની ઇન્દ્રજાળ' આત્મકથાખંડનો મુખ્ય ઉદ્દેશ્ય <b>ગરીબ અને અજ્ઞાન લોકો પર થતા આર્થિક શોષણને ઉજાગર કરવાનો છે.</b><br><br>લેખક સમજાવે છે કે જૂના સમયમાં સાહુકારો રાતો ચોપડો રાખતા હતા. આ ચોપડામાં તેઓ 17 પંચા 95 જેવો ખોટો હિસાબ લખીને અને ચક્રવૃદ્ધિ વ્યાજ લગાડીને ગરીબ ખેડૂતોને કાયમ માટે દેવાદાર બનાવી દેતા હતા. આ ચોપડો કોઈ હિસાબની બુક ન હતી, પણ ગરીબોને ફસાવવાની એક માયાજાળ (ઇન્દ્રજાળ) હતી.<br>સાથે જ, આ પાઠ જીવલા જેવા આદિવાસીઓની અદભુત પ્રામાણિકતા દર્શાવે છે, જેઓ પોતાનું સર્વસ્વ લૂંટાઈ ગયા પછી પણ સાહુકારનું ખરાબ ઈચ્છતા નથી. અંતમાં લેખક દ્વારા ચોપડો ફાડી નાખવાનો પ્રસંગ દર્શાવે છે કે <b>જો સમાજના શિક્ષિત વર્ગમાં માનવતા જાગે, તો જ ગરીબોનું શોષણ અટકાવી શકાશે.</b><br><br></div>"
     },
+        var Std10_Gujarati_imp_Ch13 = [
+
+    // પ્રકરણ 13: વતનથી વિદાય થતાં (જયંત પાઠક) - N. J. Classes (Target 2026)
+
+    {
+        chapter: 13,
+        q_no: 1,
+        marks: 1,
+        year_asked: "[March 2022, 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'વતનથી વિદાય થતાં' કાવ્યના કવિનું નામ અને તેનો સાહિત્ય પ્રકાર જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિનું નામ <b>જયંત પાઠક</b> છે અને આ કાવ્યનો સાહિત્ય પ્રકાર <b>સોનેટ</b> છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: વતનથી 'વિદાય' લઈએ ત્યારે વતનનો 'પથ' (રસ્તો = પાઠક) હંમેશા યાદ આવે. અને વિદાયનું દુઃખ 14 લીટીમાં કવિતા બનીને બહાર આવે, એટલે 'સોનેટ'!</div></div>"
+    },
+
+    {
+        chapter: 13,
+        q_no: 2,
+        marks: 1,
+        year_asked: "[August 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આ કાવ્ય કવિના કયા કાવ્યસંગ્રહમાંથી લેવામાં આવ્યું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ કાવ્ય કવિ જયંત પાઠકના <b>'અંતરીક્ષ'</b> નામના કાવ્યસંગ્રહમાંથી લેવામાં આવ્યું છે.<br><br></div>"
+    },
+
+    {
+        chapter: 13,
+        q_no: 3,
+        marks: 1,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ શા માટે વ્યથિત (દુઃખી) છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ વર્ષો પછી પોતાના વતનમાં આવ્યા હતા, અને હવે <b>ફરીથી વતન છોડીને શહેર (કર્મભૂમિ) તરફ પાછા જઈ રહ્યા હોવાથી</b> તેઓ અત્યંત દુઃખી છે.<br><br></div>"
+    },
+
+    {
+        chapter: 13,
+        q_no: 4,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ વતન છોડતી વખતે કોને-કોને પાછળ મૂકીને જઈ રહ્યા છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ વતનથી વિદાય લેતી વખતે વતનના <b>વન, જન (લોકો), ડુંગર, નદી, કોતરો, ખેતરો અને પોતાના બંધ પડેલા ઘરને</b> પાછળ મૂકીને જઈ રહ્યા છે.<br><br></div>"
+    },
+
+    {
+        chapter: 13,
+        q_no: 5,
+        marks: 1,
+        year_asked: "[Board MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વતનની હદ પૂરી થતાં કોણ પાછું ફરી જાય છે? <br>(A) મિત્ર (B) ભાઈ (C) કૂતરો (D) નદી</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(C) કૂતરો</b><br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: કૂતરાને પણ પોતાના વિસ્તાર (હદ) ની ખબર હોય છે. વતનની હદ પૂરી થાય એટલે કૂતરો કવિને સાથ આપવાનું છોડીને પાછો વળી જાય છે.</div></div>"
+    },
+
+    {
+        chapter: 13,
+        q_no: 6,
+        marks: 1,
+        year_asked: "[Mock Test N. J. Classes]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિની આંખો વારંવાર કોને જોયા કરે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિની આંખો પાછળ વળી-વળીને <b>પોતાના બંધ પડેલા જૂના ઘરને</b> જોયા કરે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 13,
+        q_no: 7,
+        marks: 1,
+        year_asked: "[Grammar Section]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સમાનાર્થી શબ્દો આપો: કોતર, આઘે, ભ્રમણા</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>કોતર</b> = જમીનમાં પડેલો ઊંડો ખાડો કે ભેખડ<br>૨. <b>આઘે</b> = દૂર<br>૩. <b>ભ્રમણા</b> = ભ્રમ / વહેમ / આભાસ<br><br></div>"
+    },
+
+    {
+        chapter: 13,
+        q_no: 8,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિરુદ્ધાર્થી શબ્દો લખો: વિદાય, આઘે, શિશુ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>વિદાય</b> x આગમન / સ્વાગત<br>૨. <b>આઘે</b> x નજીક / પાસે<br>૩. <b>શિશુ</b> x વૃદ્ધ / મોટું<br><br></div>"
+    },
+
+    {
+        chapter: 13,
+        q_no: 9,
+        marks: 2,
+        year_asked: "[March 2025 Expected]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રૂઢિપ્રયોગનો અર્થ આપી વાક્ય બનાવો: 'કેડી આગળ જવી' અને 'પગ જડાઈ જવા'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>કેડી આગળ જવી</b> = રસ્તો આગળ વધવો (જીવનનો માર્ગ આગળ વધવો).<br><i>વાક્ય:</i> વતન છૂટતું હતું, પણ ભવિષ્યની કેડી આગળ જઈ રહી હતી.<br>૨. <b>પગ જડાઈ જવા</b> = દુઃખ કે આઘાતથી આગળ ચાલી ન શકવું.<br><i>વાક્ય:</i> વતન છોડતી વખતે કવિના પગ જાણે રસ્તા પર જડાઈ ગયા હતા.<br><br></div>"
+    },
+
+    {
+        chapter: 13,
+        q_no: 10,
+        marks: 1,
+        year_asked: "[Vocabulary Quiz]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શબ્દસમૂહ માટે એક શબ્દ આપો: 'પગથી ચાલવાનો સાંકડો રસ્તો' અને 'જ્યાં જવાનું છે તે સ્થળ'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. પગથી ચાલવાનો સાંકડો રસ્તો = <b>કેડી</b><br>૨. જ્યાં જવાનું છે તે સ્થળ = <b>મંઝિલ / ગંતવ્ય</b><br><br></div>"
+    },
+
+    {
+        chapter: 13,
+        q_no: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ઉપરવાસ' અને 'કાળના વહેણ' શબ્દપ્રયોગ દ્વારા કવિ શું સૂચવે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'કાળના વહેણ' એટલે <b>વીતી ગયેલો સમય</b> અને 'ઉપરવાસ' એટલે <b>નદીના વહેણની વિરુદ્ધ દિશા (ભૂતકાળ)</b>.<br>કવિ સમજાવે છે કે જેમ નદીના વહેણમાં પાછું (ઊંધી દિશામાં) વહી શકાતું નથી, તેમ સમય વીતી ગયા પછી ભૂતકાળમાં (વતનમાં વિતાવેલા બાળપણમાં) પાછું ફરી શકાતું નથી. સમય હંમેશા આગળ જ વધે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 13,
+        q_no: 12,
+        marks: 2,
+        year_asked: "[July 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિને કયો ભ્રમ (આભાસ) થાય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જ્યારે કવિ વતન છોડીને દૂર જઈ રહ્યા હોય છે, ત્યારે તેમને આઘે ખેતરમાં એક ભ્રમણા થાય છે કે <b>કોઈ બે હાથ ઊંચા કરીને તેમને રોકી રહ્યું છે.</b> તેમને એવો આભાસ થાય છે કે જાણે કોઈ <b>રિસાયેલા બાળકને તેની માતા પાછું બોલાવતી હોય!</b><br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળક રિસાઈને ઘરની બહાર જાય એટલે મા તેને બે હાથ ઊંચા કરી બોલાવે કે 'પાછો આવી જા બેટા'. અહીં કવિને પણ એવું જ લાગે છે કે વતન રૂપી માતા તેમને પાછા બોલાવી રહી છે.</div></div>"
+    },
+
+    {
+        chapter: 13,
+        q_no: 13,
+        marks: 1,
+        year_asked: "[MCQ - Target 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'સોનેટ' સાહિત્ય પ્રકારમાં કેટલી પંક્તિઓ હોય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સોનેટમાં હંમેશા <b>૧૪ પંક્તિઓ</b> હોય છે.<br><br></div>"
+    },
+
+    {
+        chapter: 13,
+        q_no: 14,
+        marks: 2,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ પોતાના મનને (જીવને) કેવી રીતે સમજાવે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વતનની માયા છોડવી અઘરી છે, છતાં કવિ પોતાના જીવને આશ્વાસન આપતા કહે છે કે, <b>"ચાલ જીવ, હવે આગળ જવાનું છે."</b> વીતેલો સમય ક્યારેય પાછો આવવાનો નથી. વતનની યાદોનો ભાર મનમાં ભરીને પણ આપણે આગળ જ વધવું પડશે, ભૂતકાળમાં પાછા જવાશે નહિ.<br><br></div>"
+    },
+
+    {
+        chapter: 13,
+        q_no: 15,
+        marks: 1,
+        year_asked: "[Knowledge Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આ કાવ્ય કયા છંદમાં રચાયું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ સોનેટ <b>શિખરિણી છંદ (17 અક્ષર)</b> માં રચાયું છે.<br><br></div>"
+    },
+
+    {
+        chapter: 13,
+        q_no: 16,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ શ્વાસમાં શું ભરી લેવા માંગે છે? શા માટે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ પોતાના શ્વાસમાં <b>વતનની હવા, ધૂળ અને ત્યાંના વનની સુગંધ</b> ભરી લેવા માંગે છે. <br>કારણ કે તેઓ હવે શહેરમાં પાછા જઈ રહ્યા છે, જ્યાં આ વતનનો સ્પર્શ અને આ પવિત્ર હવા તેમને ફરીથી મળવાની નથી. એટલે તેઓ વતનની સ્મૃતિઓને શ્વાસમાં ભરી લેવા માંગે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 13,
+        q_no: 17,
+        marks: 1,
+        year_asked: "[Objective MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'આંખો બે રહી ભાળતી' માં 'ભાળતી' એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'ભાળતી' એટલે <b>જોતી (નજર કરતી)</b>.<br><br></div>"
+    },
+
+    {
+        chapter: 13,
+        q_no: 18,
+        marks: 2,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિના પગ આગળ કેમ ઉપડતા નથી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિના હૃદયમાં વતન પ્રત્યેનો અખૂટ પ્રેમ અને અતૂટ લગાવ છે. વતનના વૃક્ષો, નદી, ખેતરો અને પોતાનું જૂનું ઘર છોડીને જવાની <b>તીવ્ર વેદનાને કારણે તેમના પગ જાણે જમીન સાથે જડાઈ ગયા છે.</b> મન પાછળ ખેંચે છે, એટલે પગ આગળ ઉપડતા નથી.<br><br></div>"
+    },
+
+    {
+        chapter: 13,
+        q_no: 19,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સાચી જોડણી ઓળખાવો: અન્તરીક્ષ / અંતરીક્ષ, ભ્રમણા / ભ્રમનાં</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સાચી જોડણી: <b>અંતરીક્ષ</b> અને <b>ભ્રમણા</b><br><br></div>"
+    },
+
+    {
+        chapter: 13,
+        q_no: 20,
+        marks: 2,
+        year_asked: "[Expected 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'વેળા થઈ ગઈ' કહીને કવિ શું દર્શાવવા માંગે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'વેળા થઈ ગઈ' એટલે કે <b>વિદાય લેવાનો સમય થઈ ગયો છે.</b> રજાઓ પૂરી થઈ ગઈ છે અને હવે ફરજિયાતપણે વતનની માયા છોડીને કર્મભૂમિ (શહેર) તરફ જવા નીકળવાનો સમય આવી ગયો છે તેવી મજબૂરી કવિ આ પંક્તિ દ્વારા દર્શાવે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 13,
+        q_no: 21,
+        marks: 3,
+        year_asked: "[March 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ પોતાની મનોસ્થિતિની સરખામણી કોની સાથે કરે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ પોતાની ભારેખમ મનોસ્થિતિની સરખામણી <b>ખેતરમાં બળદ ખેંચતા ખેડૂતની દશા</b> સાથે કરે છે. જેમ થાકેલા બળદને ભારે હૈયે જોતરીને ખેડૂત ખેતર ખેડે છે, તેમ કવિ પોતાના શરીર રૂપી થાકેલા ઢોરને (મનને) જોતરીને, વતનની યાદોનો ભાર માથે ઊંચકીને પરાણે આગળ વધી રહ્યા છે.<br><br></div>"
+    },
+
+    {
+        chapter: 13,
+        q_no: 22,
+        marks: 1,
+        year_asked: "[MCQ - N. J. Classes Mock]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'શિશુ' એટલે કોણ?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>શિશુ એટલે <b>નાનું બાળક</b> (અહીં કવિ પોતાની જાતને માતા સામે રિસાયેલા બાળક તરીકે કલ્પે છે).<br><br></div>"
+    },
+
+    {
+        chapter: 13,
+        q_no: 23,
+        marks: 3,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વતન છૂટતી વખતે કવિનો વસવસો (અફસોસ) કેવી રીતે પ્રગટ થાય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિને વતન છોડવું જરાય ગમતું નથી. તેમનો અફસોસ એ છે કે જે વતનમાં તેઓ રમ્યા, મોટા થયા, જે નદી અને ડુંગરોનો સાથ મળ્યો, તે બધું હવે પાછળ છૂટી રહ્યું છે. તેઓ વારંવાર પાછું વળીને બંધ ઘરને જુએ છે. પગ આગળ ચાલતા નથી. તેઓ પોતાના જીવને માંડ-માંડ મનાવે છે કે હવે ભૂતકાળમાં પાછું ફરી શકાશે નહિ. આ મજબૂરી જ તેમનો સૌથી મોટો વસવસો છે.<br><br></div>"
+    },
+
+    {
+        chapter: 13,
+        q_no: 24,
+        marks: 4,
+        year_asked: "[Most IMP Long Question 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'વતનથી વિદાય થતાં' કાવ્યમાં આલેખાયેલી કવિની વતનપ્રેમની વેદના તમારા શબ્દોમાં વર્ણવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જયંત પાઠકના આ સોનેટમાં વતન છોડવાની અત્યંત કરુણ અને હૃદયસ્પર્શી વેદના આલેખાઈ છે.<br><br>૧. <b>છૂટતો સાથ:</b> રજાઓ પૂરી થતા કવિ પોતાના વતનના ડુંગર, નદી, વન અને લોકોને છોડીને જઈ રહ્યા છે. તેમનું હૃદય ભારે છે અને આંખો વારંવાર પોતાના બંધ પડેલા જૂના ઘર તરફ ખેંચાય છે.<br>૨. <b>મજબૂરી અને મનોમંથન:</b> કવિના પગ જાણે રસ્તા પર જડાઈ ગયા છે. તેઓ પોતાના મનને આશ્વાસન આપે છે કે "ચાલ જીવ, વીતેલા સમય રૂપી નદીના વહેણમાં આપણે પાછા જઈ શકીશું નહિ. એટલે વતનની યાદોનો ભાર માથે ઊંચકીને પણ આગળ તો વધવું જ પડશે."<br>૩. <b>માતાનો આભાસ:</b> વતનની હદ પૂરી થાય છે ત્યારે કૂતરો પણ પાછો ફરી જાય છે. આ સમયે દૂર ખેતરમાં કવિને એવો આભાસ થાય છે કે જાણે કોઈ રિસાયેલા બાળકને તેની માતા બે હાથ ઊંચા કરીને પાછો બોલાવી રહી હોય! આ ભ્રમણા તેમની વતન પ્રત્યેની અતૂટ માયા દર્શાવે છે.<br><br>આમ, કાવ્યમાં વતન પ્રત્યેનો સાચો પ્રેમ અને ત્યાંથી છૂટા પડવાનું ભારે દુઃખ (વેદના) સચોટ રીતે વર્ણવાયું છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: આ 4 માર્ક્સના પ્રશ્ન માટે 3 દૃશ્યો યાદ રાખો: 1. પાછળ જોતી આંખો (બંધ ઘર માટે), 2. જડાઈ ગયેલા પગ (મજબૂરી), 3. બે હાથ ઊંચી કરતી મા (ભ્રમણા). આ 3 વસ્તુ સમજાવી દો એટલે જવાબ 100% પૂરો!</div></div>"
+    },
+
+
 ];
 
