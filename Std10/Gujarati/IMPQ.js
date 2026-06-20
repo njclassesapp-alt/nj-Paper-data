@@ -3312,6 +3312,232 @@ var Std10_Gujarati_imp = [
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>રાજેન્દ્ર શાહનું આ ગીત મનુષ્યને સ્વમાન અને આત્મનિર્ભરતાનો મોટો પાઠ ભણાવે છે.<br><br>૧. <b>મૌનનું મહત્ત્વ:</b> કવિ કહે છે કે આપણા હૃદયમાં ગમે તેટલી વેદના હોય, પણ આપણે હોઠ સીવી લેવા જોઈએ અને કોઈની સામે હૃદય ખોલવું જોઈએ નહિ.<br>૨. <b>સમાજની સ્વાર્થી વૃત્તિ:</b> લોકો પાસે આપણું દુઃખ સાંભળવાનો સમય નથી. તેઓ સાંભળે તો પણ માત્ર કૌતુક (મજા) ખાતર સાંભળે છે. કોઈ આપણો જીવનનો ભાર ઊંચકવા આવતું નથી.<br>૩. <b>એકલતા અને સંઘર્ષ:</b> આ સંસાર ભલે બહારથી ભરેલો લાગતો હોય, પણ અંદરથી તો તે વિરાણ અને નિર્જન કૂવા જેવો છે. આપણા જીવનના માર્ગમાં નદી આવે કે ઢાળ આવે (સુખ આવે કે દુઃખ), આપણે આપણો રસ્તો એકલા જ કાપવાનો છે.<br><br><b>નિષ્કર્ષ:</b> કવિ કહે છે કે આપણે આપણા આંસુઓને અંતરમાં છુપાવીને, દુનિયાની સામે હસતા મોઢે ગીત ગાતા રહેવું જોઈએ. પોતાનું દુઃખ જાતે જ સહન કરવું એ જ સાચી ખુમારી છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: આખી કવિતાનો સાર એક જ લાઈનમાં - "કોઈને તમારું દુઃખ કહેશો નહિ, જાતે સહન કરો, મસ્ત રહો અને હસતા રહો." પરીક્ષામાં આ મુદ્દાઓને 3 ફકરામાં સમજાવી દેશો એટલે પૂરા 4 માર્ક્સ!</div></div>"
     },
 
+    // પ્રકરણ 16: ગતિભંગ (મોહનલાલ બા. પટેલ) - N. J. Classes (Target 2026)
+
+    {
+        chapter: 16,
+        q_no: 1,
+        marks: 1,
+        year_asked: "[March 2022, 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ગતિભંગ' પાઠના લેખકનું નામ અને તેનો સાહિત્ય પ્રકાર જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખકનું નામ <b>મોહનલાલ બા. પટેલ</b> છે અને આ પાઠનો સાહિત્ય પ્રકાર <b>લઘુકથા (ટૂંકી વાર્તા)</b> છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મોહન' (કૃષ્ણ) ની વાંસળી સાંભળીને ગોપીઓની 'ગતિ' નો ભંગ થતો! આ રીતે લેખક મોહનલાલ અને પાઠ ગતિભંગ યાદ રાખી લો. અને આ બહુ જ નાની વાર્તા છે, એટલે 'લઘુકથા'.</div></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 2,
+        marks: 1,
+        year_asked: "[August 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આ લઘુકથા લેખકના કયા વાર્તાસંગ્રહમાંથી લેવામાં આવી છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ લઘુકથા મોહનલાલ પટેલના <b>'વિકલ્પ'</b> નામના વાર્તાસંગ્રહમાંથી લેવામાં આવી છે.<br><br></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 3,
+        marks: 1,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ડુંગર અને તેની પત્ની કયા સ્ટેશને જવા માટે ઉતાવળા ચાલી રહ્યા હતા?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>તેઓ ગાડી (ટ્રેન) પકડવા માટે <b>રાજપુર સ્ટેશને</b> જવા ઉતાવળા ચાલી રહ્યા હતા.<br><br></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 4,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ડુંગરની પત્ની અચાનક ચાલતા ચાલતા કેમ ઊભી રહી ગઈ?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ડુંગરની પત્નીએ રસ્તાની ધૂળમાં <b>નાના બાળકની પગલીઓ (પગલાંની છાપ)</b> જોઈ. આ પગલાં જોઈને તેને પોતાની મૃત પુત્રી <b>બબલી</b> ની યાદ આવી ગઈ, તેથી તે લાગણીવશ થઈને અચાનક ઊભી રહી ગઈ.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: માતાનું દિલ છે! ધૂળમાં પારકા બાળકના પગલાં જોયા, પણ તેમાં તેને પોતાની દીકરી 'બબલી' જ દેખાઈ. આ જ માતૃપ્રેમ છે.</div></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 5,
+        marks: 1,
+        year_asked: "[Board MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પગલીઓ જોઈને ડુંગરની પત્નીને કોની યાદ આવી? <br>(A) દીકરાની (B) ડુંગરની (C) બબલીની (D) માતાની</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(C) બબલીની</b> (તેમની નાની દીકરી જે હવે આ દુનિયામાં નથી).<br><br></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 6,
+        marks: 1,
+        year_asked: "[Mock Test N. J. Classes]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ડુંગર કેમ ગુસ્સે થઈ રહ્યો હતો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કારણ કે પત્ની વારંવાર રસ્તામાં ઊભી રહી જતી હતી અને જો તેઓ ધીમે ચાલશે તો <b>સ્ટેશને પહોંચતા ગાડી (ટ્રેન) ચૂકી જવાશે</b>, તેવા ડરથી ડુંગર ગુસ્સે થતો હતો.<br><br></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 7,
+        marks: 1,
+        year_asked: "[Grammar Section]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સમાનાર્થી શબ્દો આપો: સ્મૃતિ, પગેરું, ગતિ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>સ્મૃતિ</b> = યાદ / સ્મરણ<br>૨. <b>પગેરું</b> = પગલાંની છાપ / પગલી<br>૩. <b>ગતિ</b> = ઝડપ / ચાલ<br><br></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 8,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિરુદ્ધાર્થી શબ્દો લખો: નજીક, ઉતાવળ, સાંજ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>નજીક</b> x દૂર / આઘે<br>૨. <b>ઉતાવળ</b> x ધીરજ / ધીમાશ<br>૩. <b>સાંજ</b> x સવાર<br><br></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 9,
+        marks: 2,
+        year_asked: "[March 2025 Expected]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રૂઢિપ્રયોગનો અર્થ આપી વાક્ય બનાવો: 'ગતિભંગ થવો' અને 'પગ જડાઈ જવા'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>ગતિભંગ થવો</b> = ચાલવાની ઝડપ તૂટી જવી અથવા રોકાઈ જવું.<br><i>વાક્ય:</i> અચાનક જૂની યાદો આવતા ડુંગરની પત્નીનો ગતિભંગ થયો.<br>૨. <b>પગ જડાઈ જવા</b> = આઘાત કે દુઃખથી આગળ ચાલી ન શકવું.<br><i>વાક્ય:</i> દીકરીના પગલાં જોઈને માતાના પગ જમીન સાથે જડાઈ ગયા.<br><br></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 10,
+        marks: 1,
+        year_asked: "[Vocabulary Quiz]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શબ્દસમૂહ માટે એક શબ્દ આપો: 'નાના બાળકના પગની છાપ'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>પગલી / પગેરું</b><br><br></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'આ તો આપણી બબલીની જ પગલી!' આવું પત્ની કેમ બોલી ઊઠે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>રસ્તાની ધૂળમાં પડેલી પગલીઓની આંગળીઓ અને ઘાટ એકદમ <b>તેમની મૃત દીકરી બબલીના પગલાં જેવા જ હતા.</b> બબલીના પગની આંગળીઓ પણ આવી જ છૂટી છૂટી રહેતી હતી. તેથી દીકરીની યાદમાં પત્ની બોલી ઊઠે છે કે આ તો મારી બબલીની જ પગલી છે!<br><br></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 12,
+        marks: 2,
+        year_asked: "[July 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ડુંગરે પત્નીને કઈ વાસ્તવિકતા (હકીકત) સમજાવી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ડુંગરે પત્નીને સમજાવ્યું કે, <b>"ગાંડી એવા પગલાં તો ઘણાંયના હોય! લે ચાલ, નહીંતર ગાડી ચૂકી જઈશું."</b> તેણે પત્નીને વાસ્તવિકતામાં લાવવા પ્રયત્ન કર્યો કે બબલી હવે આ દુનિયામાં નથી અને આ પગલાં કોઈ બીજા બાળકના છે.<br><br></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 13,
+        marks: 1,
+        year_asked: "[MCQ - Target 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લઘુકથાના કેન્દ્રમાં કયો ભાવ રહેલો છે? <br>(A) ક્રોધ (B) વાત્સલ્ય (માતૃપ્રેમ) (C) લોભ (D) ભય</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(B) વાત્સલ્ય (માતૃપ્રેમ / સંતાનપ્રેમ)</b><br><br></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 14,
+        marks: 2,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પત્નીની નજર ક્યાં ચોંટી ગઈ હતી અને શું કરતી હતી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પત્નીની નજર ધૂળમાં પડેલી <b>નાની પગલીઓ પર</b> ચોંટી ગઈ હતી. તે રસ્તા પર બેસી ગઈ અને ધૂળ પર પડેલી એ પગલીઓને <b>પોતાના હાથથી પ્રેમપૂર્વક પંપાળવા લાગી (વહાલ કરવા લાગી),</b> જાણે તે પોતાની દીકરીને જ વહાલ કરી રહી હોય.<br><br></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 15,
+        marks: 1,
+        year_asked: "[Knowledge Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આ લઘુકથામાં મુખ્ય પાત્રો કેટલા છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ વાર્તામાં માત્ર <b>બે જ મુખ્ય પાત્રો</b> છે: ડુંગર અને ડુંગરની પત્ની. (બબલી અદૃશ્ય પાત્ર છે).<br><br></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 16,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લઘુકથાના અંતમાં ડુંગરની સ્થિતિ કેવી થઈ જાય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જે ડુંગર શરૂઆતમાં ઉતાવળ કરતો હતો અને પત્ની પર ગુસ્સે થતો હતો, તે પોતે પણ દીકરીની યાદ આવતા લાગણીવશ થઈ જાય છે. <b>અંતમાં ડુંગરનો પોતાનો પણ 'ગતિભંગ' થઈ જાય છે.</b> તે ધીમો પડી જાય છે અને દુઃખ છુપાવવા માટે આકાશ તરફ જોવા લાગે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 17,
+        marks: 1,
+        year_asked: "[Objective MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'મને તો એમ જ લાગે છે કે બબલી જ...' આ વાક્ય કોણ અધૂરું મૂકી દે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ વાક્ય <b>ડુંગરની પત્ની</b> રડતા રડતા અધૂરું મૂકી દે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 18,
+        marks: 2,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગતિભંગ શબ્દનો સાચો અર્થ આ પાઠના સંદર્ભમાં શું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'ગતિ' એટલે ચાલવું અને 'ભંગ' એટલે રોકાઈ જવું. <br>આ પાઠમાં <b>માત્ર શારીરિક ગતિનો ભંગ નથી થતો, પરંતુ મનની સ્મૃતિઓ (યાદો) ને કારણે અચાનક ઊભા રહી જવાની માનસિક સ્થિતિને</b> ગતિભંગ કહે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 19,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સાચી જોડણી ઓળખાવો: સ્ટેશન / સટેશન, ગતીભંગ / ગતિભંગ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સાચી જોડણી: <b>સ્ટેશન</b> અને <b>ગતિભંગ</b><br><br></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 20,
+        marks: 2,
+        year_asked: "[Expected 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>અંતમાં ડુંગર આકાશ તરફ કેમ જોતો રહ્યો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પત્નીની વાત સાંભળીને ડુંગરને પણ દીકરી બબલીની યાદ આવી ગઈ. તેનું હૃદય ભરાઈ આવ્યું. પરંતુ એક પુરુષ તરીકે તે પત્ની સામે રડી નહોતો શકતો. <b>પોતાના આંસુ છુપાવવા અને દીકરીને આકાશમાં શોધવા માટે</b> ડુંગર આકાશ તરફ સ્થિર નજરે જોતો રહ્યો.<br><br></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 21,
+        marks: 3,
+        year_asked: "[March 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ડુંગરની પત્નીની માતૃત્વની વેદના (દુઃખ) વર્ણવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>માતા માટે પોતાનું સંતાન ગુમાવવું એ દુનિયાનું સૌથી મોટું દુઃખ છે. <br>ડુંગરની પત્ની પોતાની દીકરી બબલીના મૃત્યુના આઘાતમાંથી હજુ બહાર આવી નથી. રસ્તા પર કોઈ અજાણ્યા બાળકની પગલીઓ જોઈને પણ તેને પોતાની બબલી જ યાદ આવે છે. તે ગાડી ચૂકી જવાની પરવા કર્યા વગર ધૂળમાં બેસીને તે પગલીઓને પ્રેમથી પંપાળવા લાગે છે. આ દૃશ્ય તેના હૃદયમાં રહેલી માતૃત્વની અત્યંત કરુણ વેદનાને છતી કરે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 22,
+        marks: 1,
+        year_asked: "[MCQ - N. J. Classes Mock]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લઘુકથાના લક્ષણોમાં શું સૌથી મહત્વનું હોય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લઘુકથામાં સૌથી મહત્વનું <b>'લાઘવ' (ટૂંકાણ) અને 'ચોટદાર અંત' (માર્મિક અંત)</b> હોય છે.<br><br></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 23,
+        marks: 3,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વાર્તામાં 'ચાલવાની ઉતાવળ' અને 'ઊભા રહી જવું' આ બંને ક્રિયાઓ શું સૂચવે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ લઘુકથામાં 'ચાલવાની ઉતાવળ' એ <b>જીવનની વાસ્તવિકતા (વ્યવહારિકતા)</b> સૂચવે છે, જેમાં માણસે સતત આગળ વધવું પડે છે અને સમયસર ગાડી પકડવાની છે.<br>જ્યારે 'ઊભા રહી જવું' એ <b>લાગણી અને ભૂતકાળની સ્મૃતિ (માતૃપ્રેમ)</b> સૂચવે છે. જ્યારે માણસ લાગણીશીલ બને છે, ત્યારે તે વ્યવહાર ભૂલી જાય છે અને તેની ભૌતિક ગતિ અટકી જાય છે.<br><br></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 24,
+        marks: 4,
+        year_asked: "[Most IMP Long Question 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ગતિભંગ' લઘુકથાનું શીર્ષક વાર્તાના આધારે યથાર્થ સાબિત કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>મોહનલાલ પટેલની આ લઘુકથાનું શીર્ષક 'ગતિભંગ' અત્યંત યોગ્ય અને માર્મિક છે.<br><br>૧. <b>પત્નીનો ગતિભંગ:</b> વાર્તાની શરૂઆતમાં ડુંગર અને તેની પત્ની ઉતાવળે સ્ટેશને જતા હોય છે. અચાનક પત્ની રસ્તામાં એક પગલી જુએ છે અને બબલીની યાદ આવતા તેની ચાલવાની ગતિ તૂટી જાય છે (ગતિભંગ થાય છે). તે ત્યાં જ બેસી પડે છે.<br>૨. <b>પતિનો (ડુંગરનો) ગતિભંગ:</b> ડુંગર શરૂઆતમાં ગુસ્સે થાય છે અને પત્નીને જલ્દી ચાલવા કહે છે. પણ જ્યારે પત્ની તેને બબલીની યાદ અપાવે છે, ત્યારે અંદરથી કઠણ દેખાતા પિતાનું હૃદય પણ પીગળી જાય છે. અંતમાં ડુંગરના પોતાના પગ પણ જમીન સાથે જડાઈ જાય છે અને તે આકાશ તરફ જોતો ઊભો રહી જાય છે.<br><br>આમ, વાર્તામાં બંને પાત્રોની <b>ભૌતિક ગતિ (ચાલવાની સ્પીડ) નો ભંગ થાય છે અને મનોવૈજ્ઞાનિક રીતે તેઓ ભૂતકાળમાં પહોંચી જાય છે.</b> તેથી 'ગતિભંગ' શીર્ષક એકદમ યથાર્થ છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: શીર્ષક સાબિત કરવા બંનેના બ્રેક મારવાની વાત લખવાની. પહેલા પત્નીએ બ્રેક મારી (પગલી જોઈને), પછી પતિએ બ્રેક મારી (દીકરીની યાદ આવતા). આ 2 પોઇન્ટ લખો એટલે 4 માર્ક્સ પાક્કા!</div></div>"
+    },
+
+    {
+        chapter: 16,
+        q_no: 25,
+        marks: 4,
+        year_asked: "[Central Idea / Value Based Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ગતિભંગ' લઘુકથાનો કેન્દ્રીય વિચાર (Central Idea) તમારા શબ્દોમાં સ્પષ્ટ કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'ગતિભંગ' લઘુકથાનો કેન્દ્રીય વિચાર <b>માતા-પિતાના હૃદયમાં રહેલો સંતાન ગુમાવ્યાનો ક્યારેય ન મટતો આઘાત અને વાત્સલ્ય પ્રેમ દર્શાવવાનો છે.</b><br><br>લેખક ખૂબ જ ઓછા શબ્દોમાં સમજાવે છે કે માનવી ભલે જીવનની દોડધામમાં ગમે તેટલો વ્યસ્ત કે ઉતાવળો હોય, પરંતુ હૃદયના ઊંડાણમાં છુપાયેલી લાગણીઓ ગમે ત્યારે બહાર આવી શકે છે. રસ્તા પર પડેલી એક નાની પગલી, ડુંગર અને તેની પત્નીને વાસ્તવિક દુનિયામાંથી બહાર કાઢીને તેમની મૃત પુત્રી બબલીની યાદોમાં ખેંચી જાય છે.<br>આ લઘુકથા દર્શાવે છે કે <b>સ્મૃતિ (યાદ) ની તાકાત વર્તમાનની ગતિને રોકી શકે છે.</b> પિતા બહારથી કઠોર હોવાનો દેખાવ કરે છે, પણ અંદરથી તે પણ એટલો જ લાગણીશીલ હોય છે, જે વાર્તાના અંતમાં સાબિત થાય છે.<br><br></div>"
+    },
 
 ];
 
