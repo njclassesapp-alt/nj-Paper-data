@@ -3092,5 +3092,226 @@ var Std10_Gujarati_imp = [
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'જન્મોત્સવ' શીર્ષક અત્યંત કટાક્ષપૂર્ણ અને યોગ્ય છે.<br><br>પાઠમાં 'જન્મોત્સવ' શબ્દ બે અર્થમાં વપરાયો છે. એક તરફ ભગવાન શ્રીકૃષ્ણનો જન્મોત્સવ છે, જેની રાહ લોકો ધામધૂમથી જોઈ રહ્યા છે. આ માત્ર આભાસી અને દેખાડા પૂરતો ઉત્સવ છે. બીજી તરફ માણેકની કૂખે કિશનનો વાસ્તવિક જન્મ થાય છે. સાચા અર્થમાં બાળકના જન્મ સમયે ખુશી (ઉત્સવ) હોવી જોઈએ, પરંતુ ગરીબીને કારણે આ જન્મ ઉત્સવ ન રહેતા એક 'અભિશાપ' બની જાય છે.<br>લેખકે આ શીર્ષક દ્વારા સમાજની વરવી વાસ્તવિકતા પર કટાક્ષ કર્યો છે કે <b>આપણે પથ્થર કે મૂર્તિના જન્મની તો ઉજવણી કરીએ છીએ, પણ જીવતા જાગતા બાળકના જન્મ સમયે તેને અપંગ બનાવી દઈએ છીએ.</b> આમ, આ શીર્ષક એકદમ યથાર્થ અને માર્મિક છે.<br><br></div>"
     },
 
+        var Std10_Gujarati_imp_Ch15 = [
+
+    // પ્રકરણ 15: બોલીએ ના કાંઈ (રાજેન્દ્ર શાહ) - N. J. Classes (Target 2026)
+
+    {
+        chapter: 15,
+        q_no: 1,
+        marks: 1,
+        year_asked: "[March 2022, 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'બોલીએ ના કાંઈ' કાવ્યના કવિનું નામ અને તેનો સાહિત્ય પ્રકાર જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિનું નામ <b>રાજેન્દ્ર શાહ</b> છે અને આ કાવ્યનો સાહિત્ય પ્રકાર <b>ગીત</b> છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રાજા' (રાજેન્દ્ર) જ્યારે દુઃખી હોય ત્યારે એ કોઈની સામે 'બોલે ના કાંઈ', બસ મનમાં ને મનમાં 'ગીત' ગાય! આ રીતે કવિ અને પ્રકાર બંને યાદ રહી જશે.</div></div>"
+    },
+
+    {
+        chapter: 15,
+        q_no: 2,
+        marks: 1,
+        year_asked: "[August 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આ ગીત કવિના કયા કાવ્યસંગ્રહમાંથી લેવામાં આવ્યું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ ગીત કવિ રાજેન્દ્ર શાહના <b>'શ્રુતિ'</b> નામના કાવ્યસંગ્રહમાંથી લેવામાં આવ્યું છે.<br><br></div>"
+    },
+
+    {
+        chapter: 15,
+        q_no: 3,
+        marks: 1,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ કાવ્યમાં શું ન કરવાની સલાહ આપે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ આપણા જીવનની વ્યથા (દુઃખ કે પીડા) વિશે કોઈની પણ સામે <b>કંઈ પણ બોલવાની કે આપણું હૃદય ખોલવાની ના પાડે છે.</b><br><br></div>"
+    },
+
+    {
+        chapter: 15,
+        q_no: 4,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લોકો આપણું દુઃખ જાણીને કેવી પ્રતિક્રિયા આપે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જ્યારે આપણે લોકોને આપણું દુઃખ કહીએ છીએ, ત્યારે લોકો આપણને મદદ કરવાને બદલે કે સાંત્વના આપવાને બદલે માત્ર મજા લે છે. <b>કવિ કહે છે કે 'લોકને તો છે કૌતુક' (લોકોને તો માત્ર કુતૂહલ કે જાણવાની મજા જ હોય છે).</b> તેઓ ક્યારેય આપણું દુઃખ ઓછું કરતા નથી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: દુનિયા 'WhatsApp Status' જેવી છે! તમારું દુઃખ જોઈને 100 લોકો 'View' કરશે, મજા લેશે, પણ આંસુ લૂછવા કોઈ નહિ આવે. એટલે ચૂપ રહેવું જ સારું!</div></div>"
+    },
+
+    {
+        chapter: 15,
+        q_no: 5,
+        marks: 1,
+        year_asked: "[Board MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લોકોને શું હોય છે? <br>(A) દયા (B) કૌતુક (C) ગુસ્સો (D) પ્રેમ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(B) કૌતુક</b> (આશ્ચર્ય કે મજા).<br><br></div>"
+    },
+
+    {
+        chapter: 15,
+        q_no: 6,
+        marks: 1,
+        year_asked: "[Mock Test N. J. Classes]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આપણો ભાર કોણે ઊંચકવાનો છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આપણા દુઃખ કે જીવનનો ભાર <b>આપણે પોતે જ ઊંચકવાનો છે.</b><br><br></div>"
+    },
+
+    {
+        chapter: 15,
+        q_no: 7,
+        marks: 1,
+        year_asked: "[Grammar Section]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સમાનાર્થી શબ્દો આપો: કૌતુક, કૂપ, વીરાણ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>કૌતુક</b> = આશ્ચર્ય / કુતૂહલ / નવાઈ<br>૨. <b>કૂપ</b> = કૂવો<br>૩. <b>વીરાણ</b> = વેરાન / ઉજ્જડ / નિર્જન<br><br></div>"
+    },
+
+    {
+        chapter: 15,
+        q_no: 8,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિરુદ્ધાર્થી શબ્દો લખો: વીરાણ, હાસ્ય, અંધકાર</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>વીરાણ</b> x આબાદ / લીલુંછમ<br>૨. <b>હાસ્ય</b> x રુદન<br>૩. <b>અંધકાર</b> x પ્રકાશ / ઉજાસ<br><br></div>"
+    },
+
+    {
+        chapter: 15,
+        q_no: 9,
+        marks: 2,
+        year_asked: "[March 2025 Model Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રૂઢિપ્રયોગનો અર્થ આપી વાક્ય બનાવો: 'હૃદય ખોલવું'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>અર્થ:</b> મનની વાત કે દુઃખ છુપાવ્યા વિના બીજાને કહી દેવું.<br><b>વાક્ય:</b> સાચા મિત્રની સામે જ માણસ પોતાનું હૃદય ખોલી શકે છે, સ્વાર્થી લોકો સામે નહિ.<br><br></div>"
+    },
+
+    {
+        chapter: 15,
+        q_no: 10,
+        marks: 1,
+        year_asked: "[Vocabulary Quiz]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શબ્દસમૂહ માટે એક શબ્દ આપો: 'માણસની અવરજવર વિનાનું'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>વીરાણ / નિર્જન</b><br><br></div>"
+    },
+
+    {
+        chapter: 15,
+        q_no: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'વેણને રહેવું ચૂપ' - કવિ આવું શા માટે કહે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'વેણ' એટલે વાણી (બોલ). કવિ કહે છે કે આપણે આપણા દુઃખ અને દર્દ વિશે મૌન જ ધારણ કરવું જોઈએ (ચૂપ રહેવું જોઈએ). કારણ કે દુનિયામાં એવો કોઈ સંવેદનશીલ માણસ જલ્દી મળતો નથી જે આપણી વ્યથા સમજી શકે અને તેને દૂર કરી શકે. બોલવાથી માત્ર મજાક જ ઉડે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 15,
+        q_no: 12,
+        marks: 2,
+        year_asked: "[July 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ 'એકલતાના કૂપ' માં શું કરવાનું કહે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'કૂપ' એટલે કૂવો. કવિ કહે છે કે માણસનું જીવન એક નિર્જન કૂવા જેવું છે, જેમાં એકલતા છે. પરંતુ આપણે આ <b>એકલતાના કૂપમાં રડવાને બદલે અંદરથી ગીત ગાવા જોઈએ</b> (એટલે કે આપણા દુઃખને સંગીત કે કલામાં ફેરવીને હસતા રહેવું જોઈએ).<br><br></div>"
+    },
+
+    {
+        chapter: 15,
+        q_no: 13,
+        marks: 1,
+        year_asked: "[MCQ - Target 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કોનો ભાર અન્યને નહિ આપીએ? <br>(A) લાકડાનો (B) પુસ્તકોનો (C) જીવનની વ્યથાનો (D) સંસારનો</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(C) જીવનની વ્યથાનો</b> (આપણા દુઃખનો ભાર આપણે જાતે જ ઉપાડવાનો છે).<br><br></div>"
+    },
+
+    {
+        chapter: 15,
+        q_no: 14,
+        marks: 2,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ કયા માર્ગે ચાલવાની વાત કરે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ સંસાર એક નિર્જન અને વીરાણ દેશ જેવો છે. કવિ કહે છે કે <b>આપણો માર્ગ આપણે જાતે જ પસંદ કરવાનો છે અને એકલા જ એ માર્ગ પર ચાલવાનું છે.</b> અન્ય કોઈ વ્યક્તિ આપણા જીવનની મંઝિલ કાપવા આપણી સાથે નહિ આવે.<br><br></div>"
+    },
+
+    {
+        chapter: 15,
+        q_no: 15,
+        marks: 1,
+        year_asked: "[Knowledge Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ રાજેન્દ્ર શાહને સાહિત્યનો કયો સર્વોચ્ચ પુરસ્કાર મળ્યો હતો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ રાજેન્દ્ર શાહને તેમની સમગ્ર સાહિત્યિક સેવા બદલ 2001 માં ભારતનો સર્વોચ્ચ <b>'જ્ઞાનપીઠ પુરસ્કાર'</b> મળ્યો હતો.<br><br></div>"
+    },
+
+    {
+        chapter: 15,
+        q_no: 16,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>બહારથી દેખાતો સંસાર કેવો છે અને માણસ અંદરથી કેવો છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>બહારથી જોતા આખો સંસાર ભરેલો, કોલાહલવાળો અને આનંદિત દેખાય છે, પરંતુ <b>હકીકતમાં માણસ અંદરથી એકદમ એકલો અને વ્યથાથી (દુઃખથી) ભરેલો છે.</b> આ વિરોધાભાસ કવિ દર્શાવે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 15,
+        q_no: 17,
+        marks: 1,
+        year_asked: "[Objective MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ આંસુને ક્યાં છુપાવવાનું કહે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ આંસુને <b>પોતાના જ અંતરમાં (હૃદયમાં)</b> છુપાવી રાખવાનું કહે છે, તેને બહાર પડવા દેવા નહિ.<br><br></div>"
+    },
+
+    {
+        chapter: 15,
+        q_no: 18,
+        marks: 2,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આ ગીતમાં મનુષ્યના કયા ગુણો પ્રગટ થયા છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ ગીતમાં મનુષ્યની <b>અસીમ સહનશીલતા, આત્મનિર્ભરતા, ખુમારી અને સ્વમાન</b> ના ગુણો પ્રગટ થયા છે. પોતાનું દુઃખ જાતે જ સહન કરવું અને દુનિયા સામે હસતા રહેવું એ માણસાઈની ઊંચાઈ બતાવે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 15,
+        q_no: 19,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સાચી જોડણી ઓળખાવો: હ્રદય / હૃદય, કૌતુખ / કૌતુક</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સાચી જોડણી: <b>હૃદય</b> અને <b>કૌતુક</b><br><br></div>"
+    },
+
+    {
+        chapter: 15,
+        q_no: 20,
+        marks: 2,
+        year_asked: "[Expected 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'આપણે જ પાર કરીએ' - પંક્તિ દ્વારા કવિ શું સમજાવે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ સમજાવે છે કે આપણા જીવનમાં ગમે તેવી મુશ્કેલીઓ, ઢાળ કે નદી (સંકટો) આવે, પરંતુ આપણે કોઈની મદદની આશા રાખ્યા વગર <b>પોતાના જ આત્મવિશ્વાસથી તે મુશ્કેલીઓને પાર કરવાની છે.</b><br><br></div>"
+    },
+
+    {
+        chapter: 15,
+        q_no: 21,
+        marks: 3,
+        year_asked: "[March 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>માણસે પોતાનું દુઃખ શા માટે છુપાવવું જોઈએ?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>માણસે પોતાનું દુઃખ અન્ય લોકોથી છુપાવવું જોઈએ કારણ કે આ સંસાર અત્યંત સ્વાર્થી છે. લોકો માત્ર ઉપરછલ્લો પ્રેમ બતાવે છે, પરંતુ હકીકતમાં જ્યારે તેઓ કોઈનું દુઃખ સાંભળે છે ત્યારે તેમને મદદ કરવાને બદલે માત્ર 'કૌતુક' (મજાક ઉડાવવાની મજા) જ હોય છે. કોઈ આપણો દુઃખનો ભાર હળવો કરતું નથી. તેથી દુનિયા સામે રડીને આપણું સ્વમાન ગુમાવવા કરતાં, દુઃખને છુપાવીને જાતે જ સહન કરી લેવું એ વધુ યોગ્ય છે.<br><br></div>"
+    },
+
+    {
+        chapter: 15,
+        q_no: 22,
+        marks: 1,
+        year_asked: "[MCQ - N. J. Classes Mock]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ આંસુને કોની જેમ છુપાવવાનું કહે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ આંસુને <b>મોતીની જેમ અંતરમાં જ સાચવીને</b> છુપાવવાનું કહે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 15,
+        q_no: 23,
+        marks: 3,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ 'વિરાણ' નો ઉલ્લેખ કયા સંદર્ભમાં કરે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'વિરાણ' એટલે ઉજ્જડ કે જ્યાં કોઈ માણસ ન હોય તેવું સ્થળ. કવિ આ ભરેલા સંસારને 'વિરાણ' માને છે, કારણ કે લાખો લોકોની ભીડ હોવા છતાં માણસ પોતાના દુઃખના સમયે સાવ એકલો જ હોય છે. તેને સમજવાવાળું કોઈ હોતું નથી. આ આંતરિક એકલતાને દર્શાવવા કવિ 'વિરાણ દેશ' અને 'એકલતાના કૂપ' જેવા શબ્દોનો ઉપયોગ કરે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 15,
+        q_no: 24,
+        marks: 4,
+        year_asked: "[Most IMP Long Question 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'બોલીએ ના કાંઈ' કાવ્યનો ભાવાર્થ (સમજૂતી) સવિસ્તાર વર્ણવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>રાજેન્દ્ર શાહનું આ ગીત મનુષ્યને સ્વમાન અને આત્મનિર્ભરતાનો મોટો પાઠ ભણાવે છે.<br><br>૧. <b>મૌનનું મહત્ત્વ:</b> કવિ કહે છે કે આપણા હૃદયમાં ગમે તેટલી વેદના હોય, પણ આપણે હોઠ સીવી લેવા જોઈએ અને કોઈની સામે હૃદય ખોલવું જોઈએ નહિ.<br>૨. <b>સમાજની સ્વાર્થી વૃત્તિ:</b> લોકો પાસે આપણું દુઃખ સાંભળવાનો સમય નથી. તેઓ સાંભળે તો પણ માત્ર કૌતુક (મજા) ખાતર સાંભળે છે. કોઈ આપણો જીવનનો ભાર ઊંચકવા આવતું નથી.<br>૩. <b>એકલતા અને સંઘર્ષ:</b> આ સંસાર ભલે બહારથી ભરેલો લાગતો હોય, પણ અંદરથી તો તે વિરાણ અને નિર્જન કૂવા જેવો છે. આપણા જીવનના માર્ગમાં નદી આવે કે ઢાળ આવે (સુખ આવે કે દુઃખ), આપણે આપણો રસ્તો એકલા જ કાપવાનો છે.<br><br><b>નિષ્કર્ષ:</b> કવિ કહે છે કે આપણે આપણા આંસુઓને અંતરમાં છુપાવીને, દુનિયાની સામે હસતા મોઢે ગીત ગાતા રહેવું જોઈએ. પોતાનું દુઃખ જાતે જ સહન કરવું એ જ સાચી ખુમારી છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: આખી કવિતાનો સાર એક જ લાઈનમાં - "કોઈને તમારું દુઃખ કહેશો નહિ, જાતે સહન કરો, મસ્ત રહો અને હસતા રહો." પરીક્ષામાં આ મુદ્દાઓને 3 ફકરામાં સમજાવી દેશો એટલે પૂરા 4 માર્ક્સ!</div></div>"
+    },
+
+
 ];
 
