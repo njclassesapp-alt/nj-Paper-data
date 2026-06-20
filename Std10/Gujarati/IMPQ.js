@@ -822,6 +822,463 @@ var Std10_Gujarati_imp = [
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>મનીષાના નાના ભાઈનું નામ <b>આનંદ</b> છે.<br><br></div>"
     },
 
+
+
+    // પ્રકરણ 5: દીકરી (અશોક ચાવડા 'બેદિલ') - N. J. Classes (Target 2026)
+
+    {
+        chapter: 5,
+        q_no: 1,
+        marks: 1,
+        year_asked: "[March 2022, July 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'દીકરી' કાવ્યના કવિનું નામ, ઉપનામ અને તેનો સાહિત્ય પ્રકાર જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિનું નામ <b>અશોક ચાવડા</b> છે, તેમનું ઉપનામ <b>'બેદિલ'</b> છે અને આ કાવ્યનો સાહિત્ય પ્રકાર <b>ગઝલ</b> છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: દીકરીની વિદાય વખતે ગમે તેવો કઠણ કે દિલ વગરનો (બેદિલ) માણસ હોય, તે પણ પીગળી જાય છે. અને પિતાની આંખમાંથી આંસુની 'ગઝલ' વહેવા લાગે છે. આ રીતે કવિનું નામ અને પ્રકાર કાયમ યાદ રહેશે!</div></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 2,
+        marks: 1,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિને સ્વર્ગની એક-એક દેવીની ઝલકમાં કોણ દેખાય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિને સ્વર્ગની એક-એક દેવીની ઝલકમાં <b>પોતાની દીકરી</b> દેખાય છે.<br><br></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 3,
+        marks: 1,
+        year_asked: "[August 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ દીકરીને કોના રૂપમાં જુએ છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ દીકરીને <b>સ્નેહના (પ્રેમના) ઝરણા</b> સમાન માને છે.<br><br></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 4,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>દીકરીને માથે હાથ ફેરવવો અને દીકરી હાથ દે - આ બે બાબત વચ્ચે શું તફાવત છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>માથે હાથ ફેરવવો:</b> જ્યારે દીકરી નાની હતી, ત્યારે પિતા તેને ખૂબ વહાલ કરતા અને આશીર્વાદ આપતા, જેને માથે હાથ ફેરવવો કહેવાય.<br>૨. <b>દીકરી હાથ દે:</b> જ્યારે દીકરી સમજદાર અને મોટી થઈ જાય છે, ત્યારે તે પિતાની દરેક ચિંતા સમજે છે અને વૃદ્ધાવસ્થામાં પિતાને સહારો (ટેકો) આપે છે, જેને દીકરી 'હાથ દે છે' તેમ કહેવાય.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનપણમાં પિતા દીકરીને સાચવે (આશીર્વાદ), મોટા થઈને દીકરી પિતાને સાચવે (સહારો). 'હાથ દેવો' એટલે મદદ કરવી!</div></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 5,
+        marks: 1,
+        year_asked: "[Board MCQ - 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિની આંખ ક્યારે ભીની થાય છે? <br>(A) દીકરી હસે ત્યારે (B) શરણાઈના સૂર સાંભળતા (C) દીકરી રડે ત્યારે (D) કોઈ યાદ આવે ત્યારે</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(B) શરણાઈના સૂર સાંભળતા</b> (લગ્નની શરણાઈ વાગતા જ પિતાને દીકરીની વિદાય યાદ આવે છે).<br><br></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 6,
+        marks: 1,
+        year_asked: "[Mock Test N. J. Classes]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સુખડ, ચંદન અને કુમકુમના તિલકમાં પિતા કોને જુએ છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સુખડ, ચંદન અને કુમકુમના તિલકમાં પિતા પોતાની <b>દીકરીની પવિત્રતા અને સૌંદર્યને</b> જુએ છે.<br><br></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 7,
+        marks: 1,
+        year_asked: "[Grammar Section]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સમાનાર્થી શબ્દો આપો: ઝલક, આશિષ, ગૌરીવ્રત</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>ઝલક</b> = તેજ / શોભા<br>૨. <b>આશિષ</b> = આશીર્વાદ / દુઆ<br>૩. <b>ગૌરીવ્રત</b> = પાર્વતીની પૂજાનું એક વ્રત (મોળાવ્રત)<br><br></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 8,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિરુદ્ધાર્થી શબ્દો લખો: સ્વર્ગ, શરમ, સ્મિત</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>સ્વર્ગ</b> x નરક<br>૨. <b>શરમ</b> x બેશરમી / નિર્લજ્જતા<br>૩. <b>સ્મિત</b> x રુદન<br><br></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 9,
+        marks: 2,
+        year_asked: "[March 2025 Model Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રૂઢિપ્રયોગનો અર્થ આપી વાક્ય બનાવો: 'માથે હાથ ફેરવવો' અને 'હાથ દેવો'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>માથે હાથ ફેરવવો</b> = આશીર્વાદ આપવા કે વહાલ કરવું.<br><i>વાક્ય:</i> પરીક્ષા આપવા જતા દીકરાના માથે પિતાએ પ્રેમથી હાથ ફેરવ્યો.<br>૨. <b>હાથ દેવો</b> = સહારો આપવો કે મદદ કરવી.<br><i>વાક્ય:</i> મુશ્કેલ સમયમાં સાચો મિત્ર જ હાથ દે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 10,
+        marks: 1,
+        year_asked: "[Vocabulary Quiz]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શબ્દસમૂહ માટે એક શબ્દ આપો: 'પથ્થર કે લાકડાને કોતરીને મૂર્તિ બનાવનાર'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>શિલ્પી</b><br><br></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>દીકરીનો ઉછેર કેવી રીતે થયો છે? ગઝલના આધારે જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારતીય સમાજમાં દીકરીનો ઉછેર અત્યંત સાચવીને કરવામાં આવે છે. કવિ કહે છે કે દીકરી <b>લાજ, મર્યાદા અને શરમમાં</b> સંસ્કારી વાતાવરણમાં ઊછરે છે. સાથે જ તે <b>ગૌરીવ્રત</b> જેવા કઠિન વ્રતો પણ હસતા મુખે કરતી મોટી થાય છે.<br><br></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 12,
+        marks: 2,
+        year_asked: "[July 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>દીકરીને શિલ્પની જેમ શા માટે કોતરવી પડે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જેમ કોઈ શિલ્પી પથ્થરમાંથી કાળજીપૂર્વક સુંદર મૂર્તિ કંડારે છે (કોતરે છે), તેવી જ રીતે દીકરી અત્યંત સંવેદનશીલ અને નાજુક હોય છે. તેને <b>સારા સંસ્કારો, યોગ્ય શિક્ષણ અને સમજણ આપવા માટે પિતાએ ખૂબ જ કાળજીપૂર્વક તેનો ઉછેર કરવો પડે છે.</b> તેથી કવિ કહે છે કે તેને શિલ્પની જેમ કોતરવી પડે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: શિલ્પી પથ્થરના નકામા ટુકડા કાઢીને અંદરથી ભગવાનની મૂર્તિ બનાવે. એમ માતા-પિતા પણ દીકરીને સંસ્કાર આપીને ઘરમાં એક 'દેવી' બનાવે છે!</div></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 13,
+        marks: 1,
+        year_asked: "[MCQ - Target 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'સ્નેહનું ઝરણું' એટલે શું? <br>(A) પાણીનો ધોધ (B) પ્રેમનું પ્રતીક (C) નદી (D) પર્વત</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(B) પ્રેમનું પ્રતીક</b> (દીકરીને કવિ પ્રેમનું પ્રતીક માને છે).<br><br></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 14,
+        marks: 2,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કોઈપણ પ્રસંગે પિતાને દીકરીની યાદ કેમ સતાવે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જ્યારે ઘરમાં કે અન્ય કોઈ જગ્યાએ લગ્નની શરણાઈના સૂર સંભળાય છે અથવા ભીડભાડ વાળો પ્રસંગ હોય છે, ત્યારે પિતાને <b>પોતાની દીકરીની વિદાયનો પ્રસંગ</b> યાદ આવી જાય છે અને દીકરી વગરનું ઘર સૂનું લાગે છે. તેથી તેમની આંખો ભીની થઈ જાય છે.<br><br></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 15,
+        marks: 1,
+        year_asked: "[Knowledge Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>દીકરીના ગયા પછી પિતાને ભીડમાં કેવું લાગે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>દીકરીના ગયા પછી પિતાને ભીડમાં પણ <b>એકલતા</b> (સૂનાપણું) લાગે છે, કારણ કે દીકરી જ ઘરની રોનક હતી.<br><br></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 16,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>દીકરી ઘરમાં હોય ત્યારે ઘરનું વાતાવરણ કેવું હોય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>દીકરી ઘરમાં હોય ત્યારે ઘરનું વાતાવરણ <b>સુગંધીદાર, પવિત્ર અને હૂંફાળું</b> હોય છે. દીકરીના અસ્તિત્વથી જ ઘરમાં સ્નેહનું ઝરણું વહેતું રહે છે અને સુખડ-ચંદન જેવી શાંતિ છવાયેલી રહે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 17,
+        marks: 1,
+        year_asked: "[Objective MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ફડક' શબ્દનો અર્થ શું થાય?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'ફડક' એટલે <b>ડર અથવા ચિંતા</b> (અહીં, સમાજ અને મર્યાદાઓનો ડર).<br><br></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 18,
+        marks: 2,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિએ દીકરીને કોની સાથે સરખાવી છે? શા માટે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિએ દીકરીને <b>સ્વર્ગની દેવીઓ</b> સાથે સરખાવી છે.<br>કારણ કે જેવી રીતે દેવી પવિત્ર, પૂજનીય અને સૌને આશીર્વાદ આપનારી હોય છે, તેવી જ રીતે દીકરી પણ ઘરને પવિત્ર બનાવે છે, પિતાનો સહારો બને છે અને સૌને સ્નેહ આપે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 19,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નીચેના શબ્દોની સાચી જોડણી લખો: મરયાદા, પવીત્ર, આશિર્વાદ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>મર્યાદા</b><br>૨. <b>પવિત્ર</b><br>૩. <b>આશીર્વાદ</b><br><br></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 20,
+        marks: 2,
+        year_asked: "[Expected 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગઝલમાં પિતાનું હૃદય કેવું દર્શાવવામાં આવ્યું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગઝલમાં પિતાનું હૃદય અત્યંત <b>પ્રેમાળ અને સંવેદનશીલ</b> દર્શાવવામાં આવ્યું છે. દીકરી સાસરે ગયા પછી પિતા અંદરથી એકલા પડી ગયા છે. દીકરીની યાદમાં તેમની આંખો વારંવાર ભીની થઈ જાય છે.<br><br></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 21,
+        marks: 3,
+        year_asked: "[March 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'દીકરી' ગઝલમાં વ્યક્ત થતો પિતાનો પ્રેમ તમારા શબ્દોમાં વર્ણવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'દીકરી' ગઝલમાં પિતાનો નિર્મળ પ્રેમ છલકાય છે.<br>પિતા માટે પોતાની દીકરી કોઈ સામાન્ય વ્યક્તિ નથી, પરંતુ સ્વર્ગની દેવી છે. દીકરી તેમના માટે સ્નેહનું ઝરણું છે, જેનાથી આખું ઘર હર્યુંભર્યું રહે છે. પિતાએ દીકરીને અત્યંત જતનથી, લાજ અને મર્યાદામાં શિલ્પની જેમ ઉછેરીને મોટી કરી છે. <br>આજે જ્યારે તે દીકરી મોટી થઈને પિતાને સાથ-સહારો આપે છે, ત્યારે પિતા ગર્વ અનુભવે છે. પરંતુ દીકરીની વિદાય પછી જ્યારે પણ શરણાઈ વાગે છે, ત્યારે પિતાનું હૃદય રડી પડે છે અને તેમને દરેક જગ્યાએ પોતાની દીકરીની ખોટ સાલે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 22,
+        marks: 1,
+        year_asked: "[MCQ - N. J. Classes Mock]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ 'ભીની પલક' માં કોને જુએ છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ પોતાની ભીની પલકમાં (આંસુઓમાં) પોતાની <b>પ્રત્યક્ષ દીકરીને (દીકરીની યાદને)</b> જુએ છે.<br><br></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 23,
+        marks: 3,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>દીકરી સમજદાર થઈ ગઈ છે તેવું કવિને ક્યારે લાગે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જ્યારે દીકરી નાની હોય છે, ત્યારે તે પિતા પાસે રક્ષણ અને વહાલ મેળવે છે. પિતા તેના માથે હાથ ફેરવીને આશીર્વાદ આપે છે. <br>પરંતુ સમય જતા એ જ દીકરી જ્યારે પિતાની મુશ્કેલીઓ સમજવા લાગે છે, વૃદ્ધ પિતાની સેવા કરે છે, તેમને હિંમત આપે છે અને ખરા અર્થમાં પિતાનો સહારો (હાથ દે છે) બને છે, ત્યારે પિતાને ખાતરી થઈ જાય છે કે મારી દીકરી હવે મોટી અને સમજદાર થઈ ગઈ છે.<br><br></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 24,
+        marks: 4,
+        year_asked: "[Most IMP Long Question 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'દીકરી' ગઝલનો કેન્દ્રીય વિચાર (Central Idea) તમારા શબ્દોમાં સ્પષ્ટ કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'દીકરી' ગઝલનો કેન્દ્રીય વિચાર <b>દીકરીનું પારિવારિક અને સામાજિક મહત્ત્વ તેમજ પિતાના અખૂટ પ્રેમનું વર્ણન</b> કરવાનો છે.<br><br>૧. <b>દીકરીનું મહત્ત્વ:</b> કવિ દીકરીને બોજ નથી માનતા, પરંતુ તેને સ્વર્ગની દેવી સમાન પવિત્ર અને સ્નેહનું ઝરણું માને છે. દીકરીના હોવાથી જ ઘરમાં સુખડ અને ચંદન જેવી શાંતિ વ્યાપેલી રહે છે.<br>૨. <b>ઉછેર અને સંસ્કાર:</b> ભારતીય સમાજમાં દીકરીને ખૂબ જ મર્યાદા અને લાજ-શરમમાં ઉછેરવામાં આવે છે. કવિ તેને શિલ્પ કંડારવા જેવું નાજુક કામ ગણાવે છે.<br>૩. <b>પિતા-પુત્રીનો સંબંધ:</b> નાનપણમાં પિતા દીકરીને વહાલ કરે છે અને મોટી થતાં તે જ દીકરી પિતાનો સહારો બને છે. ગઝલના અંતમાં દીકરીની વિદાયનો કરુણ પ્રસંગ દર્શાવાયો છે, જેમાં પિતા માટે દીકરીની ખોટ કોઈ પૂરી શકતું નથી.<br><br>ટૂંકમાં, કવિએ દીકરીને 'સાપનો ભારો' નહિ, પણ <b>'તુલસીનો ક્યારો'</b> કહીને તેનું ગૌરવ વધાર્યું છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટા પ્રશ્નમાં કાયમ 3 પેરેગ્રાફ (ફકરા) પાડવા. 1. દેવી સ્વરૂપ દીકરી, 2. મર્યાદામાં ઉછેર, 3. દીકરીની વિદાય અને પિતાના આંસુ. આટલું લખો એટલે પેપર ચેક કરવાવાળાના દિલમાં પણ માર્ક્સ આપવાનું 'ઝરણું' ફૂટી જાય!</div></div>"
+    },
+
+    {
+        chapter: 5,
+        q_no: 25,
+        marks: 4,
+        year_asked: "[Value Based Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આજના સમયમાં 'દીકરી' કાવ્યની પ્રસ્તુતતા (સામાજિક સંદેશ) સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આજના આધુનિક સમયમાં પણ સમાજમાં દીકરીઓ પ્રત્યે ક્યાંકને ક્યાંક ભેદભાવ જોવા મળે છે (જેમ કે ભ્રૂણહત્યા). આવા સમયે અશોક ચાવડાની આ ગઝલ સમાજને ઉત્તમ <b>સામાજિક સંદેશ</b> આપે છે.<br><br>&bull; આ કાવ્ય દીકરીનું સન્માન કરતા શીખવાડે છે. દીકરી એ કોઈ પારકી થાપણ નથી, પણ ઘરનું અજવાળું છે.<br>&bull; દીકરી પુત્ર સમાન જ પિતાનો સહારો બની શકે છે (<i>દીકરી હાથ દે છે</i>).<br>&bull; જો દીકરીને પ્રેમ અને સારા સંસ્કાર (શિલ્પની જેમ) આપીને ઉછેરવામાં આવે, તો તે બંને કુળ (પિયર અને સાસરી) ને ઉજાળે છે.<br><br>આમ, આ કાવ્ય <b>'બેટી બચાવો, બેટી પઢાવો'</b> ના આજના અભિયાન સાથે પણ ખૂબ જ પ્રસ્તુત રીતે જોડાયેલું છે.<br><br></div>"
+    },
     
+
+    // પ્રકરણ 6: વાયરલ ઇન્ફેક્શન (ગુણવંત શાહ) - N. J. Classes (Target 2026)
+
+    {
+        chapter: 6,
+        q_no: 1,
+        marks: 1,
+        year_asked: "[March 2022, 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'વાયરલ ઇન્ફેક્શન' પાઠના લેખકનું નામ અને તેનો સાહિત્ય પ્રકાર જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખકનું નામ <b>ગુણવંત શાહ</b> છે અને આ પાઠનો સાહિત્ય પ્રકાર <b>નિબંધ</b> છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયરસ (Viral) શરીરમાં જાય એટલે 'અવગુણ' કરે, પણ આ પાઠ વાંચીને સ્વાસ્થ્યના 'ગુણ' શીખવા મળે છે! એટલે લેખકનું નામ 'ગુણવંત શાહ'. અને રોગ વિશે વિસ્તારથી લખ્યું છે એટલે 'નિબંધ'!</div></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 2,
+        marks: 1,
+        year_asked: "[August 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખકના મતે હોસ્પિટલની સાચી શોભા શામાં છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખકના મતે હોસ્પિટલની સાચી શોભા <b>હોસ્પિટલના મોટાભાગના ખાટલા (Beds) ખાલી પડ્યા રહે</b> તેમાં છે. (એટલે કે લોકો ઓછા બીમાર પડે).<br><br></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 3,
+        marks: 1,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પ્રાચીન ચીનમાં લોકો માંદા પડે ત્યારે શું કરતા હતા?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પ્રાચીન ચીનમાં લોકો માંદા પડે ત્યારે <b>પોતાના ડૉક્ટરને સજા કરતા હતા.</b> (કારણ કે ડૉક્ટરનું કામ તેમને સાજા રાખવાનું છે).<br><br></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 4,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખક કઈ બાબતને માણસની મોટી મૂર્ખાઈ ગણે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>માણસ જ્યાં સુધી સાજો-નરવો હોય ત્યાં સુધી પોતાના શરીરની કોઈ કાળજી લેતો નથી, પણ જ્યારે બીમાર પડે ત્યારે જ દવાખાને દોડે છે. <b>રોગ આવ્યા પછી જાગવું અને દરકાર કરવી</b> - આ બાબતને લેખક માણસની સૌથી મોટી મૂર્ખાઈ ગણે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: તરસ લાગે ત્યારે કૂવો ખોદવા બેસવું એ મૂર્ખાઈ છે. એમ જ બીમાર પડ્યા પછી જીમ જવું કે ડાયેટ કરવું એ પણ મૂર્ખાઈ જ છે!</div></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 5,
+        marks: 1,
+        year_asked: "[Board MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'માણસ પોતાના શરીર સાથે નિર્દયતાપૂર્વક વર્તે છે' - આમાં નિર્દયતા એટલે શું? <br>(A) દયા વગરનું (B) પ્રેમ (C) કસરત (D) આરામ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(A) દયા વગરનું</b> (પોતાના શરીર પર દયા ખાધા વગર જંકફૂડ ખાવું કે વ્યસન કરવું).<br><br></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 6,
+        marks: 1,
+        year_asked: "[Mock Test N. J. Classes]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગંદકી વિશે લેખકનો શું અભિપ્રાય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખક માને છે કે ભારતના લોકોને <b>ગંદકી પ્રત્યે કોઈ સૂગ (નફરત) નથી</b>, અને ગંદકી પ્રત્યેની આ બેદરકારી જ આપણા દેશની સૌથી મોટી બીમારી છે.<br><br></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 7,
+        marks: 1,
+        year_asked: "[Grammar Section]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સમાનાર્થી શબ્દો આપો: આરોગ્ય, અહંકાર, સાવચેતી</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>આરોગ્ય</b> = સ્વાસ્થ્ય / તંદુરસ્તી<br>૨. <b>અહંકાર</b> = અભિમાન / ગર્વ<br>૩. <b>સાવચેતી</b> = સાવધાની / તકેદારી<br><br></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 8,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિરુદ્ધાર્થી શબ્દો લખો: સ્વચ્છ, સ્વીકાર, નિરોગી</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>સ્વચ્છ</b> x અસ્વચ્છ / ગંદુ<br>૨. <b>સ્વીકાર</b> x અસ્વીકાર<br>૩. <b>નિરોગી</b> x રોગી / બીમાર<br><br></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 9,
+        marks: 2,
+        year_asked: "[March 2025 Model Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રૂઢિપ્રયોગનો અર્થ આપી વાક્ય બનાવો: 'સૂગ હોવી' અને 'પરસેવો પાડવો'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>સૂગ હોવી</b> = નફરત કે અણગમો હોવો.<br><i>વાક્ય:</i> સ્વચ્છતા પ્રેમી લોકોને ગંદકીની ભારે સૂગ હોય છે.<br>૨. <b>પરસેવો પાડવો</b> = ખૂબ જ મહેનત કરવી.<br><i>વાક્ય:</i> પરીક્ષામાં પ્રથમ નંબર લાવવા માટે વિદ્યાર્થીઓએ પરસેવો પાડવો પડે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 10,
+        marks: 1,
+        year_asked: "[Vocabulary Quiz]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શબ્દસમૂહ માટે એક શબ્દ આપો: 'લોહીના ઊંચા દબાણનો રોગ' અને 'જેને કોઈ રોગ ન હોય તેવું'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. લોહીના ઊંચા દબાણનો રોગ = <b>બ્લડપ્રેશર (હાઈપરટેન્શન)</b><br>૨. જેને કોઈ રોગ ન હોય તેવું = <b>નિરોગી</b><br><br></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>હૃદયરોગનો હુમલો (Heart Attack) આવવા પાછળ લેખક કયું મુખ્ય કારણ આપે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખકના મતે હૃદયરોગનો હુમલો મફતમાં નથી મળતો. માણસ જ્યારે પોતાના <b>શરીરને મશીન સમજીને આરામ આપ્યા વગર સતત કામ કરાવ્યા કરે છે અને પોતાના અહંકારમાં રાચે છે,</b> ત્યારે માનસિક તાણ વધે છે. આ અહંકાર અને અતિશય માનસિક તાણને કારણે જ હૃદયરોગનો હુમલો આવે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 12,
+        marks: 2,
+        year_asked: "[July 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પાન-ગુટખા ખાનારાઓ પર લેખક કેવો કટાક્ષ કરે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખક કટાક્ષ કરતા કહે છે કે પાન-મસાલા અને ગુટખા ખાનારા લોકો એવા હોય છે જે સફરજન (આરોગ્યપ્રદ ફળ) ને મોંઘું ગણે છે, પણ ગુટખા પાછળ હજારો રૂપિયા ઉડાડે છે. વળી, તેઓ જ્યાં-ત્યાં થૂંકીને ગંદકી ફેલાવે છે. લેખક કહે છે કે આવા <b>ગુટખા ખાનારાઓને થૂંકવા માટે તો આખું જંગલ જોઈએ!</b><br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુટખાવાળાનું મેથ્સ જોરદાર હોય! 100 રૂપિયાના સફરજન મોંઘા લાગે, પણ રોજ 50-50 ના બે ગુટખા સસ્તા લાગે. લેખકે બરાબરની ક્લાસ લીધી છે!</div></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 13,
+        marks: 1,
+        year_asked: "[MCQ - Target 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખકના મતે બીમારી કોને આવે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જે વ્યક્તિ પોતાના <b>શરીરનું ધ્યાન નથી રાખતી, અયોગ્ય ખાણી-પીણી રાખે છે અને બેદરકાર રહે છે</b>, તેને બીમારી આવે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 14,
+        marks: 2,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>માનસિક તાણ (Mental Stress) ની શરીર પર કઈ કઈ અસરો થાય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>માનસિક તાણને લીધે માણસનું <b>બ્લડ પ્રેશર (લોહીનું દબાણ) વધે છે, પાચનતંત્ર બગડે છે અને રોગપ્રતિકારક શક્તિ ઘટે છે.</b> અંતે માણસ શારીરિક રોગોનો શિકાર બની જાય છે. મન બીમાર પડે એટલે શરીર પણ બીમાર પડે જ છે.<br><br></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 15,
+        marks: 1,
+        year_asked: "[Knowledge Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ખાણી-પીણીની બાબતમાં કોણ વધુ બેદરકાર હોય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ખાણી-પીણીની બાબતમાં <b>ભણેલા (શિક્ષિત) અને અભણ બંને</b> સરખા જ બેદરકાર હોય છે.<br><br></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 16,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખક કઈ દવાને સર્વોત્તમ (સૌથી મોટી) દવા માને છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખક <b>'પ્રેમ' (Love Therapy)</b> ને સર્વોત્તમ દવા માને છે. જો કુટુંબમાં હૂંફ, સ્નેહ અને શાંતિનું વાતાવરણ હોય, તો માણસ અડધો તો એમ જ સાજો થઈ જાય છે. પ્રેમથી મોટું કોઈ ઔષધ નથી.<br><br></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 17,
+        marks: 1,
+        year_asked: "[Objective MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રોગચાળો ફેલાય ત્યારે ઘણા લોકો ડોક્ટર પાસે જવાને બદલે શું કરે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લોકો ડૉક્ટર પાસે જવાને બદલે <b>બાધા-આખડી (માનતા) રાખે છે અથવા દેશી ઉકાળા પીએ છે.</b><br><br></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 18,
+        marks: 2,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સ્વચ્છતા અને આરોગ્ય વચ્ચે કેવો સંબંધ છે? પાઠના આધારે જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સ્વચ્છતા અને આરોગ્ય વચ્ચે ગાઢ સંબંધ છે. <b>જ્યાં સ્વચ્છતા હોય છે, ત્યાં જ પ્રભુનો વાસ હોય છે અને આરોગ્ય જળવાઈ રહે છે.</b> જો આપણી આસપાસ ગંદકી હશે, તો મચ્છર અને વાયરસ ફેલાશે અને અંતે રોગચાળો જ આવશે. તેથી સ્વચ્છતા રાખવી એ પહેલી દવા છે.<br><br></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 19,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સાચી જોડણી ઓળખાવો: (૧) ઇસ્પિતાલ / ઈસ્પીતાલ (૨) શારીરીક / શારીરિક</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સાચી જોડણી: <b>(૧) ઇસ્પિતાલ</b> અને <b>(૨) શારીરિક</b><br><br></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 20,
+        marks: 2,
+        year_asked: "[Expected 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખકના મતે 'મારું શરીર મને ક્યારેય દગો નહિ દે' એવું કોણ માને છે? તેનું પરિણામ શું આવે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>અહંકારી અને પોતાની જાતને વધારે પડતી સ્વસ્થ માનનાર માણસ આવું માને છે. આવા લોકો પોતાના શરીર પાસે આરામ વગર રાત-દિવસ કામ કરાવે છે અને ગમે તે ખાય છે. <b>આવા અહંકારનું પરિણામ એ આવે છે કે શરીર અચાનક હડતાલ પાડી દે છે અને માણસને સીધો હાર્ટ એટેક આવે છે.</b><br><br></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 21,
+        marks: 3,
+        year_asked: "[March 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખક કઈ કઈ સામાજિક કુટેવો (ખરાબ આદતો) ને વાયરલ ઇન્ફેક્શન ગણે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખક ગુણવંત શાહ આપણા સમાજની નીચે મુજબની કુટેવોને 'વાયરલ ઇન્ફેક્શન' (ચેપી રોગ) સમાન ગણે છે:<br>૧. <b>ગંદકી:</b> જ્યાં ત્યાં કચરો ફેંકવો અને થૂંકવું.<br>૨. <b>વ્યસન:</b> પાન, મસાલા, ગુટખા, બીડી અને સિગારેટનું સેવન કરવું.<br>૩. <b>બેદરકારી:</b> બીમાર પડ્યા પછી જ ડૉક્ટર પાસે દોડવું અને અયોગ્ય ખાણીપીણી રાખવી.<br>૪. <b>માનસિક તાણ અને અહંકાર:</b> સતત ગુસ્સામાં રહેવું, કોઈની સાથે પ્રેમથી વાત ન કરવી અને મનમાં અહંકાર રાખવો.<br>આ તમામ આદતો સમાજમાં વાયરસની જેમ ફેલાયેલી છે.<br><br></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 22,
+        marks: 1,
+        year_asked: "[MCQ - N. J. Classes Mock]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>દર્દી કોને કહેવાય?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જે પોતાના શરીર પર <b>દર્દ (દયા) નથી ખાતો</b>, તે જ સાચો 'દર્દી' બનીને દવાખાને જાય છે!<br><br></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 23,
+        marks: 3,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખકના મતે ડૉક્ટરનો વ્યવસાય કેવો હોવો જોઈએ અને અત્યારે કેવો છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખકના મતે <b>ડૉક્ટરનું સાચું કામ માણસને માંદો પડતો અટકાવવાનું અને તેને સ્વાસ્થ્ય વિશે જાગૃત કરવાનું હોવું જોઈએ.</b><br>પરંતુ આજના સમયમાં ડૉક્ટરનો વ્યવસાય માત્ર 'વેપાર' બની ગયો છે. ડૉક્ટરો દર્દીઓને રોગ અટકાવવાની સલાહ આપવાને બદલે માત્ર રોગ થયા પછી મોંઘી દવાઓ અને રિપોર્ટ્સ લખી આપે છે. લોકો વધુ બીમાર પડે તેમાં જ હોસ્પિટલની કમાણી છે, જે એક કડવી વાસ્તવિકતા છે.<br><br></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 24,
+        marks: 4,
+        year_asked: "[Most IMP Long Question 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'વાયરલ ઇન્ફેક્શન' પાઠના આધારે આરોગ્યની જાળવણી વિશે લેખકના વિચારો વિસ્તારથી વર્ણવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગુણવંત શાહે 'વાયરલ ઇન્ફેક્શન' નિબંધમાં આરોગ્યની જાળવણી માટે નીચે મુજબના સચોટ અને કડવા વિચારો રજૂ કર્યા છે:<br><br>૧. <b>સ્વચ્છતા જાળવવી:</b> આરોગ્યનો સીધો સંબંધ સ્વચ્છતા સાથે છે. ગંદકી પ્રત્યે સૂગ રાખવી જોઈએ, કારણ કે ગંદકી જ મોટાભાગના રોગોનું મૂળ છે.<br>૨. <b>વ્યસનોથી દૂર રહેવું:</b> પાન, મસાલા, ગુટખા અને ધૂમ્રપાન શરીરને અંદરથી ખોખલું કરી નાખે છે. તેનાથી બચવું જોઈએ.<br>૩. <b>યોગ્ય આહાર અને આરામ:</b> ભણેલા લોકો પણ જંકફૂડ ખાઈને બીમાર પડે છે. શરીર કોઈ નિર્જીવ મશીન નથી, તેને યોગ્ય સાદો ખોરાક અને પૂરતા આરામની જરૂર છે.<br>૪. <b>માનસિક સ્વાસ્થ્ય (Mental Health):</b> માત્ર શારીરિક નહિ, માનસિક શાંતિ પણ જરૂરી છે. અહંકાર, ગુસ્સો અને માનસિક તાણ હૃદયરોગને આમંત્રણ આપે છે. તેથી મન શાંત રાખવું જોઈએ.<br>૫. <b>પ્રેમ જ સાચું ઔષધ:</b> લેખકના મતે પરિવારમાં એકબીજા પ્રત્યે પ્રેમ અને હૂંફ હોય, તો માણસ જલ્દી બીમાર પડતો નથી. 'લવ થેરાપી' સૌથી ઉત્તમ દવા છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પ્રશ્ન લખવો સાવ સહેલો છે. એક 'Fit & Healthy' માણસ બનવા શું કરવું જોઈએ? - કચરો ન ખાવો, વ્યસન ન કરવું, ગુસ્સો ન કરવો, અને સ્વચ્છતા રાખવી. બસ, આ 4 મુદ્દા લખી નાખો એટલે લેખકના વિચારો પૂરા!</div></div>"
+    },
+
+    {
+        chapter: 6,
+        q_no: 25,
+        marks: 4,
+        year_asked: "[Central Idea / Title Justification]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'વાયરલ ઇન્ફેક્શન' પાઠનો કેન્દ્રીય વિચાર (Central Idea) તમારા શબ્દોમાં સ્પષ્ટ કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'વાયરલ ઇન્ફેક્શન' નિબંધનો મુખ્ય કેન્દ્રીય વિચાર <b>ભારતીય સમાજની આરોગ્ય પ્રત્યેની ગંભીર બેદરકારી પર કટાક્ષ કરવાનો અને સ્વાસ્થ્ય પ્રત્યે જાગૃતિ લાવવાનો છે.</b><br><br>લેખક સમજાવે છે કે આપણે શરીરને એક વાહન સમજીને ગમે તેમ હંકારીએ છીએ. આપણે પૈસા કમાવવાની આંધળી દોટમાં શારીરિક અને માનસિક સ્વાસ્થ્યને નુકસાન પહોંચાડી રહ્યા છીએ. ગંદકી, વ્યસનો, અને અહંકાર આપણા સમાજમાં વાયરલ ઇન્ફેક્શનની જેમ ઝડપથી ફેલાઈ ગયા છે.<br>નિબંધના અંતમાં લેખક એક જ સુંદર સંદેશ આપે છે કે 'પ્રિવેન્શન ઈઝ બેટર ધેન ક્યોર' (રોગ થાય તે પહેલા જ સાવચેતી રાખવી). અને તમામ માનસિક તથા શારીરિક બીમારીઓનો રામબાણ ઈલાજ <b>'પરિવારનો પ્રેમ અને શાંતિ'</b> છે. આ સત્ય સમજવું એ જ આ પાઠનો મુખ્ય ઉદ્દેશ્ય છે.<br><br></div>"
+    },
+        
+
 ];
 
