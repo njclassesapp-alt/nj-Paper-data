@@ -1732,7 +1732,463 @@ var Std10_Gujarati_imp = [
         year_asked: "[Central Idea / Value Based Question]",
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રાજકોટ છત્રી લેવા જવાનો લેખકનો પ્રસંગ તેમના કયા ગુણો દર્શાવે છે? આ પ્રસંગમાંથી તમને શું શીખવા મળે છે?</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>રાજકોટ છત્રી લેવા જવાનો પ્રસંગ લેખકના સ્વભાવના બે ઉત્તમ ગુણો દર્શાવે છે:<br><br>૧. <b>પ્રામાણિકતાની કદર:</b> જ્યારે રાજકોટના સજ્જનનો પત્ર આવ્યો, ત્યારે લેખકે હિસાબ કર્યો કે છત્રીની કિંમત કરતા રાજકોટ જવાનું ભાડું (300 રૂપિયા) બમણું હતું. લોકોએ તેમને ના પાડી, છતાં તેઓ ગયા. આ દર્શાવે છે કે તેમના મનમાં પૈસા કરતા કોઈની 'પ્રામાણિકતા' ની કિંમત વધુ હતી. સજ્જન વ્યક્તિનો આભાર માનવો તે તેમનો સિદ્ધાંત હતો.<br>૨. <b>નિખાલસતા અને હકારાત્મકતા:</b> રાજકોટથી પાછા ફરતી વખતે તેઓ છત્રી ફરીથી બસમાં ભૂલી ગયા. ઘરે આવીને તેમને આ વાતની ખબર પડી. છતાં તેઓ ગુસ્સે કે નિરાશ થવાને બદલે બીજા દિવસે હસતા મોઢે દુકાને નવી છત્રી લેવા પહોંચી ગયા. તેઓ પોતાની ભૂલ સ્વીકારવામાં ખચકાતા નથી.<br><br><b>શીખ:</b> આ પ્રસંગ શીખવે છે કે જીવનમાં નાની-મોટી વસ્તુઓ ખોવાય તો દુઃખી ન થવું, પરંતુ માણસાઈ અને પ્રામાણિકતા જેવા ગુણો ક્યારેય ખોવાવા દેવા જોઈએ નહિ. હંમેશા હસતા રહેવું.<br><br></div>"
-    }
+    },
+    
+
+    // પ્રકરણ 9: માધવને દીઠો છે ક્યાંય ? (હરીન્દ્ર દવે) - N. J. Classes (Target 2026)
+
+    {
+        chapter: 9,
+        q_no: 1,
+        marks: 1,
+        year_asked: "[March 2022, 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'માધવને દીઠો છે ક્યાંય?' કાવ્યના કવિનું નામ અને સાહિત્ય પ્રકાર જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિનું નામ <b>હરીન્દ્ર દવે</b> છે અને આ કાવ્યનો સાહિત્ય પ્રકાર <b>ઊર્મિગીત</b> છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: 'માધવ' એટલે ભગવાન શ્રીકૃષ્ણ. કૃષ્ણનું બીજું નામ 'હરિ' છે. એટલે કવિનું નામ 'હરીન્દ્ર દવે'. અને વાંસળીના સૂરની 'ઊર્મિ' (લાગણી) ગીત બનીને વહે છે એટલે 'ઊર્મિગીત'!</div></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 2,
+        marks: 1,
+        year_asked: "[August 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આ કાવ્ય કવિના કયા કાવ્યસંગ્રહમાંથી લેવામાં આવ્યું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ કાવ્ય હરીન્દ્ર દવેના <b>'વરસાદની મોસમ છે'</b> નામના કાવ્યસંગ્રહમાંથી લેવામાં આવ્યું છે.<br><br></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 3,
+        marks: 1,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કૃષ્ણને કોણ શોધી રહ્યું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કૃષ્ણની <b>વાંસળીનો સૂર</b> (જે વાંસળીથી વિખૂટો પડી ગયો છે) કૃષ્ણને શોધી રહ્યો છે.<br><br></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 4,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વાંસળીનો સૂર કૃષ્ણને શોધવા સૌપ્રથમ કોને પૂછે છે અને શા માટે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વાંસળીનો સૂર કૃષ્ણને શોધવા સૌપ્રથમ <b>મારગની ધૂળને (રસ્તાની ધૂળને)</b> પૂછે છે. કારણ કે કૃષ્ણ આ જ રસ્તેથી પસાર થયા હશે અને તેમના ચરણોની રજ (પવિત્ર ધૂળ) ત્યાં પડી હશે, તેથી ધૂળને કદાચ ખબર હોય કે માધવ ક્યાં છે.<br><br></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 5,
+        marks: 1,
+        year_asked: "[Board MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કદંબની છાયા કેવી છે? <br>(A) ગાઢ (B) ઉદાસ (C) વાચાળ (D) ગરમ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(B) ઉદાસ</b> (કૃષ્ણની ગેરહાજરીમાં કદંબની છાયા પણ ઉદાસ થઈ ગઈ છે).<br><br></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 6,
+        marks: 1,
+        year_asked: "[Mock Test N. J. Classes]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>યમુનાના વહેણ કેવા થઈ ગયા છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>માધવના વિરહમાં યમુનાના વહેણ <b>મૂંગા (શાંત)</b> થઈ ગયા છે.<br><br></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 7,
+        marks: 1,
+        year_asked: "[Grammar Section]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સમાનાર્થી શબ્દો આપો: વિભાવરી, મારગ, વાસલડી</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>વિભાવરી</b> = રાત્રિ / નિશા<br>૨. <b>મારગ</b> = રસ્તો / પથ<br>૩. <b>વાસલડી</b> = વાંસળી / બંસી<br><br></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 8,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિરુદ્ધાર્થી શબ્દો લખો: મૂંગું, તેજ, મિલન</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>મૂંગું</b> x વાચાળ / બોલકું<br>૨. <b>તેજ</b> x અંધકાર / તિમિર<br>૩. <b>મિલન</b> x વિરહ / જુદાઈ<br><br></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 9,
+        marks: 2,
+        year_asked: "[March 2025 Expected]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રૂઢિપ્રયોગનો અર્થ આપી વાક્ય બનાવો: 'મારગની ધૂળ બનવું' અને 'વિખૂટું પડવું'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>મારગની ધૂળ બનવું</b> = ચરણરજ બનવું / સમર્પિત થવું.<br><i>વાક્ય:</i> મીરાંબાઈ ઈશ્વરના મારગની ધૂળ બનવા તૈયાર હતા.<br>૨. <b>વિખૂટું પડવું</b> = છૂટા પડવું / અલગ થવું.<br><i>વાક્ય:</i> માધવથી વિખૂટા પડેલા વાંસળીના સૂર વ્યાકુળ બની ગયા.<br><br></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 10,
+        marks: 1,
+        year_asked: "[Vocabulary Quiz]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શબ્દસમૂહ માટે એક શબ્દ આપો: 'ગાયોનું ધણ' અને 'રાત્રિનો સમય'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. ગાયોનું ધણ = <b>ગોધણ</b><br>૨. રાત્રિનો સમય = <b>વિભાવરી</b><br><br></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રાધાની આંખમાં શા માટે ઉદાસી છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કૃષ્ણ ગોકુળ છોડીને મથુરા ચાલ્યા ગયા છે. <b>પોતાના પ્રિયતમ માધવના વિરહને (જુદાઈને) કારણે</b> રાધા અત્યંત દુઃખી છે અને તેથી જ રાધાની આંખમાં ઉદાસી છવાયેલી છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: રાધા અને કૃષ્ણનો પ્રેમ જગજાહેર છે. કૃષ્ણ વગર ગોકુળ સૂનું છે, એટલે રાધાની આંખોમાં આંસુ અને ઉદાસી તો હોવાની જ! 'વિરહવેદના' શબ્દ લખવો ફરજિયાત છે.</div></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 12,
+        marks: 2,
+        year_asked: "[July 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કાવ્યમાં 'બાવરી વિભાવરી' શબ્દપ્રયોગ દ્વારા કવિ શું સૂચવે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'બાવરી' એટલે વ્યાકુળ અથવા પાગલ, અને 'વિભાવરી' એટલે રાત્રિ. <br>માધવના વિરહમાં માત્ર જીવંત પાત્રો જ નહિ, પરંતુ <b>નિર્જીવ રાત્રિ પણ વ્યાકુળ (પાગલ) બની ગઈ છે</b> અને તે કૃષ્ણને શોધવા માટે આકાશમાં અહીં-તહીં ભટકી રહી છે, તેવું કવિ સૂચવે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 13,
+        marks: 1,
+        year_asked: "[MCQ - Target 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સૂર કોને-કોને પ્રશ્ન પૂછે છે? <br>(A) ધૂળને (B) કદંબને (C) યમુનાને (D) આપેલ તમામ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(D) આપેલ તમામ</b><br><br></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 14,
+        marks: 2,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'જળમાં તેજ એનું એવું રેલાય...' પંક્તિ સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ પંક્તિ યમુના નદીના પાતાળમાં રહેલા કૃષ્ણ (હરિવર) નું વર્ણન કરે છે.<br>યમુના નદીના ઊંડા જળમાં (પાતાળમાં) ભલે કૃષ્ણ અદૃશ્ય હોય, પરંતુ <b>તેમનું દિવ્ય તેજ (પ્રકાશ) આખા જળમાં રેલાઈ રહ્યું છે.</b> કૃષ્ણની હાજરીનો અહેસાસ એ તેજ દ્વારા થાય છે.<br><br></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 15,
+        marks: 1,
+        year_asked: "[Knowledge Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ હરીન્દ્ર દવે કયા વ્યવસાય સાથે જોડાયેલા હતા?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ હરીન્દ્ર દવે મુખ્યત્વે <b>પત્રકારત્વ (Journalism)</b> ના વ્યવસાય સાથે જોડાયેલા હતા.<br><br></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 16,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વાંસળી અને કૃષ્ણનો સંબંધ કેવો છે? કાવ્યના આધારે જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વાંસળી અને કૃષ્ણનો સંબંધ <b>એકબીજાના પૂરક અને અતૂટ પ્રેમનો</b> છે. વાંસળી હંમેશા કૃષ્ણના હોઠો પર વિરાજમાન રહેતી. પરંતુ હવે કૃષ્ણના વિરહમાં વાંસળીનો સૂર વ્યાકુળ બનીને તેમને દરેક જગ્યાએ શોધી રહ્યો છે. કૃષ્ણ વગર વાંસળીનું કોઈ અસ્તિત્વ નથી.<br><br></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 17,
+        marks: 1,
+        year_asked: "[Objective MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>હરિવર ક્યાં પરખાય છે (જોવા મળે છે)?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>હરિવર (કૃષ્ણ) <b>પાતાળમાં</b> પરખાય છે.<br><br></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 18,
+        marks: 2,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કાવ્યમાં મોરપીંછનો ઉલ્લેખ કઈ રીતે થયો છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કાવ્યના અંતમાં કવિ કહે છે કે જ્યારે યમુના નદીના પાતાળમાં કૃષ્ણનું તેજ રેલાય છે, ત્યારે એવું લાગે છે કે જાણે <b>'મારી તે મોરલીના આભમાં ઊગે છે એક શ્યામના તે નામનો મયંક (ચંદ્ર)'.</b> અર્થાત્ શ્યામનું મોરપીંછ એક પ્રકાશ બનીને છવાઈ ગયું છે.<br><br></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 19,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સાચી જોડણી લખો: વાંસલડી, વીભાવરી, કદમબ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>વાંસલડી</b><br>૨. <b>વિભાવરી</b><br>૩. <b>કદંબ</b><br><br></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 20,
+        marks: 2,
+        year_asked: "[Expected 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વાંસળીના સૂરને કોઈ જવાબ કેમ નથી આપતું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કારણ કે <b>કૃષ્ણના વિરહમાં સમગ્ર ગોકુળ અને પ્રકૃતિ ઉદાસ થઈ ગઈ છે.</b> કદંબની છાયા મ્લાન છે, યમુનાના વહેણ મૂંગા છે અને રાધાની આંખ ઉદાસ છે. સૌ કોઈ કૃષ્ણના દુઃખમાં ગરકાવ હોવાથી વ્યાકુળ સૂરને કોઈ જવાબ આપી શકતું નથી.<br><br></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 21,
+        marks: 3,
+        year_asked: "[March 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વાંસળીના સૂરની શોધ-યાત્રા ક્યાંથી શરૂ થઈને ક્યાં પૂરી થાય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>વાંસળીના સૂરની માધવને શોધવાની યાત્રા <b>મારગની ધૂળથી</b> શરૂ થાય છે. <br>ત્યારબાદ તે ઉદાસ કદંબના વૃક્ષ પાસે જાય છે, ત્યાંથી મૂંગા યમુના નદીના વહેણ પાસે જાય છે, અને પછી રાધાની ઉદાસ આંખોમાં કૃષ્ણને શોધે છે.<br>છેવટે, રાત્રિ (વિભાવરી) ના પગલાં અનુસરીને આ યાત્રા યમુનાના <b>પાતાળમાં</b> હરિવર (કૃષ્ણ) ના તેજસ્વી દર્શન સાથે પૂરી થાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમ યાદ રાખવાની ટ્રીક = ધૂળ -> કદંબ -> યમુના -> રાધા -> રાત -> પાતાળ. આ એક જ સિક્વન્સ યાદ રાખશો એટલે આખા કાવ્યના પ્રશ્નો આવડી જશે!</div></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 22,
+        marks: 1,
+        year_asked: "[MCQ - N. J. Classes Mock]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કાવ્યમાં 'મયંક' શબ્દનો અર્થ શું થાય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'મયંક' એટલે <b>ચંદ્ર</b> (અહીં કૃષ્ણના તેજને ચંદ્ર સાથે સરખાવ્યો છે).<br><br></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 23,
+        marks: 3,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>માધવના વિરહમાં પ્રકૃતિના કયા કયા તત્વો વ્યાકુળ છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિએ કાવ્યમાં માનવીકરણ (Personification) નો સુંદર ઉપયોગ કર્યો છે. માધવના વિરહમાં માત્ર જીવિત પાત્રો જ નહિ, પણ પ્રકૃતિ પણ રડી રહી છે.<br>૧. <b>વાંસળીનો સૂર:</b> માધવના હોઠનો સ્પર્શ ન મળવાથી વ્યાકુળ છે.<br>૨. <b>કદંબનું વૃક્ષ:</b> કૃષ્ણ તેની નીચે બેસીને વાંસળી વગાડતા, એટલે તેની છાયા પણ ઉદાસ છે.<br>૩. <b>યમુના નદી:</b> કૃષ્ણ વગર યમુનાના ખળખળ વહેતા પાણી મૂંગા થઈ ગયા છે.<br>૪. <b>રાત્રિ:</b> વિભાવરી પણ પાગલ (બાવરી) બનીને કૃષ્ણને શોધી રહી છે.<br><br></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 24,
+        marks: 4,
+        year_asked: "[Most IMP Long Question 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'માધવને દીઠો છે ક્યાંય?' કાવ્યના આધારે વાંસળીના સૂરની વિરહવેદના તમારા શબ્દોમાં વર્ણવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>હરીન્દ્ર દવેના આ ઊર્મિગીતમાં કૃષ્ણ અને વાંસળીના સૂરનો અદભુત વિરહ દર્શાવ્યો છે.<br><br>કૃષ્ણ ગોકુળ છોડીને જતા રહ્યા છે, તેથી વાંસળીનો સૂર તેમનાથી વિખૂટો પડી ગયો છે. આ સૂર અત્યંત વ્યાકુળ બનીને કૃષ્ણને શોધવા નીકળે છે.<br>&bull; તે સૌપ્રથમ મારગની ધૂળને પૂછે છે: 'મારા માધવને ક્યાંય જોયો છે?'<br>&bull; ત્યારબાદ તે યમુના નદીના કિનારે આવેલા કદંબના વૃક્ષ પાસે જાય છે, પરંતુ કદંબની છાયા પણ ઉદાસ હોય છે.<br>&bull; તે યમુના નદીના વહેણને પૂછે છે, પણ તે મૂંગા છે. રાધાની આંખોમાં પણ માત્ર ઉદાસી જ છવાયેલી જોવા મળે છે.<br>&bull; અંતે, પાગલ બનેલી રાત્રિના તેજસ્વી પગલાં જોતા વાંસળીના સૂરને આશા બંધાય છે. યમુનાના ઊંડા જળમાં (પાતાળમાં) તેને કૃષ્ણના અદભુત તેજના દર્શન થાય છે, જે આકાશમાં ઉગતા ચંદ્ર (મયંક) જેવા શીતળ છે.<br><br>આમ, કવિએ એક નિર્જીવ સૂરના માધ્યમથી ગોકુળની અત્યંત કરુણ અને પવિત્ર વિરહવેદનાને વાચા આપી છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 માર્ક્સનો પ્રશ્ન છે, એટલે આખી વાર્તા લખવી પડે! સૂર કોને કોને મળ્યો અને બધા કેમ ઉદાસ હતા, તે વિસ્તારથી લખી નાખવાનું. છેલ્લે પાતાળમાં દર્શન કરાવીને કાવ્યનો અંત ખુશીથી કરવાનો.</div></div>"
+    },
+
+    {
+        chapter: 9,
+        q_no: 25,
+        marks: 4,
+        year_asked: "[Central Idea / Value Based Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આ ઊર્મિગીતનો કેન્દ્રીય ભાવ (Central Idea) સ્પષ્ટ કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'માધવને દીઠો છે ક્યાંય?' કાવ્યનો કેન્દ્રીય ભાવ <b>શ્રીકૃષ્ણ પ્રત્યેનો અનહદ પ્રેમ અને તેમના વિરહની તીવ્ર વેદનાને દર્શાવવાનો છે.</b><br><br>કવિએ આ કાવ્યમાં કોઈ ગોપી કે રાધાના મુખેથી નહિ, પરંતુ <b>વાંસળીના સૂર</b> ના માધ્યમથી કૃષ્ણની શોધ-યાત્રા વર્ણવીને કાવ્યને અત્યંત સુંદર બનાવ્યું છે. કાવ્ય સમજાવે છે કે જ્યારે સાચો પ્રેમ હોય છે, ત્યારે વિરહ માત્ર વ્યક્તિને જ નહિ, પણ પ્રકૃતિને (વૃક્ષ, નદી, રાત્રિ) પણ અસર કરે છે.<br>કાવ્યનો અંત અત્યંત સકારાત્મક છે. ભલે કૃષ્ણ પ્રત્યક્ષ સ્વરૂપે જોવા નથી મળતા, પરંતુ તેમનું પવિત્ર તેજ (પ્રકાશ) સર્વત્ર વ્યાપેલો છે. સાચા પ્રેમ અને ભક્તિથી શોધવામાં આવે તો ઈશ્વર પાતાળમાં પણ મળી જાય છે, તે જ આ કાવ્યનો મુખ્ય સંદેશ છે.<br><br></div>"
+    },
+
+
+    // પ્રકરણ 10: ડાંગવનો અને... (મહેન્દ્રસિંહ પરમાર) - N. J. Classes (Target 2026)
+
+    {
+        chapter: 10,
+        q_no: 1,
+        marks: 1,
+        year_asked: "[March 2022, 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ડાંગવનો અને...' પાઠના લેખકનું નામ અને તેનો સાહિત્ય પ્રકાર જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખકનું નામ <b>મહેન્દ્રસિંહ પરમાર</b> છે અને આ પાઠનો સાહિત્ય પ્રકાર <b>પ્રવાસ નિબંધ / પત્ર નિબંધ</b> છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મહેન્દ્રસિંહ' ડાંગના જંગલમાં 'પ્રવાસ' કરવા ગયા અને ત્યાંથી પત્ર લખીને 'નિબંધ' મોકલ્યો! બસ, આ રીતે લેખક અને પ્રકાર યાદ રાખો.</div></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 2,
+        marks: 1,
+        year_asked: "[August 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આ પાઠ લેખકના કયા પુસ્તકમાંથી લેવામાં આવ્યો છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ પાઠ લેખકના <b>'રખડુનો કાગળ'</b> નામના પુસ્તકમાંથી લેવામાં આવ્યો છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાંગના જંગલોમાં 'રખડીને' બાપુજીને 'કાગળ' લખ્યો એટલે પુસ્તકનું નામ 'રખડુનો કાગળ'.</div></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 3,
+        marks: 1,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખક પત્ર કોને સંબોધીને લખી રહ્યા છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખક આ પત્ર પોતાના <b>બાપુજી (પિતાજી)</b> ને સંબોધીને લખી રહ્યા છે.<br><br></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 4,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખકના મિત્રો અંકલેશ્વરની મજાક કેવી રીતે ઉડાવતા? છતાં લેખકને તે કેમ ગમતું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>અંકલેશ્વરમાં કેમિકલ ફેક્ટરીઓની દુર્ગંધ આવતી હોવાથી મિત્રો તેને <b>'ગંધારું' (ગંદકીવાળું)</b> કહીને તેની મજાક ઉડાવતા. <br>પરંતુ લેખકને અંકલેશ્વર અત્યંત પ્રિય હતું, કારણ કે ત્યાંના <b>'ભોળાવ' વિસ્તારમાં નર્મદા નદીના કાંઠે સૂર્યાસ્ત જોવાની</b> તેમને ખૂબ મજા આવતી. નર્મદાની સુંદરતા તેમની આંખોમાં વસી ગઈ હતી.<br><br></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 5,
+        marks: 1,
+        year_asked: "[Board MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>અંકલેશ્વર માટે લેખકે કયો શબ્દ વાપર્યો છે? <br>(A) સ્વર્ગ (B) ભરૂચી નાકું (C) સુંદર નગરી (D) ઔદ્યોગિક નગરી</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(B) ભરૂચી નાકું</b> (અંકલેશ્વરને લેખક પોતાના પ્રિય ભરૂચી નાકા તરીકે ઓળખાવે છે).<br><br></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 6,
+        marks: 1,
+        year_asked: "[Mock Test N. J. Classes]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખકને નર્મદા નદી કેવી લાગે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખકને નર્મદા નદી <b>રમ્ય (સુંદર), ભવ્ય અને શાંત</b> લાગે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 7,
+        marks: 1,
+        year_asked: "[Grammar Section]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સમાનાર્થી શબ્દો આપો: સ્મરણ, વિસ્મય, ડાઘુ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>સ્મરણ</b> = યાદ / સ્મૃતિ<br>૨. <b>વિસ્મય</b> = આશ્ચર્ય / અચરજ<br>૩. <b>ડાઘુ</b> = મરનારને સ્મશાને લઈ જનાર માણસ<br><br></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 8,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિરુદ્ધાર્થી શબ્દો લખો: રમ્ય, સ્મરણ, પ્રકાશ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>રમ્ય</b> x કદરૂપું / બિહામણું<br>૨. <b>સ્મરણ</b> x વિસ્મરણ<br>૩. <b>પ્રકાશ</b> x અંધકાર<br><br></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 9,
+        marks: 2,
+        year_asked: "[March 2025 Expected]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રૂઢિપ્રયોગનો અર્થ આપી વાક્ય બનાવો: 'ગળે પડવું' અને 'મોતનો મલાજો જાળવવો'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>ગળે પડવું</b> = પરાણે આગ્રહ કરવો અથવા જબરદસ્તી વળગવું.<br><i>વાક્ય:</i> દુકાનદારે ખરાબ સામાન ગ્રાહકના ગળે પાડી દીધો.<br>૨. <b>મોતનો મલાજો જાળવવો</b> = મૃત્યુ સમયની મર્યાદા કે ગંભીરતા જાળવવી.<br><i>વાક્ય:</i> સ્મશાનયાત્રામાં લોકોએ મોતનો મલાજો જાળવીને શાંતિ રાખવી જોઈએ.<br><br></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 10,
+        marks: 1,
+        year_asked: "[Vocabulary Quiz]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શબ્દસમૂહ માટે એક શબ્દ આપો: 'અંધારામાં પ્રકાશ આપતું જીવડું'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>આગિયો</b> (Firefly)<br><br></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આહવાના જંગલોમાં રાત્રે આગિયાઓ કેવું દૃશ્ય સર્જે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આહવાના ગાઢ જંગલોમાં રાત પડતાં જ તારા મઢ્યા આકાશ જેવું અદભુત દૃશ્ય સર્જાય છે. <b>અંધકારમાં ચમકતા હજારો આગિયાઓ ઝાડ પર બેસીને એવું દૃશ્ય ઊભું કરે છે, જાણે આખું જંગલ શણગાર્યું હોય.</b> લેખક તેને 'મોઝેઈક' (જડતર) જેવું દૃશ્ય કહે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 12,
+        marks: 2,
+        year_asked: "[July 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આહવામાં લેખકને આદિવાસીઓનો કયો પ્રસંગ જોવા મળ્યો? તેમાં શું વિશેષતા હતી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખકને આહવામાં એક <b>મૃત્યુની સ્મશાનયાત્રા (ડાઘુઓ)</b> નો પ્રસંગ જોવા મળ્યો.<br>તેની વિશેષતા એ હતી કે આદિવાસીઓ મૃતદેહને કોઈ રોકકળ કે રડ્યા વગર એકદમ શાંતિથી લઈ જતા હતા. આગળ એક માણસ વાજિંત્ર વગાડતો ચાલતો હતો અને બાકીના લોકો શાંતિથી <b>મોતનો મલાજો (મર્યાદા)</b> જાળવીને ચાલતા હતા.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: શહેરમાં લોકો રડી-રડીને બૂમાબૂમ કરે, પણ જંગલના આદિવાસીઓ મૃત્યુને એક સત્ય સમજીને શાંતિથી વિદાય આપે છે. આ જ એમની સાચી ફિલોસોફી છે!</div></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 13,
+        marks: 1,
+        year_asked: "[MCQ - Target 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કયા ધોધનું વર્ણન આ પાઠમાં કરવામાં આવ્યું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>ગિરા ધોધ</b> (ગિરા નદી પર આવેલો).<br><br></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 14,
+        marks: 2,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગિરા ધોધનું પાણી નીચે પડે છે ત્યારે કેવું દૃશ્ય રચાય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જ્યારે ગિરા ધોધ 300 ફૂટ ઊંચેથી નીચે પડે છે, ત્યારે પાણીના <b>ભારે ઉછાળા અને ફીણ ઉડે છે.</b> સૂર્યપ્રકાશમાં તે પાણી એવી રીતે ચમકે છે કે જાણે કોઈએ <b>પાણીની ઝળહળતી જાળ (Net)</b> બિછાવી હોય! નીચે પડ્યા પછી પાણી ધીમું પડીને શાંત થઈ જાય છે.<br><br></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 15,
+        marks: 1,
+        year_asked: "[Knowledge Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગિરા ધોધ કઈ નદીમાં જઈને મળે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગિરા ધોધ આગળ જઈને <b>અંબિકા નદીમાં</b> મળે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 16,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખક પિતાજીને પત્રમાં કેવો અહેસાસ વ્યક્ત કરે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખક પ્રકૃતિની ભવ્યતા અને સુંદરતા જોઈને એટલા બધા રોમાંચિત થઈ ગયા છે કે તેમને એવું લાગે છે કે <b>જાણે તેઓ પાછા નાના બાળક બની ગયા છે અને પિતાની આંગળી પકડીને આ અદભુત પ્રકૃતિનો આનંદ માણી રહ્યા છે.</b> તેઓ પત્ર દ્વારા પોતાના આ આનંદમાં પિતાને સામેલ કરે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 17,
+        marks: 1,
+        year_asked: "[Objective MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'અહો વૈચિત્ર્યમ્!' શબ્દ લેખકે કોના માટે વાપર્યો છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>અંકલેશ્વરની ફેક્ટરીઓની દુર્ગંધ અને નર્મદા કાંઠાના <b>વિચિત્ર સંગમ (વિરોધાભાસ)</b> માટે લેખકે આ શબ્દ વાપર્યો છે.<br><br></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 18,
+        marks: 2,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ડાંગના જંગલોની વનસંપદા (પ્રકૃતિ) નું વર્ણન ટૂંકમાં કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ડાંગના જંગલોમાં સાગ અને સાલના ઊંચા-ઊંચા વૃક્ષો આવેલા છે. પવનની સાથે વૃક્ષો ઝૂમી ઉઠે છે. ત્યાં સૂર્યાસ્તના સમયે આકાશ અને વૃક્ષોના પાંદડાઓનો રંગ એકબીજામાં ભળી જઈને અદભુત ચિત્ર ઊભું કરે છે. જંગલો લીલાછમ અને ગાઢ છે.<br><br></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 19,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સાચી જોડણી લખો: પ્રકૃતી, સુર્યાસ્ત, સ્મશાન</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>પ્રકૃતિ</b><br>૨. <b>સૂર્યાસ્ત</b><br>૩. <b>સ્મશાન</b><br><br></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 20,
+        marks: 2,
+        year_asked: "[Expected 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જંગલમાં લેખકને કયો 'લય' (Rhythm) સંભળાય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખકને જંગલમાં એક અનોખો લય સંભળાય છે - <b>પવનના સુસવાટા, પક્ષીઓનો કલરવ, વહેતા ઝરણાનો અવાજ, અને દૂરથી આવતો આદિવાસીઓના વાજિંત્રનો સૂર.</b> આ બધું ભેગું મળીને કુદરતનું એક અદભુત સંગીત (લય) બનાવે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 21,
+        marks: 3,
+        year_asked: "[March 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગિરા ધોધનું ભવ્ય અને રોદ્ર સ્વરૂપ કેવું હોય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગિરા ધોધ 300 ફૂટ ઊંચેથી પ્રચંડ અવાજ સાથે નીચે ખાબકે છે. ઉપરથી જોતા તે અત્યંત ભયંકર અને રોદ્ર લાગે છે. પાણી પથ્થરો સાથે અથડાઈને મોટા મોટા ઉછાળા અને સફેદ ફીણ પેદા કરે છે. તેનો અવાજ એટલો ઘેરો છે કે આખું જંગલ ગુંજી ઉઠે છે. પરંતુ નીચે પડીને તે જ પાણી અંબિકા નદીના સ્વરૂપમાં એકદમ શાંત થઈ જાય છે. આ ગિરા ધોધનું આકર્ષક અને ભયાનક રૂપ છે.<br><br></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 22,
+        marks: 1,
+        year_asked: "[MCQ - N. J. Classes Mock]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'આગિયા' ક્યારે જોવા મળે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આગિયા <b>રાત્રિના અંધકારમાં</b> જોવા મળે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 23,
+        marks: 3,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખકના મતે આદિવાસીઓની જીવનશૈલી (ફિલોસોફી) કેવી છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આદિવાસીઓ પ્રકૃતિ સાથે જોડાયેલા અત્યંત સરળ લોકો છે. તેમની પાસે ભૌતિક સુખ-સગવડો (પૂરતા કપડાં પણ) નથી, છતાં તેઓ શાંતિથી જીવે છે. <br>સૌથી મોટી વાત તેમની મૃત્યુ પ્રત્યેની સમજ છે. તેઓ મૃત્યુને કોઈ મોટો આઘાત નથી માનતા. સ્મશાનયાત્રામાં રડવા-કકળવાના બદલે શાંતિ જાળવીને અને વાજિંત્ર વગાડીને મડદાને વિદાય આપે છે. આ તેમની ઊંડી જીવન ફિલોસોફી છે.<br><br></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 24,
+        marks: 4,
+        year_asked: "[Most IMP Long Question 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ડાંગવનો અને...' પાઠના આધારે આહવાના જંગલોના પ્રાકૃતિક સૌંદર્યનું સવિસ્તાર વર્ણન કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>મહેન્દ્રસિંહ પરમારે આહવા (ડાંગ) ના જંગલોનું અત્યંત સજીવ અને ચિત્રાત્મક વર્ણન કર્યું છે.<br><br>૧. <b>સાગ અને સાલના વૃક્ષો:</b> આહવાના જંગલોમાં સાગ અને સાલના વિશાળ અને અફાટ વૃક્ષો આવેલા છે. પવનની લહેરો સાથે આ વૃક્ષો ઝૂમી ઉઠે છે અને એક અદભુત સંગીત (લય) પેદા કરે છે.<br>૨. <b>સૂર્યાસ્તનું દૃશ્ય:</b> સાંજના સમયે સૂર્યના કિરણો અને પાંદડાઓના રંગો ભેગા મળીને આકાશમાં છવાઈ જાય છે. આ દૃશ્ય કોઈ મહાન ચિત્રકારના ચિત્ર જેવું લાગે છે.<br>૩. <b>આગિયાનો જાદુ:</b> રાત પડતાં જ ગાઢ અંધકારમાં હજારો આગિયાઓ ઝાડ પર બેસી જાય છે. જાણે આખું જંગલ મોઝેઈક (હીરા-મોતી) થી જડી દીધું હોય તેવો જાદુ રચાય છે.<br>૪. <b>ગિરા ધોધ:</b> જંગલની વચ્ચે 300 ફૂટ ઊંચેથી પડતો ગિરા ધોધ પ્રકૃતિનું ભવ્ય સ્વરૂપ બતાવે છે.<br><br>આમ, આહવાનું જંગલ લેખક માટે આંખ અને મન બંનેને તૃપ્ત કરનારું સ્વર્ગ બની જાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટા પ્રશ્ન માટે 4 સ્ટેપ યાદ રાખો: 1. ઊંચા વૃક્ષો, 2. કલરફુલ સૂર્યાસ્ત, 3. ચમકતા આગિયા, 4. ગર્જના કરતો ગિરા ધોધ. બસ આ 4 પોઇન્ટને વિસ્તારથી લખી નાખો!</div></div>"
+    },
+
+    {
+        chapter: 10,
+        q_no: 25,
+        marks: 4,
+        year_asked: "[Central Idea / Value Based Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ડાંગવનો અને...' પ્રવાસ નિબંધનો કેન્દ્રીય વિચાર (Central Idea) તમારા શબ્દોમાં સ્પષ્ટ કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ પ્રવાસ નિબંધનો મુખ્ય ઉદ્દેશ્ય <b>માનવીને પ્રકૃતિની ભવ્યતા અને સુંદરતાનો પરિચય કરાવવાનો છે.</b><br><br>લેખક પત્રના માધ્યમથી પોતાના પિતાને અંકલેશ્વરની નર્મદા નદીથી લઈને ડાંગના ગાઢ જંગલો સુધીની સફર કરાવે છે. તેઓ સાબિત કરે છે કે પ્રકૃતિ માત્ર જોવા માટેની વસ્તુ નથી, પરંતુ તે અનુભવવાનો વિષય છે. નદી, ઝરણા, પહાડો અને વૃક્ષોમાં જીવંત સંગીત રહેલું છે. <br>સાથે જ, જંગલમાં રહેતા આદિવાસીઓની સરળ જીવનશૈલી અને 'મોતનો મલાજો' જાળવવાની તેમની સમજણ દ્વારા લેખક આધુનિક માનવીને શીખવે છે કે સાચું સુખ અને શાંતિ કુદરતના ખોળે અને સાદગીમાં જ છે.<br><br></div>"
+    },
         
 ];
 
