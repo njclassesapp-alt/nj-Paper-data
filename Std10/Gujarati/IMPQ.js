@@ -2189,6 +2189,461 @@ var Std10_Gujarati_imp = [
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ડાંગવનો અને...' પ્રવાસ નિબંધનો કેન્દ્રીય વિચાર (Central Idea) તમારા શબ્દોમાં સ્પષ્ટ કરો.</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ પ્રવાસ નિબંધનો મુખ્ય ઉદ્દેશ્ય <b>માનવીને પ્રકૃતિની ભવ્યતા અને સુંદરતાનો પરિચય કરાવવાનો છે.</b><br><br>લેખક પત્રના માધ્યમથી પોતાના પિતાને અંકલેશ્વરની નર્મદા નદીથી લઈને ડાંગના ગાઢ જંગલો સુધીની સફર કરાવે છે. તેઓ સાબિત કરે છે કે પ્રકૃતિ માત્ર જોવા માટેની વસ્તુ નથી, પરંતુ તે અનુભવવાનો વિષય છે. નદી, ઝરણા, પહાડો અને વૃક્ષોમાં જીવંત સંગીત રહેલું છે. <br>સાથે જ, જંગલમાં રહેતા આદિવાસીઓની સરળ જીવનશૈલી અને 'મોતનો મલાજો' જાળવવાની તેમની સમજણ દ્વારા લેખક આધુનિક માનવીને શીખવે છે કે સાચું સુખ અને શાંતિ કુદરતના ખોળે અને સાદગીમાં જ છે.<br><br></div>"
     },
-        
+    
+
+    // પ્રકરણ 11: શિકારીને (કલાપી) - N. J. Classes (Target 2026)
+
+    {
+        chapter: 11,
+        q_no: 1,
+        marks: 1,
+        year_asked: "[March 2022, 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'શિકારીને' કાવ્યના કવિનું નામ અને તેનો સાહિત્ય પ્રકાર જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિનું નામ <b>કલાપી</b> છે અને આ કાવ્યનો સાહિત્ય પ્રકાર <b>ઊર્મિકાવ્ય (સોનેટ)</b> છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કલાપી' એટલે મોર (એક પક્ષી). પક્ષીઓ પ્રત્યે પ્રેમ હોય એટલે જ તેમણે યુવાનને 'શિકારીને' કાવ્ય લખીને શિકાર કરવાની ના પાડી! આ રીતે કવિ અને કાવ્યનું નામ આસાનીથી યાદ રહી જશે.</div></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 2,
+        marks: 1,
+        year_asked: "[August 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આ કાવ્ય કવિના કયા કાવ્યસંગ્રહમાંથી લેવામાં આવ્યું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ કાવ્ય કવિ કલાપીના પ્રખ્યાત કાવ્યસંગ્રહ <b>'કલાપીનો કેકારવ'</b> માંથી લેવામાં આવ્યું છે.<br><br></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 3,
+        marks: 1,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ કોને સંબોધીને આ કાવ્ય લખે છે અને તેને શું કરવાની ના પાડે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ <b>યુવાન શિકારીને</b> સંબોધીને કાવ્ય લખે છે અને તેને <b>પક્ષીઓનો સંહાર (શિકાર) કરવાની</b> ના પાડે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 4,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિના મતે પક્ષીને તીર મારવાથી શું મળશે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિના મતે પક્ષીને તીર મારવાથી <b>પક્ષીનું મધુર ગીત કે સૌંદર્ય ક્યારેય નહિ મળે, પરંતુ માત્ર તેનું 'સ્થૂળ' (નિર્જીવ/મૃત) શરીર જ મળશે.</b> મરેલા પક્ષીમાંથી પ્રકૃતિનો કોઈ આનંદ મળતો નથી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: તીર વાગે એટલે પક્ષીનો જીવ જાય, અને જીવ જાય એટલે ગીત બંધ! હાથમાં માત્ર માંસ અને પીંછા જ આવે. તેથી કવિ કહે છે કે પક્ષીને તીરથી નહિ, કાનથી (સાંભળીને) પામો.</div></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 5,
+        marks: 1,
+        year_asked: "[Board MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિના મતે આખું વિશ્વ શું છે? <br>(A) યુદ્ધભૂમિ (B) સંતનો આશ્રમ (C) બગીચો (D) ઘર</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(B) સંતનો આશ્રમ</b> (વિશ્વ આશ્રમ સંતનું - એટલે કે પવિત્ર અને શાંતિપૂર્ણ જગ્યા).<br><br></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 6,
+        marks: 1,
+        year_asked: "[Mock Test N. J. Classes]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પક્ષીને પામવા માટે કવિ શું કરવાની સલાહ આપે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પક્ષીને પામવા માટે કવિ ઝાડની ડાળી પર કે ક્યાંક <b>છાનામાના છુપાઈને તેનું મધુર ગીત સાંભળવાની</b> સલાહ આપે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 7,
+        marks: 1,
+        year_asked: "[Grammar Section]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સમાનાર્થી શબ્દો આપો: સંહાર, રૂડું, તરુ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>સંહાર</b> = નાશ / વિનાશ / શિકાર<br>૨. <b>રૂડું</b> = સુંદર / સારું<br>૩. <b>તરુ</b> = વૃક્ષ / ઝાડ<br><br></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 8,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિરુદ્ધાર્થી શબ્દો લખો: સૌંદર્ય, ક્રૂરતા, આર્દ્રતા</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>સૌંદર્ય</b> x કદરૂપતા<br>૨. <b>ક્રૂરતા</b> x દયા / કરુણા<br>૩. <b>આર્દ્રતા</b> (ભિનાશ/માયાળુપણું) x શુષ્કતા (સૂકાપણું)<br><br></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 9,
+        marks: 2,
+        year_asked: "[March 2025 Model Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શબ્દસમૂહ માટે એક શબ્દ આપો: 'પક્ષીઓનો મધુર અવાજ' અને 'દયાવિહોણું વર્તન'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. પક્ષીઓનો મધુર અવાજ = <b>કલરવ</b><br>૨. દયાવિહોણું વર્તન = <b>ક્રૂરતા</b><br><br></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 10,
+        marks: 1,
+        year_asked: "[Vocabulary Quiz]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કાવ્યમાં વપરાયેલો 'આર્દ્રતા' શબ્દનો અર્થ શું થાય?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આર્દ્રતા એટલે <b>ભિનાશ, મૃદુતા અથવા માયાળુપણું (દયાનો ભાવ)</b>.<br><br></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ 'વિશ્વ આશ્રમ સંતનું' એમ કેમ કહે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જેમ સંતના આશ્રમમાં શાંતિ, પ્રેમ, જીવદયા અને અહિંસા હોય છે, તેમ <b>ઈશ્વરે બનાવેલું આ આખું વિશ્વ પણ એક પવિત્ર આશ્રમ જેવું જ છે.</b> તેથી કવિ યુવાનને કહે છે કે સંતના આશ્રમ સમાન આ વિશ્વમાં પક્ષીઓને મારીને તારે ક્રૂરતા દાખવવી જોઈએ નહિ.<br><br></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 12,
+        marks: 2,
+        year_asked: "[July 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિના મતે સૌંદર્ય પામવા માટે સૌપ્રથમ શું કરવું પડે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિના મતે પ્રકૃતિનું સૌંદર્ય પામવા (મેળવવા) માટે <b>સૌપ્રથમ આપણે પોતે 'સૌંદર્ય' (અંદરથી સુંદર/દયાળુ) બનવું પડે.</b> જો આપણા મનમાં ઘાતકી અને ક્રૂર વિચારો હશે, તો આપણે ક્યારેય પ્રકૃતિની સુંદરતાનો આનંદ માણી શકીશું નહિ.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુલાબની સુંદરતા જોવી હોય તો કાંટા સાચવીને તેને નીહાળવું પડે, જો તોડી નાખો તો થોડા સમયમાં કરમાઈ જાય. સુંદરતાને પામવા દિલ સુંદર રાખવું પડે!</div></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 13,
+        marks: 1,
+        year_asked: "[MCQ - Target 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પક્ષી છાનામાના સાંભળવાથી ક્યાં મળશે? <br>(A) પાંજરામાં (B) આકાશમાં (C) હૈયામાં (D) ડાળી પર</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(C) હૈયામાં</b> (પક્ષી તેના પ્રભુ સાથે હૈયામાં મળશે તને).<br><br></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 14,
+        marks: 2,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કલાપીનો પરિચય ટૂંકમાં આપો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ 'કલાપી' નું મૂળ અને પૂરું નામ <b>સુરસિંહજી તખ્તસિંહજી ગોહિલ</b> હતું. તેઓ અમરેલી જિલ્લાના <b>લાઠી</b> રાજ્યના રાજવી (રાજા) હતા. તેઓ ગુજરાતી સાહિત્યના અત્યંત સંવેદનશીલ અને પ્રેમાળ કવિ તરીકે જાણીતા છે.<br><br></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 15,
+        marks: 1,
+        year_asked: "[Knowledge Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'શિકારીને' કાવ્ય કયા છંદમાં રચાયેલું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ સોનેટ <b>શિખરિણી છંદ (17 અક્ષર)</b> માં રચાયેલું છે. (ય-મ-ન-સ-ભ-લ-ગા).<br><br></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 16,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સૌંદર્યો વિશે કવિનો શો મત છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ માને છે કે <b>સૌંદર્યો વેડફી દેવાથી (નાશ કરવાથી) ક્યારેય સુંદરતા મળતી નથી.</b> સૌંદર્યને માણવું એ પ્રભુ સાથે જોડાવાનો એક રસ્તો છે. પ્રકૃતિની સુંદરતાને પોષવી (સાચવવી) અને તેને પૂજવી (આદર આપવો) એ જ તેનો સાચો ઉપભોગ છે.<br><br></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 17,
+        marks: 1,
+        year_asked: "[Objective MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પ્રકૃતિના કયા કયા તત્વોનો ઉલ્લેખ કાવ્યમાં છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કાવ્યમાં પંખીડાં, ફૂલડાં, લતા (વેલ), ઝરણાં અને તરુ (વૃક્ષ) નો ઉલ્લેખ છે.<br><br></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 18,
+        marks: 2,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'બધે છે આર્દ્રતા છાઈ તેમાં કંઈ ભળવું ભલું' - પંક્તિ સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ યુવાનને કહે છે કે આ સમગ્ર પ્રકૃતિ અને વિશ્વમાં આર્દ્રતા (પ્રેમ, ભિનાશ અને માયાળુપણું) છવાયેલી છે. <b>આપણે પણ આપણા સ્વભાવમાં દયા અને પ્રેમ લાવીને આ પ્રકૃતિ સાથે એકરૂપ થઈ જવું જોઈએ.</b> એમાં જ આપણું કલ્યાણ (ભલું) છે, નહિ કે ક્રૂરતા કરવામાં.<br><br></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 19,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સાચી જોડણી લખો: શિકારીને, શિખરિણી, સૌંદર્ય</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ત્રણેય જોડણી સાચી છે: <b>શિકારીને</b>, <b>શિખરિણી</b>, <b>સૌંદર્ય</b>.<br><br></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 20,
+        marks: 2,
+        year_asked: "[Expected 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ 'સ્થૂળ' શબ્દનો પ્રયોગ કેમ કરે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'સ્થૂળ' એટલે નિર્જીવ અથવા માત્ર દેખાવ પૂરતું. પક્ષીને તીરથી મારી નાખવાથી માત્ર તેનું લોહીવાળું મૃત શરીર (સ્થૂળ વસ્તુ) જ મળે છે, પણ <b>તેનામાં રહેલો જીવ, ચેતના કે તેનો મધુર અવાજ કાયમ માટે ખતમ થઈ જાય છે.</b> આ દર્શાવવા કવિ સ્થૂળ શબ્દ વાપરે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 21,
+        marks: 3,
+        year_asked: "[March 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'સૌંદર્યો પામતાં પહેલાં સૌંદર્ય બનવું પડે' - આ વિધાન સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પ્રકૃતિએ આપણને ફૂલો, પક્ષીઓ અને ઝરણાં રૂપી અદભુત સૌંદર્ય ભેટમાં આપ્યું છે. પરંતુ માણસ પોતાના સ્વાર્થ અને ક્રૂરતાને કારણે તેનો નાશ (શિકાર) કરવા બેઠો છે.<br>કવિ કહે છે કે જો તમારે ખરા અર્થમાં કોઈ સુંદર વસ્તુને માણવી હોય કે તેનો આનંદ લેવો હોય, તો તમારા હૃદયમાં પણ સુંદરતા (દયા, પ્રેમ અને કરુણા) હોવી જોઈએ. ક્રૂર અને હિંસક માણસ ક્યારેય કુદરતી સૌંદર્યનો આનંદ માણી શકતો નથી. એટલે જ <b>સુંદરતા મેળવવા માટે સૌપ્રથમ દિલથી સુંદર બનવું જરૂરી છે.</b><br><br></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 22,
+        marks: 1,
+        year_asked: "[MCQ - N. J. Classes Mock]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સોનેટ કાવ્યપ્રકારમાં સામાન્ય રીતે કેટલી પંક્તિઓ હોય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સોનેટ કાવ્યમાં હંમેશા <b>૧૪ (ચૌદ) પંક્તિઓ</b> હોય છે.<br><br></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 23,
+        marks: 3,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ પ્રકૃતિના સૌંદર્યને પોષવાની કેમ વાત કરે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ કલાપી પ્રકૃતિપ્રેમી છે. તેઓ માને છે કે આખું વિશ્વ પરમાત્માનું સર્જન છે. પક્ષીઓ, ફૂલો અને ઝરણાં એ ઈશ્વરના જ અંશ છે.<br>જો આપણે તેમનો નાશ કે શિકાર કરીશું, તો તે પ્રભુના સર્જનનું અપમાન ગણાશે. પ્રકૃતિને <b>પોષવી (તેનું રક્ષણ કરવું) અને પૂજવી (તેને આદર આપવો)</b> એ જ ઈશ્વરની સાચી ભક્તિ છે અને એ જ પ્રકૃતિનો સાચો ઉપભોગ છે. એટલા માટે કવિ તેને પોષવાની વાત કરે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 24,
+        marks: 4,
+        year_asked: "[Most IMP Long Question 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'શિકારીને' કાવ્યનો ભાવાર્થ (કવિનો સંદેશ) સવિસ્તાર સ્પષ્ટ કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ કલાપીએ 'શિકારીને' સોનેટ દ્વારા જીવદયા, અહિંસા અને પ્રકૃતિપ્રેમનો ઉત્તમ સંદેશ આપ્યો છે.<br><br>૧. <b>સંહાર ન કરવાની અપીલ:</b> કવિ એક યુવાન શિકારીને રોકતા કહે છે કે તું આ પક્ષીઓનો ક્રૂર શિકાર કરવાનું રહેવા દે. આ આખું વિશ્વ એક સંતના આશ્રમ જેવું પવિત્ર છે, તેમાં આવી ક્રૂરતા શોભતી નથી.<br>૨. <b>સાચું સૌંદર્ય:</b> પક્ષીને તીર મારવાથી માત્ર તેનું નિર્જીવ શરીર મળશે. જો તારે સાચા અર્થમાં પક્ષીને પામવું હોય, તો ઝાડની ડાળી પર છુપાઈને તેના મધુર ગીતો સાંભળ. તેમાંથી તને પ્રભુના દર્શન થશે.<br>૩. <b>સુંદરતાનો સિદ્ધાંત:</b> કવિનો સ્પષ્ટ મત છે કે કુદરતી સૌંદર્યનો નાશ કરવાથી કંઈ મળતું નથી. સુંદરતા માણવા માટે હૃદયમાં પ્રેમ અને દયા હોવા જોઈએ. સૌંદર્યનો નાશ કરવો એ પ્રભુનો નાશ કરવા સમાન છે.<br><br>અંતમાં કવિ કહે છે કે <b>બધા સાથે પ્રેમથી (આર્દ્રતાથી) હળીમળીને રહેવામાં જ મનુષ્યનું સાચું કલ્યાણ છે.</b> 'જીવો અને જીવવા દો' નો સિદ્ધાંત આ કાવ્યનો મુખ્ય ભાવાર્થ છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટા પ્રશ્નના જવાબમાં 3 બાબતો ભૂલ્યા વગર લખવી: ૧. તીર મારવાથી માત્ર ડેડબોડી મળે. ૨. ગીત સાંભળવાથી પ્રભુ મળે. 3. સુંદરતા માણવા દિલ સાફ હોવું જોઈએ. આટલું લખશો એટલે કોઈ માર્ક્સ નહિ કાપે!</div></div>"
+    },
+
+    {
+        chapter: 11,
+        q_no: 25,
+        marks: 4,
+        year_asked: "[Central Idea / Title Justification]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'વસુધૈવ કુટુમ્બકમ્' ની ભાવના 'શિકારીને' કાવ્યમાં કઈ રીતે વ્યક્ત થઈ છે? સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'વસુધૈવ કુટુમ્બકમ્' એટલે <b>આખી પૃથ્વી એક પરિવાર છે.</b><br><br>કવિ કલાપીના 'શિકારીને' કાવ્યમાં આ ભાવના સંપૂર્ણપણે જોવા મળે છે. કવિ માત્ર મનુષ્યોને જ નહિ, પરંતુ પંખીડાં, ફૂલડાં, લતા, ઝરણાં અને વૃક્ષોને પણ આ વિશ્વરૂપી પરિવારના સભ્યો માને છે.<br>કવિ શિકારીને કહે છે કે આ વિશ્વ એક સંતનો આશ્રમ છે. આશ્રમમાં જેવી રીતે કોઈના પ્રત્યે હિંસા કે દ્વેષ હોતો નથી, તેવી જ રીતે આ વિશ્વમાં પણ દરેક જીવને જીવવાનો અધિકાર છે. પક્ષીઓને મારીને મનુષ્ય પોતાના જ પરિવારના સભ્યની હત્યા કરે છે. તેથી કવિ સૌને પ્રેમ અને દયા (આર્દ્રતા) થી હળીમળીને રહેવાનો સુંદર સંદેશ આપે છે, જે 'વસુધૈવ કુટુમ્બકમ્' ની ભાવનાને 100% સાર્થક કરે છે.<br><br></div>"
+    },
+    
+
+    // પ્રકરણ 12: ચોપડાની ઇન્દ્રજાળ (ચંદ્રકાંત પંડ્યા) - N. J. Classes (Target 2026)
+
+    {
+        chapter: 12,
+        q_no: 1,
+        marks: 1,
+        year_asked: "[March 2022, July 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ચોપડાની ઇન્દ્રજાળ' પાઠના લેખકનું નામ અને તેનો સાહિત્ય પ્રકાર જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખકનું નામ <b>ચંદ્રકાંત પંડ્યા</b> છે અને આ પાઠનો સાહિત્ય પ્રકાર <b>આત્મકથાખંડ</b> છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચંદ્રકાંતે' પોતાના જીવનની કથા (આત્મકથા) લખી, જેમાં તેમણે બતાવ્યું કે ગરીબ માણસને દેવાના ચોપડામાં કેવી રીતે ફસાવવામાં આવતો!</div></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 2,
+        marks: 1,
+        year_asked: "[August 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આ પાઠ લેખકના કયા આત્મકથા પુસ્તકમાંથી લેવામાં આવ્યો છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ પાઠ લેખકના <b>'બાનો ભીખુ'</b> નામના પુસ્તકમાંથી લેવામાં આવ્યો છે.<br><br></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 3,
+        marks: 1,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આ પાઠમાં કઈ જાતિના ગરીબ અને ભોળા લોકોના આર્થિક શોષણની વાત છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ પાઠમાં <b>રાનીપરજ (આદિવાસી)</b> કોમના ગરીબ લોકોના આર્થિક શોષણની વાત છે.<br><br></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 4,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખકના પિતાજી મૃત્યુ પામ્યા ત્યારે બાની સ્થિતિ કેવી હતી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પિતાજીના મૃત્યુ પછી જમીન ગણોતે ખેડનાર કોઈ ન રહ્યું, તેથી જમીન મૂળ માલિકને સોંપી દેવી પડી. હવે ઘર ચલાવવાનો અને પિતાજીનું દેવું ચૂકવવાનો તમામ બોજ <b>માત્ર 'બા' (લેખકની માતા) ના માથે આવી પડ્યો હતો.</b> બા ગાય-ભેંસ રાખીને અને ખેતી કરીને જેમતેમ બાળકો ઉછેરતા હતા.<br><br></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 5,
+        marks: 1,
+        year_asked: "[Board MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સાહુકારના ચોપડાનું ગણિત કેવું હતું? <br>(A) ૧૭ પંચા ૮૫ (B) ૧૭ પંચા ૯૫ (C) વ્યાજબી (D) શૂન્ય</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(B) ૧૭ પંચા ૯૫</b> (સાહુકાર ગરીબ લોકોને છેતરવા માટે ૧૭ ગુણ્યા ૫ બરાબર ૮૫ ના બદલે ૯૫ લખીને ખોટો હિસાબ કરતા).<br><br></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 6,
+        marks: 1,
+        year_asked: "[Mock Test N. J. Classes]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જીવલો કયા ગામમાં રહેતો હતો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જીવલો <b>મરઘમાળ</b> ગામમાં રહેતો હતો.<br><br></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 7,
+        marks: 1,
+        year_asked: "[Grammar Section]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સમાનાર્થી શબ્દો આપો: ઋણ, રાંક, વેરાન</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>ઋણ</b> = કરજ / દેવું / લેણું<br>૨. <b>રાંક</b> = ગરીબ / નિર્ધન<br>૩. <b>વેરાન</b> = ઉજ્જડ / સૂમસામ<br><br></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 8,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિરુદ્ધાર્થી શબ્દો લખો: દેવાદાર, પ્રામાણિક, અજ્ઞાન</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>દેવાદાર</b> x લેણદાર<br>૨. <b>પ્રામાણિક</b> x અપ્રામાણિક<br>૩. <b>અજ્ઞાન</b> x જ્ઞાની<br><br></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 9,
+        marks: 2,
+        year_asked: "[March 2025 Model Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રૂઢિપ્રયોગનો અર્થ આપી વાક્ય બનાવો: 'ઘી-કેળાં હોવાં' અને '૧૭ પંચા ૯૫ કરવા'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>ઘી-કેળાં હોવાં</b> = માલામાલ હોવું અથવા આર્થિક રીતે ખૂબ સુખી હોવું.<br><i>વાક્ય:</i> શેઠની દુકાન બરાબર ચાલે છે, એટલે એમને તો ઘી-કેળાં છે.<br>૨. <b>૧૭ પંચા ૯૫ કરવા</b> = અજ્ઞાન માણસને ખોટો હિસાબ આપીને છેતરવું.<br><i>વાક્ય:</i> ગરીબ આદિવાસીઓને સાહુકારો ૧૭ પંચા ૯૫ કરીને લૂંટતા હતા.<br><br></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 10,
+        marks: 2,
+        year_asked: "[Vocabulary Quiz]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કહેવતનો અર્થ સ્પષ્ટ કરો: 'બોડીને તાં વળી કાહકી કેવી?'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>અર્થ:</b> અત્યંત ગરીબ વ્યક્તિ પાસે સાધારણ સુવિધાની અપેક્ષા પણ ન રાખી શકાય.<br>(જે સ્ત્રીના માથા પર વાળ જ નથી, તેની પાસે કાંસકો માંગવાનો કોઈ અર્થ નથી). આ વાક્ય જીવલો ત્યારે બોલે છે જ્યારે લેખક તેની પાસે શાકભાજી ભરવા માટે થેલી માંગે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવલા પાસે પહેરવા પૂરા કપડા નહોતા, તો પ્લાસ્ટિકની થેલી ક્યાંથી હોય? એટલે એણે હસીને કહી દીધું કે 'બોડીને (જેને વાળ નથી તેને) કાહકી (કાંસકી) ની શું જરૂર?'</div></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખક (ભીખુ) અને તેમના મિત્રોને ઉઘરાણી કરવા જવાનું શા માટે ગમતું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખક અને તેમના મિત્રો રવિવારના દિવસે ઉઘરાણીએ જતા. તેમને આ કામ માટે જવાનું ખૂબ ગમતું કારણ કે રસ્તામાં તેમને <b>નદીમાં નાહવા મળતું અને ઋતુ મુજબના ફળો (જેમ કે બોર, જાંબુ, કેરી) મફતમાં ખાવા મળતા.</b> તેમના માટે ઉઘરાણી એ કોઈ કામ નહિ, પણ એક પિકનિક જેવું હતું.<br><br></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 12,
+        marks: 2,
+        year_asked: "[July 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જીવલો દર વર્ષે લેખકના ઘરે કઈ કઈ વસ્તુઓ આપી જતો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જીવલો ઋણ ચૂકવવા માટે દર વર્ષે લેખકના ઘરે <b>શેરડી, ગોળ, કઠોળ, શાકભાજી, લાકડાં અને અનાજ</b> જેવી વસ્તુઓ આપી જતો. આ વસ્તુઓ તે પોતાના ખેતરની ઉપજમાંથી આપતો હતો.<br><br></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 13,
+        marks: 1,
+        year_asked: "[MCQ - Target 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જીવલાના પુત્રનું નામ શું હતું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જીવલાના પુત્રનું નામ <b>ગોવિંદ</b> હતું.<br><br></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 14,
+        marks: 2,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખક જીવલાના ઘરે ઉઘરાણીએ ગયા ત્યારે જીવલાએ તેમને શું જમાડ્યું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જીવલાએ લેખકનું સાચા અતિથિની જેમ સ્વાગત કર્યું. તેણે પોતાના પુત્ર ગોવિંદને ગામમાંથી ગાયનું ઘી માંગવા મોકલ્યો અને પોતાની પત્ની પાસે <b>ચોખાના લોટનો સ્વાદિષ્ટ શીરો</b> બનાવીને લેખકને પ્રેમથી જમાડ્યો.<br><br></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 15,
+        marks: 1,
+        year_asked: "[Knowledge Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ચોપડાની ઇન્દ્રજાળમાં ફસાયેલા જીવલાની આર્થિક સ્થિતિ કેવી હતી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જીવલો રાત-દિવસ કાળી મજૂરી કરતો હતો, છતાં તેની સ્થિતિ અત્યંત દયનીય હતી. તેના બાળકો <b>અર્ધનગ્ન (પૂરા કપડાં વગરના) અને ભૂખ્યા</b> રહેતા હતા.<br><br></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 16,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભીખુને શીરો ખાતી વખતે કેમ અફસોસ (દુઃખ) થયો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જ્યારે ભીખુ (લેખક) શીરો ખાઈ રહ્યા હતા, ત્યારે જીવલાના ભૂખ્યા અને અર્ધનગ્ન બાળકો શીરા તરફ લલચાયેલી નજરે જોઈ રહ્યા હતા. <br>આ દૃશ્ય જોઈને ભીખુને અહેસાસ થયો કે પોતે <b>એક શોષક (અત્યાચારી) સાહુકાર છે અને ગરીબના મોંનો કોળિયો છીનવીને પોતે ખાઈ રહ્યો છે.</b> તેથી તેમના ગળે શીરો ઊતરતો ન હતો અને તેમને દુઃખ થયું.<br><br></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 17,
+        marks: 1,
+        year_asked: "[Objective MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જીવલાએ વાડામાંથી શું તોડીને લેખકને આપ્યું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જીવલાના પુત્ર ગોવિંદે વાડામાંથી <b>વાલોળ અને રીંગણાં</b> તોડીને લેખકને આપ્યા.<br><br></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 18,
+        marks: 2,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખકના પિતાજીના મૃત્યુ પછી પણ જીવલાએ લેણું ચૂકવવાનું કેમ ચાલુ રાખ્યું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જીવલો અત્યંત પ્રામાણિક હતો. તેનું માનવું હતું કે <b>"સાહુકારના છોકરાને ભૂખે ન મરાય"</b> (એટલે કે લેખકના પિતાજીના મૃત્યુ પછી તેમના બાળકોને તકલીફ ન પડવી જોઈએ). આ ઉચ્ચ ભાવનાને કારણે ગરીબ હોવા છતાં તે દર વર્ષે અનાજ, લાકડાં અને શાકભાજી રૂપે પોતાનું ઋણ ચૂકવતો હતો.<br><br></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 19,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સાચી જોડણી ઓળખાવો: ચક્રવૃધી / ચક્રવૃદ્ધિ, ઈન્દ્રજાળ / ઇન્દ્રજાળ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સાચી જોડણી: <b>ચક્રવૃદ્ધિ</b> અને <b>ઇન્દ્રજાળ</b><br><br></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 20,
+        marks: 2,
+        year_asked: "[Expected 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જીવલાનું દેવું ક્યારેય પૂરું કેમ થતું ન હતું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કારણ કે સાહુકાર (લેખકના પિતાજી) <b>ચક્રવૃદ્ધિ વ્યાજ (વ્યાજનું વ્યાજ)</b> ગણતા હતા. ઉપરથી જીવલો જે અનાજ, શાકભાજી કે લાકડાં આપી જતો, તેની કિંમત મૂળ રકમ (મુદ્દલ) માંથી ક્યારેય બાદ કરવામાં આવતી ન હતી. આ 17 પંચા 95 ના ખોટા હિસાબને કારણે જીવલાનું દેવું ક્યારેય પૂરું થતું ન હતું.<br><br></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 21,
+        marks: 3,
+        year_asked: "[March 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'જીવલા, આજથી તું લેણામાંથી મુક્ત' - લેખકે આવું શા માટે કહ્યું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>એક દિવસ જીવલો લેખકના ઘરે હિસાબ કરવા આવ્યો. લેખકે લાલ ચોપડો કાઢીને જોયું તો મૂળ રકમ ૩૦૦ રૂપિયા હતી, પણ ચક્રવૃદ્ધિ વ્યાજ ઉમેરાઈને તે 1500 રૂપિયા થઈ ગઈ હતી!<br>લેખકને આ જોઈને આંચકો લાગ્યો. તેમણે વિચાર્યું કે જીવલો પોતાનું લોહી-પરસેવો એક કરીને અનાજ આપે છે, છતાં તેનો હિસાબ ક્યારેય ઘટતો નથી. <b>સાહુકાર તરીકે આ એક ગરીબનું નિર્દયતાથી થતું શોષણ હતું.</b> આ પાપનો અહેસાસ થતાં લેખકના હૃદયમાં માનવતા જાગી. તેમણે તરત જ જીવલાના દેવાના ચોપડાના પાના ફાડી નાખ્યા અને તેને દેવામાંથી કાયમ માટે મુક્ત કરી દીધો.<br><br></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 22,
+        marks: 1,
+        year_asked: "[MCQ - N. J. Classes Mock]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખક કયા ચોપડાને 'ઇન્દ્રજાળ' કહે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખક સાહુકારના <b>રાતા (લાલ) ચોપડાને</b> જેમાં ખોટો હિસાબ લખાતો હતો, તેને ઇન્દ્રજાળ (માયાજાળ) કહે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 23,
+        marks: 3,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ભીખુના પાત્રનું (લેખકનું) ટૂંકમાં પાત્રાલેખન કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભીખુ (ચંદ્રકાંત પંડ્યા) એક સંવેદનશીલ અને માનવતાવાદી પાત્ર છે. <br>શરૂઆતમાં તે એક બાળક તરીકે ઉઘરાણીએ જાય છે અને મજા કરે છે. પરંતુ જ્યારે તે જીવલાની ગરીબી અને તેના ભૂખ્યા બાળકોને જુએ છે, ત્યારે તેના અંતરાત્માને ઠેસ પહોંચે છે. તે સમજી જાય છે કે સાહુકારનો ચોપડો એક ભ્રષ્ટાચાર છે. તેને પોતાની જાત પર શરમ આવે છે અને અંતે તે ચોપડાના પાના ફાડીને એક ગરીબ ખેડૂતને ઋણમુક્ત કરે છે. આ તેનું ઉચ્ચ માનવીય પાસું દર્શાવે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 24,
+        marks: 4,
+        year_asked: "[Most IMP Long Question 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જીવલાનું પાત્રાલેખન કરો (જીવલાના પાત્રની વિશેષતાઓ વર્ણવો).</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જીવલો આ પાઠનું સૌથી કરુણ અને પ્રેરણાદાયક પાત્ર છે.<br><br>૧. <b>અત્યંત ગરીબ પણ મહેનતુ:</b> જીવલો એક ગરીબ રાનીપરજ (આદિવાસી) છે. તે રાત-દિવસ કાળી મજૂરી કરે છે. છતાં તેની પાસે પહેરવા પૂરા કપડા નથી કે માલ બાંધવા માટે થેલી (બોડીને તાં કાહકી કેવી) પણ નથી.<br>૨. <b>પ્રામાણિક અને વફાદાર:</b> જીવલાએ લેખકના પિતાજી પાસેથી ૩૦૦ રૂપિયાની લોન લીધી હતી. પિતાજીના મૃત્યુ પછી તે ધારે તો પૈસા આપવાની ના પાડી શક્યો હોત. પણ તે માને છે કે 'સાહુકારના છોકરાને ભૂખે ન મરાય'. તેથી તે દર વર્ષે મફતમાં અનાજ અને લાકડાં આપી જાય છે.<br>૩. <b>અતિથિ દેવો ભવ:</b> જ્યારે લેખક તેના ઘરે ઉઘરાણીએ જાય છે, ત્યારે તે પોતાના ભૂખ્યા બાળકોની ચિંતા કર્યા વગર લેખકને ઘીવાળો શીરો જમાડે છે.<br>૪. <b>અજ્ઞાનતાનો ભોગ:</b> તે અભણ છે, તેથી સાહુકારના ખોટા હિસાબ (17 પંચા 95) ને પકડી શકતો નથી અને જીવનભર દેવાની માયાજાળમાં ફસાયેલો રહે છે.<br><br>આમ, જીવલો ગરીબી, અજ્ઞાનતા અને પ્રામાણિકતાનું જીવંત પ્રતીક છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: પાત્રાલેખન એટલે કેરેક્ટર સ્કેચ. આ 4 પોઇન્ટ યાદ રાખો: ગરીબ, મહેનતુ, ઈમાનદાર, અને બિચારો (જેને સાહુકારો લૂંટે છે). આટલું લખશો એટલે તમારો જવાબ 100% સાચો!</div></div>"
+    },
+
+    {
+        chapter: 12,
+        q_no: 25,
+        marks: 4,
+        year_asked: "[Central Idea / Title Justification]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ચોપડાની ઇન્દ્રજાળ' પાઠનો કેન્દ્રીય વિચાર (Central Idea) તમારા શબ્દોમાં સ્પષ્ટ કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'ચોપડાની ઇન્દ્રજાળ' આત્મકથાખંડનો મુખ્ય ઉદ્દેશ્ય <b>ગરીબ અને અજ્ઞાન લોકો પર થતા આર્થિક શોષણને ઉજાગર કરવાનો છે.</b><br><br>લેખક સમજાવે છે કે જૂના સમયમાં સાહુકારો રાતો ચોપડો રાખતા હતા. આ ચોપડામાં તેઓ 17 પંચા 95 જેવો ખોટો હિસાબ લખીને અને ચક્રવૃદ્ધિ વ્યાજ લગાડીને ગરીબ ખેડૂતોને કાયમ માટે દેવાદાર બનાવી દેતા હતા. આ ચોપડો કોઈ હિસાબની બુક ન હતી, પણ ગરીબોને ફસાવવાની એક માયાજાળ (ઇન્દ્રજાળ) હતી.<br>સાથે જ, આ પાઠ જીવલા જેવા આદિવાસીઓની અદભુત પ્રામાણિકતા દર્શાવે છે, જેઓ પોતાનું સર્વસ્વ લૂંટાઈ ગયા પછી પણ સાહુકારનું ખરાબ ઈચ્છતા નથી. અંતમાં લેખક દ્વારા ચોપડો ફાડી નાખવાનો પ્રસંગ દર્શાવે છે કે <b>જો સમાજના શિક્ષિત વર્ગમાં માનવતા જાગે, તો જ ગરીબોનું શોષણ અટકાવી શકાશે.</b><br><br></div>"
+    },
 ];
 
