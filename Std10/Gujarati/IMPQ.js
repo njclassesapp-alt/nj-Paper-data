@@ -1507,5 +1507,232 @@ var Std10_Gujarati_imp = [
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'હું એવો ગુજરાતી' ગીતનો કેન્દ્રીય વિચાર <b>ગુજરાતની અસ્મિતા (ગૌરવ) અને માતૃભૂમિ પ્રત્યેના અખૂટ પ્રેમનું વર્ણન</b> કરવાનો છે.<br><br>કવિ વિનોદ જોશી એ સાબિત કરે છે કે ગુજરાત માત્ર એક રાજ્ય નથી, પરંતુ તે એક ભવ્ય ઇતિહાસ, સંસ્કૃતિ અને સંસ્કારોનો સંગમ છે. કાવ્યમાં ગુજરાતની નદીઓ, પર્વતો, મંદિરો, સંતો અને શૂરવીરોને યાદ કરીને કવિ એક ગુજરાતી હોવાના અદભુત અહેસાસને વાચા આપે છે. <br>કવિનો મુખ્ય સંદેશ એ છે કે ભલે આપણે દુનિયાના કોઈ પણ ખૂણે હોઈએ, પરંતુ આપણા શ્વાસમાં અને લોહીમાં હંમેશા આપણી માતૃભૂમિ ધબકતી હોવી જોઈએ. આ 'ગુજરાતીપણાં' નો ગર્વ એ જ કાવ્યનો આત્મા છે.<br><br></div>"
     },
 
+    // પ્રકરણ 8: છત્રી (રતિલાલ બોરીસાગર) - N. J. Classes (Target 2026)
+
+    {
+        chapter: 8,
+        q_no: 1,
+        marks: 1,
+        year_asked: "[March 2022, 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'છત્રી' પાઠના લેખકનું નામ અને તેનો સાહિત્ય પ્રકાર જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખકનું નામ <b>રતિલાલ બોરીસાગર</b> છે અને આ પાઠનો સાહિત્ય પ્રકાર <b>હાસ્યનિબંધ</b> છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદમાં પલળવું ન હોય તો 'બોરી' (કોથળો) ઓઢવા કરતા 'છત્રી' ઓઢવી સારી! અને છત્રી ભૂલી જઈએ તો લોકો હસે, એટલે 'હાસ્યનિબંધ'. આ રીતે લેખક અને સાહિત્ય પ્રકાર યાદ રાખી લો.</div></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 2,
+        marks: 1,
+        year_asked: "[August 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'છત્રી' પાઠ લેખકના કયા પુસ્તકમાંથી લેવામાં આવ્યો છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ પાઠ લેખકના <b>'ઓમ હાસ્યમ્'</b> નામના પુસ્તકમાંથી લેવામાં આવ્યો છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: 500 રૂપિયાની નવી છત્રી ક્યાંક ભૂલી જવાય, તો મોઢામાંથી શું નીકળે? 'ઓમ શાંતિ...' એના પરથી યાદ રાખો 'ઓમ હાસ્યમ્'!</div></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 3,
+        marks: 1,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખક છત્રી ખરીદવા ક્યાં ગયા? તેમણે કેવી છત્રી માંગી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખક છત્રી ખરીદવા <b>એક જાણીતા સ્ટોરમાં</b> ગયા અને તેમણે <b>શ્યામા (કાળા રંગની)</b> છત્રી માંગી.<br><br></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 4,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>દુકાનદારે લેખકને કયો પ્રશ્ન કર્યો અને લેખકે શું જવાબ આપ્યો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>દુકાનદારે લેખકને જોઈને પૂછ્યું, <b>"સાહેબ, ગઈ સાલે પણ તમે છત્રી લેવા આવેલા ને?"</b><br>ત્યારે લેખકે બચાવ કરતા જવાબ આપ્યો, "ગઈ સાલે જ નહિ, એની આગલી સાલે પણ હું છત્રી લેવા આવેલો, પણ તે તમારી દુકાનેથી નહિ કોઈ બીજી દુકાનેથી લીધી હશે."<br><br></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 5,
+        marks: 1,
+        year_asked: "[Board MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખકનો સ્વભાવ કેવો છે? <br>(A) કંજુસ (B) ગુસ્સાવાળો (C) ભુલકણો (D) શાંત</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(C) ભુલકણો</b> (તેઓ વારંવાર છત્રી ભૂલી જાય છે).<br><br></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 6,
+        marks: 2,
+        year_asked: "[Mock Test N. J. Classes]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખકની છત્રી ટકતી કેમ નથી? દુકાનદાર તેમને શું સલાહ આપે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખકની છત્રી ટકતી નથી કારણ કે તેઓ <b>અત્યંત ભુલકણા છે અને છત્રી વારંવાર ક્યાંક ને ક્યાંક ભૂલી આવે છે.</b><br>દુકાનદાર તેમને સલાહ આપે છે કે, "તમારી પાસે છત્રી ટકે એવો કોઈ ઉપાય તમારે જ શોધી કાઢવો પડશે."<br><br></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 7,
+        marks: 1,
+        year_asked: "[Grammar Section]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સમાનાર્થી શબ્દો આપો: ઉપાય, મક્કમ, પત્ર</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>ઉપાય</b> = ઈલાજ / તર્ક<br>૨. <b>મક્કમ</b> = દૃઢ / અડગ<br>૩. <b>પત્ર</b> = કાગળ / ચિઠ્ઠી<br><br></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 8,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિરુદ્ધાર્થી શબ્દો લખો: સજ્જન, પ્રમાણિક, અનુકૂળ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>સજ્જન</b> x દુર્જન<br>૨. <b>પ્રમાણિક</b> x અપ્રમાણિક<br>૩. <b>અનુકૂળ</b> x પ્રતિકૂળ<br><br></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 9,
+        marks: 2,
+        year_asked: "[March 2025 Model Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રૂઢિપ્રયોગનો અર્થ આપી વાક્ય બનાવો: 'ફાંફાં મારવા' અને 'આચરવામાં મૂકવું'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>ફાંફાં મારવા</b> = વ્યર્થ પ્રયત્ન કરવો / ફાંફા મારવા.<br><i>વાક્ય:</i> નોકરી મેળવવા માટે રમેશ ઘણી જગ્યાએ ફાંફાં મારી રહ્યો છે.<br>૨. <b>આચરવામાં મૂકવું</b> = અમલમાં મૂકવું / પાલન કરવું.<br><i>વાક્ય:</i> સારી સલાહ માત્ર સાંભળવી નહિ, તેને આચરવામાં મૂકવી જોઈએ.<br><br></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 10,
+        marks: 1,
+        year_asked: "[Vocabulary Quiz]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શબ્દસમૂહ માટે એક શબ્દ આપો: 'અષાઢથી આસો સુધીના ચાર મહિના'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>ચાતુર્માસ (ચોમાસું)</b><br><br></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખકને છત્રી ન ખોવાય તે માટે કયા 4 રમૂજી ઉપાયો સૂચવવામાં આવ્યા?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લોકોએ લેખકને આ 4 હાસ્યાસ્પદ ઉપાયો સૂચવ્યા:<br>૧. છત્રીને ગળામાં <b>દોરી બાંધીને</b> લટકાવવી.<br>૨. છત્રી સાચવવા માટે એક <b>પગારદાર માણસ (નોકર)</b> રાખવો.<br>૩. ચોમાસામાં ઘરે જ રહેવું અને <b>ચાતુર્માસનું વ્રત</b> કરવું.<br>૪. છત્રી પર પોતાનું <b>નામ, સરનામું અને ટેલિફોન નંબર</b> લખાવવા, જેથી ખોવાય તો કોઈ પરત કરી શકે.<br><br></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 12,
+        marks: 2,
+        year_asked: "[July 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખકે છત્રી પર શું શું લખાવ્યું અને કેમ?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કોઈની સલાહ માનીને લેખકે નવી છત્રી પર <b>લાલ રંગથી પોતાનું પૂરું નામ, પૂરું સરનામું અને ટેલિફોન નંબર</b> મોટા અક્ષરે લખાવ્યા.<br>આવું એટલા માટે કર્યું કે જો તેમની છત્રી ક્યાંક ખોવાઈ જાય અને કોઈ સજ્જનને મળે, તો તે સરનામા પર મોકલી શકે અથવા ફોન કરી શકે.<br><br></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 13,
+        marks: 1,
+        year_asked: "[MCQ - Target 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખકને છત્રી મળ્યા અંગેનો પત્ર ક્યાંથી આવ્યો હતો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખકને <b>રાજકોટથી</b> પત્ર આવ્યો હતો.<br><br></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 14,
+        marks: 2,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રાજકોટથી આવેલા પત્રમાં શું લખ્યું હતું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>રાજકોટના એક સજ્જનનો પત્ર હતો. તેમણે લખ્યું હતું કે, "અમદાવાદ-રાજકોટની મુસાફરી દરમિયાન મારી છત્રી સાથે તમારી છત્રી બદલાઈ ગઈ છે. જો તમારી છત્રી લેવા માંગતા હોવ તો અહીં <b>રૂબરૂ આવીને લઈ જજો.</b> મેં તમારી છત્રી સુરક્ષિત રાખી છે."<br><br></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 15,
+        marks: 1,
+        year_asked: "[Knowledge Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>છત્રી લેવા રાજકોટ જવા-આવવાનો ખર્ચ કેટલો થવાનો હતો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>રાજકોટ જવા-આવવાનો બસ અને રિક્ષાનો કુલ ખર્ચ આશરે <b>અઢીસો-ત્રણસો રૂપિયા (250-300 Rs)</b> થવાનો હતો.<br><br></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 16,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લોકોએ લેખકને રાજકોટ છત્રી લેવા જવાની કેમ ના પાડી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લોકોનું માનવું હતું કે <b>એક સામાન્ય છત્રીની કિંમત માંડ 100-150 રૂપિયા હોય, જ્યારે રાજકોટ જવા-આવવાનો ખર્ચ 300 રૂપિયા થઈ જાય.</b> આર્થિક રીતે આ સોદો મૂર્ખાઈભર્યો હતો. તેથી લોકોએ રાજકોટ જવાની સ્પષ્ટ ના પાડી દીધી.<br><br></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 17,
+        marks: 2,
+        year_asked: "[Objective MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખક કયા સિદ્ધાંત (વિચાર) ને કારણે રાજકોટ જવા તૈયાર થયા?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખક માટે છત્રીની કિંમત મહત્ત્વની ન હતી, પણ <b>રાજકોટવાળા સજ્જનની પ્રામાણિકતા અને સદ્ભાવનાની કદર કરવી</b> તેમના માટે વધુ મહત્ત્વનું હતું. કોઈ વ્યક્તિ સામેથી છત્રી પરત કરવા બોલાવે, તો તેના સન્માન માટે જવું જોઈએ - આ સિદ્ધાંતને કારણે તેઓ રાજકોટ ગયા.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: પૈસા જાય તો ભલે જાય, પણ સામેવાળાની ઈમાનદારીનું સન્માન થવું જોઈએ! લેખકનું લોજિક આ જ હતું.</div></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 18,
+        marks: 1,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રાજકોટથી છત્રી લઈને પાછા ફરતી વખતે લેખકે શું પરાક્રમ કર્યું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખક રાજકોટથી 300 રૂપિયા ખર્ચીને છત્રી તો લઈ આવ્યા, પણ અમદાવાદ પહોંચીને <b>ફરીથી એ જ છત્રી એસ.ટી. બસમાં ભૂલી ગયા!</b><br><br></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 19,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સાચી જોડણી ઓળખાવો: પ્રામણીકતા / પ્રામાણિકતા</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સાચી જોડણી: <b>પ્રામાણિકતા</b><br><br></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 20,
+        marks: 2,
+        year_asked: "[Expected 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ઘરે પહોંચ્યા પછી લેખકને છત્રી ખોવાઈ ગયાની ખબર કેવી રીતે પડી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જ્યારે લેખક ઘરે પહોંચ્યા, ત્યારે ઘરના સભ્યોએ તેમને પૂછ્યું કે <b>"છત્રી ક્યાં છે?"</b> ત્યારે તેમને અચાનક યાદ આવ્યું કે તેઓ છત્રી તો બસમાં જ ભૂલી ગયા છે! તે તરત જ ફરી એસ.ટી. સ્ટેન્ડ ગયા પણ ત્યાં સુધીમાં છત્રી ગાયબ થઈ ગઈ હતી.<br><br></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 21,
+        marks: 1,
+        year_asked: "[March 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>બીજા દિવસે દુકાનદાર લેખકને જોઈને કેમ હસ્યો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>બીજા જ દિવસે લેખક ફરીથી 'નવી છત્રી' લેવા દુકાને ગયા, તે જોઈને <b>દુકાનદારને ખબર પડી ગઈ કે સાહેબ ફરીથી છત્રી ખોઈને આવ્યા છે,</b> તેથી તે હસ્યો.<br><br></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 22,
+        marks: 1,
+        year_asked: "[MCQ - N. J. Classes Mock]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'આખી દુનિયામાં એકલો હું જ ભુલકણો નથી' - આવું લેખક કેમ માને છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કારણ કે રાજકોટવાળા ભાઈએ પણ પોતાની છત્રી લેખકની છત્રી સાથે <b>ભૂલથી બદલી નાખી હતી</b>, એટલે લેખકને હાશકારો થયો કે દુનિયામાં બીજા પણ ભુલકણા લોકો છે.<br><br></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 23,
+        marks: 2,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'છત્રી' પાઠમાંથી કયો મુખ્ય ગુણ અને કયો અવગુણ જોવા મળે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ પાઠમાંથી <b>પ્રામાણિકતા</b> (રાજકોટવાળા સજ્જનની અને લેખકની સદ્ભાવના) નો ઉત્તમ ગુણ જોવા મળે છે. જ્યારે લેખકનો <b>ભુલકણો સ્વભાવ</b> એ તેમનો સૌથી મોટો અવગુણ છે, જે હાસ્ય ઉત્પન્ન કરે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 24,
+        marks: 4,
+        year_asked: "[Most IMP Long Question 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>છત્રી ન ખોવાય તે માટે લેખકને કઈ કઈ સલાહો મળી? તેમાંથી તેમણે કઈ સલાહ અમલમાં મૂકી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખકના ભુલકણા સ્વભાવને કારણે લોકોએ તેમને છત્રી ન ખોવાય તે માટે નીચે મુજબની 4 રમૂજી સલાહો આપી:<br><br>૧. <b>ગળામાં દોરી:</b> છત્રીને એક લાંબી દોરી બાંધવી અને તે દોરી ગળામાં લટકાવી રાખવી, જેથી છત્રી પડવાનો ડર ન રહે.<br>૨. <b>માણસ રાખવો:</b> જેમ લોકો ડ્રાઈવર રાખે છે, તેમ છત્રી પકડવા અને સાચવવા માટે એક પગારદાર માણસ (નોકર) રાખવો.<br>૩. <b>ચાતુર્માસ ઘરે રહેવું:</b> ચોમાસાના ચાર મહિના ઘરની બહાર જ ન નીકળવું અને ચાતુર્માસનું વ્રત કરવું, જેથી છત્રી લેવાની જરૂર જ ન પડે.<br>૪. <b>નામ અને સરનામું લખવું:</b> છત્રીની અંદરના ભાગમાં પોતાનું પૂરું નામ, સરનામું અને ટેલિફોન નંબર લખાવવા, જેથી ખોવાય તો કોઈ પરત કરી શકે.<br><br><b>અમલ:</b> આ બધી સલાહોમાંથી લેખકને છેલ્લી સલાહ (નામ-સરનામું લખવાની) યોગ્ય લાગી અને તેમણે નવી છત્રી પર લાલ કલરથી પોતાનું એડ્રેસ લખાવ્યું. જેના કારણે તેમની ખોવાયેલી છત્રી રાજકોટથી પાછી મળી હતી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 સલાહો યાદ રાખવાની ટ્રીક = દોરી, નોકર, ચાતુર્માસ અને એડ્રેસ. આ 4 શબ્દો યાદ રાખો એટલે 4 માર્ક્સ તમારા ખિસ્સામાં!</div></div>"
+    },
+
+    {
+        chapter: 8,
+        q_no: 25,
+        marks: 4,
+        year_asked: "[Central Idea / Value Based Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રાજકોટ છત્રી લેવા જવાનો લેખકનો પ્રસંગ તેમના કયા ગુણો દર્શાવે છે? આ પ્રસંગમાંથી તમને શું શીખવા મળે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>રાજકોટ છત્રી લેવા જવાનો પ્રસંગ લેખકના સ્વભાવના બે ઉત્તમ ગુણો દર્શાવે છે:<br><br>૧. <b>પ્રામાણિકતાની કદર:</b> જ્યારે રાજકોટના સજ્જનનો પત્ર આવ્યો, ત્યારે લેખકે હિસાબ કર્યો કે છત્રીની કિંમત કરતા રાજકોટ જવાનું ભાડું (300 રૂપિયા) બમણું હતું. લોકોએ તેમને ના પાડી, છતાં તેઓ ગયા. આ દર્શાવે છે કે તેમના મનમાં પૈસા કરતા કોઈની 'પ્રામાણિકતા' ની કિંમત વધુ હતી. સજ્જન વ્યક્તિનો આભાર માનવો તે તેમનો સિદ્ધાંત હતો.<br>૨. <b>નિખાલસતા અને હકારાત્મકતા:</b> રાજકોટથી પાછા ફરતી વખતે તેઓ છત્રી ફરીથી બસમાં ભૂલી ગયા. ઘરે આવીને તેમને આ વાતની ખબર પડી. છતાં તેઓ ગુસ્સે કે નિરાશ થવાને બદલે બીજા દિવસે હસતા મોઢે દુકાને નવી છત્રી લેવા પહોંચી ગયા. તેઓ પોતાની ભૂલ સ્વીકારવામાં ખચકાતા નથી.<br><br><b>શીખ:</b> આ પ્રસંગ શીખવે છે કે જીવનમાં નાની-મોટી વસ્તુઓ ખોવાય તો દુઃખી ન થવું, પરંતુ માણસાઈ અને પ્રામાણિકતા જેવા ગુણો ક્યારેય ખોવાવા દેવા જોઈએ નહિ. હંમેશા હસતા રહેવું.<br><br></div>"
+    }
+        
 ];
 
