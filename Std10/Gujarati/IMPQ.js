@@ -3539,5 +3539,1370 @@ var Std10_Gujarati_imp = [
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'ગતિભંગ' લઘુકથાનો કેન્દ્રીય વિચાર <b>માતા-પિતાના હૃદયમાં રહેલો સંતાન ગુમાવ્યાનો ક્યારેય ન મટતો આઘાત અને વાત્સલ્ય પ્રેમ દર્શાવવાનો છે.</b><br><br>લેખક ખૂબ જ ઓછા શબ્દોમાં સમજાવે છે કે માનવી ભલે જીવનની દોડધામમાં ગમે તેટલો વ્યસ્ત કે ઉતાવળો હોય, પરંતુ હૃદયના ઊંડાણમાં છુપાયેલી લાગણીઓ ગમે ત્યારે બહાર આવી શકે છે. રસ્તા પર પડેલી એક નાની પગલી, ડુંગર અને તેની પત્નીને વાસ્તવિક દુનિયામાંથી બહાર કાઢીને તેમની મૃત પુત્રી બબલીની યાદોમાં ખેંચી જાય છે.<br>આ લઘુકથા દર્શાવે છે કે <b>સ્મૃતિ (યાદ) ની તાકાત વર્તમાનની ગતિને રોકી શકે છે.</b> પિતા બહારથી કઠોર હોવાનો દેખાવ કરે છે, પણ અંદરથી તે પણ એટલો જ લાગણીશીલ હોય છે, જે વાર્તાના અંતમાં સાબિત થાય છે.<br><br></div>"
     },
 
+    // પ્રકરણ 17: દિવસો જુદાઈના જાય છે (ગની દહીંવાલા) - N. J. Classes (Target 2026)
+
+    {
+        chapter: 17,
+        q_no: 1,
+        marks: 1,
+        year_asked: "[March 2022, July 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'દિવસો જુદાઈના જાય છે' કાવ્યના કવિનું નામ અને તેનો સાહિત્ય પ્રકાર જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિનું નામ <b>ગની દહીંવાલા</b> છે અને આ કાવ્યનો સાહિત્ય પ્રકાર <b>ગઝલ</b> છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: જુદાઈના દિવસોમાં માણસ ઉદાસ થઈને 'ગઝલ' ગાવા લાગે! અને કોને યાદ કરે? 'ગની' (મિત્ર) ને. બસ, આ રીતે કવિ અને પ્રકાર બંને યાદ રહી જશે.</div></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 2,
+        marks: 1,
+        year_asked: "[August 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ ગની દહીંવાલાનું પૂરું નામ અને તેમનું વતન જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગની દહીંવાલાનું પૂરું નામ <b>અબ્દુલગની અબ્દુલકરીમ દહીંવાલા</b> છે અને તેમનું વતન <b>સુરત</b> છે.<br><br></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 3,
+        marks: 1,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જુદાઈના દિવસો ક્યાં સુધી જશે તેવો કવિને વિશ્વાસ છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિને દૃઢ વિશ્વાસ છે કે આ જુદાઈના દિવસો એક દિવસ ચોક્કસ <b>'મિલન સુધી' (પ્રિયજનના કે ઈશ્વરના મિલન સુધી)</b> જશે.<br><br></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 4,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિને કોણ હાથ પકડીને સ્વજન સુધી લઈ જશે? શા માટે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ કહે છે કે, <b>'શત્રુઓ (દુશ્મનો) મારો હાથ ઝાલીને મને સ્વજન સુધી લઈ જશે.'</b><br>કારણ કે જ્યારે શત્રુઓ વિરોધ કરે છે અને દુઃખ આપે છે, ત્યારે જ માણસ મજબૂત બને છે અને ઈશ્વર કે પોતાના સાચા સ્વજનો તરફ વળે છે. આમ, દુશ્મનો જ સાચા માર્ગદર્શક બની જાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: દુશ્મન આપણને ધક્કો મારે, અને એ ધક્કાથી આપણે સીધા આપણા મિત્ર (સ્વજન) ની ગોદમાં જઈને પડીએ! એટલે દુશ્મનોનો આભાર માનવો જોઈએ.</div></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 5,
+        marks: 1,
+        year_asked: "[Board MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ ક્યાં જવા માંગે છે? <br>(A) ગગન સુધી (B) ધરા સુધી (C) એકમેકના મન સુધી (D) ઉન્નતિ સુધી</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(C) એકમેકના મન સુધી</b> (લોકોના દિલ જીતવા છે, નહિ કે આકાશ આંબવું છે).<br><br></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 6,
+        marks: 1,
+        year_asked: "[Mock Test N. J. Classes]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ આંસુઓ (અશ્રુઓ) ને કોની સાથે સરખાવે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ આંસુઓને <b>'રાંકનાં રતન' (ગરીબના હીરા-મોતી)</b> સાથે સરખાવે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 7,
+        marks: 1,
+        year_asked: "[Grammar Section]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સમાનાર્થી શબ્દો આપો: નયન, ગગન, ચીર</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>નયન</b> = આંખ / લોચન / નેત્ર<br>૨. <b>ગગન</b> = આકાશ / નભ / વ્યોમ<br>૩. <b>ચીર</b> = વસ્ત્ર / કાપડ<br><br></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 8,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિરુદ્ધાર્થી શબ્દો લખો: મિલન, ઉન્નતિ, શત્રુ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>મિલન</b> x જુદાઈ / વિરહ<br>૨. <b>ઉન્નતિ</b> x પતન / પડતી<br>૩. <b>શત્રુ</b> x મિત્ર / સ્વજન<br><br></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 9,
+        marks: 2,
+        year_asked: "[March 2025 Expected]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રૂઢિપ્રયોગનો અર્થ આપી વાક્ય બનાવો: 'હાથ ઝાલવો'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>અર્થ:</b> ટેકો આપવો અથવા મદદ કરવી.<br><b>વાક્ય:</b> મુશ્કેલ સમયમાં મારો હાથ ઝાલનાર મિત્રને હું ક્યારેય ભૂલીશ નહિ.<br><br></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 10,
+        marks: 1,
+        year_asked: "[Vocabulary Quiz]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શબ્દસમૂહ માટે એક શબ્દ આપો: 'મડદા પર ઓઢાડવામાં આવતું વસ્ત્ર'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>કફન</b><br><br></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ અશ્રુઓને ધૂળમાં પડવાની કેમ ના પાડે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિના મતે આંસુ (અશ્રુઓ) એ કોઈ સામાન્ય વસ્તુ નથી, તે ગરીબ (રાંક) ના હીરા-મોતી (રતન) સમાન કિંમતી છે. આંસુ એ હૃદયની સાચી અને પવિત્ર લાગણીઓ છે. <b>જો તે ધૂળમાં પડે તો વેડફાઈ જાય.</b> તેથી કવિ અરજ કરે છે કે આ કિંમતી આંસુઓને હૃદયમાં જ સમાવી લેવા, તેમને આંખમાંથી ધૂળમાં પડવા દેવા નહિ.<br><br></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 12,
+        marks: 2,
+        year_asked: "[July 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'અહીં આપણે તો જવું હતું, ફક્ત એકમેકના મન સુધી' - આ પંક્તિ દ્વારા કવિ શું સમજાવે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ સમજાવે છે કે દુનિયાના લોકો ભલે આકાશને આંબવાની (મોટી પ્રગતિ કરવાની) વાતો કરતા હોય, પરંતુ <b>માણસાઈનું સાચું લક્ષ્ય બીજા માણસના હૃદય (મન) સુધી પહોંચવાનું હોવું જોઈએ.</b> લોકોના દિલમાં પ્રેમથી સ્થાન બનાવવું એ ઉન્નતિ કે પતન કરતા પણ ઘણું ઊંચું લક્ષ્ય છે.<br><br></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 13,
+        marks: 1,
+        year_asked: "[MCQ - Target 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રાજરાણીના વસ્ત્ર (ચીર) કેટલા સમય માટે અંગ પર રહે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>રાજરાણીના ચીર <b>માત્ર 'બે ઘડી' (થોડા સમય માટે)</b> જ અંગ પર રહે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 14,
+        marks: 2,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જ્યારે હૃદયની આગ વધી ગઈ, ત્યારે ઈશ્વરે કઈ રીતે કૃપા કરી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જ્યારે કવિના જીવનમાં દુઃખ અને દર્દની આગ અસહ્ય થઈ ગઈ, ત્યારે <b>ઈશ્વરે કૃપા કરીને કવિના શ્વાસ જ બંધ કરી દીધા (એટલે કે તેમને શાંતિપૂર્ણ મૃત્યુ આપ્યું).</b> જેથી શ્વાસ રૂપી પવનથી હૃદયની આગ વધુ ન ભડકે અને કવિને દુઃખમાંથી મુક્તિ મળી જાય.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: આગમાં પવન નાખીએ તો આગ વધુ ભડકે. હૃદયની આગને વધારતો પવન એટલે શ્વાસ. ઈશ્વરે શ્વાસ જ બંધ કરી દીધા, એટલે ગેસ જ બંધ થઈ ગયો અને શાંતિ થઈ ગઈ! આ ઈશ્વરની દયા છે.</div></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 15,
+        marks: 1,
+        year_asked: "[Knowledge Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગઝલના એક એકમ (બે પંક્તિઓ) ને શું કહેવામાં આવે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગઝલની બે પંક્તિઓની જોડીને <b>'શેર'</b> કહેવામાં આવે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 16,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'રંક નારની ચુંદડી' ક્યાં સુધી સાથ આપે છે? તે શું સૂચવે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'રંક નારની (ગરીબ સ્ત્રીની) ચુંદડી' છેક <b>કફન સુધી (મૃત્યુ સુધી)</b> સાથ આપે છે. તે એવું સૂચવે છે કે ગરીબ માણસનો પ્રેમ અને સંબંધો દેખાડવા પૂરતા નથી હોતા, પરંતુ તે નિખાલસ હોય છે અને આજીવન (મરતા દમ સુધી) સાથ નિભાવે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 17,
+        marks: 1,
+        year_asked: "[Objective MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગઝલની પહેલી પંક્તિઓ કે જેના બંને ચરણોમાં પ્રાસ મળતા હોય તેને શું કહેવાય?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગઝલના પહેલા શેરને <b>'મતલા'</b> કહેવાય છે.<br><br></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 18,
+        marks: 2,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિએ ગઝલમાં મૃત્યુને કેવી રીતે દર્શાવ્યું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિએ મૃત્યુને ડરામણું નહિ, પરંતુ <b>ઈશ્વરની કૃપા (મહેરબાની)</b> તરીકે દર્શાવ્યું છે. જ્યારે જીવનના દુઃખો અસહ્ય બની જાય, ત્યારે મૃત્યુ જ માણસને શાંતિ આપે છે. મૃત્યુ એ ઈશ્વર સાથેના મિલનનો રસ્તો છે.<br><br></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 19,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સાચી જોડણી ઓળખાવો: જુદાઈ / જુદાઇ, ઉન્નતિ / ઉન્નતી</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સાચી જોડણી: <b>જુદાઈ</b> અને <b>ઉન્નતિ</b><br><br></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 20,
+        marks: 2,
+        year_asked: "[Expected 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગઝલમાં કવિ કોના પ્રત્યે સકારાત્મક (Positive) અભિગમ ધરાવે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ <b>શત્રુઓ (દુશ્મનો) અને મૃત્યુ</b> - આ બંને પ્રત્યે અત્યંત સકારાત્મક અભિગમ ધરાવે છે. તેઓ માને છે કે દુશ્મનો માણસને સાચા રસ્તે (સ્વજન સુધી) દોરે છે અને મૃત્યુ માણસને પીડામાંથી મુક્તિ આપે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 21,
+        marks: 3,
+        year_asked: "[March 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'તમે રાંકનાં છો રતન સમાં...' આ પંક્તિનો ભાવાર્થ સ્પષ્ટ કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ પંક્તિમાં કવિ આંસુઓનું મહત્ત્વ સમજાવે છે. અમીર લોકો પાસે પૈસા અને હીરા-મોતી હોય છે, પણ ગરીબ (રાંક) પાસે તો તેના આંસુ જ તેના રતન સમાન છે. આંસુ એ સાચી અને પવિત્ર લાગણીનું પ્રતીક છે. કવિ આ આંસુઓને વિનંતી કરે છે કે તમે ધૂળમાં પડીને વેડફાઈ ન જાવ. જો શક્ય હોય તો હૃદયના ઊંડાણમાંથી આંખ (નયન) સુધી જ રહો. પોતાની સંવેદનાને સસ્તી ન થવા દેવાની આ વાત છે.<br><br></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 22,
+        marks: 1,
+        year_asked: "[MCQ - N. J. Classes Mock]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગઝલના છેલ્લા શેરમાં જેમાં કવિ પોતાનું ઉપનામ (તખલ્લુસ) વાપરે છે, તેને શું કહેવાય?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગઝલના અંતિમ શેરને <b>'મક્તા'</b> કહેવાય છે.<br><br></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 23,
+        marks: 3,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રાજરાણીનાં ચીર અને રંક નારની ચુંદડી વચ્ચેનો તફાવત ગઝલના આધારે સમજાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ અમીરી અને ગરીબી વચ્ચેના સંબંધોનો મોટો તફાવત દર્શાવે છે.<br>રાજરાણીનાં ચીર (મોંઘા વસ્ત્રો) અત્યંત સુંદર હોય છે, પરંતુ તે અહંકાર અને દેખાડાનું પ્રતીક છે. તે અંગ પર માત્ર થોડા સમય (બે ઘડી) પૂરતા જ રહે છે. જ્યારે રંક નારની ચુંદડી (ગરીબની સાદી ઓઢણી) એ સાચા પ્રેમ અને સમર્પણનું પ્રતીક છે. તે ક્યારેય બદલાતી નથી અને છેક મૃત્યુ (કફન) સુધી સાથ નિભાવે છે. આમ સાચો પ્રેમ માત્ર સાદગીમાં જ ટકે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 24,
+        marks: 4,
+        year_asked: "[Most IMP Long Question 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'દિવસો જુદાઈના જાય છે' ગઝલનો ભાવાર્થ સવિસ્તાર વર્ણવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગની દહીંવાલાની આ ગઝલમાં પ્રેમ, પીડા, માનવીય સંબંધો અને ઈશ્વરની કૃપાનું અદભુત આલેખન થયું છે.<br><br>૧. <b>આશાવાદ:</b> કવિ ગઝલની શરૂઆતમાં જ આશાવાદ દર્શાવે છે કે આ જુદાઈના દિવસો કાયમ નહિ રહે, તે એક દિવસ પ્રભુના મિલન સુધી ચોક્કસ પહોંચશે.<br>૨. <b>સાચું લક્ષ્ય:</b> દુનિયામાં લોકો ભૌતિક પ્રગતિ (ગગન કે ઉન્નતિ) પાછળ દોડે છે, પણ કવિને કોઈ પદ જોઈતું નથી. તેમને માત્ર લોકોના હૃદય (મન) માં સ્થાન જોઈએ છે.<br>૩. <b>લાગણી અને સમર્પણ:</b> કવિ આંસુઓને ગરીબના રતન કહીને તેને વેડફવાની ના પાડે છે. તેઓ અમીરો જેવા દેખાડાના સંબંધો (રાજરાણીના ચીર) ને બદલે, કફન સુધી સાથ આપે તેવા સાચા સંબંધ (રંકની ચુંદડી) માં માને છે.<br>૪. <b>મૃત્યુને આવકાર:</b> અંતમાં, જ્યારે જીવનનું દર્દ અસહ્ય બની જાય છે, ત્યારે શ્વાસ બંધ કરીને ઈશ્વરે આપેલી મૃત્યુ રૂપી કૃપાનો કવિ આભાર માને છે.<br><br>આમ, આ ગઝલ સાચા અર્થમાં <b>પ્રેમ, દર્દ અને આત્મીયતાનું</b> ઉત્તમ ઉદાહરણ છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: આ 4 માર્ક્સના પ્રશ્ન માટે ગઝલના 4 શેર યાદ રાખવાના: 1. શત્રુઓ મદદ કરશે, 2. મન સુધી જવું છે, 3. આંસુ સાચવી રાખવા, 4. રાજરાણી vs ગરીબની ચુંદડી. બસ આ 4 વાત સમજાવો એટલે જવાબ પૂરો!</div></div>"
+    },
+
+    {
+        chapter: 17,
+        q_no: 25,
+        marks: 4,
+        year_asked: "[Central Idea / Value Based Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'દિવસો જુદાઈના જાય છે' ગઝલનો કેન્દ્રીય વિચાર (Central Idea) તમારા શબ્દોમાં સ્પષ્ટ કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ ગઝલનો કેન્દ્રીય વિચાર <b>માણસની હકારાત્મકતા (Positivity), માનવીય મૂલ્યો અને ઈશ્વર શરણાગતિ દર્શાવવાનો છે.</b><br><br>માણસના જીવનમાં જ્યારે દુઃખ કે જુદાઈ આવે ત્યારે તે નિરાશ થઈ જાય છે, પરંતુ કવિ અહીં દુઃખ અને દુશ્મનોને પણ હકારાત્મક રીતે લે છે. તેઓ માને છે કે દરેક દુઃખનો અંત મિલન (સુખ) છે. કવિ માટે સાચી ઉન્નતિ એ ભૌતિક વિકાસ નથી, પરંતુ માણસાઈ જાળવીને લોકોના દિલ જીતવામાં છે.<br>કવિ ગરીબીમાં પણ સ્વમાનની વાત કરે છે અને આજીવન સાથ આપે તેવા નિખાલસ પ્રેમની હિમાયત કરે છે. જીવનના અંતે જ્યારે દર્દ અસહ્ય થઈ જાય, ત્યારે ઈશ્વર જ શ્વાસ બંધ કરીને જીવને શાંતિ આપે છે, તેવો ઈશ્વર પ્રત્યેનો પરમ વિશ્વાસ આ ગઝલનું હાર્દ છે.<br><br></div>"
+    },
+
+    // પ્રકરણ 18: ભૂખથીય ભૂંડી ભીખ (પન્નાલાલ પટેલ) - N. J. Classes (Target 2026)
+
+    {
+        chapter: 18,
+        q_no: 1,
+        marks: 1,
+        year_asked: "[March 2022, 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ભૂખથીય ભૂંડી ભીખ' પાઠના લેખકનું નામ અને તેનો સાહિત્ય પ્રકાર જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખકનું નામ <b>પન્નાલાલ પટેલ</b> છે અને આ પાઠનો સાહિત્ય પ્રકાર <b>નવલકથાખંડ</b> છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂખ લાગે ત્યારે પાંદડાં (પન્ના) ખાઈને પણ માણસ જીવી લે, પણ ભીખ ન માંગે. એના પરથી લેખક 'પન્નાલાલ' યાદ રાખો! અને આખી મોટી કથાનો ટુકડો છે એટલે 'નવલકથાખંડ'.</div></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 2,
+        marks: 1,
+        year_asked: "[August 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આ પાઠ પન્નાલાલ પટેલની કઈ પ્રખ્યાત નવલકથામાંથી લેવામાં આવ્યો છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ પાઠ લેખકની જ્ઞાનપીઠ પુરસ્કાર વિજેતા મહાન નવલકથા <b>'માનવીની ભવાઈ'</b> માંથી લેવામાં આવ્યો છે.<br><br></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 3,
+        marks: 1,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>પાઠમાં કયા સમય (દુકાળ) નું વર્ણન કરવામાં આવ્યું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ પાઠમાં <b>'છપ્પનિયા દુકાળ' (વિક્રમ સંવત ૧૯૫૬ નો ભયંકર દુકાળ)</b> નું હૃદયદ્રાવક વર્ણન કરવામાં આવ્યું છે.<br><br></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 4,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કાળુ શા માટે અનાજ લેવાની (ભીખ માંગવાની) ના પાડે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કાળુ એક ટેકીલો અને સ્વમાની ખેડૂત છે. તે માને છે કે જે અનાજ સદાવ્રતમાં વહેંચાઈ રહ્યું છે, તે અનાજ તેણે અને તેના જેવા ખેડૂતોએ જ પકવેલું છે. <b>પોતાના જ પકવેલા અનાજ માટે હાથ લંબાવીને ભીખ માંગવી, એ તેને ભૂખ કરતા પણ વધુ ભૂંડી (ખરાબ) અને અપમાનજનક લાગે છે.</b> તેથી તે અનાજ લેવાની ના પાડે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: કાળુની ફિલોસોફી સીધી છે - "મારી જ બેન્કમાંથી મારા જ પૈસા લેવા માટે હું ભિખારીની જેમ લાઈનમાં શા માટે ઊભો રહું?" ખેડૂતનું આ જ સાચું સ્વમાન છે.</div></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 5,
+        marks: 1,
+        year_asked: "[Board MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ભૂખથીય ભૂંડી ભીખ' પાઠના મુખ્ય પાત્રો કોણ છે? <br>(A) કાળુ અને રાજુ (B) ડુંગર અને બબલી (C) કાનજી અને માણેક (D) અંકિત અને સૌરભ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(A) કાળુ અને રાજુ</b><br><br></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 6,
+        marks: 1,
+        year_asked: "[Mock Test N. J. Classes]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સુંદરજી શેઠે ગામમાં શું ખોલ્યું હતું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સુંદરજી શેઠે દુકાળ પીડિત લોકોને મફત અનાજ આપવા માટે <b>સદાવ્રત</b> ખોલ્યું હતું.<br><br></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 7,
+        marks: 1,
+        year_asked: "[Grammar Section]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સમાનાર્થી શબ્દો આપો: સદાવ્રત, ટેક, ભૂંડું</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>સદાવ્રત</b> = અન્નક્ષેત્ર / જ્યા મફત અનાજ અપાતું હોય તે સ્થળ<br>૨. <b>ટેક</b> = પ્રતિજ્ઞા / નિયમ / સ્વમાન<br>૩. <b>ભૂંડું</b> = ખરાબ / વરવું<br><br></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 8,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિરુદ્ધાર્થી શબ્દો લખો: સ્વમાન, ધરતી, દુકાળ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>સ્વમાન</b> x અપમાન<br>૨. <b>ધરતી</b> x આકાશ<br>૩. <b>દુકાળ</b> x સુકાળ<br><br></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 9,
+        marks: 2,
+        year_asked: "[March 2025 Expected]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રૂઢિપ્રયોગનો અર્થ આપી વાક્ય બનાવો: 'પેટનો ખાડો પૂરવો' અને 'હાથ લંબાવવો'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>પેટનો ખાડો પૂરવો</b> = ભૂખ સંતોષવી / આજીવિકા મેળવવી.<br><i>વાક્ય:</i> ગરીબ મજૂરો પેટનો ખાડો પૂરવા માટે કાળી મજૂરી કરે છે.<br>૨. <b>હાથ લંબાવવો</b> = ભીખ માંગવી કે યાચના કરવી.<br><i>વાક્ય:</i> સ્વમાની કાળુ કોઈની પાસે હાથ લંબાવવા તૈયાર ન હતો.<br><br></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 10,
+        marks: 1,
+        year_asked: "[Vocabulary Quiz]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શબ્દસમૂહ માટે એક શબ્દ આપો: 'ભિખારીઓને મફત અનાજ આપવાનું સ્થળ'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>સદાવ્રત / અન્નક્ષેત્ર</b><br><br></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રાજુ કાળુને સદાવ્રતમાં જવા માટે કેવી રીતે મનાવે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>રાજુ કાળુની પત્ની છે. તે કાળુને સમજાવે છે કે, <b>"તમે ભલે ભૂખ્યા મરી જાવ, પણ આ છોકરાઓને શા માટે મારો છો?"</b> તે કાળુને બાળકોના ભવિષ્યનો અને ભૂખનો વાસ્તવિક ચિતાર આપે છે અને ક્રોધિત થઈને તેને અનાજ લેવા મજબૂર કરે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 12,
+        marks: 2,
+        year_asked: "[July 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>દુકાળની પરિસ્થિતિનું વર્ણન કરો. ખેડૂતોની હાલત કેવી હતી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>દુકાળ એટલો ભયંકર હતો કે ધરતી પર પાણીનું ટીપું ન હતું. અનાજ વિના લોકો ટપોટપ મરી રહ્યા હતા. માણસો પોતાના બાળકોને અને પશુઓને વેચી રહ્યા હતા. <b>જે ખેડૂતો આખી દુનિયાને અનાજ પૂરું પાડતા હતા, તેઓ આજે ભિખારી બનીને અડધો શેર અનાજ માટે લાઈનમાં ઊભા હતા.</b> કૂતરા અને કાગડા કરતા પણ ભૂખની હાલત ખરાબ હતી.<br><br></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 13,
+        marks: 1,
+        year_asked: "[MCQ - Target 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સુંદરજી શેઠ સ્વભાવે કેવા હતા?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સુંદરજી શેઠ સ્વભાવે <b>દયાળુ, સમજદાર અને ગરીબોના સ્વમાનની કદર કરનારા</b> હતા.<br><br></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 14,
+        marks: 2,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સુંદરજી શેઠે કાળુનું સ્વમાન જાળવવા માટે શું રસ્તો કાઢ્યો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સુંદરજી શેઠ કાળુની ટેક સમજતા હતા. કાળુ મફતનું અનાજ લઈ ભીખ માંગવા નહોતો માંગતો, તેથી શેઠે રસ્તો કાઢ્યો અને કાળુને કહ્યું: <b>"તું આ ઓટલો વાળીને સાફ કર અને પછી અનાજ લે, એટલે તને એમ નહિ લાગે કે તેં મફતમાં ભીખ લીધી છે. આ તારી મહેનતનું જ વળતર હશે."</b><br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: શેઠ બહુ સ્માર્ટ હતા. એમને ખબર હતી કે ખેડૂતને મફતનું ન ખપે. એટલે એમણે કાળુ પાસે 2 મિનિટ ઝાડુ મરાવ્યું અને એને 'કામનો પગાર' કહીને અનાજ આપ્યું, જેથી કાળુની ઈજ્જત જળવાઈ રહે!</div></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 15,
+        marks: 1,
+        year_asked: "[Knowledge Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કાળુના મતે દુનિયામાં સૌથી ખરાબ (ભૂંડું) શું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કાળુના મતે દુનિયામાં ભૂખ ખરાબ છે, પણ <b>'ભૂખથીય ભૂંડી ભીખ'</b> છે. ભીખ માણસનું સ્વમાન અને આત્મા બંને મારી નાખે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 16,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>અનાજ લેવા ઊભેલી લાઈનમાં કયા કયા લોકો હતા?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>અનાજની લાઈનમાં માત્ર ભિખારીઓ ન હતા, પરંતુ <b>ખેડૂતો, બ્રાહ્મણો, વાણિયાઓ, પટલાઈ કરતા રજપૂતો અને ઠાકરડાઓ</b> પણ હતા. જે લોકો એક સમયે ગામ આખાને અનાજ પૂરું પાડતા હતા, તેઓ પણ દુકાળને કારણે ભીખ માંગવા મજબૂર બન્યા હતા.<br><br></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 17,
+        marks: 1,
+        year_asked: "[Objective MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કાળુના હાથમાં અનાજ મુકાયું ત્યારે તેને કેવો અહેસાસ થયો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કાળુને એવું લાગ્યું જાણે <b>તેના હાથમાં અનાજ નહિ, પણ તેના સ્વમાનના સળગતા અંગારા</b> મુકાયા હોય!<br><br></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 18,
+        marks: 2,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કાળુ પોતાની જાતને કેમ કોસે છે (ખરાબ-ભલું કેમ કહે છે)?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કાળુ પોતાની જાતને કોસે છે કારણ કે તેને લાગે છે કે <b>ભગવાન તેને મોત પણ આપતો નથી અને જીવવા માટે ભીખ માંગવા મજબૂર કરે છે.</b> પોતાનું પકવેલું ધાન બીજા પાસે હાથ લંબાવીને લેવું પડે છે, તે વાતથી તેનો અંતરાત્મા કકળી ઊઠે છે અને તે પોતાની મજબૂરીને કોસે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 19,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સાચી જોડણી ઓળખાવો: છપ્પનીયો / છપ્પનિયો, ભીખારી / ભિખારી</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સાચી જોડણી: <b>છપ્પનિયો</b> અને <b>ભિખારી</b><br><br></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 20,
+        marks: 2,
+        year_asked: "[Expected 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'આપવાવાળો તો ઉપરવાળો છે' - કાળુ આવું કેમ કહે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જ્યારે સુંદરજી શેઠ અનાજ આપે છે, ત્યારે કાળુ માને છે કે આ શેઠનું અનાજ નથી. આ અનાજ ધરતીનું છે, જે ભગવાનની મહેરબાની અને ખેડૂતોની મહેનતથી પાકે છે. <b>આથી જ કાળુ કહે છે કે ખરો આપવાવાળો અને મારવાવાળો ઈશ્વર જ છે, કોઈ શેઠ કે માણસ નહિ.</b><br><br></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 21,
+        marks: 3,
+        year_asked: "[March 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સુંદરજી શેઠનું પાત્રાલેખન ટૂંકમાં કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સુંદરજી શેઠ એક <b>સંવેદનશીલ, માનવતાવાદી અને દીર્ઘદૃષ્ટિવાળા ધનિક</b> છે.<br>દુકાળના સમયે ગરીબોને મદદ કરવા તેઓ સદાવ્રત ખોલે છે, પરંતુ તેઓ માત્ર અનાજ નથી આપતા, માણસની ઇજ્જત પણ જાળવે છે. જ્યારે તેઓ કાળુની આંખોમાં સ્વમાન અને ગુસ્સો જુએ છે, ત્યારે તેઓ તેનું અપમાન કરવાને બદલે તેને સમજાવે છે. કાળુની ટેક જાળવવા માટે તેઓ તેને ઓટલો સાફ કરવાનું કામ સોંપે છે. આ તેમની ઉચ્ચ સમજણ અને માણસાઈનું ઉત્તમ ઉદાહરણ છે.<br><br></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 22,
+        marks: 1,
+        year_asked: "[MCQ - N. J. Classes Mock]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ભૂખથીય ભૂંડી ભીખ' કથાવસ્તુ કયા પ્રદેશની છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ વાર્તા <b>ઉત્તર ગુજરાત અને રાજસ્થાનની સરહદ પાસે આવેલા ઈડર/ભીલોડા (સાબરકાંઠા)</b> પ્રદેશની કથાવસ્તુ છે.<br><br></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 23,
+        marks: 3,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કાળુના મનમાં ચાલતું દ્વંદ્વ (મનોમંથન) વર્ણવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કાળુના મનમાં ભયંકર યુદ્ધ ચાલી રહ્યું છે. એક તરફ <b>પોતાનું ખેડૂત તરીકેનું સ્વમાન (ટેક)</b> છે, જે તેને ભીખ માંગવાની ના પાડે છે. બીજી તરફ <b>પત્ની રાજુ અને બાળકોની ભૂખ</b> છે, જે તેને લાઈનમાં ઊભા રહેવા મજબૂર કરે છે. <br>પોતાના જ પકવેલા અનાજ માટે શેઠિયાઓ પાસે હાથ લંબાવવો પડે, તેનાથી મોટું દુઃખ કાળુ માટે બીજું કોઈ નથી. તે વિચારે છે કે ઈશ્વર ભૂખ આપીને મારે તેના કરતા આ ભીખ માંગવા જેવી હાલત શા માટે કરી રહ્યો છે! આ મનોમંથન તેને અંદરથી તોડી નાખે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 24,
+        marks: 4,
+        year_asked: "[Most IMP Long Question 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કાળુનું પાત્રાલેખન કરો (કાળુના સ્વભાવની વિશેષતાઓ).</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>પન્નાલાલ પટેલની 'માનવીની ભવાઈ' નો નાયક કાળુ એ <b>સ્વમાન, ટેક અને ખેડૂતની ખુમારીનું જીવંત પ્રતીક</b> છે.<br><br>૧. <b>સ્વમાની ખેડૂત:</b> કાળુ માટે ભીખ માંગવી એ મરવા સમાન છે. દુકાળમાં બધા ભીખ માંગવા લાઈનમાં ઊભા છે, પણ કાળુ ત્યાં જતો નથી. તે માને છે કે જે ધરતીમાંથી અમે અનાજ પકવ્યું, તે જ અનાજ પાછું માંગવું એ ખેડૂતનું અપમાન છે.<br>૨. <b>મજબૂર પિતા/પતિ:</b> કાળુ બહારથી કઠોર દેખાય છે, પણ રાજુ અને બાળકોની ભૂખ તેનાથી જોવાતી નથી. પોતાની ટેક બાજુ પર મૂકીને માત્ર પરિવારના જીવ બચાવવા તે સદાવ્રતમાં જાય છે.<br>૩. <b>લાચાર અને સંવેદનશીલ:</b> જ્યારે તે અનાજ લે છે, ત્યારે તેને લાગે છે કે જાણે હાથમાં અંગારા મુકાયા હોય. સુંદરજી શેઠના સમજાવવા છતાં તેના આત્માનો ઘા રુઝાતો નથી. <br><br>આમ, કાળુ ગરીબી અને ભૂખ સામે હારી જવા છતાં <b>માનસિક રીતે ક્યારેય ભિખારી બનતો નથી.</b> તેનું પાત્ર વાચકોના હૃદયમાં કાયમી છાપ છોડી જાય છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: પાત્રાલેખનમાં 3 મુદ્દા લખો: 1. ગરીબ પણ સ્વાભિમાની (ભીખ નહિ માંગવાની ટેક), 2. પરિવાર માટે ઝૂકી જવું (રાજુના કહેવાથી), 3. અનાજ લેતી વખતની પીડા (અંગારા જેવી). આ 3 વાતમાં કાળુનું આખું કેરેક્ટર આવી જાય!</div></div>"
+    },
+
+    {
+        chapter: 18,
+        q_no: 25,
+        marks: 4,
+        year_asked: "[Central Idea / Title Justification]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ભૂખથીય ભૂંડી ભીખ' પાઠનું શીર્ષક યથાર્થ સાબિત કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'ભૂખથીય ભૂંડી ભીખ' શીર્ષક પાઠના હાર્દને અને કાળુની મનોસ્થિતિને 100% સાર્થક કરે છે.<br><br>સામાન્ય રીતે માણસને સૌથી મોટું દુઃખ ભૂખનું લાગતું હોય છે. માણસ ભૂખ સહન કરી શકતો નથી. પરંતુ લેખક આ વાર્તા દ્વારા સાબિત કરે છે કે <b>ભૂખ તો માત્ર શરીરને મારે છે, પણ ભીખ તો માણસના આત્મા, સ્વમાન અને તેની ઈજ્જતને મારી નાખે છે.</b><br>કાળુ જેવા ટેકીલા ખેડૂતને ભૂખથી મરવું મંજૂર હતું, પણ હાથ લંબાવીને ભીખ માંગવી તેને મરવા કરતા પણ વધુ 'ભૂંડી' (ખરાબ) લાગતી હતી. જ્યારે કાળુ અનાજ લે છે, ત્યારે તેના આત્માનો જે અવાજ છે તે જ આ પાઠનું શીર્ષક છે. ભીખ માણસની ખુમારીને નષ્ટ કરે છે. તેથી જ પન્નાલાલ પટેલે આપેલું આ શીર્ષક એકદમ યથાર્થ અને માર્મિક છે.<br><br></div>"
+    },
+    
+
+    // પ્રકરણ 19: એક બપોરે (રાવજી પટેલ) - N. J. Classes (Target 2026)
+
+    {
+        chapter: 19,
+        q_no: 1,
+        marks: 1,
+        year_asked: "[March 2022, 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'એક બપોરે' કાવ્યના કવિનું નામ અને તેનો સાહિત્ય પ્રકાર જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિનું નામ <b>રાવજી પટેલ</b> છે અને આ કાવ્યનો સાહિત્ય પ્રકાર <b>ઊર્મિકાવ્ય</b> છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: 'એક બપોરે' રાવજીભાઈ ખેતરમાં બેઠા હતા, ત્યાં અચાનક તેમના મનમાં 'ઊર્મિ' (લાગણી) જાગી! આ રીતે કવિ અને પ્રકાર યાદ રાખો.</div></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 2,
+        marks: 1,
+        year_asked: "[August 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આ કાવ્ય કવિ રાવજી પટેલના કયા કાવ્યસંગ્રહમાંથી લેવામાં આવ્યું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ કાવ્ય કવિના એકમાત્ર પ્રખ્યાત કાવ્યસંગ્રહ <b>'અંગત'</b> માંથી લેવામાં આવ્યું છે.<br><br></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 3,
+        marks: 1,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'મારા ખેતરના શેઢેથી લ્યા ઊડી ગઈ સારસી' - અહીં 'સારસી' શેનું પ્રતીક છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>અહીં 'સારસી' એ <b>જીવનના ઉમંગ, રસ, ચેતના કે જીવાત્મા (પ્રાણ)</b> નું પ્રતીક છે. સારસીનું ઊડી જવું એટલે મૃત્યુ નજીક હોવાનો આભાસ થવો.<br><br></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 4,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ તેમની માતાને શું કરવાની ના પાડે છે અને કેમ?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ ખેતરમાં ભાથું (બપોરનું ભોજન) લઈને આવેલી માતાને કહે છે કે <b>"ઢોચકીમાં છાશ પાછી રેડી દે અને રોટલાને પાછા બાંધી દે."</b> <br>કારણ કે કવિને હવે જીવનનો અંત નજીક દેખાય છે, તેમના જીવનમાંથી રસ ઊડી ગયો છે. હવે તેમને અનાજ કે છાશ (ભોજન) ખાવાની કોઈ ઈચ્છા રહી નથી.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે માણસને અંદરથી ખબર પડી જાય કે હવે જીવવાની આશા નથી (બીમારીને લીધે), ત્યારે તેને ભૂખ-તરસ બધું જ મરી જાય છે. એટલે તે ખાવાની ના પાડે છે.</div></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 5,
+        marks: 1,
+        year_asked: "[Board MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિને શેમાં 'કસ' નથી લાગતો? <br>(A) છાશમાં (B) રોટલામાં (C) ચલમની તમાકુમાં (D) ખેતરમાં</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(C) ચલમની તમાકુમાં</b><br><br></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 6,
+        marks: 1,
+        year_asked: "[Mock Test N. J. Classes]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ ક્યાં પડી રહેવા માંગે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ <b>મહુડીની છાંય (છાયા) તળે</b> પડી રહેવા માંગે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 7,
+        marks: 1,
+        year_asked: "[Grammar Section]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સમાનાર્થી શબ્દો આપો: શેઢો, તાપણી, ઢોચકી</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>શેઢો</b> = ખેતરના છેડાનો ખેડ્યા વિનાનો ભાગ (પાળો)<br>૨. <b>તાપણી</b> = તાપવા માટે સળગાવેલો અગ્નિ<br>૩. <b>ઢોચકી</b> = માટીનું નાનું વાસણ (દોણી)<br><br></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 8,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિરુદ્ધાર્થી શબ્દો લખો: બપોર, આકાશ, અગ્નિ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>બપોર</b> x મધરાત / સાંજ<br>૨. <b>આકાશ</b> x પાતાળ / ધરતી<br>૩. <b>અગ્નિ</b> x જળ<br><br></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 9,
+        marks: 2,
+        year_asked: "[March 2025 Expected]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રૂઢિપ્રયોગનો અર્થ આપી વાક્ય બનાવો: 'કસ ન રહેવો' અને 'ગળા સુધી રેલાઈ જવું'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>કસ ન રહેવો</b> = રસ કે આનંદ ન રહેવો.<br><i>વાક્ય:</i> પુત્રના મૃત્યુ પછી પિતાના જીવનમાં કોઈ કસ રહ્યો નહિ.<br>૨. <b>ગળા સુધી રેલાઈ જવું</b> = મૃત્યુ સાવ નજીક આવી જવું (અંતિમ સમય આવવો).<br><i>વાક્ય:</i> અસાધ્ય બીમારીને કારણે જાણે આકાશ ગળા સુધી રેલાઈ ગયું હતું.<br><br></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 10,
+        marks: 1,
+        year_asked: "[Vocabulary Quiz]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શબ્દસમૂહ માટે એક શબ્દ આપો: 'રાખ નીચે ઢંકાયેલો દેવતા (અગ્નિ)'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>ભારવેલો અગ્નિ</b><br><br></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ 'ભારવેલો અગ્નિ' ઠારી દેવાનું શા માટે કહે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ભારવેલો અગ્નિ એટલે અંદરથી ધીમે ધીમે સળગતી જીવનની આશાઓ અને અરમાનો. <br>કવિને ટી.બી. (ક્ષય) ની ગંભીર બીમારી હતી. તેમને ખબર પડી ગઈ હતી કે હવે તેઓ જીવવાના નથી. એટલે તેઓ કહે છે કે <b>હવે જીવનની આશા રાખવાનો કોઈ અર્થ નથી, આથી આ અગ્નિ (આશા) ને કાયમ માટે ઠારી દો.</b><br><br></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 12,
+        marks: 2,
+        year_asked: "[July 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ બળદ વિશે શું આદેશ આપે છે? તે શું સૂચવે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ કહે છે કે, <b>"બળદને હવે જોતરીશ નહિ"</b> (એટલે કે હવે હળ ચલાવવા માટે બળદને ખેતરમાં ન જોડતા).<br>આ પંક્તિ સૂચવે છે કે કવિ હવે પોતાના દુન્યવી કામકાજ અને ખેતીમાંથી કાયમ માટે નિવૃત્ત થવા માંગે છે. તેમના જીવનનું કામ હવે પૂરું થઈ ગયું છે.<br><br></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 13,
+        marks: 1,
+        year_asked: "[MCQ - Target 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કાવ્યમાં કવિ પોતાની નિરાશા વ્યક્ત કરવા કયા પ્રતીકનો ઉપયોગ કરે છે? <br>(A) ઢોચકી (B) ચલમ (C) સારસીનું ઊડી જવું (D) રોટલો</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(C) સારસીનું ઊડી જવું</b><br><br></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 14,
+        marks: 2,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ભલે આખું આકાશ ગળા સુધી રેલાઈ જાય!' - પંક્તિનો અર્થ સ્પષ્ટ કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ પંક્તિ કવિની લાચારી અને મૃત્યુનો સ્વીકાર દર્શાવે છે. <br>કવિ કહે છે કે ભલે આખું આકાશ મારા ગળા સુધી આવી જાય <b>(એટલે કે ભલે મૃત્યુ બિલકુલ ગળે આવીને ઊભું રહી જાય અને શ્વાસ રુંધાઈ જાય)</b>, તો પણ હવે મને કોઈ જ પરવા (ફિકર) નથી. મેં મૃત્યુનો સ્વીકાર કરી લીધો છે.<br><br></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 15,
+        marks: 1,
+        year_asked: "[Knowledge Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ રાવજી પટેલ કઈ જીવલેણ બીમારીનો ભોગ બન્યા હતા?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિ રાવજી પટેલ નાની ઉંમરે <b>ક્ષય (T.B. - ટ્યુબરક્યુલોસિસ)</b> ની બીમારીનો ભોગ બન્યા હતા.<br><br></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 16,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કવિ ગ્રામ્ય જીવનના કયા કયા શબ્દો/વસ્તુઓનો કાવ્યમાં ઉપયોગ કરે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કાવ્યમાં શુદ્ધ ગ્રામ્ય વાતાવરણ જોવા મળે છે. તેમાં <b>ખેતર, શેઢો, ઢોચકી, છાશ, રોટલા, ચલમ, તમાકુ, તાપણી, મહુડી અને બળદ</b> જેવા ગ્રામ્ય જીવનના પરિચિત શબ્દોનો સુંદર ઉપયોગ થયો છે.<br><br></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 17,
+        marks: 1,
+        year_asked: "[Objective MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'આ ચલમની તમાકુમાં કસ નથી' - એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>એટલે કે <b>હવે જીવનમાં કોઈ રસ કે ઉમંગ બાકી રહ્યો નથી</b>.<br><br></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 18,
+        marks: 2,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નીચેના તળપદા શબ્દોના શિષ્ટ રૂપ આપો: લ્યા, ઢોચકી, જોતરીશ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>લ્યા</b> = અલ્યા / અરે<br>૨. <b>ઢોચકી</b> = માટીનું વાસણ<br>૩. <b>જોતરીશ</b> = જોડીશ (હળ સાથે બળદને જોડવું)<br><br></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 19,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સાચી જોડણી ઓળખાવો: મંહુડી / મહુડી, છાશ / છાસ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સાચી જોડણી: <b>મહુડી</b> અને <b>છાશ</b><br><br></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 20,
+        marks: 2,
+        year_asked: "[Expected 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'એક બપોરે' માં 'બપોર' કયા અર્થમાં (પ્રતીક તરીકે) વપરાયો છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કાવ્યમાં 'બપોર' એ <b>જીવનના મધ્યાહન એટલે કે 'યુવાવસ્થા' (જુવાની)</b> નું પ્રતીક છે.<br>માણસની જુવાની એટલે દિવસનો બપોર. કવિને યુવાવસ્થામાં જ જીવલેણ બીમારી લાગુ પડી ગઈ છે. હજુ તો જીવનનો બપોર જ થયો છે અને જીવનનો અંત નજીક આવી ગયો છે, તેવો કરુણ ભાવ અહીં બતાવ્યો છે.<br><br></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 21,
+        marks: 3,
+        year_asked: "[March 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કાવ્યમાં કવિની મનોસ્થિતિ (વૈરાગ્ય) કેવી રીતે પ્રગટ થઈ છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કવિને ક્ષય રોગ થયો છે અને તેઓ જાણે છે કે તેમનું મૃત્યુ નિશ્ચિત છે. આ કારણે તેમના મનમાં ઘોર વૈરાગ્ય (દુનિયા પરથી મોહ ઊતરી જવો) છવાઈ ગયો છે.<br>જે ખેતર અને ખેતી તેમનો જીવ હતા, ત્યાંથી તેમને સારસી ઊડી જતી દેખાય છે. તેમને ખાવા-પીવામાં (છાશ-રોટલામાં) કે વ્યસનમાં (ચલમમાં) કોઈ રસ રહ્યો નથી. તેઓ પોતાના સળગતા અરમાનોને (તાપણીને) ઠારી દેવા માંગે છે અને માત્ર શાંતિથી મહુડીની નીચે સૂઈ રહેવા માંગે છે. આ તેમની ઉદાસીનતા અને વૈરાગ્ય દર્શાવે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 22,
+        marks: 1,
+        year_asked: "[MCQ - N. J. Classes Mock]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'એક બપોરે' કાવ્યમાં કયો રસ (ભાવ) મુખ્ય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ કાવ્યમાં <b>કરુણ રસ અને વિરહ (વૈરાગ્ય)</b> મુખ્ય છે.<br><br></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 23,
+        marks: 3,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સારસીના ઊડી જવાથી કવિના મન પર કેવી અસર થાય છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સારસી એ કવિના જીવનના શ્વાસ, ઉમંગ અને ચેતનાનું પ્રતીક છે. જ્યારે કવિ કહે છે કે 'શેઢેથી સારસી ઊડી ગઈ', ત્યારે તેમના મન પર <b>જીવન ખતમ થઈ ગયાનો આઘાત</b> લાગે છે.<br>સારસીના ગયા પછી કવિને દુનિયાની કોઈપણ વસ્તુમાં કસ (રસ) લાગતો નથી. તેઓ મા પાસે જમવાની ના પાડી દે છે, ખેતીનું કામ અટકાવી દે છે અને જાણે કે મૃત્યુની રાહ જોતા મહુડીની નીચે પડી રહેવા માંગે છે. સારસીનું ઊડવું એ તેમના જીવનનું પણ ઊડી જવું છે.<br><br></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 24,
+        marks: 4,
+        year_asked: "[Most IMP Long Question 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'એક બપોરે' કાવ્યમાં રજૂ થયેલી કવિની મૃત્યુની વેદના સવિસ્તાર વર્ણવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>રાવજી પટેલના 'એક બપોરે' ગીતમાં મૃત્યુનો સાક્ષાત્કાર અને જીવનની અસારતા અત્યંત કરુણ રીતે વર્ણવવામાં આવી છે.<br><br>૧. <b>જીવનમાંથી ઉમંગનો નાશ:</b> કાવ્યની શરૂઆતમાં જ 'સારસીનું ઊડી જવું' દર્શાવે છે કે કવિના શરીરમાંથી હવે પ્રાણ અને જીવનનો આનંદ જતો રહ્યો છે. તેમને યુવાનીમાં જ ક્ષય રોગ ભરખી ગયો છે.<br>૨. <b>દુન્યવી વસ્તુઓ પરથી મોહ ઊતરવો:</b> કવિને હવે ભોજનમાં (છાશ કે રોટલામાં) કોઈ ભૂખ રહી નથી. તમાકુમાં તેમને કસ નથી લાગતો. આ દર્શાવે છે કે મૃત્યુની સમીપ ઉભેલા માણસને શારીરિક જરૂરિયાતોની કોઈ તમા રહેતી નથી.<br>૩. <b>મૃત્યુનો સ્વીકાર:</b> કવિ કહે છે કે અંદર સળગતી આશાઓની તાપણી હવે ઠારી દો. બળદને હવે ખેતરમાં જોડવાની કોઈ જરૂર નથી. હવે તો આકાશ ગળા સુધી આવે (મોત ગળે વળગી જાય) તો પણ તેમને ભય નથી. તેઓ માત્ર મહુડીની છાયામાં શાંતિથી વિદાય લેવા માંગે છે.<br><br>આમ, કાવ્યમાં યુવાન કવિની <b>મૃત્યુ સામેની લાચારી અને ઘોર વૈરાગ્યનું</b> હૃદયદ્રાવક ચિત્ર ઊભું થયું છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટા પ્રશ્નમાં કવિની બીમારી (TB) નો ઉલ્લેખ ચોક્કસ કરવો. સારસી ઊડી એટલે જીવ ઊડ્યો. ભૂખ મરી ગઈ. અને કામ (બળદનું જોડાણ) બંધ કરી દીધું. આ રીતે ક્રમમાં જવાબ લખશો એટલે ભૂલ પડશે જ નહિ!</div></div>"
+    },
+
+    {
+        chapter: 19,
+        q_no: 25,
+        marks: 4,
+        year_asked: "[Central Idea / Title Justification]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'એક બપોરે' કાવ્યના શીર્ષકની યથાર્થતા (કેન્દ્રીય વિચાર) સ્પષ્ટ કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'એક બપોરે' શીર્ષક કાવ્યના કેન્દ્રીય ભાવને 100% યોગ્ય રીતે દર્શાવે છે.<br><br>૧. <b>શબ્દનો પ્રતીકાત્મક અર્થ:</b> 'બપોર' એટલે દિવસનો મધ્ય ભાગ, જે જીવનના સંદર્ભમાં 'યુવાવસ્થા' (જુવાની) દર્શાવે છે. કવિ રાવજી પટેલ હજુ યુવાન છે, તેમના જીવનની બપોર ચાલી રહી છે.<br>૨. <b>અકાળ મૃત્યુ:</b> કવિને ટી.બી. જેવી જીવલેણ બીમારી લાગુ પડી છે. સામાન્ય રીતે માણસનું મૃત્યુ જીવનની 'સાંજે' (વૃદ્ધાવસ્થામાં) આવે, પરંતુ કવિ માટે તો જીવનની 'બપોરે' જ સાંજ પડી ગઈ છે. બપોરના સમયે જ તેમના જીવનની સારસી ઊડી જાય છે.<br>૩. <b>નિરાશા:</b> આ અકાળ મૃત્યુને કારણે કવિ પોતાના ખેતર, ભાથું, ચલમ અને દુન્યવી કામોથી વિખૂટા પડી રહ્યા છે. જીવનના મધ્યાહને અનુભવાતો આ વૈરાગ્ય જ કાવ્યનો આત્મા છે.<br><br>તેથી, કવિના યુવાન વયે થતા મૃત્યુના કરુણ ભાવને વ્યક્ત કરવા માટે <b>'એક બપોરે' શીર્ષક અત્યંત સૂચક અને યથાર્થ છે.</b><br><br></div>"
+    },
+
+
+    // પ્રકરણ 20: વિરલ વિભૂતિ (આત્માર્પિત અપૂર્વજી) - N. J. Classes (Target 2026)
+
+    {
+        chapter: 20,
+        q_no: 1,
+        marks: 1,
+        year_asked: "[March 2022, 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'વિરલ વિભૂતિ' પાઠના લેખકનું નામ અને તેનો સાહિત્ય પ્રકાર જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખકનું નામ <b>આત્માર્પિત અપૂર્વજી</b> છે અને આ પાઠનો સાહિત્ય પ્રકાર <b>ચરિત્રનિબંધ (જીવનચરિત્ર)</b> છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્રીમદ્ રાજચંદ્ર એક પવિત્ર 'આત્મા' હતા, એટલે તેમનું ચરિત્ર લખનાર લેખકના નામમાં પણ 'આત્માર્પિત' આવે છે! અને કોઈ મહાન વ્યક્તિના જીવનની વાત હોય એટલે તેને 'ચરિત્રનિબંધ' કહેવાય.</div></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 2,
+        marks: 1,
+        year_asked: "[August 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શ્રીમદ્ રાજચંદ્રનો જન્મ ક્યારે અને ક્યાં થયો હતો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>શ્રીમદ્ રાજચંદ્રનો જન્મ <b>કારતક સુદ પૂનમ (દેવદિવાળી)</b> ના રોજ મોરબી પાસેના <b>વવાણિયા ગામમાં</b> થયો હતો.<br><br></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 3,
+        marks: 1,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શ્રીમદ્ રાજચંદ્રના માતા-પિતાનું નામ શું હતું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>તેમની માતાનું નામ <b>દેવબા</b> અને પિતાનું નામ <b>રવજીભાઈ</b> હતું.<br><br></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 4,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શ્રીમદ્ રાજચંદ્રનું બાળપણનું નામ શું હતું? પછી તે કેમ બદલાયું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>તેમનું બાળપણનું નામ <b>લક્ષ્મીનંદન</b> હતું. ચાર વર્ષની ઉંમરે તેમને નામ ગમ્યું નહિ, તેથી બદલીને <b>રાયચંદ</b> રાખવામાં આવ્યું. પાછળથી તેમના અનુયાયીઓએ તેમને <b>'શ્રીમદ્ રાજચંદ્ર'</b> નામથી ઓળખાવ્યા.<br><br></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 5,
+        marks: 1,
+        year_asked: "[Board MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શ્રીમદ્ રાજચંદ્ર કોના આધ્યાત્મિક ગુરુ હતા? <br>(A) સ્વામી વિવેકાનંદના (B) મહાત્મા ગાંધીના (C) સરદાર પટેલના (D) નરસિંહ મહેતાના</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(B) મહાત્મા ગાંધીના</b><br><br></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 6,
+        marks: 1,
+        year_asked: "[Mock Test N. J. Classes]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શ્રીમદ રાજચંદ્રને ૭ વર્ષની ઉંમરે કયું જ્ઞાન પ્રાપ્ત થયું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>તેમને ૭ વર્ષની ઉંમરે <b>જાતિસ્મરણ જ્ઞાન</b> (પૂર્વજન્મની યાદ આવવાનું જ્ઞાન) પ્રાપ્ત થયું હતું.<br><br></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 7,
+        marks: 1,
+        year_asked: "[Grammar Section]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સમાનાર્થી શબ્દો આપો: વિરલ, સ્મૃતિ, વિભૂતિ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>વિરલ</b> = દુર્લભ / અનોખું<br>૨. <b>સ્મૃતિ</b> = યાદ / સ્મરણ<br>૩. <b>વિભૂતિ</b> = મહાન વ્યક્તિ / પ્રતાપી પુરુષ<br><br></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 8,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિરુદ્ધાર્થી શબ્દો લખો: આધ્યાત્મિક, જન્મ, સ્મરણ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>આધ્યાત્મિક</b> x ભૌતિક / દુન્યવી<br>૨. <b>જન્મ</b> x મરણ / મૃત્યુ<br>૩. <b>સ્મરણ</b> x વિસ્મરણ<br><br></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 9,
+        marks: 2,
+        year_asked: "[March 2025 Expected]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રૂઢિપ્રયોગનો અર્થ આપી વાક્ય બનાવો: 'દેહ પડી જવો' અને 'હૃદયમાં કોતરાઈ જવું'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>દેહ પડી જવો</b> = મૃત્યુ થવું / અવસાન થવું.<br><i>વાક્ય:</i> ટૂંકી માંદગી બાદ અમીચંદભાઈનો દેહ પડી ગયો.<br>૨. <b>હૃદયમાં કોતરાઈ જવું</b> = કાયમ માટે યાદ રહી જવું.<br><i>વાક્ય:</i> શ્રીમદ રાજચંદ્રના પવિત્ર વિચારો ગાંધીજીના હૃદયમાં કોતરાઈ ગયા.<br><br></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 10,
+        marks: 1,
+        year_asked: "[Vocabulary Quiz]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શબ્દસમૂહ માટે એક શબ્દ આપો: 'એકસાથે ૧૦૦ વાતો યાદ રાખવાની માનસિક શક્તિ'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>શતાવધાન</b><br><br></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'વિરલ વિભૂતિ' પાઠનું શીર્ષક કોને લાગુ પડે છે અને કેમ?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ શીર્ષક <b>શ્રીમદ્ રાજચંદ્ર</b> ને લાગુ પડે છે. 'વિરલ વિભૂતિ' એટલે લાખોમાં એક એવી મહાન અને દુર્લભ વ્યક્તિ. શ્રીમદ્ રાજચંદ્ર પાસે નાનપણથી જ જાતિસ્મરણ જ્ઞાન, શતાવધાનની અદભુત શક્તિ, ધાર્મિક જ્ઞાન અને પવિત્ર આચરણ હતું. તેમની આવી અનોખી સિદ્ધિઓને કારણે તેમને 'વિરલ વિભૂતિ' કહેવાયા છે.<br><br></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 12,
+        marks: 2,
+        year_asked: "[July 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>અમીચંદભાઈના મૃત્યુ સમયે બાળ રાયચંદના મનમાં કયા પ્રશ્નો ઊભા થયા?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>અમીચંદભાઈના મૃત્યુ સમયે બાળ રાયચંદે દાદાને પૂછ્યું કે, <b>"દાદાજી, અમીચંદભાઈને શું થયું છે? તેઓ કેમ બોલતા નથી? તેમને લાકડા પર સુવડાવીને લોકો કેમ બાળી રહ્યા છે? અને શું હું પણ એક દિવસ આમ જ મરી જઈશ?"</b> આ ઘટનાથી તેમના મનમાં જીવન અને મૃત્યુના ગહન પ્રશ્નો ઊભા થયા.<br><br></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 13,
+        marks: 1,
+        year_asked: "[MCQ - Target 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>૧૯ વર્ષની ઉંમરે શ્રીમદે કયા શહેરમાં શતાવધાનનો પ્રયોગ કર્યો હતો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧૯ વર્ષની ઉંમરે શ્રીમદે <b>મુંબઈ શહેરમાં (ફરામજી કાવસજી ઇન્સ્ટિટ્યૂટમાં)</b> શતાવધાનનો ભવ્ય પ્રયોગ કર્યો હતો.<br><br></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 14,
+        marks: 2,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શ્રીમદ્ રાજચંદ્રે શતાવધાનના પ્રયોગો શા માટે બંધ કરી દીધા?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>મુંબઈમાં શતાવધાન પ્રયોગની સફળતા પછી ચારે તરફ તેમની પ્રશંસા થવા લાગી. શ્રીમદને લાગ્યું કે <b>આવી લોકપ્રિયતા અને પ્રસિદ્ધિથી મનમાં અહંકાર (ઈગો) આવી શકે છે, જે આત્મકલ્યાણ અને આધ્યાત્મિક વિકાસમાં બાધારૂપ બની શકે છે.</b> તેથી ૨૦ વર્ષની ઉંમરે જ તેમણે શતાવધાનના પ્રયોગો કાયમ માટે બંધ કરી દીધા.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: સામાન્ય માણસ થોડુંક ટેલેન્ટ બતાવીને ફેમસ થવા માટે તડપતો હોય છે, પણ શ્રીમદે માત્ર 'અહંકાર ન આવે' એ માટે જ આવું અદભુત ટેલેન્ટ પબ્લિક સામે બતાવવાનું બંધ કરી દીધું! આ જ એમની મહાનતા છે.</div></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 15,
+        marks: 1,
+        year_asked: "[Knowledge Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>માત્ર ૧૬ વર્ષની ઉંમરે શ્રીમદે કયું ધાર્મિક પુસ્તક લખ્યું હતું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>માત્ર ૧૬ વર્ષની ઉંમરે તેમણે જૈન ધર્મ પર આધારિત <b>'મોક્ષમાળા'</b> નામનું પુસ્તક (ફક્ત ૩ દિવસમાં) લખી નાખ્યું હતું.<br><br></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 16,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગાંધીજી અને શ્રીમદ્ રાજચંદ્રની પ્રથમ મુલાકાત ક્યાં અને કેવી રીતે થઈ?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગાંધીજી જ્યારે ઇંગ્લેન્ડથી બેરિસ્ટર (વકીલ) બનીને મુંબઈ પરત આવ્યા, ત્યારે <b>મુંબઈમાં ડૉ. પ્રાણજીવનદાસના ઘરે</b> તેમની શ્રીમદ્ રાજચંદ્ર સાથે પ્રથમ મુલાકાત થઈ હતી. ડૉ. પ્રાણજીવનદાસ શ્રીમદના સસરા થતા હતા.<br><br></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 17,
+        marks: 1,
+        year_asked: "[Objective MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શ્રીમદ્ રાજચંદ્ર કયો વ્યવસાય (ધંધો) કરતા હતા?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>શ્રીમદ્ રાજચંદ્ર મુંબઈમાં <b>હીરા-માણેક (ઝવેરાત)</b> નો વેપાર કરતા હતા.<br><br></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 18,
+        marks: 2,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગાંધીજી શ્રીમદ્ રાજચંદ્રથી કેમ પ્રભાવિત થયા?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ગાંધીજીએ જોયું કે શ્રીમદ્ લાખો રૂપિયાના હીરાના વેપારમાં રચ્યાપચ્યા હોવા છતાં તેમનામાં કોઈ લોભ કે અહંકાર ન હતો. તેમનું <b>આચરણ એકદમ નીતિવાન અને ધાર્મિક</b> હતું. વેપારની વચ્ચે પણ તેઓ આધ્યાત્મિક વિચારો કરતા. તેમની આ <b>સત્યનિષ્ઠા અને જ્ઞાન</b> જોઈને ગાંધીજી તેમનાથી ખૂબ પ્રભાવિત થયા.<br><br></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 19,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સાચી જોડણી ઓળખાવો: શતાવધાની / સતાવધાની, આધ્યાત્મીક / આધ્યાત્મિક</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સાચી જોડણી: <b>શતાવધાની</b> અને <b>આધ્યાત્મિક</b><br><br></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 20,
+        marks: 2,
+        year_asked: "[Expected 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગાંધીજીએ દક્ષિણ આફ્રિકાથી શ્રીમદને કેવા પ્રશ્નો પૂછ્યા હતા અને તેનું શું પરિણામ આવ્યું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>દક્ષિણ આફ્રિકામાં ગાંધીજીને ધર્મ વિશે ઘણા ગહન પ્રશ્નો ઊભા થયા હતા. તેથી તેમણે શ્રીમદને પત્ર લખીને <b>આત્મા, ઈશ્વર, અને ધર્મ વિશેના લગભગ ૨૭ પ્રશ્નો</b> પૂછ્યા હતા. શ્રીમદે પત્રો દ્વારા એવા સંતોષકારક અને તાર્કિક જવાબો આપ્યા કે ગાંધીજીના મનની બધી મુંઝવણો દૂર થઈ ગઈ.<br><br></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 21,
+        marks: 3,
+        year_asked: "[March 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શ્રીમદ્ રાજચંદ્રને જાતિસ્મરણ જ્ઞાન કેવી રીતે પ્રાપ્ત થયું તે પ્રસંગ વર્ણવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જ્યારે રાયચંદ ૭ વર્ષના હતા, ત્યારે તેમના ગામમાં અમીચંદભાઈ નામના સજ્જનનું અવસાન થયું. રાયચંદે પોતાના દાદાને પૂછ્યું કે તેમને શું થયું છે? દાદાએ કહ્યું કે તેમનો દેહ પડી ગયો છે અને તેમને બાળવા લઈ જાય છે.<br>બાળ રાયચંદ છુપાઈને સ્મશાનમાં ઝાડ પર ચડી ગયા અને ચિતા સળગતી જોઈ. આ સળગતી ચિતા જોતા જ તેમને વિચાર આવ્યો કે 'શું આ શરીર નાશવંત છે?' આ મનોમંથનમાં અચાનક તેમના મનના પડદા ખુલ્યા અને તેમને <b>તેમના પૂર્વજન્મની સેંકડો યાદો આવવા લાગી.</b> આ રીતે તેમને ૭ વર્ષની ઉંમરે જ જાતિસ્મરણ જ્ઞાન પ્રાપ્ત થયું હતું.<br><br></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 22,
+        marks: 1,
+        year_asked: "[MCQ - N. J. Classes Mock]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શ્રીમદ્ રાજચંદ્રનું શરીર કેમ અત્યંત દુર્બળ (પાતળું) હતું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કારણ કે તેઓ <b>દેહ (શરીર) કરતા આત્માને વધુ મહત્વ આપતા હતા</b> અને ખાવા-પીવામાં એકદમ અનાસક્ત (રસ વગરના) હતા.<br><br></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 23,
+        marks: 3,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શતાવધાન પ્રયોગ એટલે શું? મુંબઈમાં શ્રીમદે કેવી રીતે આ પ્રયોગ કર્યો હતો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'શતાવધાન' એટલે એકસાથે ૧૦૦ અલગ-અલગ ક્રિયાઓ કે શબ્દો પર ધ્યાન આપવાની અને તેને ક્રમબદ્ધ યાદ રાખવાની અત્યંત દુર્લભ માનસિક શક્તિ.<br>૧૯ વર્ષની ઉંમરે શ્રીમદે મુંબઈમાં મોટા મોટા વિદ્વાનો અને ન્યાયાધીશો સામે આ પ્રયોગ કર્યો હતો. લોકોએ તેમને એકસાથે ૧૦૦ અલગ-અલગ શબ્દો, ગણિતના દાખલા, શ્લોકો અને વિદેશી ભાષાના શબ્દો કહ્યા. પ્રયોગના અંતે <b>શ્રીમદે એ ૧૦૦ એ ૧૦૦ શબ્દો અને ક્રિયાઓ જે ક્રમમાં પૂછાયા હતા, તે જ ક્રમમાં કડકડાટ બોલી બતાવ્યા!</b> આ જોઈને આખું મુંબઈ આશ્ચર્યચકિત થઈ ગયું હતું.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: શતાવધાન એટલે માણસનું મગજ 'કમ્પ્યુટર' બની જાય! કમ્પ્યુટરમાં ૧૦૦ ટેબ ઓપન હોય અને બધી જ એકસાથે યાદ હોય. શ્રીમદ પાસે આવું સુપર-કમ્પ્યુટર જેવું મગજ હતું.</div></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 24,
+        marks: 4,
+        year_asked: "[Most IMP Long Question 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ગાંધીજીના ઘડતરમાં શ્રીમદ્ રાજચંદ્રનો ફાળો (પ્રભાવ) સવિસ્તાર વર્ણવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>મહાત્મા ગાંધીના આધ્યાત્મિક અને નૈતિક ઘડતરમાં શ્રીમદ્ રાજચંદ્રનો ફાળો સૌથી મોટો છે.<br><br>૧. <b>પ્રથમ મુલાકાત અને પ્રભાવ:</b> ગાંધીજી જ્યારે મુંબઈમાં પહેલીવાર શ્રીમદને મળ્યા, ત્યારે શતાવધાનની શક્તિ કરતા શ્રીમદના પવિત્ર આચરણ અને જ્ઞાનથી વધુ પ્રભાવિત થયા. શ્રીમદ વેપારી હોવા છતાં પરમ સંત હતા.<br>૨. <b>માર્ગદર્શક (ગુરુ):</b> દક્ષિણ આફ્રિકામાં ગાંધીજીને જ્યારે ધર્મ પરિવર્તન અંગે કે આધ્યાત્મિક બાબતો અંગે મુંઝવણ થતી, ત્યારે તેઓ પત્રો લખીને શ્રીમદની સલાહ લેતા. શ્રીમદના સચોટ ઉત્તરોએ ગાંધીજીને હિન્દુ ધર્મમાં અને સત્ય-અહિંસાના માર્ગમાં સ્થિર રાખ્યા.<br>૩. <b>જીવન જ ધર્મ:</b> ગાંધીજીએ સ્વીકાર્યું છે કે તેમણે સત્ય, અહિંસા, ધર્મ, અને બ્રહ્મચર્યના પાઠ શ્રીમદના જીવનમાંથી જ શીખ્યા છે. શ્રીમદનું જીવન એ જ તેમનો ધર્મ હતો.<br><br>ગાંધીજી સ્પષ્ટપણે માનતા હતા કે તેમના આધ્યાત્મિક ગુરુ અને માર્ગદર્શક માત્ર એક જ હતા, અને તે હતા શ્રીમદ્ રાજચંદ્ર.<br><br></div>"
+    },
+
+    {
+        chapter: 20,
+        q_no: 25,
+        marks: 4,
+        year_asked: "[Central Idea / Value Based Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'વિરલ વિભૂતિ' પાઠનો કેન્દ્રીય વિચાર (Central Idea) તમારા શબ્દોમાં સ્પષ્ટ કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'વિરલ વિભૂતિ' ચરિત્રનિબંધનો મુખ્ય ઉદ્દેશ્ય <b>શ્રીમદ્ રાજચંદ્રના અદભુત અને આધ્યાત્મિક જીવનનો પરિચય કરાવીને વિદ્યાર્થીઓમાં નૈતિક મૂલ્યોનું સિંચન કરવાનો છે.</b><br><br>આ પાઠ દર્શાવે છે કે સાચો ધર્મ એ મંદિરમાં બેસવાથી નહિ, પરંતુ જીવનના આચરણમાં (જેમ કે હીરાના વેપારમાં પણ નીતિમત્તા જાળવી રાખવામાં) છે. ૭ વર્ષે જાતિસ્મરણ જ્ઞાન અને ૧૯ વર્ષે શતાવધાન જેવી સિદ્ધિઓ પ્રાપ્ત કરવા છતાં શ્રીમદમાં સહેજ પણ અહંકાર ન હતો. તેમણે આત્મકલ્યાણ માટે પ્રસિદ્ધિને ઠોકર મારી દીધી.<br>આ પાઠમાંથી સૌથી મોટી પ્રેરણા એ મળે છે કે ભૌતિક દુનિયામાં રહીને પણ આત્માને પવિત્ર રાખી શકાય છે. ગાંધીજી જેવા મહાપુરુષને સત્ય અને અહિંસાના માર્ગે ચલાવનાર આ 'વિરલ વિભૂતિ' ભારતનું એક અમૂલ્ય રતન છે.<br><br></div>"
+    },
+
+    // પ્રકરણ 21: ચાંદલિયો (લોકગીત) - N. J. Classes (Target 2026)
+
+    {
+        chapter: 21,
+        q_no: 1,
+        marks: 1,
+        year_asked: "[March 2022, 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ચાંદલિયો' કાવ્યના રચયિતા કોણ છે અને તેનો સાહિત્ય પ્રકાર જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'ચાંદલિયો' એક <b>લોકગીત</b> છે, તેથી તેના કોઈ એક ચોક્કસ લેખક કે કવિ હોતા નથી <b>(રચયિતા અજ્ઞાત છે)</b>.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકગીત એટલે 'લોકો દ્વારા, લોકો માટે રચાતું ગીત'. ગામડાના ચોકમાં ગરબે ઘૂમતા ઘૂમતા લોકો જાતે જ ગીત બનાવી દે, એટલે એના કોઈ લેખક ન હોય!</div></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 2,
+        marks: 1,
+        year_asked: "[August 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ચાંદલિયો' લોકગીત કયા સંગ્રહમાંથી લેવામાં આવ્યું છે અને તેનું સંપાદન કોણે કર્યું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ લોકગીત <b>'રઢિયાળી રાત'</b> નામના સંગ્રહમાંથી લેવામાં આવ્યું છે અને તેનું સંપાદન રાષ્ટ્રીય શાયર <b>ઝવેરચંદ મેઘાણી</b> એ કર્યું છે.<br><br></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 3,
+        marks: 1,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કાવ્યમાં કયા મહિનાની કઈ રાતનું વર્ણન કરવામાં આવ્યું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કાવ્યમાં <b>આસો મહિનાની શરદ પૂનમની રાતનું</b> વર્ણન કરવામાં આવ્યું છે.<br><br></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 4,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નાયિકા પોતાના સાસુ-સસરા વિશે શું કહે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>નાયિકા પોતાના સાસુ-સસરાને <b>પૂર્વજન્મના માતા-પિતા</b> ગણે છે. તેને સાસરિયામાં પોતાના સગા મા-બાપ જેટલો જ પ્રેમ અને આદર મળે છે, તેથી તે તેમને ગત જન્મના માતા-પિતા માને છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: સાસુ-સસરામાં જ મા-બાપ દેખાય, એનાથી મોટું કોઈ નસીબ નહિ! પૂર્વજન્મનું પુણ્ય હોય તો જ આવા સારા સાસુ-સસરા મળે.</div></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 5,
+        marks: 1,
+        year_asked: "[Board MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નાયિકાએ જેઠને કોની ઉપમા આપી છે? <br>(A) અષાઢીલો મેઘ (B) વીજળડી (C) ચાંપલિયાનો છોડ (D) વાડીનો મોરલો</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(A) અષાઢીલો મેઘ</b><br><br></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 6,
+        marks: 1,
+        year_asked: "[Mock Test N. J. Classes]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નાયિકાની જેઠાણી કેવી છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>નાયિકાની જેઠાણી <b>અષાઢ મહિનાના વાદળમાં ઝબૂકતી વીજળી (વીજળડી)</b> જેવી તેજસ્વી છે.<br><br></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 7,
+        marks: 1,
+        year_asked: "[Grammar Section]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સમાનાર્થી શબ્દો આપો: ચાંદલિયો, મેઘ, પરણિયો</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>ચાંદલિયો</b> = ચંદ્ર / શશી / મયંક<br>૨. <b>મેઘ</b> = વરસાદ / વાદળ<br>૩. <b>પરણિયો</b> = પતિ / ભરથાર<br><br></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 8,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિરુદ્ધાર્થી શબ્દો લખો: પૂર્વજન્મ, પૂનમ, મીઠી</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>પૂર્વજન્મ</b> x પુનર્જન્મ / આ જન્મ<br>૨. <b>પૂનમ</b> x અમાસ<br>૩. <b>મીઠી</b> x કડવી<br><br></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 9,
+        marks: 2,
+        year_asked: "[March 2025 Expected]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>તળપદા શબ્દોના શિષ્ટ રૂપ આપો: સખી, વીજળડી, મોરલો</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>સખી</b> = બહેનપણી / મિત્ર<br>૨. <b>વીજળડી</b> = વીજળી<br>૩. <b>મોરલો</b> = મોર<br><br></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 10,
+        marks: 1,
+        year_asked: "[Vocabulary Quiz]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શબ્દસમૂહ માટે એક શબ્દ આપો: 'નવ રંગોવાળી' અને 'તાણીને બાંધેલો માથાનો પહેરવેશ'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. નવ રંગોવાળી = <b>નવરંગી</b><br>૨. તાણીને બાંધેલો માથાનો પહેરવેશ = <b>પાઘડી</b><br><br></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નાયિકા દિયર અને દેરાણી વિશે શું કહે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>નાયિકા દિયરને <b>ચાંપલિયાનો છોડ (ચંપાનો છોડ)</b> કહે છે, જે નાનો અને રૂપાળો છે. અને દેરાણીને તે <b>ચાંપલિયાની પાંદડી</b> સમાન અતિ કોમળ અને સુંદર કહે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 12,
+        marks: 2,
+        year_asked: "[July 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નણંદ અને નણદોઈ માટે કાવ્યમાં કઈ ઉપમાઓ વપરાઈ છે? શા માટે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>નાયિકા પોતાની નણંદને <b>'વાડીની વેલ'</b> કહે છે, કારણ કે વેલની જેમ દીકરી પણ પિયરમાં ઊછરે છે અને પછી સાસરે જાય છે. નણદોઈને તે <b>'વાડીનો મોરલો'</b> કહે છે, જે વેલની આસપાસ સુંદર રીતે નૃત્ય કરે છે. આ ઉપમાઓ ભાઈ-બહેનના પ્રેમ અને સુંદરતા દર્શાવે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 13,
+        marks: 1,
+        year_asked: "[MCQ - Target 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નાયિકાના પતિ (પરણિયા) એ માથે શું પહેર્યું છે? <br>(A) ટોપી (B) સાફો (C) નવરંગી પાઘડી (D) મુગટ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(C) નવરંગી પાઘડી</b><br><br></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 14,
+        marks: 2,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નાયિકા પોતાના પતિ (પરણિયા) નું વર્ણન કેવી રીતે કરે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>નાયિકા અત્યંત ગર્વ સાથે પોતાના પતિને <b>'સવા શેર સૂંઠ'</b> સમાન મજબૂત, શક્તિશાળી અને મર્દ ગણાવે છે. અને કહે છે કે મારો પરણિયો માથા પર <b>તાણીને નવરંગી પાઘડી બાંધે છે</b>, જે તેના રુઆબ અને વ્યક્તિત્વને દર્શાવે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 15,
+        marks: 1,
+        year_asked: "[Knowledge Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ચાંદલિયો ક્યાં ઊગ્યો છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ચાંદલિયો (ચંદ્ર) ઘરના <b>ચોકમાં</b> ઊગ્યો છે.<br><br></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 16,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નાયિકા સખીને 'આસો માસો શરદ પૂનમની રાત' ની વાત કેમ કરે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>કારણ કે શરદ પૂનમની રાતે ચંદ્ર સોળે કળાએ ખીલ્યો છે અને આંગણામાં ગરબે રમવાનો અનેરો ઉત્સાહ છે. આ મંગળમય રાત્રે નાયિકાને પોતાના સાસરિયાના તમામ સભ્યોનો પ્રેમ મળ્યો હોવાથી, <b>આ રાત તેના જીવનમાં અજવાળું લઈને આવી છે.</b> તેથી તે સખીને ઉત્સાહથી વાત કરે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 17,
+        marks: 1,
+        year_asked: "[Objective MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લોકગીત એટલે શું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લોકો દ્વારા, લોકો માટે, પરંપરાગત રીતે ગવાતું અને રચાયેલું ગીત એટલે <b>લોકગીત</b>.<br><br></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 18,
+        marks: 2,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જેઠ અને જેઠાણીને વાદળ અને વીજળી સાથે કેમ સરખાવ્યા છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જેઠ એ ઘરમાં પતિનો મોટો ભાઈ છે, તેથી તે 'અષાઢીલા મેઘ' (વાદળ) જેવો ગંભીર અને શીતળ છે. જ્યારે જેઠાણી ઘરમાં એ મેઘની સાથે ચમકતી 'વીજળી' જેવી સુંદર અને તેજસ્વી છે. આ ઉપમા સાસરિયાના મોભાને અનુરૂપ છે.<br><br></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 19,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નીચે આપેલા શબ્દો માટે કૌટુંબિક સંબંધનો શબ્દ આપો: (૧) પતિની બહેન (૨) પતિનો નાનો ભાઈ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>(૧) પતિની બહેન = <b>નણંદ</b> <br>(૨) પતિનો નાનો ભાઈ = <b>દિયર</b><br><br></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 20,
+        marks: 2,
+        year_asked: "[Expected 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નાયિકાને પોતાની સખી શા માટે મીઠી (વહાલી) લાગે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>નાયિકા ગરબે રમતા રમતા પોતાની સખી (બહેનપણી) ને પોતાના સુખી સાસરિયાની વાત કરી રહી છે. તેને સાસરેથી અખૂટ પ્રેમ મળ્યો છે અને તેનો ઉત્સાહ બેવડાયો છે. <b>પોતાના જીવનના આ આનંદને વહેંચવા માટે સખી જ ઉત્તમ પાત્ર હોવાથી</b>, નાયિકાને પોતાની સખી અત્યંત મીઠી લાગે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 21,
+        marks: 3,
+        year_asked: "[March 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>નાયિકા પોતાના સાસરિયાના સભ્યો માટે કેવો ભાવ વ્યક્ત કરે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>નાયિકા પોતાના સાસરિયાના તમામ સભ્યો પ્રત્યે <b>આદર, પ્રેમ અને સંતોષનો ભાવ</b> વ્યક્ત કરે છે. <br>તે સાસુ-સસરાને પોતાના પૂર્વજન્મના માતા-પિતા ગણીને તેમને ભગવાન સમાન પૂજનીય માને છે. મોટા ભાઈ-ભાભી (જેઠ-જેઠાણી) ને વાદળ-વીજળી જેવું માન આપે છે, અને નાના ભાઈ-ભાભી (દિયર-દેરાણી) પ્રત્યે ચંપાના છોડ જેવું વહાલ દર્શાવે છે. આ આખું વર્ણન એક સુખી અને આદર્શ કુટુંબજીવન દર્શાવે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 22,
+        marks: 1,
+        year_asked: "[MCQ - N. J. Classes Mock]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>કાવ્યના અંતમાં નાયિકા કોના પર ગર્વ લે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>નાયિકા પોતાના શક્તિશાળી અને રુઆબદાર <b>પતિ (પરણિયા) પર</b> ગર્વ લે છે.<br><br></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 23,
+        marks: 3,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>દિયર, દેરાણી, નણંદ અને નણદોઈ - આ ૪ સંબંધોને કવિતામાં કયા પ્રતીકોથી શણગારવામાં આવ્યા છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ ૪ યુવાન સંબંધોને સુંદર પ્રકૃતિના પ્રતીકોથી શણગારવામાં આવ્યા છે:<br>૧. <b>દિયર:</b> ચાંપલિયાનો છોડ (નાનો અને સુંદર).<br>૨. <b>દેરાણી:</b> ચાંપલિયાની પાંદડી (અત્યંત કોમળ).<br>૩. <b>નણંદ:</b> વાડીની વેલ (વાડીમાં લીલીછમ ઊછરતી દીકરી).<br>૪. <b>નણદોઈ:</b> વાડીનો મોરલો (વેલની આસપાસ નૃત્ય કરતો મોર).<br><br></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 24,
+        marks: 4,
+        year_asked: "[Most IMP Long Question 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ચાંદલિયો' લોકગીતના આધારે નાયિકાએ વર્ણવેલું 'સુખી સાસરિયાનું કુટુંબચિત્ર' આલેખો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'ચાંદલિયો' લોકગીત એ ભારતીય સંયુક્ત કુટુંબની પ્રથાનું એક અદભુત અને સુખી ચિત્ર રજૂ કરે છે.<br><br>શરદ પૂનમની રાતે ગરબે રમતી નાયિકા પોતાના સાસરિયાના તમામ સભ્યોનો ઉલ્લેખ ખૂબ જ ગર્વ અને પ્રેમથી કરે છે. <br>તે પોતાના <b>સાસુ-સસરાને પૂર્વજન્મના માતા-પિતા ગણે છે</b>, જે દર્શાવે છે કે તેને ઘરમાં દીકરી જેટલો જ પ્રેમ મળે છે. તે <b>જેઠને અષાઢીલો મેઘ અને જેઠાણીને વીજળી</b> સમાન કહીને મોટા ભાઈ-ભાભી પ્રત્યે આદર વ્યક્ત કરે છે.<br>નાના <b>દિયર અને દેરાણીને તે ચંપાના છોડ અને પાંદડી</b> સમાન નાજુક અને વહાલા ગણે છે. જ્યારે ઘરની દીકરી એટલે કે <b>નણંદને વાડીની વેલ અને નણદોઈને મોરલો</b> કહીને લાડ લડાવે છે.<br>અંતમાં, તે પોતાના પતિ (પરણિયા) ને <b>'સવા શેર સૂંઠ' ખાનાર મજબૂત મરદ અને નવરંગી પાઘડીવાળો</b> કહીને તેના પ્રત્યેનો અતૂટ પ્રેમ અને ગર્વ પ્રગટ કરે છે.<br><br>આમ, આ કાવ્ય એક આદર્શ અને ખુશહાલ કુટુંબજીવનનું શ્રેષ્ઠ ઉદાહરણ છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: પરીક્ષામાં આ 4 માર્ક્સનો પ્રશ્ન પૂછાય તો કાવ્યના બધા જ સંબંધો (સાસુ-સસરા, જેઠ-જેઠાણી, દિયર-દેરાણી, નણંદ-નણદોઈ અને પતિ) ની જે ઉપમા આપી છે, તે લાઈનસર એક-એક વાક્યમાં લખી નાખવાની. તમારો જવાબ પૂરો!</div></div>"
+    },
+
+    {
+        chapter: 21,
+        q_no: 25,
+        marks: 4,
+        year_asked: "[Central Idea / Value Based Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'ચાંદલિયો' લોકગીતનો કેન્દ્રીય વિચાર (Central Idea) તમારા શબ્દોમાં સ્પષ્ટ કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ લોકગીતનો કેન્દ્રીય વિચાર <b>પરિવારના મધુર સંબંધો, સાસરિયામાં દીકરીને મળતો પ્રેમ અને શરદ પૂનમના ઉત્સવનો આનંદ દર્શાવવાનો છે.</b><br><br>સામાન્ય રીતે સમાજમાં સાસરિયા વિશે (ખાસ કરીને સાસુ-વહુ કે દેરાણી-જેઠાણીના) કડવા સંબંધો જોવા મળતા હોય છે. પરંતુ આ લોકગીત એક હકારાત્મક ચિત્ર ઊભું કરે છે. નાયિકાને પોતાના સાસરિયામાં દરેક સભ્ય પ્રત્યે આત્મીયતા છે. તેને ક્યાંય પારકાપણું લાગતું નથી. આસો માસની શરદ પૂનમ એ પ્રકૃતિનું અજવાળું છે, અને સાસરિયાનો પ્રેમ એ નાયિકાના હૃદયનું અજવાળું છે.<br>ભારતીય સંસ્કૃતિમાં 'સંયુક્ત કુટુંબ' (Joint Family) ની જે ભાવના છે, તેને આ ગરબો અદભુત રીતે ઉજાગર કરે છે.<br><br></div>"
+    },
+    
+
+    // પ્રકરણ 22: હિમાલયમાં એક સાહસ (જવાહરલાલ નેહરુ) - N. J. Classes (Target 2026)
+
+    {
+        chapter: 22,
+        q_no: 1,
+        marks: 1,
+        year_asked: "[March 2022, 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'હિમાલયમાં એક સાહસ' પાઠના લેખકનું નામ અને તેનો સાહિત્ય પ્રકાર જણાવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખકનું નામ <b>જવાહરલાલ નેહરુ</b> છે અને આ પાઠનો સાહિત્ય પ્રકાર <b>પ્રવાસ નિબંધ</b> છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: હિમાલયમાં પ્રવાસ અને સાહસ કરવાનું કામ ભારતના પ્રથમ વડાપ્રધાન 'જવાહરલાલ નેહરુ' જ કરી શકે! આ રીતે લેખકનું નામ આસાનીથી યાદ રાખો.</div></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 2,
+        marks: 1,
+        year_asked: "[August 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આ પાઠ લેખકના કયા પુસ્તકમાંથી લેવામાં આવ્યો છે અને તેનો અનુવાદ કોણે કર્યો છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ પાઠ જવાહરલાલ નેહરુની આત્મકથા <b>'મારી જીવનકથા'</b> માંથી લેવામાં આવ્યો છે અને તેનો ગુજરાતી અનુવાદ <b>મહાદેવભાઈ દેસાઈ</b> એ કર્યો છે.<br><br></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 3,
+        marks: 1,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખક ક્યાં જવાનો પ્રયાસ કરી રહ્યા હતા?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખક ઝોજિલા ઘાટ (પાસ) ઓળંગીને <b>અમરનાથની ગુફા</b> સુધી જવાનો પ્રયાસ કરી રહ્યા હતા.<br><br></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 4,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>અમરનાથની ગુફા જવાના માર્ગમાં લેખકની સાથે કોણ કોણ હતું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>અમરનાથની ગુફાના આ સાહસિક પ્રવાસમાં લેખક (જવાહરલાલ નેહરુ) ની સાથે તેમના <b>એક પિતરાઈ ભાઈ અને રસ્તો જાણકાર એક મજૂર (ભરવાડ)</b> હતા.<br><br></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 5,
+        marks: 1,
+        year_asked: "[Board MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખકના પડાવથી અમરનાથની ગુફા કેટલી દૂર હતી? <br>(A) ૮ માઈલ (B) ૧૮ માઈલ (C) ૨૮ માઈલ (D) ૮ કિલોમીટર</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(A) ૮ માઈલ</b> (સ્થાનિક લોકોના કહેવા મુજબ માત્ર ૮ માઈલનું અંતર હતું).<br><br></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 6,
+        marks: 1,
+        year_asked: "[Mock Test N. J. Classes]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>બરફ આચ્છાદિત પર્વતો પર ચાલવા માટે તેમણે કઈ સાવચેતી રાખી હતી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>બરફ પર ચાલતી વખતે કોઈ ખાઈમાં પડી ન જાય તે માટે તેમણે <b>પોતાની જાતને એકબીજા સાથે દોરડાની સાંકળથી બાંધી દીધી હતી.</b><br><br></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 7,
+        marks: 1,
+        year_asked: "[Grammar Section]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સમાનાર્થી શબ્દો આપો: હિમ, ખીણ, મુસાફરી</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>હિમ</b> = બરફ / તુષાર<br>૨. <b>ખીણ</b> = કોતર / ખાઈ<br>૩. <b>મુસાફરી</b> = પ્રવાસ / યાત્રા<br><br></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 8,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>વિરુદ્ધાર્થી શબ્દો લખો: ઉત્સાહ, તાજું, આરોહણ</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>ઉત્સાહ</b> x નિરાશા<br>૨. <b>તાજું</b> x વાસી<br>૩. <b>આરોહણ</b> (ચડવું) x અવરોહણ (ઊતરવું)<br><br></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 9,
+        marks: 2,
+        year_asked: "[March 2025 Expected]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>રૂઢિપ્રયોગનો અર્થ આપી વાક્ય બનાવો: 'જીવ સટોસટનો ખેલ ખેલવો' અને 'હાથતાળી આપવી'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>૧. <b>જીવ સટોસટનો ખેલ ખેલવો</b> = જીવના જોખમે કોઈ સાહસ કરવું.<br><i>વાક્ય:</i> હિમાલયના બરફીલા પહાડો પર ચડવું એ જીવ સટોસટનો ખેલ ખેલવા સમાન છે.<br>૨. <b>હાથતાળી આપવી</b> = છેતરી જવું કે છટકી જવું.<br><i>વાક્ય:</i> તાજા બરફે પગ નીચેથી હાથતાળી આપી અને લેખક ખાઈમાં પડ્યા.<br><br></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 10,
+        marks: 1,
+        year_asked: "[Vocabulary Quiz]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>શબ્દસમૂહ માટે એક શબ્દ આપો: 'બરફથી આચ્છાદિત (ઢંકાયેલો) પર્વત'</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>હિમાચ્છાદિત</b><br><br></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 11,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>માત્ર 'આઠ માઈલ' નું અંતર લેખક માટે કપરું (મુશ્કેલ) કેમ બની ગયું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>અમરનાથ ૮ માઈલ દૂર હતું, પણ રસ્તો અત્યંત ભયાનક હતો. ત્યાં પહોંચવા માટે <b>એક મોટો અને ઊંચો બરફનો પહાડ ઓળંગવાનો હતો.</b> બરફ એટલો બધો હતો કે પગ ખૂંપી જતા હતા, અને શ્વાસ લેવામાં તકલીફ પડતી હતી. તેથી આ નાનું અંતર પણ કાપવું અત્યંત મુશ્કેલ બની ગયું હતું.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: મેદાની વિસ્તારમાં ૮ માઈલ કાપવા સહેલા છે, પણ હિમાલયમાં ૮ માઈલ એટલે ૮૦ માઈલ બરાબર લાગે! કારણ કે સીધી ઢોળાવવાળી ચઢાઈ અને ઓક્સિજનની કમી હોય છે.</div></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 12,
+        marks: 2,
+        year_asked: "[July 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખક સાથે ખાઈમાં પડવાનો અકસ્માત કેવી રીતે થયો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>બરફ પર ચાલતી વખતે અચાનક <b>તાજો પડેલો બરફ લેખકના પગ નીચેથી ખસી ગયો (ધસી પડ્યો)</b>. તે બરફની નીચે એક ભયંકર અને અત્યંત ઊંડી તિરાડ (ખાઈ) હતી. પગ લપસવાને કારણે લેખક સીધા તે ભયાનક ખાઈમાં લટકી ગયા (પડી ગયા).<br><br></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 13,
+        marks: 1,
+        year_asked: "[MCQ - Target 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખકનો જીવ કેવી રીતે બચ્યો? <br>(A) દોરડાને કારણે (B) ઝાડ પકડવાથી (C) હેલિકોપ્ટરથી (D) જાતે ઉપર આવી ગયા</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>(A) દોરડાને કારણે</b> (તેઓ એકબીજા સાથે દોરડાથી બંધાયેલા હતા).<br><br></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 14,
+        marks: 2,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>ખાઈમાં લટકતી વખતે લેખકની સ્થિતિ કેવી હતી? તેમને બહાર કોણે કાઢ્યા?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ખાઈમાં લટકતી વખતે લેખકના હાથમાંથી બરફ પર ચાલવાની કુહાડી સરકી ગઈ હતી. તેઓ માત્ર <b>દોરડાના સહારે લટકી રહ્યા હતા અને તેમની નીચે અંધારી ખાઈ મોં ફાડીને ઊભી હતી.</b> તેમના પિતરાઈ ભાઈ અને મજૂરે ભારે જહેમત (મહેનત) ઉઠાવીને દોરડું ખેંચીને તેમને હેમખેમ બહાર કાઢ્યા.<br><br></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 15,
+        marks: 1,
+        year_asked: "[Knowledge Question]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>જવાહરલાલ નેહરુને પર્વતારોહણ (Mountain Climbing) નો શોખ કેમ હતો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>તેઓ મૂળે <b>કાશ્મીરી બ્રાહ્મણ</b> હોવાથી તેમના લોહીમાં જ પર્વતો અને પ્રકૃતિ પ્રત્યે અનહદ પ્રેમ અને રોમાંચ હતો.<br><br></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 16,
+        marks: 2,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>લેખક અને તેમના સાથીઓને છેવટે અમરનાથ ગયા વગર કેમ પાછા ફરવું પડ્યું?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>ખાઈમાં પડવાના અકસ્માત પછી પણ તેઓએ આગળ વધવાનું ચાલુ રાખ્યું હતું. પરંતુ જેમ જેમ તેઓ આગળ ગયા તેમ <b>બરફની તિરાડો વધુ પહોળી અને ભયંકર આવવા લાગી.</b> તેમની પાસે આ તિરાડો ઓળંગવા માટે પૂરતા સાધનો ન હતા. સાધનોના અભાવે અને રસ્તો અતિશય જોખમી હોવાથી તેમણે નિરાશ થઈને અમરનાથ દર્શન કર્યા વગર જ પાછા ફરવું પડ્યું.<br><br></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 17,
+        marks: 1,
+        year_asked: "[Objective MCQ]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આ પ્રવાસ કયા ઋતુ (માસ) ના સમયગાળાનો હતો?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ પ્રવાસ ઉનાળામાં (આશરે <b>જુલાઈ-ઓગસ્ટ</b> મહિનાની આસપાસ) કાશ્મીરમાં રજાઓ ગાળવા ગયા ત્યારનો હતો.<br><br></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 18,
+        marks: 2,
+        year_asked: "[March 2023]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સવારના સમયે પહાડો પર ચડવાની શરૂઆત વખતે લેખકની મનોસ્થિતિ (ફીલિંગ) કેવી હતી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સવારના સમયે જ્યારે તેમણે બરફ આચ્છાદિત પહાડો પર ચડવાનું શરૂ કર્યું, ત્યારે તેઓ <b>અત્યંત ઉત્સાહિત અને રોમાંચિત</b> હતા. સવારનો તાજો પવન અને બરફનું સફેદ સામ્રાજ્ય તેમના મનમાં નવો જોશ અને હિંમત પૂરી રહ્યું હતું.<br><br></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 19,
+        marks: 1,
+        year_asked: "[Grammar Section 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સાચી જોડણી ઓળખાવો: હિમાચ્છાદિત / હીમાચ્છાદિત, સાહસીક / સાહસિક</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સાચી જોડણી: <b>હિમાચ્છાદિત</b> અને <b>સાહસિક</b><br><br></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 20,
+        marks: 2,
+        year_asked: "[Expected 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>મહાદેવભાઈ દેસાઈ કોણ હતા? આ પાઠમાં તેમનું શું યોગદાન છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>મહાદેવભાઈ દેસાઈ <b>મહાત્મા ગાંધીના અંગત સચિવ (સેક્રેટરી)</b> અને ઉત્તમ સાહિત્યકાર હતા. જવાહરલાલ નેહરુએ પોતાની આત્મકથા અંગ્રેજીમાં લખી હતી, જેનો ઉત્કૃષ્ટ <b>ગુજરાતી અનુવાદ</b> કરવાનું યોગદાન મહાદેવભાઈ દેસાઈએ આપ્યું છે.<br><br></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 21,
+        marks: 3,
+        year_asked: "[March 2022]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>હિમાલયની પ્રકૃતિ (કુદરતી સૌંદર્ય) નું લેખકે કેવું વર્ણન કર્યું છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>લેખક હિમાલયની ભવ્યતા વર્ણવતા કહે છે કે ચારે તરફ બરફનું સફેદ સામ્રાજ્ય છવાયેલું હતું. ઊંચા પહાડો કોઈ વિશાળ મંદિરો જેવા લાગતા હતા. સવારના સમયે બરફ પર પડતો સૂર્યપ્રકાશ આંખોને આંજી દેતો હતો. ત્યાં પવન અત્યંત ઠંડો પણ તાજગીસભર હતો. આસપાસ એકદમ ગહન શાંતિ છવાયેલી હતી, જે મનને અદભુત રોમાંચ અને પડકારનો અહેસાસ કરાવતી હતી.<br><br></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 22,
+        marks: 1,
+        year_asked: "[MCQ - N. J. Classes Mock]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>સ્થાનિક લોકોએ લેખકને પ્રવાસ અંગે શું ચેતવણી આપી હતી?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>સ્થાનિક લોકોએ ચેતવણી આપી હતી કે રસ્તો અત્યંત <b>જોખમી છે અને બરફ નીચે છુપાયેલી વિશાળ ખાઈઓ</b> આવેલી છે.<br><br></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 23,
+        marks: 3,
+        year_asked: "[August 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>આ સાહસિક પ્રવાસમાંથી આપણને શું શીખવા મળે છે?</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ પ્રવાસમાંથી બે બાબતો શીખવા મળે છે:<br>૧. <b>સાહસ અને હિંમત:</b> યુવાન વયે મુશ્કેલીઓનો સામનો કરવાનો અને નવી નવી જગ્યાઓ ખેડવાનો ઉત્સાહ હોવો જોઈએ. પ્રકૃતિના પડકારો મનુષ્યને મજબૂત બનાવે છે.<br>૨. <b>પૂર્વ તૈયારીની આવશ્યકતા:</b> માત્ર હિંમત હોવી પૂરતી નથી. આવા જોખમી પર્વતારોહણ માટે યોગ્ય સાધનો અને તૈયારી પણ એટલી જ જરૂરી છે. સાધનોના અભાવે જ લેખકને અમરનાથ દર્શન કર્યા વિના પાછા ફરવું પડ્યું હતું.<br><br></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 24,
+        marks: 4,
+        year_asked: "[Most IMP Long Question 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'હિમાલયમાં એક સાહસ' પાઠના આધારે લેખકના અકસ્માત અને પ્રવાસનો રોમાંચક પ્રસંગ તમારા શબ્દોમાં વર્ણવો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>જવાહરલાલ નેહરુ પોતાના પિતરાઈ ભાઈ અને મજૂર સાથે ઝોજિલા ઘાટ પાર કરીને અમરનાથની ગુફા જવા નીકળ્યા હતા.<br><br>૧. <b>ઉત્સાહ અને પડકાર:</b> સ્થાનિક લોકોએ કહ્યું કે અંતર માત્ર ૮ માઈલ છે, પરંતુ રસ્તો ભયાનક બરફ અને તિરાડોવાળો હતો. જોખમ ટાળવા તેઓ ત્રણેય એકબીજા સાથે દોરડાથી બંધાઈને ચાલવા લાગ્યા. શરૂઆતમાં બરફીલા પહાડો પર ચાલવાનો ભારે રોમાંચ હતો.<br>૨. <b>ભયંકર અકસ્માત:</b> ચાલતા ચાલતા અચાનક લેખકના પગ નીચેથી તાજો પડેલો બરફ ધસી ગયો. તે બરફ નીચે એક મોટી ખાઈ હતી. લેખક સીધા એ ઊંડી અને અંધારી ખાઈમાં લટકી ગયા. આ જીવ સટોસટનો ખેલ હતો.<br>૩. <b>બચાવ અને પાછા ફરવું:</b> સદ્નસીબે તેઓ દોરડાથી બંધાયેલા હોવાથી ખાઈમાં તળિયે ન પડ્યા. તેમના સાથીઓએ ભારે મહેનત કરીને તેમને દોરડું ખેંચીને બહાર કાઢ્યા. આટલા મોટા અકસ્માત પછી પણ તેમણે પ્રવાસ ચાલુ રાખ્યો, પરંતુ આગળ જતા બરફની તિરાડો એટલી મોટી હતી કે સાધનોના અભાવે તેમને નિરાશ થઈને પાછા ફરવું પડ્યું.<br><br>આ પ્રસંગ લેખકની <b>અદભુત હિંમત અને સાહસવૃત્તિ</b> દર્શાવે છે.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 સ્ટેપમાં સ્ટોરી યાદ રાખો: 1. જોશમાં નીકળ્યા (દોરડાથી બંધાઈને), 2. બરફની ખાઈમાં પડ્યા (પગ નીચેથી બરફ સરકી ગયો), 3. દોરડાથી બચી ગયા પણ સાધનો ન હોવાથી પાછા ફર્યા. આ રીતે 4 માર્ક્સ પાક્કા!</div></div>"
+    },
+
+    {
+        chapter: 22,
+        q_no: 25,
+        marks: 4,
+        year_asked: "[Central Idea / Title Justification]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>'હિમાલયમાં એક સાહસ' પ્રવાસ નિબંધનો કેન્દ્રીય વિચાર (Central Idea) સ્પષ્ટ કરો.</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>આ પ્રવાસ નિબંધનો કેન્દ્રીય વિચાર <b>યુવાનોમાં પ્રકૃતિપ્રેમ, રોમાંચ અને મુશ્કેલીઓ સામે લડવાની સાહસિક વૃત્તિ જગાડવાનો છે.</b><br><br>જવાહરલાલ નેહરુ પોતાના જીવનના એક અનુભવ દ્વારા સમજાવે છે કે કુદરતનું સૌંદર્ય જેટલું આકર્ષક છે, તેટલું જ ભયાનક પણ હોઈ શકે છે. હિમાલયની ભવ્યતા માણસને પોતાની તરફ ખેંચે છે, પરંતુ ત્યાં ડગલે ને પગલે મોત (ખાઈઓ) છુપાયેલું છે. <br>આ પાઠ શીખવે છે કે જીવનમાં કોઈપણ મોટું લક્ષ્ય (જેમ કે અમરનાથ દર્શન) પ્રાપ્ત કરવા માટે હિંમત અને જોખમ લેવાની તૈયારી હોવી જોઈએ. સાથે જ, ઉત્સાહની સાથે-સાથે પૂરતા સાધનો અને સમજદારી પણ એટલા જ જરૂરી છે, જેથી અકસ્માત સમયે જીવ બચાવી શકાય.<br><br></div>"
+    },
+        
 ];
 
