@@ -977,9 +977,252 @@ var Std10_English_imp = [
         year_asked: "[May 2026]",
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Write a short note on: The Tailorbird (દરજીડો - ટૂંકનોંધ લખો)</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>The Tailorbird:</b><br>The Tailorbird is a small and clever bird. Just like a human tailor stitches clothes, this bird stitches its nest. It makes its nest using green leaves. It uses soft plant fibers, silk thread, or spider webs as thread, and its sharp beak works like a needle. By stitching two leaves together, it creates a safe and beautiful home. Because of this amazing stitching skill, it is perfectly named the Tailorbird.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: દરજીડાનું કામ દરજી જેવું જ છે. સોય = ચાંચ (Beak), કાપડ = પાંદડા (Leaves), દોરો = વનસ્પતિના રેસા (Plant fibers). આ 3 શબ્દો જવાબમાં હોવા જ જોઈએ!</div></div>"
+    },
+
+
+    // પ્રકરણ 9: Tune up O Teens! (Counseling, Exams, Diet, Parents)
+
+    {
+        chapter: 9,
+        marks: 1,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>What was the theme of the seminar organized by Anand Vihar School? (આનંદ વિહાર સ્કૂલ દ્વારા આયોજિત સેમિનારની થીમ શું હતી?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>The theme of the seminar was <b>\"Bring out your best\"</b>.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: સેમિનારનો મુખ્ય હેતુ વિદ્યાર્થીઓની અંદર રહેલી શ્રેષ્ઠતાને બહાર લાવવાનો હતો. શબ્દો યાદ રાખો: 'Bring out your best' (તમારું શ્રેષ્ઠ બહાર લાવો).</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 1,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Who were the panel experts in the seminar? (સેમિનારમાં પેનલના નિષ્ણાતો કોણ હતા?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>The panel experts were <b>Dr. Nihar Mansuri</b> (Psychologist), <b>Dr. Shalini Shah</b> (Educationist), <b>Dr. Shivani</b> (Dietician), and <b>Mr. Sudhir Makhija</b>.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 ડૉક્ટર/સાહેબના નામ ગોખવાના છે: મન્સૂરી (મગજના ડૉક્ટર), શાલિની શાહ (શિક્ષણવિદ્), શિવાની (ખોરાકના ડૉક્ટર), અને મખીજા સાહેબ.</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 2,
+        year_asked: "[July 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>What is the best way to improve retention according to Dr. Mansuri? (ડૉ. મન્સૂરીના મતે યાદશક્તિ વધારવાનો શ્રેષ્ઠ રસ્તો કયો છે?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>According to Dr. Mansuri, there is no fixed method for everyone. A student should identify their own learning style and revise the study material again and again.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદશક્તિ (Retention) માટે કોઈ જાદુઈ ગોળી નથી. પોતાની સ્ટાઇલ ઓળખો અને વારંવાર 'Revision' કરો! રિવિઝન જ રાજા છે.</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>What does Mr. Makhija advise teenagers about sharing their feelings? (મખીજા સાહેબ કિશોરોને તેમની લાગણીઓ શેર કરવા વિશે શું સલાહ આપે છે?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>Mr. Makhija advises teenagers to share their feelings, thoughts, and problems with their parents or trusted friends. Hiding problems creates anxiety and stress.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: મનની વાત મનમાં ન રાખો! 'Share with parents' (માતા-પિતાને કહો). વાતો છુપાવવાથી માત્ર ટેન્શન જ વધે છે.</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 1,
+        year_asked: "[May 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Why do students feel sleepy while studying? (વિદ્યાર્થીઓને વાંચતી વખતે ઊંઘ કેમ આવે છે?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>Students feel sleepy because they eat <b>heavy meals and junk food</b>, which slows down the digestive system and makes them lethargic.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટ ભરીને દાબેલી કે પીઝા ખાઓ એટલે ઊંઘ જ આવે ને! 'Heavy meals and junk food' એ ઊંઘનું મેઈન કારણ છે.</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 2,
+        year_asked: "[July 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>What diet does Dr. Shivani recommend during exams? (પરીક્ષા દરમિયાન ડૉ. શિવાની કયો આહાર લેવાની ભલામણ કરે છે?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>Dr. Shivani recommends eating light and healthy food like dal-roti, vegetables, fresh fruits, and nuts (dry fruits). This provides energy to the brain without making the body lazy.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: પરીક્ષાનો સાચો ખોરાક = હળવો ખોરાક (Light food)! દાળ-રોટી, શાકભાજી અને ડ્રાયફ્રૂટ્સ મગજને પાવર આપે છે.</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 2,
+        year_asked: "[GSEB Model Paper 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>What is 'blanking out' during an exam? (પરીક્ષા દરમિયાન 'blanking out' એટલે શું?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'Blanking out' is a situation where a student forgets everything they have studied as soon as they see the question paper. It happens due to sudden panic and extreme stress.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: બધું જ આવડતું હોય પણ પેપર જોઈને મગજ 'બ્લેન્ક' (ખાલી) થઈ જાય! કારણ? ગભરામણ (Panic) અને ટેન્શન (Stress).</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 2,
+        year_asked: "[March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>How can a student prevent blanking out in the exam hall? (પરીક્ષા ખંડમાં બધું ભૂલી જવાથી બચવા વિદ્યાર્થીએ શું કરવું જોઈએ?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>To prevent blanking out, a student should stay calm and think positively. Deep breathing helps relax the mind so it can recall the stored information easily.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈલાજ બહુ સિમ્પલ છે: શાંત રહો (Stay calm) અને ઊંડા શ્વાસ લો (Deep breathing). મગજ શાંત થશે એટલે બધું યાદ આવી જશે.</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 2,
+        year_asked: "[May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>What does Dr. Shalini Shah suggest to parents regarding expectations? (ડૉ. શાલિની શાહ માતા-પિતાને અપેક્ષાઓ વિશે શું સૂચન કરે છે?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>Dr. Shalini Shah suggests that parents should not set extremely high expectations for their children. They should accept the child as they are and stop forcing them into high-profile careers.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: માતા-પિતા માટે ખાસ મેસેજ: છોકરાઓ પાસે 'High expectations' ન રાખો. જેવો છે એવો સ્વીકારો (Accept as they are).</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 1,
+        year_asked: "[July 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Why should parents stop comparing their children with others? (માતા-પિતાએ પોતાના બાળકની બીજા સાથે સરખામણી કેમ બંધ કરવી જોઈએ?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>Parents should stop comparison because it completely destroys the child's <b>self-confidence</b>.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: શર્માજીના છોકરા સાથે કમ્પેરિઝન કરવાથી તમારા છોકરાનો આત્મવિશ્વાસ (Self-confidence) તૂટી જાય છે!</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 1,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>What is the meaning of 'Tune up' in the context of this chapter? (આ પાઠના સંદર્ભમાં 'Tune up' નો અર્થ શું થાય છે?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>'Tune up' means preparing your <b>mind and body</b> for the upcoming exam.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ ગાડીને સર્વિસ કરીને 'ટ્યુન અપ' કરીએ, તેમ પરીક્ષા પહેલા મન અને શરીરને તૈયાર કરવા એટલે Tune up!</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>What should a student do on the final day before the exam? (પરીક્ષાના બરાબર આગલા દિવસે વિદ્યાર્થીએ શું કરવું જોઈએ?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>On the final day, a student should not study excessively. They should relax, listen to light music, eat light food, and sleep well to keep the mind fresh.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: આગલા દિવસે ઉજાગરા નહિ! હળવું મ્યુઝિક સાંભળો (Relax), ઓછું ખાઓ અને પૂરી ઊંઘ લો (Sleep well).</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 3,
+        year_asked: "[March 2024 / GSEB 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Write a short note on: Diet during Exams (પરીક્ષા દરમિયાન આહાર - ટૂંકનોંધ લખો)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>Diet during Exams:</b><br>Diet plays a very important role during exams. Dr. Shivani advises students to strictly avoid heavy meals and junk food because they make the body lazy and sleepy. Instead, students should eat light and healthy food. Dal-roti, fresh vegetables, fruits, and dry fruits are the best diet. The brain needs continuous energy, and healthy food provides it without slowing down the digestion. A good diet keeps the mind active and helps in better retention.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: આ ટૂંકનોંધમાં 3 વસ્તુ લખવી: 1. જંક ફૂડ = આળસ/ઊંઘ (Lazy/Sleepy), 2. સારો ખોરાક = દાળ-રોટી અને ફળો (Light food), 3. મગજને એનર્જી જોઈએ છે, પેટને નહિ!</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 3,
+        year_asked: "[March 2025 / July 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Write a short note on: Advice to parents / Dr. Shalini Shah's advice (માતા-પિતાને સલાહ - ટૂંકનોંધ લખો)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>Advice to Parents:</b><br>Dr. Shalini Shah gives very practical advice to parents. She says that parents should stop comparing their children with others. Comparison destroys the child's self-confidence. Every child is unique and has different potentials. Parents should not force their unfulfilled dreams onto their children by pushing them into high-profile careers. Instead, they should understand the child's interests, accept them as they are, and support them in their exams.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: પેરેન્ટ્સ માટે 3 નિયમ: 1. સરખામણી બંધ કરો (Stop comparison), 2. પોતાની અધૂરી ઈચ્છા બાળક પર ન થોપો, 3. દરેક બાળક સ્પેશિયલ છે (Every child is unique).</div></div>"
+    },
+
+    {
+        chapter: 9,
+        marks: 3,
+        year_asked: "[May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Write a short note on: Blanking out in exams (પરીક્ષામાં બ્લેન્ક થઈ જવું - ટૂંકનોંધ લખો)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>Blanking out in Exams:</b><br>Many times, students study well but forget everything as soon as they see the question paper. This situation is called 'blanking out'. Dr. Mansuri explains that it happens due to sudden panic and extreme stress. When a student takes tension, the brain's retrieval system stops working. To avoid this, a student must stay calm and take deep breaths. Thinking positively and relaxing the mind helps to bring back all the memory and write the answers perfectly.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: પેપર જોઈને બધું ભૂલી જવાની બીમારી! કારણ: Panic અને Stress. ઈલાજ: શાંતિ રાખો, ઊંડા શ્વાસ લો (Deep breath) અને પોઝિટિવ વિચારો.</div></div>"
+    },
+
+    // પ્રકરણ 10: A Test of True Love (Blandford, Hollis Meynell, Grand Central Station)
+
+    {
+        chapter: 10,
+        marks: 1,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Where was Lieutenant Blandford waiting? (લેફ્ટનન્ટ બ્લેન્ડફોર્ડ ક્યાં રાહ જોઈ રહ્યો હતો?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>Lieutenant Blandford was waiting at <b>Grand Central Station</b>.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટેશનનું નામ બરાબર યાદ રાખો: 'ગ્રાન્ડ સેન્ટ્રલ સ્ટેશન' (Grand Central Station). ન્યૂયોર્કનું સૌથી ફેમસ સ્ટેશન!</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 1,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Which book was Blandford holding in his hand? (બ્લેન્ડફોર્ડના હાથમાં કયું પુસ્તક હતું?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>Blandford was holding a book named <b>'Of Human Bondage'</b>.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોપડીનું નામ ગોખી મારો: 'Of Human Bondage'. આ જ ચોપડીથી તો તેમની લવ-સ્ટોરી શરૂ થઈ હતી!</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 2,
+        year_asked: "[July 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>How did Blandford and Hollis Meynell become friends? (બ્લેન્ડફોર્ડ અને હોલિસ મેનેલ કેવી રીતે મિત્રો બન્યા?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>Blandford found Hollis Meynell's name and address inside a book he was reading. He wrote a letter to her. She replied, and for thirteen months they wrote letters to each other and became friends.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોપડીમાં એડ્રેસ મળ્યું -> પત્ર (Letter) લખ્યો -> 13 મહિના (13 months) સુધી પત્રો લખ્યા અને દોસ્તી થઈ.</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 1,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>What was the identity mark of Hollis Meynell? (હોલિસ મેનેલની ઓળખની નિશાની શું હતી?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>Hollis Meynell was going to wear a <b>red rose</b> on her coat.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ ગુલાબ (Red Rose)! ભીડમાં ઓળખવા માટે આ જ નિશાની નક્કી થઈ હતી.</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 2,
+        year_asked: "[May 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Why did Hollis Meynell refuse to send her photograph? (હોલિસ મેનેલે પોતાનો ફોટો મોકલવાની કેમ ના પાડી?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>She refused to send her photograph because she believed that if his feeling was true love, her looks wouldn't matter. She wanted him to love her for her mind, not her face.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: સાચો પ્રેમ ચહેરો (Looks) નથી જોતો! જો પ્રેમ સાચો હશે તો ફોટાની જરૂર જ નથી, એવું હોલિસ માનતી હતી.</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 2,
+        year_asked: "[GSEB Model Paper 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Describe the young girl who passed by Blandford. (બ્લેન્ડફોર્ડ પાસેથી પસાર થયેલી યુવાન છોકરીનું વર્ણન કરો.)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>The young girl was wearing a green suit. She was tall, slim, and very beautiful with blonde hair and blue eyes. But she did not have a red rose.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 વસ્તુ યાદ રાખો: લીલો ડ્રેસ (Green suit), સુંદર અને પાતળી (Slim & beautiful), પણ ગુલાબ નહોતું (No red rose).</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 2,
+        year_asked: "[March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Describe the woman who was actually wearing the red rose. (જે સ્ત્રીએ લાલ ગુલાબ પહેર્યું હતું તેનું વર્ણન કરો.)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>The woman wearing the red rose was well past forty. She had graying hair, a plump figure, and thick ankles. She was not young or beautiful.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: 40 વટાવી ચૂકેલી (Past forty), જાડી (Plump), અને સફેદ વાળવાળી (Graying hair) ઉંમરલાયક સ્ત્રી હતી.</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 2,
+        year_asked: "[July 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>What was Blandford's reaction when he saw the older woman with the rose? (જ્યારે બ્લેન્ડફોર્ડે ગુલાબવાળી ઉંમરલાયક સ્ત્રીને જોઈ ત્યારે તેની પ્રતિક્રિયા શું હતી?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>Blandford felt disappointed because she was not beautiful. However, he did not hesitate. He respected her for her letters and beautiful mind. He saluted her and invited her for dinner.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: નિરાશ (Disappointed) થયો, પણ સાચો જેન્ટલમેન હતો એટલે અચકાયા વગર સલ્યૂટ મારીને જમવા (Dinner) માટે આમંત્રણ આપ્યું.</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 1,
+        year_asked: "[May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Who asked the older woman to wear the red rose? (ઉંમરલાયક સ્ત્રીને લાલ ગુલાબ પહેરવા કોણે કહ્યું હતું?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>The young, beautiful girl in the <b>green suit</b> asked the older woman to wear the red rose.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: પેલી લીલા ડ્રેસવાળી સુંદર છોકરીએ જ આ ગુલાબ આંટીને આપ્યું હતું!</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 1,
+        year_asked: "[July 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Where was the young lady waiting for Blandford? (યુવાન છોકરી બ્લેન્ડફોર્ડની ક્યાં રાહ જોઈ રહી હતી?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>The young lady was waiting in the <b>restaurant across the street</b>.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: રસ્તાની પેલે પાર આવેલી રેસ્ટોરન્ટમાં (Restaurant across the street)! આ જ સાચું લોકેશન હતું.</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>What was the real purpose of the red rose test? (લાલ ગુલાબની કસોટીનો સાચો હેતુ શું હતો?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>The real purpose was to test Blandford's true love. Hollis wanted to see if Blandford would still respect her and accept her even if she was not young and beautiful.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: ટેસ્ટ એ હતી કે શું છોકરી સુંદર ન હોય તો પણ બ્લેન્ડફોર્ડ તેને પ્રેમ અને માન આપશે? અને તે પાસ થઈ ગયો!</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>At what time were Blandford and Hollis supposed to meet? (બ્લેન્ડફોર્ડ અને હોલિસ કયા સમયે મળવાના હતા?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>They were supposed to meet at exactly <b>six o'clock (6:00 PM)</b> at Grand Central Station.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: છ વાગ્યાનો સમય હતો (Six o'clock). ઘડિયાળના કાંટા પર નજર રાખીને તે ઉભો હતો.</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 3,
+        year_asked: "[March 2024 / GSEB 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Write a short note on: A Test of True Love (સાચા પ્રેમની કસોટી - ટૂંકનોંધ લખો)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>A Test of True Love:</b><br>Lieutenant Blandford and Hollis Meynell became friends through letters for thirteen months. They decided to meet at Grand Central Station. Hollis wrote that she would wear a red rose. When Blandford was waiting, a beautiful young girl in a green suit passed by, but she had no rose. Then, a plump, older woman with gray hair came wearing a red rose. Blandford was disappointed but did not hesitate. He showed respect and invited the older woman for dinner. The woman smiled and said the young girl had asked her to wear the rose as a 'test'. Blandford passed the test of true love.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: આખી વાર્તાનો સાર: 13 મહિનાનો પ્રેમ -> રેડ રોઝની નિશાની -> સુંદર છોકરી ગઈ અને જાડી આંટી આવ્યા -> બ્લેન્ડફોર્ડે આંટીનું સન્માન કર્યું -> આંટીએ સાચું કહી દીધું કે આ તો ટેસ્ટ હતી!</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 3,
+        year_asked: "[March 2025 / July 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Write a short note on: Lieutenant Blandford (લેફ્ટનન્ટ બ્લેન્ડફોર્ડ - ટૂંકનોંધ લખો)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>Lieutenant Blandford:</b><br>Lieutenant John Blandford was an army officer. He found a book 'Of Human Bondage' and started writing letters to its owner, Hollis Meynell. For 13 months, she gave him courage during the war. He stood at Grand Central Station holding the book to identify himself. When he saw an older, plump woman wearing the red rose instead of a beautiful girl, he was disappointed. But he proved to be a true gentleman. He did not run away. He respected her and invited her to dinner, proving that his love was true and not based on looks.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્લેન્ડફોર્ડના ગુણો: 1. આર્મી ઓફિસર, 2. 'Of Human Bondage' બુક વાંચતો, 3. સુંદરતાની પાછળ ન ભાગ્યો, 4. સાચો જેન્ટલમેન (True gentleman).</div></div>"
+    },
+
+    {
+        chapter: 10,
+        marks: 2,
+        year_asked: "[May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>What did the older woman tell Blandford at the end of the story? (વાર્તાના અંતે ઉંમરલાયક સ્ત્રીએ બ્લેન્ડફોર્ડને શું કહ્યું?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>The older woman smiled and said, \"I don't know what this is about, son. That young lady in the green suit asked me to wear this red rose. She said if you ask me out to dinner, I should tell you she is waiting in the restaurant across the street. She said it was a kind of test.\"<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતમાં આંટીએ સસ્પેન્સ ખોલી નાખ્યું! કીધું કે, "દીકરા, આ તો ટેસ્ટ હતી, પેલી સુંદર છોકરી સામેની રેસ્ટોરન્ટમાં જ તારી રાહ જુએ છે!"</div></div>"
     }
-
-
 
 ];
       
