@@ -854,7 +854,131 @@ var Std10_English_imp = [
         year_asked: "[May 2025]",
         question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Write a short note on: The Asuras' attempts to kill Kach (અસુરો દ્વારા કચને મારવાના પ્રયાસો - ટૂંકનોંધ લખો)</div>",
         answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>Asuras' attempts to kill Kach:</b><br>The Asuras knew that Kach came to learn the Sanjivani Vidya, so they decided to kill him. They tried three times:<br>1. First time, they cut his body into pieces and fed them to wolves and jackals.<br>2. Second time, they ground his body into a paste and mixed it with the ocean water.<br>3. Third time, they burned his body, mixed his ashes with wine (Somras), and made Shukracharya drink it.<br>Every time, Shukracharya used his magic mantra to bring Kach back to life.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: બસ 3 સ્ટેપ ગોખી મારો: 1. ટુકડા કરીને શિયાળને ખવડાવ્યા, 2. પેસ્ટ બનાવીને દરિયામાં નાખી, 3. બાળીને સોમરસમાં પિવડાવી દીધો. આ ટૂંકનોંધ બહુ સરળ છે!</div></div>"
+    },
+    
+
+    // પ્રકરણ 8: Our Feathered Friends (Birds, Devangi, Subhangi, Migration)
+
+    {
+        chapter: 8,
+        marks: 1,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Who is Devangi and what does she study? (દેવાંગી કોણ છે અને તે શું ભણે છે?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>Devangi is Subhangi's sister Mitra's friend. She is a student of <b>Zoology</b> in M.S. University, Baroda.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝૂઓલોજી (Zoology) એટલે પ્રાણીશાસ્ત્ર. દેવાંગી વડોદરાની MSU માં પક્ષીઓ અને પ્રાણીઓનું ભણતર ભણે છે!</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 1,
+        year_asked: "[May 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Which is the State Bird of Gujarat? (ગુજરાતનું રાજ્ય પક્ષી કયું છે?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>The <b>Greater Flamingo</b> (સુરખાબ) is the State Bird of Gujarat.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણું ગુજરાત અને એની ઓળખ એટલે 'સુરખાબ' (Greater Flamingo)! આ પ્રશ્ન 1 માર્કમાં બહુ વખત પૂછાયો છે.</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 2,
+        year_asked: "[July 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Why is the Tailorbird known by that name? (દરજીડાને આ નામથી કેમ ઓળખવામાં આવે છે?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>The Tailorbird is known by that name because it stitches its nest with green leaves. It uses plant fiber as thread and its beak as a needle to stitch the leaves together.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: દરજીડો (Tailorbird) એટલે પક્ષીઓનો દરજી. ચાંચ એની સોય (needle) અને પાંદડા (leaves) એનું કાપડ!</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 1,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Which is the largest bird found in India? (ભારતમાં જોવા મળતું સૌથી મોટું પક્ષી કયું છે?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>The <b>Sarus Crane</b> is the largest bird found in India.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી મોટું અને ઊંચું પક્ષી = સારસ ક્રેન (Sarus Crane).</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 2,
+        year_asked: "[May 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>What is a scavenger? Give an example. (Scavenger એટલે શું? એક ઉદાહરણ આપો.)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>A scavenger is a bird or an animal that feeds on dead animals and helps keep the environment clean. For example, <b>Vulture</b> (ગીધ).<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: Scavenger એટલે પ્રકૃતિના સફાઈ કામદાર. ગીધ (Vulture) મરેલા પ્રાણીઓને ખાઈને રોગચાળો ફેલાતો અટકાવે છે.</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 2,
+        year_asked: "[GSEB Model Paper 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Why do migratory birds travel thousands of kilometers to India? (યાયાવર પક્ષીઓ હજારો કિલોમીટર કાપીને ભારત કેમ આવે છે?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>Migratory birds travel to India to escape the extreme cold of their native regions and to find warmth and food during the winter season.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 કારણો: અતિશય ઠંડીથી બચવા (Escape extreme cold) અને જમવાની શોધમાં (Find food). વિદેશી પક્ષીઓ અહીં 'વિન્ટર વેકેશન' કરવા આવે છે!</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 2,
+        year_asked: "[July 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>How does the male weaver bird build the nest? (નર સુઘરી તેનો માળો કેવી રીતે બનાવે છે?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>The male weaver bird weaves the nest using long grass stems. It takes nearly 18 days to complete the beautifully woven hanging nest. If the female likes it, they mate, otherwise, he rejects it and builds a new one.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: સુઘરી (Weaver bird) ની દુનિયામાં માળો બનાવવાનું કામ માત્ર 'Male' (નર) પક્ષીનું છે! માદા પાસ કરે તો જ મહેનત સફળ!</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 1,
+        year_asked: "[March 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>What is moulting? (મોલ્ટિંગ એટલે શું?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>Moulting is a natural process in which birds <b>shed their old feathers</b> to get new ones.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ આપણે જૂના કપડા કાઢી નવા પહેરીએ, તેમ પક્ષીઓ જૂના પીંછા ખેરવી નવા લાવે તેને Moulting કહેવાય.</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 2,
+        year_asked: "[May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Why are vultures decreasing in number in India? (ભારતમાં ગીધની સંખ્યા કેમ ઘટી રહી છે?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>Vultures are decreasing due to the use of a medicine called <b>Diclofenac</b>. It is used to treat sick cattle. When vultures eat the dead bodies of such cattle, the medicine damages their kidneys and kills them.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: આ દવાનું નામ ગોખી મારજો: ડાયક્લોફેનેક (Diclofenac). આ દવા ગાયો માટે હતી, પણ ગીધની કિડની ફેલ કરી દીધી!</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 2,
+        year_asked: "[March 2024]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>How do birds help us? (પક્ષીઓ આપણને કેવી રીતે મદદ કરે છે?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>Birds help us by eating harmful insects that destroy our crops. Scavengers like vultures keep the environment clean by eating dead animals. Birds also help in spreading seeds to grow plants.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષીઓ આપણા ખેડૂત-મિત્રો છે! પાકને બચાવે (હાનિકારક કૃમિ ખાઈ જાય), સફાઈ કરે અને બીજ ફેલાવીને જંગલો ઉગાડે.</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 1,
+        year_asked: "[July 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>What is the food of the Hornbill? (ધનેશ પક્ષીનો ખોરાક શું છે?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>The Hornbill feeds on <b>insects, fruits, and small reptiles</b>.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: ધનેશ (Hornbill) ની ચાંચ બહુ મોટી હોય છે. તે જીવજંતુ, ફળો અને નાના સરિસૃપો (reptiles) ખાઈ જાય છે.</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 2,
+        year_asked: "[March 2025]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>What advice does Devangi give to Subhangi about birds? (દેવાંગી પક્ષીઓ વિશે શુભાંગીને કઈ સલાહ આપે છે?)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4>Devangi advises Subhangi not to keep birds in cages because they are meant to fly in the open sky. Instead, we should design our gardens and plant trees so that birds feel safe to visit us.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષીઓને પાંજરામાં (Cages) ન પૂરો! ખુલ્લું આકાશ જ એમનું ઘર છે. ઘરના આંગણામાં ઝાડ વાવો તો પક્ષીઓ જાતે આવશે.</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 3,
+        year_asked: "[March 2024 / GSEB 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Write a short note on: The Weaver Bird - Sugari (સુઘરી - ટૂંકનોંધ લખો)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>The Weaver Bird:</b><br>The Weaver bird is known as 'Sugari' in Gujarati, which means one who builds beautiful houses. It is a very skilled bird. The male weaver bird builds the nest using long grass stems. The nest is beautifully woven and usually hangs from the branches of trees. It takes nearly 18 days for the male to complete the nest. After it is ready, he invites the female. If the female rejects the nest, the male has to leave it and start building a new one.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 મેઈન પોઇન્ટ્સ: 1. ગુજરાતી નામ 'સુઘરી' (સુંદર ઘર બનાવનાર), 2. નર પક્ષી માળો બનાવે (Male weaves 18 days), 3. માદા રિજેક્ટ કરે તો માળો પડતો મૂકવો પડે!</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 3,
+        year_asked: "[March 2025 / July 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Write a short note on: Vulture (ગીધ - પ્રકૃતિનો સફાઈ કામદાર - ટૂંકનોંધ લખો)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>Vulture - The Scavenger:</b><br>Vultures are scavengers. They eat dead animals and keep our environment clean. Therefore, they are called the cleaning brigade of nature. They have a special hooked beak designed to easily tear the flesh from dead bodies. Unfortunately, their number is rapidly decreasing in India. The reason is the medicine 'Diclofenac' used to treat sick cattle. When vultures eat the flesh of such dead cattle, the medicine damages their kidneys and they die.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: ગીધ એટલે સફાઈ કામદાર (Cleaning Brigade)! મરેલા પ્રાણી ખાઈને રોગચાળો અટકાવે. પણ 'Diclofenac' દવાને લીધે બિચારા લુપ્ત થઈ રહ્યા છે. આ ટૂંકનોંધ બોર્ડ માટે 100% IMP છે!</div></div>"
+    },
+
+    {
+        chapter: 8,
+        marks: 3,
+        year_asked: "[May 2026]",
+        question: "<div style='color: #1a237e; font-size: 16px; font-weight: bold;'>Write a short note on: The Tailorbird (દરજીડો - ટૂંકનોંધ લખો)</div>",
+        answer: "<div style='background-color: #f5f7fa; padding: 12px; border-left: 4px solid #2196f3; border-radius: 5px; font-size: 15px; color: #333;'><h4 style='color: #0d47a1; margin-top: 0;'>ઉકેલ:</h4><b>The Tailorbird:</b><br>The Tailorbird is a small and clever bird. Just like a human tailor stitches clothes, this bird stitches its nest. It makes its nest using green leaves. It uses soft plant fibers, silk thread, or spider webs as thread, and its sharp beak works like a needle. By stitching two leaves together, it creates a safe and beautiful home. Because of this amazing stitching skill, it is perfectly named the Tailorbird.<br><br><div style='background-color: #fff3e0; padding: 10px; margin-top: 15px; border-radius: 5px; border-left: 4px solid #ff9800; color: #e65100; font-weight: bold;'>🚀 નિતેશ સરની શોર્ટકટ ટ્રીક: દરજીડાનું કામ દરજી જેવું જ છે. સોય = ચાંચ (Beak), કાપડ = પાંદડા (Leaves), દોરો = વનસ્પતિના રેસા (Plant fibers). આ 3 શબ્દો જવાબમાં હોવા જ જોઈએ!</div></div>"
     }
+
 
 
 ];
