@@ -734,7 +734,7 @@ var njMathsExercise_Std9 = {
             { 
                 "questionNumber": "સ્વાધ્યાય 1.5 - પ્રશ્ન 3",
                 "marks": 4,
-                "question": "સાદું રૂપ આપો:\n(i) 2<sup>2/3</sup> &cdot; 2<sup>1/5</sup>\n(ii) (1 / 3<sup>3</sup>)<sup>7</sup>\n(iii) 11<sup>1/2</sup> / 11<sup>1/4</sup>\n(iv) 7<sup>1/2</sup> &cdot; 8<sup>1/2</sup>", 
+                "question": "સાદું રૂપ આપો:\n(i) 2<sup>2/3</sup> &dot; 2<sup>1/5</sup>\n(ii) (1 / 3<sup>3</sup>)<sup>7</sup>\n(iii) 11<sup>1/2</sup> / 11<sup>1/4</sup>\n(iv) 7<sup>1/2</sup> &dot; 8<sup>1/2</sup>", 
                 "answer": `
                 <div style='display:flex; flex-direction:column; gap:15px;'>
                     <div style='background-color:#f4f4f5; padding:15px; border-left:4px solid #52525b; border-radius:5px;'>
