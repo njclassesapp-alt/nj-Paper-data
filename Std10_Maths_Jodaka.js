@@ -368,392 +368,639 @@ var mathMatchDB = [
         ans: "(1) - (a), (2) - (b)" 
     },
     // ---------------- પ્રકરણ 11: વર્તુળ સંબંધિત ક્ષેત્રફળ ----------------
-    { 
+ { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) r ત્રિજ્યાવાળા વર્તુળનું ક્ષેત્રફળ", "(2) r ત્રિજ્યાવાળા વર્તુળનો પરિઘ"], 
         colB: ["(a) πr²", "(b) 2πr", "(c) πr"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>સોલ્યુશન:</strong><br>
+(1) <b>વર્તુળનું ક્ષેત્રફળ:</b> આ વર્તુળ દ્વારા ઘેરાયેલી કુલ જગ્યા દર્શાવે છે. જેનું સીધું સૂત્ર છે: A = &pi;r&sup2;<br>
+(2) <b>વર્તુળનો પરિઘ:</b> આ વર્તુળની કિનારીની કુલ લંબાઈ દર્શાવે છે. જેનું સૂત્ર છે: C = 2&pi;r<br><br>
+<em>ટ્રીક:</em> ક્ષેત્રફળ હંમેશા ચોરસ એકમમાં (વર્ગમાં) હોય, એટલે r&sup2; આવે. જ્યારે પરિઘ લંબાઈ છે, તેથી તેમાં ફક્ત r આવે.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) θ ખૂણાવાળા લઘુવૃત્તાંશનું ક્ષેત્રફળ", "(2) θ ખૂણાવાળા લઘુચાપની લંબાઈ (l)"], 
         colB: ["(a) (θ/360) × 2πr", "(b) (θ/360) × πr²", "(c) (θ/180) × πr²"], 
-        ans: "(1) - (b), (2) - (a)" 
+        ans: "(1) - (b), (2) - (a)",
+        solution: `<strong>સોલ્યુશન:</strong><br>
+આખા વર્તુળ માટે કેન્દ્ર આગળનો કુલ ખૂણો 360&deg; હોય છે.<br>
+(1) જો &theta; ખૂણો હોય, તો લઘુવૃત્તાંશનું ક્ષેત્રફળ એ આખા વર્તુળના ક્ષેત્રફળનો અમુક જ ભાગ છે. <br>
+ક્ષેત્રફળ = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>&theta;</span><span>360</span></span> &times; &pi;r&sup2;<br><br>
+(2) તેવી જ રીતે ચાપની લંબાઈ એ આખા પરિઘનો એક ભાગ છે. <br>
+ચાપની લંબાઈ = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>&theta;</span><span>360</span></span> &times; 2&pi;r`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) અર્ધવર્તુળનું ક્ષેત્રફળ", "(2) અર્ધવર્તુળની પરિમિતિ"], 
         colB: ["(a) πr + 2r", "(b) (1/2)πr²", "(c) πr"], 
-        ans: "(1) - (b), (2) - (a)" 
+        ans: "(1) - (b), (2) - (a)",
+        solution: `<strong>સોલ્યુશન:</strong><br>
+(1) અર્ધવર્તુળનું ક્ષેત્રફળ એટલે આખા વર્તુળના ક્ષેત્રફળ (&pi;r&sup2;) નો અડધો ભાગ. <br>
+ક્ષેત્રફળ = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>1</span><span>2</span></span>&pi;r&sup2;<br><br>
+(2) અર્ધવર્તુળની <b>પરિમિતિ</b> એટલે તેની બહારની કિનારીનું કુલ માપ. તેમાં વળાંકવાળો ભાગ (અર્ધપરિઘ = &pi;r) અને નીચેનો સીધો ભાગ (વ્યાસ = 2r) બંનેનો સરવાળો થાય છે.<br>
+પરિમિતિ = &pi;r + 2r`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) વર્તુળના ચતુર્થાંશનું ક્ષેત્રફળ", "(2) ગુરુવૃત્તાંશનું ક્ષેત્રફળ"], 
         colB: ["(a) વર્તુળનું ક્ષેત્રફળ - લઘુવૃત્તાંશનું ક્ષેત્રફળ", "(b) (1/4)πr²", "(c) (1/2)πr²"], 
-        ans: "(1) - (b), (2) - (a)" 
+        ans: "(1) - (b), (2) - (a)",
+        solution: `<strong>સોલ્યુશન:</strong><br>
+(1) ચતુર્થાંશ એટલે વર્તુળનો ચોથો ભાગ (જેનો ખૂણો 90&deg; હોય છે). <br>
+ક્ષેત્રફળ = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>1</span><span>4</span></span>&pi;r&sup2;<br><br>
+(2) ગુરુવૃત્તાંશ એટલે વર્તુળનો મોટો ભાગ. તે આખા વર્તુળમાંથી નાના ભાગ (લઘુવૃત્તાંશ) ને બાદ કરવાથી મળે છે.<br>
+ગુરુવૃત્તાંશનું ક્ષેત્રફળ = વર્તુળનું કુલ ક્ષેત્રફળ &minus; લઘુવૃત્તાંશનું ક્ષેત્રફળ`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) લઘુવૃત્તખંડનું ક્ષેત્રફળ", "(2) ગુરુવૃત્તખંડનું ક્ષેત્રફળ"], 
         colB: ["(a) લઘુવૃત્તાંશનું ક્ષેત્રફળ - ત્રિકોણનું ક્ષેત્રફળ", "(b) વર્તુળનું ક્ષેત્રફળ - લઘુવૃત્તખંડનું ક્ષેત્રફળ", "(c) વર્તુળનું ક્ષેત્રફળ - ત્રિકોણનું ક્ષેત્રફળ"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>સોલ્યુશન:</strong><br>
+(1) <b>લઘુવૃત્તખંડ:</b> આ જીવા અને લઘુચાપ વચ્ચેનો પ્રદેશ છે. આકૃતિ પરથી સમજીએ તો, તે લઘુવૃત્તાંશમાંથી ઉપરનો ત્રિકોણ બાદ કરવાથી મળે છે.<br>
+ક્ષેત્રફળ = લઘુવૃત્તાંશનું ક્ષેત્રફળ &minus; ત્રિકોણનું ક્ષેત્રફળ<br><br>
+(2) <b>ગુરુવૃત્તખંડ:</b> આ વર્તુળનો મોટો ખંડ છે. <br>
+ગુરુવૃત્તખંડનું ક્ષેત્રફળ = આખું વર્તુળ &minus; લઘુવૃત્તખંડનું ક્ષેત્રફળ`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) ઘડિયાળનો મિનિટ કાંટો 1 મિનિટમાં આંતરતો ખૂણો", "(2) ઘડિયાળનો મિનિટ કાંટો 5 મિનિટમાં આંતરતો ખૂણો"], 
         colB: ["(a) 30°", "(b) 6°", "(c) 60°"], 
-        ans: "(1) - (b), (2) - (a)" 
+        ans: "(1) - (b), (2) - (a)",
+        solution: `<strong>સોલ્યુશન અને શોર્ટકટ:</strong><br>
+ઘડિયાળનો મિનિટ કાંટો 60 મિનિટમાં આખું ચક્કર (360&deg;) લગાવે છે. <br>
+તેથી 1 મિનિટમાં કપાતો ખૂણો = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>360&deg;</span><span>60</span></span> = 6&deg;<br>
+<em>શોર્ટકટ ટ્રીક:</em> કોઈપણ મિનિટ આપેલી હોય, તેને સીધા <b>6 વડે ગુણી</b> દેવા.<br>
+(1) 1 મિનિટમાં ખૂણો = 1 &times; 6&deg; = <b>6&deg;</b><br>
+(2) 5 મિનિટમાં ખૂણો = 5 &times; 6&deg; = <b>30&deg;</b>`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) વર્તુળની ત્રિજ્યા બમણી કરતાં નવા પરિઘમાં થતો ફેરફાર", "(2) વર્તુળની ત્રિજ્યા બમણી કરતાં નવા ક્ષેત્રફળમાં થતો ફેરફાર"], 
         colB: ["(a) 4 ગણું થાય", "(b) 2 ગણો થાય", "(c) 8 ગણું થાય"], 
-        ans: "(1) - (b), (2) - (a)" 
+        ans: "(1) - (b), (2) - (a)",
+        solution: `<strong>સોલ્યુશન અને શોર્ટકટ:</strong><br>
+(1) <b>પરિઘ (C = 2&pi;r):</b> પરિઘ ત્રિજ્યાના 1 ઘાતના સમપ્રમાણમાં છે. ત્રિજ્યા બમણી (2 ગણી) થાય તો પરિઘ પણ <b>2 ગણો</b> જ થાય.<br>
+(2) <b>ક્ષેત્રફળ (A = &pi;r&sup2;):</b> ક્ષેત્રફળ ત્રિજ્યાના <b>વર્ગ</b> ના સમપ્રમાણમાં છે. ત્રિજ્યા 2 ગણી થાય તો ક્ષેત્રફળ (2)&sup2; = <b>4 ગણું</b> થાય.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) 7 સેમી ત્રિજ્યાવાળા વર્તુળનો પરિઘ", "(2) 7 સેમી ત્રિજ્યાવાળા વર્તુળનું ક્ષેત્રફળ"], 
         colB: ["(a) 44 સેમી", "(b) 154 સેમી²", "(c) 22 સેમી"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>ગણતરી:</strong><br>
+અહીં ત્રિજ્યા r = 7 સેમી આપેલ છે.<br>
+(1) <b>પરિઘ:</b><br>
+C = 2&pi;r = 2 &times; <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>22</span><span>7</span></span> &times; 7<br>
+અંશ અને છેદમાંથી 7 ઊડી જશે = 2 &times; 22 = <b>44 સેમી</b>.<br><br>
+(2) <b>ક્ષેત્રફળ:</b><br>
+A = &pi;r&sup2; = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>22</span><span>7</span></span> &times; 7 &times; 7<br>
+અંશ અને છેદમાંથી એક 7 ઊડી જશે = 22 &times; 7 = <b>154 સેમી&sup2;</b>.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) વર્તુળની જીવા અને સંગત ચાપ વચ્ચેનો પ્રદેશ", "(2) વર્તુળની બે ત્રિજ્યાઓ અને સંગત ચાપ વચ્ચેનો પ્રદેશ"], 
         colB: ["(a) વૃત્તાંશ", "(b) વૃત્તખંડ", "(c) અર્ધવર્તુળ"], 
-        ans: "(1) - (b), (2) - (a)" 
+        ans: "(1) - (b), (2) - (a)",
+        solution: `<strong>સોલ્યુશન (વ્યાખ્યાઓ):</strong><br>
+(1) <b>વૃત્તખંડ (Segment):</b> જે પ્રદેશ જીવા (સીધી લાઈન) અને ચાપ (ગોળાકાર ભાગ) ની વચ્ચે આવેલો હોય તેને વૃત્તખંડ કહે છે.<br>
+(2) <b>વૃત્તાંશ (Sector):</b> જે પ્રદેશ બે ત્રિજ્યાઓ અને ચાપની વચ્ચે ઘેરાયેલો હોય (જેમ કે પિઝાનો એક ટુકડો), તેને વૃત્તાંશ કહે છે.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) પરિઘ અને વ્યાસનો ગુણોત્તર", "(2) ક્ષેત્રફળ અને ત્રિજ્યાના વર્ગનો ગુણોત્તર"], 
         colB: ["(a) 2π", "(b) π", "(c) π/2"], 
-        ans: "(1) - (b), (2) - (b)" 
+        ans: "(1) - (b), (2) - (b)",
+        solution: `<strong>ગણતરી:</strong><br>
+(1) પરિઘ અને વ્યાસનો ગુણોત્તર = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>2&pi;r</span><span>2r</span></span> (કારણ કે વ્યાસ = 2r)<br>
+અહીં અંશ અને છેદમાંથી 2r ઊડી જશે, તેથી જવાબ <b>&pi;</b> મળશે.<br><br>
+(2) ક્ષેત્રફળ અને ત્રિજ્યાના વર્ગનો ગુણોત્તર = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>&pi;r&sup2;</span><span>r&sup2;</span></span><br>
+અહીં r&sup2; ઊડી જશે, તેથી જવાબ પણ <b>&pi;</b> મળશે.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:<br><div style='width:40px;height:40px;border-radius:50%;background:conic-gradient(#444 0 60deg, #ccc 60deg 360deg); display:inline-block; border:1px solid #000; margin-top:5px;'></div>", 
         colA: ["(1) ઘેરા રંગનો 60° વાળો પ્રદેશ", "(2) આછા રંગનો 300° વાળો પ્રદેશ"], 
         colB: ["(a) ગુરુવૃત્તાંશ", "(b) લઘુવૃત્તાંશ", "(c) વૃત્તખંડ"], 
-        ans: "(1) - (b), (2) - (a)" 
+        ans: "(1) - (b), (2) - (a)",
+        solution: `<strong>સોલ્યુશન:</strong><br>
+કોઈપણ વર્તુળમાં જો કેન્દ્ર આગળનો ખૂણો 180&deg; થી <b>નાનો</b> હોય, તો તે પ્રદેશ <b>લઘુવૃત્તાંશ</b> કહેવાય.<br>
+જો ખૂણો 180&deg; થી <b>મોટો</b> હોય, તો તે પ્રદેશ <b>ગુરુવૃત્તાંશ</b> કહેવાય.<br>
+(1) 60&deg; વાળો પ્રદેશ (નાનો ભાગ) = <b>લઘુવૃત્તાંશ</b>.<br>
+(2) 300&deg; વાળો પ્રદેશ (મોટો ભાગ) = <b>ગુરુવૃત્તાંશ</b>.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) r ત્રિજ્યા અને p° ખૂણાવાળા વૃત્તાંશનું ક્ષેત્રફળ", "(2) r ત્રિજ્યા અને p° ખૂણાવાળા ચાપની લંબાઈ"], 
         colB: ["(a) (p/360) × 2πr", "(b) (p/720) × 2πr²", "(c) p × πr"], 
-        ans: "(1) - (b), (2) - (a)" 
+        ans: "(1) - (b), (2) - (a)",
+        solution: `<strong>સોલ્યુશન:</strong><br>
+(1) વૃત્તાંશના ક્ષેત્રફળનું મૂળ સૂત્ર <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>p</span><span>360</span></span> &times; &pi;r&sup2; છે. વિકલ્પ (b) માં અંશ અને છેદ બંનેને 2 વડે ગુણવામાં આવ્યા છે, તેથી તે <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>p</span><span>720</span></span> &times; 2&pi;r&sup2; બને છે (જે સાચું છે).<br>
+(2) ચાપની લંબાઈ સીધી રીતે જ <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>p</span><span>360</span></span> &times; 2&pi;r થાય છે.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) બે વર્તુળોની ત્રિજ્યાઓનો ગુણોત્તર 2:3 હોય તો પરિઘનો ગુણોત્તર", "(2) બે વર્તુળોની ત્રિજ્યાઓનો ગુણોત્તર 2:3 હોય તો ક્ષેત્રફળનો ગુણોત્તર"], 
         colB: ["(a) 4:9", "(b) 2:3", "(c) 8:27"], 
-        ans: "(1) - (b), (2) - (a)" 
+        ans: "(1) - (b), (2) - (a)",
+        solution: `<strong>શોર્ટકટ ટ્રીક:</strong><br>
+જો ત્રિજ્યાનો ગુણોત્તર <b>a : b</b> હોય તો:<br>
+- પરિઘનો ગુણોત્તર હંમેશા <b>a : b</b> જ રહે.<br>
+- ક્ષેત્રફળનો ગુણોત્તર હંમેશા તેના વર્ગ જેટલો એટલે કે <b>a&sup2; : b&sup2;</b> થાય.<br><br>
+અહીં ત્રિજ્યાઓનો ગુણોત્તર 2:3 છે.<br>
+(1) પરિઘનો ગુણોત્તર = <b>2:3</b> જ રહેશે.<br>
+(2) ક્ષેત્રફળનો ગુણોત્તર = 2&sup2; : 3&sup2; = <b>4:9</b> થશે.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) 14 સેમી ત્રિજ્યા અને 90° ખૂણાવાળા વૃત્તાંશનું ક્ષેત્રફળ", "(2) 7 સેમી ત્રિજ્યા અને 90° ખૂણાવાળા ચાપની લંબાઈ"], 
         colB: ["(a) 154 સેમી²", "(b) 11 સેમી", "(c) 44 સેમી"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>ગણતરી (1) ક્ષેત્રફળ:</strong> (r=14, &theta;=90)<br>
+A = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>90</span><span>360</span></span> &times; &pi;r&sup2;<br>
+= <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>1</span><span>4</span></span> &times; <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>22</span><span>7</span></span> &times; 14 &times; 14<br>
+= <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>1</span><span>4</span></span> &times; 22 &times; 2 &times; 14 = <b>154 સેમી&sup2;</b>.<br><br>
+<strong>ગણતરી (2) ચાપની લંબાઈ:</strong> (r=7, &theta;=90)<br>
+l = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>90</span><span>360</span></span> &times; 2&pi;r<br>
+= <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>1</span><span>4</span></span> &times; 2 &times; <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>22</span><span>7</span></span> &times; 7<br>
+= <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>1</span><span>4</span></span> &times; 44 = <b>11 સેમી</b>.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) જો વર્તુળનું ક્ષેત્રફળ અને પરિઘ સમાન હોય તો ત્રિજ્યા", "(2) વ્યાસ d વાળા વર્તુળનો પરિઘ"], 
         colB: ["(a) πd", "(b) 2 એકમ", "(c) πd²"], 
-        ans: "(1) - (b), (2) - (a)" 
+        ans: "(1) - (b), (2) - (a)",
+        solution: `<strong>ગણતરી (1):</strong><br>
+ક્ષેત્રફળ = પરિઘ<br>
+&pi;r&sup2; = 2&pi;r<br>
+બંને બાજુથી &pi; અને એક r ઉડાડતા,<br>
+r = <b>2 એકમ</b>.<br><br>
+<strong>ગણતરી (2):</strong><br>
+પરિઘ = 2&pi;r. આપણે જાણીએ છીએ કે વ્યાસ d = 2r. <br>
+તેથી, 2 અને r ની જગ્યાએ d મૂકતા પરિઘ = <b>&pi;d</b> થાય.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) બે વર્તુળોની ત્રિજ્યાઓનો ગુણોત્તર 1:2 હોય, તો પરિઘનો ગુણોત્તર", "(2) બે વર્તુળોની ત્રિજ્યાઓનો ગુણોત્તર 1:2 હોય, તો ક્ષેત્રફળનો ગુણોત્તર"], 
         colB: ["(a) 1:4", "(b) 1:2", "(c) 2:1"], 
-        ans: "(1) - (b), (2) - (a)" 
+        ans: "(1) - (b), (2) - (a)",
+        solution: `<strong>શોર્ટકટ ટ્રીક:</strong><br>
+જેમ અગાઉ જોયું તેમ, ત્રિજ્યાનો ગુણોત્તર આપેલો હોય, તો:<br>
+(1) પરિઘનો ગુણોત્તર બરાબર ત્રિજ્યાનો જ ગુણોત્તર રહે = <b>1:2</b><br>
+(2) ક્ષેત્રફળનો ગુણોત્તર તેના વર્ગ બરાબર થાય = 1&sup2; : 2&sup2; = <b>1:4</b>`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) બે વર્તુળોના ક્ષેત્રફળનો ગુણોત્તર 9:16 હોય, તો ત્રિજ્યાનો ગુણોત્તર", "(2) બે વર્તુળોના ક્ષેત્રફળનો ગુણોત્તર 9:16 હોય, તો પરિઘનો ગુણોત્તર"], 
         colB: ["(a) 9:16", "(b) 16:9", "(c) 3:4"], 
-        ans: "(1) - (c), (2) - (c)" 
+        ans: "(1) - (c), (2) - (c)",
+        solution: `<strong>ગણતરી:</strong><br>
+અહીં ક્ષેત્રફળનો ગુણોત્તર આપ્યો છે (r&sup2;). તેથી ત્રિજ્યા શોધવા તેનું <b>વર્ગમૂળ</b> કાઢવું પડે.<br>
+(1) ત્રિજ્યાનો ગુણોત્તર = &radic;9 : &radic;16 = <b>3:4</b><br>
+(2) પરિઘનો ગુણોત્તર હંમેશા ત્રિજ્યાના ગુણોત્તર જેટલો જ હોય છે = <b>3:4</b>`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) ઘડિયાળનો મિનિટ કાંટો 10 મિનિટમાં આંતરતો ખૂણો", "(2) ઘડિયાળનો મિનિટ કાંટો 15 મિનિટમાં આંતરતો ખૂણો"], 
         colB: ["(a) 60°", "(b) 90°", "(c) 45°"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>શોર્ટકટ ટ્રીક:</strong><br>
+મિનિટ કાંટો 1 મિનિટમાં 6&deg; નો ખૂણો બનાવે છે. આપેલી મિનિટને <b>6 વડે ગુણો</b>.<br>
+(1) 10 મિનિટ &times; 6&deg; = <b>60&deg;</b><br>
+(2) 15 મિનિટ &times; 6&deg; = <b>90&deg;</b> (અથવા 15 મિનિટ એટલે ઘડિયાળનો ચોથો ભાગ, એટલે કાટખૂણો).`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) ઘડિયાળનો મિનિટ કાંટો 20 મિનિટમાં આંતરતો ખૂણો", "(2) ઘડિયાળનો મિનિટ કાંટો 30 મિનિટમાં આંતરતો ખૂણો"], 
         colB: ["(a) 120°", "(b) 180°", "(c) 150°"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>શોર્ટકટ ટ્રીક:</strong><br>
+આપેલી મિનિટને સીધા <b>6 વડે ગુણો</b>.<br>
+(1) 20 મિનિટ &times; 6&deg; = <b>120&deg;</b><br>
+(2) 30 મિનિટ &times; 6&deg; = <b>180&deg;</b> (30 મિનિટ એટલે બરાબર અડધું વર્તુળ, સીધી રેખા એટલે 180&deg; નો ખૂણો).`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) ઘડિયાળનો કલાક કાંટો 1 કલાકમાં આંતરતો ખૂણો", "(2) ઘડિયાળનો કલાક કાંટો 2 કલાકમાં આંતરતો ખૂણો"], 
         colB: ["(a) 30°", "(b) 60°", "(c) 90°"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>સોલ્યુશન અને શોર્ટકટ:</strong><br>
+ઘડિયાળનો કલાક કાંટો 12 કલાકમાં આખું ચક્કર (360&deg;) પૂરું કરે છે. <br>
+એટલે 1 કલાકમાં કપાતો ખૂણો = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>360&deg;</span><span>12</span></span> = <b>30&deg;</b>.<br>
+<em>ટ્રીક:</em> કલાકને સીધા <b>30 વડે ગુણો</b>.<br>
+(1) 1 કલાક &times; 30&deg; = <b>30&deg;</b><br>
+(2) 2 કલાક &times; 30&deg; = <b>60&deg;</b>`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) વર્તુળની ત્રિજ્યા ત્રણ ગણી કરતાં નવા પરિઘમાં થતો ફેરફાર", "(2) વર્તુળની ત્રિજ્યા ત્રણ ગણી કરતાં નવા ક્ષેત્રફળમાં થતો ફેરફાર"], 
         colB: ["(a) 9 ગણું થાય", "(b) 3 ગણો થાય", "(c) 6 ગણું થાય"], 
-        ans: "(1) - (b), (2) - (a)" 
+        ans: "(1) - (b), (2) - (a)",
+        solution: `<strong>સોલ્યુશન અને શોર્ટકટ:</strong><br>
+(1) <b>પરિઘ (C = 2&pi;r):</b> પરિઘ ત્રિજ્યાના 1 ઘાતના સમપ્રમાણમાં છે. ત્રિજ્યા 3 ગણી થાય તો પરિઘ પણ <b>3 ગણો</b> થાય.<br>
+(2) <b>ક્ષેત્રફળ (A = &pi;r&sup2;):</b> ક્ષેત્રફળ ત્રિજ્યાના <b>વર્ગ</b> ના સમપ્રમાણમાં છે. ત્રિજ્યા 3 ગણી થાય તો ક્ષેત્રફળ (3)&sup2; = <b>9 ગણું</b> થાય.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) વર્તુળની ત્રિજ્યા અડધી કરતાં નવા પરિઘમાં થતો ફેરફાર", "(2) વર્તુળની ત્રિજ્યા અડધી કરતાં નવા ક્ષેત્રફળમાં થતો ફેરફાર"], 
         colB: ["(a) ચોથા ભાગનું થાય", "(b) અડધો થાય", "(c) બમણું થાય"], 
-        ans: "(1) - (b), (2) - (a)" 
+        ans: "(1) - (b), (2) - (a)",
+        solution: `<strong>સોલ્યુશન અને શોર્ટકટ:</strong><br>
+(1) <b>પરિઘ:</b> ત્રિજ્યાના સમપ્રમાણમાં હોય છે. જો ત્રિજ્યા અડધી (<span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>1</span><span>2</span></span>) થાય, તો પરિઘ પણ <b>અડધો</b> જ થાય.<br>
+(2) <b>ક્ષેત્રફળ:</b> ત્રિજ્યાના વર્ગના સમપ્રમાણમાં છે. જો ત્રિજ્યા અડધી થાય, તો ક્ષેત્રફળ (<span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>1</span><span>2</span></span>)&sup2; એટલે કે <b>ચોથા ભાગનું (<span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>1</span><span>4</span></span>)</b> થાય.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) 7 સેમી ત્રિજ્યા અને 180° ખૂણાવાળા વૃત્તાંશનું ક્ષેત્રફળ", "(2) 7 સેમી ત્રિજ્યા અને 90° ખૂણાવાળા વૃત્તાંશનું ક્ષેત્રફળ"], 
         colB: ["(a) 38.5 સેમી²", "(b) 77 સેમી²", "(c) 154 સેમી²"], 
-        ans: "(1) - (b), (2) - (a)" 
+        ans: "(1) - (b), (2) - (a)",
+        solution: `<strong>ગણતરી:</strong><br>
+વર્તુળનું કુલ ક્ષેત્રફળ = &pi;r&sup2; = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>22</span><span>7</span></span> &times; 7 &times; 7 = 154 સેમી&sup2;.<br>
+(1) 180&deg; નો ખૂણો એટલે બરાબર <b>અર્ધવર્તુળ</b>. <br>
+તેથી ક્ષેત્રફળ = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>154</span><span>2</span></span> = <b>77 સેમી&sup2;</b>.<br>
+(2) 90&deg; નો ખૂણો એટલે વર્તુળનો <b>ચોથો ભાગ (ચતુર્થાંશ)</b>. <br>
+તેથી ક્ષેત્રફળ = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>154</span><span>4</span></span> = <b>38.5 સેમી&sup2;</b>.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) 14 સેમી ત્રિજ્યા અને 180° ખૂણાવાળા ચાપની લંબાઈ", "(2) 14 સેમી ત્રિજ્યા અને 90° ખૂણાવાળા ચાપની લંબાઈ"], 
         colB: ["(a) 44 સેમી", "(b) 22 સેમી", "(c) 88 સેમી"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>ગણતરી:</strong><br>
+કુલ પરિઘ = 2&pi;r = 2 &times; <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>22</span><span>7</span></span> &times; 14 = 88 સેમી.<br>
+(1) 180&deg; ખૂણાવાળા ચાપની લંબાઈ (અર્ધપરિઘ): <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>88</span><span>2</span></span> = <b>44 સેમી</b>.<br>
+(2) 90&deg; ખૂણાવાળા ચાપની લંબાઈ (ચોથો ભાગ): <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>88</span><span>4</span></span> = <b>22 સેમી</b>.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) 21 સેમી ત્રિજ્યાવાળા વર્તુળનો પરિઘ", "(2) 21 સેમી ત્રિજ્યાવાળા વર્તુળનું ક્ષેત્રફળ"], 
         colB: ["(a) 132 સેમી", "(b) 1386 સેમી²", "(c) 462 સેમી²"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>ગણતરી:</strong><br>
+અહીં r = 21 સેમી આપેલ છે.<br>
+(1) <b>પરિઘ:</b> C = 2&pi;r = 2 &times; <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>22</span><span>7</span></span> &times; 21 = 2 &times; 22 &times; 3 = <b>132 સેમી</b>.<br>
+(2) <b>ક્ષેત્રફળ:</b> A = &pi;r&sup2; = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>22</span><span>7</span></span> &times; 21 &times; 21 = 22 &times; 3 &times; 21 = 66 &times; 21 = <b>1386 સેમી&sup2;</b>.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) 10 સેમી ત્રિજ્યાવાળા વર્તુળનો પરિઘ (π = 3.14)", "(2) 10 સેમી ત્રિજ્યાવાળા વર્તુળનું ક્ષેત્રફળ (π = 3.14)"], 
         colB: ["(a) 314 સેમી²", "(b) 62.8 સેમી", "(c) 31.4 સેમી"], 
-        ans: "(1) - (b), (2) - (a)" 
+        ans: "(1) - (b), (2) - (a)",
+        solution: `<strong>ગણતરી:</strong><br>
+અહીં r = 10 સેમી અને &pi; = 3.14 લેવાનું છે.<br>
+(1) <b>પરિઘ:</b> C = 2&pi;r = 2 &times; 3.14 &times; 10 = 2 &times; 31.4 = <b>62.8 સેમી</b>.<br>
+(2) <b>ક્ષેત્રફળ:</b> A = &pi;r&sup2; = 3.14 &times; 10 &times; 10 = 3.14 &times; 100 = <b>314 સેમી&sup2;</b>.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) r ત્રિજ્યાવાળા વર્તુળના ચતુર્થાંશની પરિમિતિ", "(2) r ત્રિજ્યાવાળા અર્ધવર્તુળની પરિમિતિ"], 
         colB: ["(a) (πr/2) + 2r", "(b) πr + 2r", "(c) (πr/2) + r"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>સોલ્યુશન:</strong><br>
+કોઈપણ ભાગની પરિમિતિ એટલે તેમાં આવતા ચાપની લંબાઈ અને સીધી રેખાઓ (ત્રિજ્યા કે વ્યાસ) નો સરવાળો.<br>
+(1) <b>ચતુર્થાંશની પરિમિતિ:</b> ચાપની લંબાઈ (આખા પરિઘનો ચોથો ભાગ = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>2&pi;r</span><span>4</span></span> = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>&pi;r</span><span>2</span></span>) + 2 સીધી કિનારીઓ (ત્રિજ્યાઓ: r + r = 2r). <br>સૂત્ર: <b><span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>&pi;r</span><span>2</span></span> + 2r</b><br>
+(2) <b>અર્ધવર્તુળની પરિમિતિ:</b> ચાપની લંબાઈ (અર્ધપરિઘ = &pi;r) + વ્યાસ (2r). <br>સૂત્ર: <b>&pi;r + 2r</b>`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) ગુરુચાપ અને લઘુચાપની લંબાઈનો સરવાળો", "(2) ગુરુવૃત્તાંશ અને લઘુવૃત્તાંશના ક્ષેત્રફળનો સરવાળો"], 
         colB: ["(a) વર્તુળનું ક્ષેત્રફળ", "(b) વર્તુળનો પરિઘ", "(c) અર્ધવર્તુળનું ક્ષેત્રફળ"], 
-        ans: "(1) - (b), (2) - (a)" 
+        ans: "(1) - (b), (2) - (a)",
+        solution: `<strong>સોલ્યુશન:</strong><br>
+(1) ગુરુચાપ (મોટો ચાપ) અને લઘુચાપ (નાનો ચાપ) બંને ભેગા મળે ત્યારે તે આખી વર્તુળાકાર કિનારી પૂરી કરે છે, એટલે કે તે <b>વર્તુળનો પરિઘ</b> બનાવે છે.<br>
+(2) તેવી જ રીતે, ગુરુવૃત્તાંશ અને લઘુવૃત્તાંશ બંને પ્રદેશો ભેગા થઈને સંપૂર્ણ વર્તુળ રચે છે, એટલે તેમનો સરવાળો <b>વર્તુળનું ક્ષેત્રફળ</b> થાય.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) ચાપની લંબાઈ (l) અને ત્રિજ્યા (r) વચ્ચેનો સંબંધ ધરાવતા વૃત્તાંશનું ક્ષેત્રફળ", "(2) વર્તુળના કેન્દ્ર આગળ આંતરેલો ખૂણો (θ)"], 
         colB: ["(a) (1/2) × l × r", "(b) (l × 360) / (2πr)", "(c) (1/2) × l² × r"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>સોલ્યુશન:</strong><br>
+(1) <b>વૃત્તાંશનું ક્ષેત્રફળ (l અને r ના પદમાં):</b> જો ખૂણો ન આપ્યો હોય પણ ચાપની લંબાઈ l અને ત્રિજ્યા r આપી હોય, તો તેનું સીધું શોર્ટકટ સૂત્ર <b><span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>1</span><span>2</span></span> &times; l &times; r</b> છે.<br>
+(2) <b>ખૂણો (&theta;):</b> ચાપની લંબાઈ l = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>&theta;</span><span>360</span></span> &times; 2&pi;r સૂત્રમાં &theta; ને કર્તા બનાવતા: &theta; = <b><span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>l &times; 360</span><span>2&pi;r</span></span></b>.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) r ત્રિજ્યાવાળા પૈડાંએ 1 પરિભ્રમણમાં કાપેલું અંતર", "(2) r ત્રિજ્યાવાળા પૈડાંએ 5 પરિભ્રમણમાં કાપેલું અંતર"], 
         colB: ["(a) 10πr", "(b) 2πr", "(c) 5πr"], 
-        ans: "(1) - (b), (2) - (a)" 
+        ans: "(1) - (b), (2) - (a)",
+        solution: `<strong>સોલ્યુશન અને ટ્રીક:</strong><br>
+કોઈપણ ગોળાકાર પૈડું 1 પરિભ્રમણ (એક આખું ચક્કર) માં તેના <b>પરિઘ</b> જેટલું જ અંતર કાપે છે.<br>
+(1) 1 પરિભ્રમણ = 1 &times; પરિઘ = 1 &times; 2&pi;r = <b>2&pi;r</b><br>
+(2) 5 પરિભ્રમણ = 5 &times; પરિઘ = 5 &times; 2&pi;r = <b>10&pi;r</b>`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) d વ્યાસવાળા પૈડાંએ 1 પરિભ્રમણમાં કાપેલું અંતર", "(2) d વ્યાસવાળા પૈડાંએ 2 પરિભ્રમણમાં કાપેલું અંતર"], 
         colB: ["(a) 2πd", "(b) πd", "(c) 4πd"], 
-        ans: "(1) - (b), (2) - (a)" 
+        ans: "(1) - (b), (2) - (a)",
+        solution: `<strong>સોલ્યુશન:</strong><br>
+અહીં વ્યાસ d આપેલો છે. પરિઘ C = 2&pi;r છે, જેમાં 2r ની જગ્યાએ d મૂકતા પરિઘ = &pi;d થાય.<br>
+(1) 1 પરિભ્રમણમાં કપાતું અંતર = 1 &times; &pi;d = <b>&pi;d</b><br>
+(2) 2 પરિભ્રમણમાં કપાતું અંતર = 2 &times; &pi;d = <b>2&pi;d</b>`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) ગુરુવૃત્તાંશનું ક્ષેત્રફળ શોધવાનું સૂત્ર", "(2) ગુરુચાપની લંબાઈ શોધવાનું સૂત્ર"], 
         colB: ["(a) વર્તુળનો પરિઘ - લઘુચાપની લંબાઈ", "(b) વર્તુળનું ક્ષેત્રફળ - લઘુવૃત્તાંશનું ક્ષેત્રફળ", "(c) વર્તુળનો પરિઘ + લઘુચાપની લંબાઈ"], 
-        ans: "(1) - (b), (2) - (a)" 
+        ans: "(1) - (b), (2) - (a)",
+        solution: `<strong>સોલ્યુશન:</strong><br>
+કોઈપણ મોટી (ગુરુ) વસ્તુ શોધવી હોય, તો કુલ માંથી નાની (લઘુ) વસ્તુ બાદ કરવી પડે.<br>
+(1) <b>ગુરુવૃત્તાંશનું ક્ષેત્રફળ:</b> આખા <b>વર્તુળના ક્ષેત્રફળ</b> માંથી <b>લઘુવૃત્તાંશનું ક્ષેત્રફળ</b> બાદ કરવાથી મળે.<br>
+(2) <b>ગુરુચાપની લંબાઈ:</b> આખા <b>વર્તુળના પરિઘ</b> માંથી <b>લઘુચાપની લંબાઈ</b> બાદ કરવાથી મળે.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) 7 સેમી ત્રિજ્યાવાળા વર્તુળના ચતુર્થાંશની પરિમિતિ", "(2) 7 સેમી ત્રિજ્યાવાળા અર્ધવર્તુળની પરિમિતિ"], 
         colB: ["(a) 25 સેમી", "(b) 36 સેમી", "(c) 22 સેમી"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>ગણતરી:</strong><br>
+અહીં r = 7 સેમી છે.<br>
+(1) <b>ચતુર્થાંશની પરિમિતિ:</b> <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>&pi;r</span><span>2</span></span> + 2r <br>
+= <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'><span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>22</span><span>7</span></span> &times; 7</span><span>2</span></span> + 2(7)<br>
+= <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>22</span><span>2</span></span> + 14 = 11 + 14 = <b>25 સેમી</b>.<br><br>
+(2) <b>અર્ધવર્તુળની પરિમિતિ:</b> &pi;r + 2r <br>
+= (<span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>22</span><span>7</span></span> &times; 7) + 2(7) = 22 + 14 = <b>36 સેમી</b>.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) 14 સેમી ત્રિજ્યાવાળા અર્ધવર્તુળની પરિમિતિ", "(2) 14 સેમી ત્રિજ્યાવાળા અર્ધવર્તુળનું ક્ષેત્રફળ"], 
         colB: ["(a) 72 સેમી", "(b) 308 સેમી²", "(c) 616 સેમી²"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>ગણતરી:</strong><br>
+અહીં r = 14 સેમી.<br>
+(1) <b>અર્ધવર્તુળની પરિમિતિ:</b> &pi;r + 2r <br>
+= (<span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>22</span><span>7</span></span> &times; 14) + 2(14) = (22 &times; 2) + 28 = 44 + 28 = <b>72 સેમી</b>.<br><br>
+(2) <b>અર્ધવર્તુળનું ક્ષેત્રફળ:</b> <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>1</span><span>2</span></span>&pi;r&sup2;<br>
+= <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>1</span><span>2</span></span> &times; <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>22</span><span>7</span></span> &times; 14 &times; 14 = 11 &times; 2 &times; 14 = <b>308 સેમી&sup2;</b>.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) જો વૃત્તાંશનું ક્ષેત્રફળ વર્તુળના ક્ષેત્રફળના 1/6 ભાગનું હોય તો કેન્દ્ર આગળનો ખૂણો", "(2) જો વૃત્તાંશનું ક્ષેત્રફળ વર્તુળના ક્ષેત્રફળના 1/3 ભાગનું હોય તો કેન્દ્ર આગળનો ખૂણો"], 
         colB: ["(a) 60°", "(b) 120°", "(c) 90°"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>સોલ્યુશન અને ટ્રીક:</strong><br>
+કેન્દ્ર આગળનો કુલ ખૂણો 360&deg; હોય છે. ક્ષેત્રફળ જેટલામો ભાગ હોય, ખૂણો પણ તેટલામો જ ભાગ થાય.<br>
+(1) 1/6 ભાગ: 360&deg; &times; <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>1</span><span>6</span></span> = <b>60&deg;</b>.<br>
+(2) 1/3 ભાગ: 360&deg; &times; <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>1</span><span>3</span></span> = <b>120&deg;</b>.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) 'a' બાજુવાળા ચોરસમાં અંતર્ગત વર્તુળની ત્રિજ્યા", "(2) 'a' બાજુવાળા ચોરસના પરિગત વર્તુળની ત્રિજ્યા"], 
         colB: ["(a) a/2", "(b) a/√2", "(c) a/4"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>સોલ્યુશન:</strong><br>
+(1) <b>અંતર્ગત વર્તુળ:</b> ચોરસની <b>અંદર</b> આવેલા વર્તુળનો વ્યાસ એ ચોરસની બાજુ (a) જેટલો હોય છે. તેથી ત્રિજ્યા r = <b>a/2</b> થાય.<br>
+(2) <b>પરિગત વર્તુળ:</b> ચોરસની <b>બહારથી</b> પસાર થતા વર્તુળનો વ્યાસ એ ચોરસના વિકર્ણ (a&radic;2) જેટલો હોય છે. તેથી ત્રિજ્યા r = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>a&radic;2</span><span>2</span></span> = <b>a/&radic;2</b> થાય.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) જે વર્તુળનું ક્ષેત્રફળ 154 સેમી² હોય તેની ત્રિજ્યા", "(2) જે વર્તુળનું ક્ષેત્રફળ 616 સેમી² હોય તેની ત્રિજ્યા"], 
         colB: ["(a) 7 સેમી", "(b) 14 સેમી", "(c) 21 સેમી"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>ગણતરી:</strong><br>
+ક્ષેત્રફળ = &pi;r&sup2;<br>
+(1) 154 = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>22</span><span>7</span></span> &times; r&sup2; &rArr; r&sup2; = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>154 &times; 7</span><span>22</span></span> = 7 &times; 7 = 49. તેથી r = <b>7 સેમી</b>.<br>
+(2) 616 = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>22</span><span>7</span></span> &times; r&sup2; &rArr; r&sup2; = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>616 &times; 7</span><span>22</span></span> = 28 &times; 7 = 196. 196 એ 14 નો વર્ગ છે, તેથી r = <b>14 સેમી</b>.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) જે વર્તુળનો પરિઘ 44 સેમી હોય તેની ત્રિજ્યા", "(2) જે વર્તુળનો પરિઘ 88 સેમી હોય તેની ત્રિજ્યા"], 
         colB: ["(a) 14 સેમી", "(b) 7 સેમી", "(c) 21 સેમી"], 
-        ans: "(1) - (b), (2) - (a)" 
+        ans: "(1) - (b), (2) - (a)",
+        solution: `<strong>ગણતરી:</strong><br>
+પરિઘ C = 2&pi;r &rArr; r = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>C</span><span>2&pi;</span></span><br>
+(1) r = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>44</span><span>2 &times; (22/7)</span></span> = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>44 &times; 7</span><span>44</span></span> = <b>7 સેમી</b>.<br>
+(2) r = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>88</span><span>2 &times; (22/7)</span></span> = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>88 &times; 7</span><span>44</span></span> = 2 &times; 7 = <b>14 સેમી</b>.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) 44 સેમી લંબાઈના તારમાંથી બનાવેલ વર્તુળની ત્રિજ્યા", "(2) 44 સેમી લંબાઈના તારમાંથી બનાવેલ ચોરસની બાજુનું માપ"], 
         colB: ["(a) 11 સેમી", "(b) 7 સેમી", "(c) 14 સેમી"], 
-        ans: "(1) - (b), (2) - (a)" 
+        ans: "(1) - (b), (2) - (a)",
+        solution: `<strong>ગણતરી:</strong><br>
+તારની કુલ લંબાઈ એ આકારની પરિમિતિ (કે પરિઘ) બને છે. અહીં લંબાઈ 44 સેમી છે.<br>
+(1) <b>વર્તુળ માટે:</b> 2&pi;r = 44 &rArr; 2 &times; <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>22</span><span>7</span></span> &times; r = 44 &rArr; <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>44</span><span>7</span></span>r = 44 &rArr; r = <b>7 સેમી</b>.<br>
+(2) <b>ચોરસ માટે:</b> ચોરસની પરિમિતિ 4 &times; બાજુ = 44 &rArr; બાજુ = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>44</span><span>4</span></span> = <b>11 સેમી</b>.`
     },
-    { 
+      { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) 88 સેમી લંબાઈના તારમાંથી બનાવેલ વર્તુળનું ક્ષેત્રફળ", "(2) 88 સેમી લંબાઈના તારમાંથી બનાવેલ ચોરસનું ક્ષેત્રફળ"], 
         colB: ["(a) 616 સેમી²", "(b) 484 સેમી²", "(c) 154 સેમી²"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>ગણતરી:</strong><br>
+અહીં પરિમિતિ (તારની લંબાઈ) = 88 સેમી.<br>
+(1) <b>વર્તુળ:</b> 2&pi;r = 88 &rArr; r = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>88 &times; 7</span><span>44</span></span> = 14 સેમી. <br>
+ક્ષેત્રફળ = &pi;r&sup2; = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>22</span><span>7</span></span> &times; 14 &times; 14 = 22 &times; 2 &times; 14 = <b>616 સેમી&sup2;</b>.<br><br>
+(2) <b>ચોરસ:</b> 4 &times; બાજુ = 88 &rArr; બાજુ = 22 સેમી. <br>
+ક્ષેત્રફળ = બાજુ &times; બાજુ = 22 &times; 22 = <b>484 સેમી&sup2;</b>.`
     },
-    { 
+     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) R અને r ત્રિજ્યા (R > r) વાળા બે સમકેન્દ્રી વર્તુળો વચ્ચેના કંકણાકાર માર્ગનું ક્ષેત્રફળ", "(2) R અને r ત્રિજ્યા (R > r) વાળા કંકણાકાર માર્ગની પહોળાઈ"], 
         colB: ["(a) π(R² - r²)", "(b) R - r", "(c) π(R - r)"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>સોલ્યુશન:</strong><br>
+(1) <b>કંકણાકાર માર્ગ (Ring) નું ક્ષેત્રફળ:</b> આ માર્ગ મોટા વર્તુળ અને નાના વર્તુળની વચ્ચે આવેલો હોય છે. તેથી તેનું ક્ષેત્રફળ = મોટા વર્તુળનું ક્ષેત્રફળ &minus; નાના વર્તુળનું ક્ષેત્રફળ = &pi;R&sup2; &minus; &pi;r&sup2; = <b>&pi;(R&sup2; - r&sup2;)</b> થાય.<br>
+(2) <b>પહોળાઈ:</b> માર્ગની પહોળાઈ એટલે બંને ત્રિજ્યાઓનો તફાવત = <b>R - r</b>.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) 28 સેમી ત્રિજ્યાવાળા વર્તુળનો પરિઘ", "(2) 28 સેમી ત્રિજ્યાવાળા વર્તુળનું ક્ષેત્રફળ"], 
         colB: ["(a) 176 સેમી", "(b) 2464 સેમી²", "(c) 88 સેમી"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>ગણતરી:</strong><br>
+અહીં r = 28 સેમી આપેલ છે.<br>
+(1) <b>પરિઘ:</b> C = 2&pi;r = 2 &times; <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>22</span><span>7</span></span> &times; 28<br>
+અહીં 7 ના ઘડિયામાં 28 (7 &times; 4) આવે, તેથી = 2 &times; 22 &times; 4 = 44 &times; 4 = <b>176 સેમી</b>.<br><br>
+(2) <b>ક્ષેત્રફળ:</b> A = &pi;r&sup2; = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>22</span><span>7</span></span> &times; 28 &times; 28 = 22 &times; 4 &times; 28 = 88 &times; 28 = <b>2464 સેમી&sup2;</b>.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) 14 સેમી લંબાઈના મિનિટ કાંટા દ્વારા 15 મિનિટમાં આવરી લેવાતું ક્ષેત્રફળ", "(2) 14 સેમી લંબાઈના મિનિટ કાંટા દ્વારા 30 મિનિટમાં આવરી લેવાતું ક્ષેત્રફળ"], 
         colB: ["(a) 308 સેમી²", "(b) 154 સેમી²", "(c) 616 સેમી²"], 
-        ans: "(1) - (b), (2) - (a)" 
+        ans: "(1) - (b), (2) - (a)",
+        solution: `<strong>ગણતરી:</strong><br>
+કાંટાની લંબાઈ એ ત્રિજ્યા r = 14 સેમી છે. વર્તુળનું કુલ ક્ષેત્રફળ = &pi;r&sup2; = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>22</span><span>7</span></span> &times; 14 &times; 14 = 616 સેમી&sup2;.<br>
+(1) <b>15 મિનિટ:</b> આ વર્તુળનો <b>ચોથો ભાગ</b> (90&deg;) છે. <br>
+ક્ષેત્રફળ = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>616</span><span>4</span></span> = <b>154 સેમી&sup2;</b>.<br>
+(2) <b>30 મિનિટ:</b> આ <b>અડધું વર્તુળ</b> (180&deg;) છે. <br>
+ક્ષેત્રફળ = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>616</span><span>2</span></span> = <b>308 સેમી&sup2;</b>.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) 21 સેમી ત્રિજ્યા અને 60° ખૂણાવાળા ચાપની લંબાઈ", "(2) 21 સેમી ત્રિજ્યા અને 60° ખૂણાવાળા વૃત્તાંશનું ક્ષેત્રફળ"], 
         colB: ["(a) 22 સેમી", "(b) 231 સેમી²", "(c) 462 સેમી²"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>ગણતરી:</strong><br>
+r = 21 સેમી, &theta; = 60&deg;.<br>
+(1) <b>ચાપની લંબાઈ (l):</b> <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>&theta;</span><span>360</span></span> &times; 2&pi;r = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>60</span><span>360</span></span> &times; 2 &times; <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>22</span><span>7</span></span> &times; 21 = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>1</span><span>6</span></span> &times; 2 &times; 22 &times; 3 = <b>22 સેમી</b>.<br><br>
+(2) <b>ક્ષેત્રફળ:</b> <em>(અહીં શોર્ટકટ સૂત્ર <b><span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>1</span><span>2</span></span> l r</b> વાપરી શકાય)</em><br>
+A = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>1</span><span>2</span></span> &times; 22 &times; 21 = 11 &times; 21 = <b>231 સેમી&sup2;</b>.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) r ત્રિજ્યા અને l ચાપની લંબાઈવાળા વૃત્તાંશની પરિમિતિ", "(2) r ત્રિજ્યાવાળા અર્ધવર્તુળની પરિમિતિ"], 
         colB: ["(a) l + 2r", "(b) πr + 2r", "(c) l + πr"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>સોલ્યુશન:</strong><br>
+(1) <b>વૃત્તાંશની પરિમિતિ:</b> વૃત્તાંશમાં એક ચાપ (જેની લંબાઈ l છે) અને બે ત્રિજ્યાઓ (r + r = 2r) હોય છે. તેથી પરિમિતિ = <b>l + 2r</b>.<br>
+(2) <b>અર્ધવર્તુળની પરિમિતિ:</b> અર્ધવર્તુળમાં વળાંકવાળો ભાગ અર્ધપરિઘ (&pi;r) અને સીધી રેખા વ્યાસ (2r) હોય છે. તેથી પરિમિતિ = <b>&pi;r + 2r</b>.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) જો વર્તુળની ત્રિજ્યામાં 10% નો વધારો કરવામાં આવે, તો ક્ષેત્રફળમાં થતો વધારો", "(2) જો વર્તુળની ત્રિજ્યામાં 10% નો વધારો કરવામાં આવે, તો પરિઘમાં થતો વધારો"], 
         colB: ["(a) 21%", "(b) 10%", "(c) 100%"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>શોર્ટકટ ટ્રીક:</strong><br>
+(2) પરિઘ ત્રિજ્યાના 1 ઘાતના સમપ્રમાણમાં છે. તેથી જો ત્રિજ્યામાં x% વધારો થાય, તો <b>પરિઘમાં પણ તેટલો જ (10%) વધારો થાય</b>.<br>
+(1) ક્ષેત્રફળ ત્રિજ્યાના વર્ગના સમપ્રમાણમાં છે. ટકાવારીના વધારા માટે શોર્ટકટ સૂત્ર: <b><span style='font-family: monospace;'>2x + (x&sup2; / 100)</span></b> છે. <br>
+અહીં x = 10 મૂકતા: 2(10) + (100 / 100) = 20 + 1 = <b>21%</b>.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) જો વર્તુળની ત્રિજ્યામાં 50% નો ઘટાડો કરવામાં આવે, તો ક્ષેત્રફળમાં થતો ઘટાડો", "(2) જો વર્તુળની ત્રિજ્યામાં 50% નો ઘટાડો કરવામાં આવે, તો પરિઘમાં થતો ઘટાડો"], 
         colB: ["(a) 50%", "(b) 75%", "(c) 25%"], 
-        ans: "(1) - (b), (2) - (a)" 
+        ans: "(1) - (b), (2) - (a)",
+        solution: `<strong>શોર્ટકટ ટ્રીક:</strong><br>
+(2) પરિઘમાં થતો ઘટાડો સીધો ત્રિજ્યા જેટલો જ હોય છે = <b>50%</b>.<br>
+(1) ક્ષેત્રફળમાં થતા ઘટાડા માટેનું સૂત્ર: <b><span style='font-family: monospace;'>2x &minus; (x&sup2; / 100)</span></b> છે. <br>
+અહીં x = 50 મૂકતા: 2(50) &minus; (2500 / 100) = 100 &minus; 25 = <b>75%</b>.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) r ત્રિજ્યાવાળા વર્તુળમાં અંતર્ગત ચોરસનું ક્ષેત્રફળ", "(2) r ત્રિજ્યાવાળા વર્તુળમાં અંતર્ગત સમબાજુ ત્રિકોણનું ક્ષેત્રફળ"], 
         colB: ["(a) 2r²", "(b) (3√3 / 4)r²", "(c) r²"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>સોલ્યુશન:</strong><br>
+(1) <b>અંતર્ગત ચોરસ:</b> જે ચોરસ વર્તુળની અંદર હોય તેનો વિકર્ણ વર્તુળના વ્યાસ (2r) જેટલો થાય. <br>
+ચોરસનું ક્ષેત્રફળ = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>1</span><span>2</span></span> &times; (વિકર્ણ)&sup2; = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>1</span><span>2</span></span> &times; (2r)&sup2; = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>4r&sup2;</span><span>2</span></span> = <b>2r&sup2;</b>.<br>
+(2) <b>અંતર્ગત સમબાજુ ત્રિકોણ:</b> તેની બાજુનું માપ a = r&radic;3 થાય. <br>
+ક્ષેત્રફળ = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>&radic;3</span><span>4</span></span> a&sup2; = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>&radic;3</span><span>4</span></span> (3r&sup2;) = <b>(3&radic;3 / 4)r&sup2;</b>.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) ઘડિયાળનો કલાક કાંટો 12 કલાકમાં આંતરતો ખૂણો", "(2) ઘડિયાળનો મિનિટ કાંટો 60 મિનિટમાં આંતરતો ખૂણો"], 
         colB: ["(a) 360°", "(b) 180°", "(c) 90°"], 
-        ans: "(1) - (a), (2) - (a)" 
+        ans: "(1) - (a), (2) - (a)",
+        solution: `<strong>સોલ્યુશન:</strong><br>
+કલાકનો કાંટો બરાબર <b>12 કલાકમાં</b> ઘડિયાળનું એક આખું ચક્કર પૂરું કરે છે.<br>
+તેવી જ રીતે, મિનિટનો કાંટો બરાબર <b>60 મિનિટમાં</b> એક આખું ચક્કર પૂરું કરે છે.<br>
+બંને કિસ્સામાં આખું વર્તુળ પૂર્ણ થતું હોવાથી કેન્દ્ર આગળ આંતરાતો ખૂણો <b>360&deg;</b> જ થાય.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) 7 સેમી લંબાઈના મિનિટ કાંટાના છેડા દ્વારા 15 મિનિટમાં કપાતું અંતર", "(2) 7 સેમી લંબાઈના મિનિટ કાંટાના છેડા દ્વારા 30 મિનિટમાં કપાતું અંતર"], 
         colB: ["(a) 11 સેમી", "(b) 22 સેમી", "(c) 44 સેમી"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>ગણતરી:</strong><br>
+કાંટાના છેડા દ્વારા કપાતું અંતર એટલે ચાપની લંબાઈ અથવા પરિઘનો ભાગ. કુલ પરિઘ = 2 &times; <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>22</span><span>7</span></span> &times; 7 = 44 સેમી છે.<br>
+(1) <b>15 મિનિટ:</b> આ ચોથો ભાગ (1/4) છે. અંતર = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>44</span><span>4</span></span> = <b>11 સેમી</b>.<br>
+(2) <b>30 મિનિટ:</b> આ અડધો ભાગ (1/2) છે. અંતર = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>44</span><span>2</span></span> = <b>22 સેમી</b>.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) α ખૂણાવાળા વૃત્તાંશનું ક્ષેત્રફળ / વર્તુળનું ક્ષેત્રફળ", "(2) α ખૂણાવાળા ચાપની લંબાઈ / વર્તુળનો પરિઘ"], 
         colB: ["(a) α / 360", "(b) α / 180", "(c) α / 720"], 
-        ans: "(1) - (a), (2) - (a)" 
+        ans: "(1) - (a), (2) - (a)",
+        solution: `<strong>સોલ્યુશન:</strong><br>
+કોઈપણ ભાગનો ગુણોત્તર તેના ખૂણાના આધારે નક્કી થાય છે. આખા વર્તુળનો ખૂણો 360&deg; છે.<br>
+(1) વૃત્તાંશનું ક્ષેત્રફળ અને કુલ ક્ષેત્રફળનો ગુણોત્તર = <b>&alpha; / 360</b>.<br>
+(2) ચાપની લંબાઈ અને કુલ પરિઘનો ગુણોત્તર પણ <b>&alpha; / 360</b> જ થાય.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) સમાન પરિમિતિ ધરાવતા વર્તુળ અને ચોરસના ક્ષેત્રફળનો ગુણોત્તર", "(2) સમાન પરિમિતિ ધરાવતા ચોરસ અને વર્તુળના ક્ષેત્રફળનો ગુણોત્તર"], 
         colB: ["(a) 4:π", "(b) π:4", "(c) π:2"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>ગણતરી અને ટ્રીક:</strong><br>
+વર્તુળનો પરિઘ = ચોરસની પરિમિતિ &rArr; 2&pi;r = 4a &rArr; a = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>&pi;r</span><span>2</span></span>.<br>
+ક્ષેત્રફળનો ગુણોત્તર = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>વર્તુળનું ક્ષેત્રફળ</span><span>ચોરસનું ક્ષેત્રફળ</span></span> = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>&pi;r&sup2;</span><span>a&sup2;</span></span> = <span style='display:inline-block;vertical-align:middle;text-align:center;'><span style='border-bottom:1px solid black;display:block;'>&pi;r&sup2;</span><span>(&pi;&sup2;r&sup2; / 4)</span></span> = <b>4:&pi;</b>.<br>
+જો ઊલટું પૂછાય (ચોરસ : વર્તુળ), તો તે <b>&pi;:4</b> થાય.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) r₁ અને r₂ ત્રિજ્યાવાળા બે વર્તુળો બહારથી સ્પર્શતા હોય તો તેમના કેન્દ્રો વચ્ચેનું અંતર", "(2) r₁ અને r₂ ત્રિજ્યાવાળા બે વર્તુળો અંદરથી સ્પર્શતા હોય તો તેમના કેન્દ્રો વચ્ચેનું અંતર"], 
         colB: ["(a) r₁ + r₂", "(b) |r₁ - r₂|", "(c) r₁ × r₂"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>સોલ્યુશન:</strong><br>
+(1) <b>બહારથી સ્પર્શતા:</b> જ્યારે બે વર્તુળો એકબીજાને બહારથી અડે, ત્યારે તેમના કેન્દ્રો વચ્ચેનું અંતર સીધું બંનેની ત્રિજ્યાઓના સરવાળા (<b>r₁ + r₂</b>) જેટલું હોય છે.<br>
+(2) <b>અંદરથી સ્પર્શતા:</b> જ્યારે નાનું વર્તુળ મોટા વર્તુળની અંદરથી સ્પર્શે, ત્યારે તેમના કેન્દ્રો વચ્ચેનું અંતર બંનેની ત્રિજ્યાઓના તફાવત (બાદબાકી: <b>|r₁ &minus; r₂|</b>) જેટલું હોય છે.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) વર્તુળના અંતર્ગત ચોરસ અને પરિગત ચોરસના ક્ષેત્રફળનો ગુણોત્તર", "(2) વર્તુળમાં અંતર્ગત સમબાજુ ત્રિકોણ અને પરિગત સમબાજુ ત્રિકોણના ક્ષેત્રફળનો ગુણોત્તર"], 
         colB: ["(a) 1:2", "(b) 1:4", "(c) 1:3"], 
-        ans: "(1) - (a), (2) - (b)" 
+        ans: "(1) - (a), (2) - (b)",
+        solution: `<strong>શોર્ટકટ ટ્રીક:</strong><br>
+(1) <b>ચોરસ માટે:</b> અંતર્ગત (અંદરનો) ચોરસ હંમેશા પરિગત (બહારના) ચોરસથી બરાબર <b>અડધો</b> હોય છે. તેથી ગુણોત્તર <b>1:2</b> થાય.<br>
+(2) <b>સમબાજુ ત્રિકોણ માટે:</b> અંતર્ગત સમબાજુ ત્રિકોણનું ક્ષેત્રફળ પરિગત ત્રિકોણ કરતા <b>ચોથા ભાગનું</b> હોય છે. તેથી ગુણોત્તર <b>1:4</b> થાય.`
     },
     { 
         chapter: 11, marks: 2, 
         q: "નીચેના જોડકાં યોગ્ય રીતે જોડો:", 
         colA: ["(1) એક જ વર્તુળમાં સમાન લંબાઈના બે ચાપ દ્વારા કેન્દ્ર આગળ આંતરાતા ખૂણા", "(2) એક જ વર્તુળમાં સમાન માપના ખૂણા આંતરતા બે વૃત્તાંશના ક્ષેત્રફળ"], 
         colB: ["(a) સમાન હોય છે", "(b) અડધા હોય છે", "(c) બમણા હોય છે"], 
-        ans: "(1) - (a), (2) - (a)" 
-        },
-    
+        ans: "(1) - (a), (2) - (a)",
+        solution: `<strong>સોલ્યુશન:</strong><br>
+કોઈપણ વર્તુળમાં બધું પ્રમાણસર હોય છે.<br>
+(1) જો બે ચાપની લંબાઈ એકસરખી (સમાન) હોય, તો તેઓ કેન્દ્ર પાસે જે ખૂણો બનાવે તે પણ <b>સમાન</b> જ હોય છે.<br>
+(2) જો કેન્દ્ર પાસેના ખૂણા સમાન હોય, તો બંને વૃત્તાંશનું ક્ષેત્રફળ પણ <b>સમાન</b> જ થાય.`
+    },
     // ---------------- પ્રકરણ 12: પૃષ્ઠફળ અને ઘનફળ ----------------
     { 
         chapter: 12, marks: 2, 
