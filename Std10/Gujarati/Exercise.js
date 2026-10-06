@@ -1,4 +1,4 @@
-var gujExerciseDB_Std10 = [
+var std10gujExercise = [
 
     {
         'chapter': 1,
