@@ -1886,3 +1886,1535 @@ var mathPaperDatabase = [
         q: "જો AD અને PM એ સમરૂપ ત્રિકોણો ΔABC અને ΔPQR ની મધ્યગાઓ હોય, તો સાબિત કરો કે (AB / PQ) = (AD / PM).",
         solutionMatch: "સ્વા. 6.3 પ્રશ્ન 16"
     },
+        // ---------------- પ્રકરણ 7: યામ ભૂમિતિ (સ્વાધ્યાય 7.1 અને 7.2 - સંપૂર્ણ) ----------------
+    // સ્વાધ્યાય 7.1 (અંતર સૂત્ર)
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.1 - પ્રશ્ન 1 (i)", 
+        marks: 2, 
+        q: "નીચે આપેલ બિંદુઓની જોડ વચ્ચેનું અંતર શોધો: (2, 3) અને (4, 1)",
+        solutionMatch: "સ્વા. 7.1 પ્રશ્ન 1(i)"
+    },
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.1 - પ્રશ્ન 1 (ii)", 
+        marks: 2, 
+        q: "નીચે આપેલ બિંદુઓની જોડ વચ્ચેનું અંતર શોધો: (-5, 7) અને (-1, 3)",
+        solutionMatch: "સ્વા. 7.1 પ્રશ્ન 1(ii)"
+    },
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.1 - પ્રશ્ન 1 (iii)", 
+        marks: 2, 
+        q: "નીચે આપેલ બિંદુઓની જોડ વચ્ચેનું અંતર શોધો: (a, b) અને (-a, -b)",
+        solutionMatch: "સ્વા. 7.1 પ્રશ્ન 1(iii)"
+    },
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.1 - પ્રશ્ન 2", 
+        marks: 2, 
+        q: "બિંદુઓ (0, 0) અને (36, 15) વચ્ચેનું અંતર શોધો. શું તમે હવે બે શહેરો A(0, 0) અને B(36, 15) વચ્ચેનું અંતર શોધી શકો?",
+        solutionMatch: "સ્વા. 7.1 પ્રશ્ન 2"
+    },
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.1 - પ્રશ્ન 3", 
+        marks: 2, 
+        q: "બિંદુઓ (1, 5), (2, 3) અને (-2, -11) સમરેખ છે કે નહીં તે નક્કી કરો.",
+        solutionMatch: "સ્વા. 7.1 પ્રશ્ન 3"
+    },
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.1 - પ્રશ્ન 4", 
+        marks: 2, 
+        q: "ચકાસો કે (5, -2), (6, 4) અને (7, -2) એ સમદ્વિબાજુ ત્રિકોણનાં શિરોબિંદુઓ છે.",
+        solutionMatch: "સ્વા. 7.1 પ્રશ્ન 4"
+    },
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.1 - પ્રશ્ન 5", 
+        marks: 3, 
+        q: "એક વર્ગખંડમાં ચાર મિત્રો આપેલ આકૃતિમાં દર્શાવેલ બિંદુઓ A, B, C અને D દ્વારા દર્શાવેલ સ્થાન પર બેઠા છે. ચંપા અને ચમેલી વર્ગમાં આવીને થોડી મિનિટોના અવલોકન બાદ ચંપાએ ચમેલીને પૂછ્યું કે 'શું તું એવું માને છે કે ABCD ચોરસ છે?' ચમેલી અસંમત થાય છે. અંતર સૂત્રનો ઉપયોગ કરી, કોણ સાચું છે તે શોધો.<br><svg width='230' height='190' viewBox='0 0 230 190' xmlns='http://www.w3.org/2000/svg' style='margin-top:8px; background:#fff; border:1px solid #cbd5e1;'><g stroke='#e2e8f0' stroke-width='1'><line x1='30' y1='15' x2='210' y2='15'/><line x1='30' y1='33' x2='210' y2='33'/><line x1='30' y1='51' x2='210' y2='51'/><line x1='30' y1='69' x2='210' y2='69'/><line x1='30' y1='87' x2='210' y2='87'/><line x1='30' y1='105' x2='210' y2='105'/><line x1='30' y1='123' x2='210' y2='123'/><line x1='30' y1='141' x2='210' y2='141'/><line x1='30' y1='159' x2='210' y2='159'/><line x1='30' y1='15' x2='30' y2='159'/><line x1='48' y1='15' x2='48' y2='159'/><line x1='66' y1='15' x2='66' y2='159'/><line x1='84' y1='15' x2='84' y2='159'/><line x1='102' y1='15' x2='102' y2='159'/><line x1='120' y1='15' x2='120' y2='159'/><line x1='138' y1='15' x2='138' y2='159'/><line x1='156' y1='15' x2='156' y2='159'/><line x1='174' y1='15' x2='174' y2='159'/><line x1='192' y1='15' x2='192' y2='159'/><line x1='210' y1='15' x2='210' y2='159'/></g><line x1='30' y1='159' x2='215' y2='159' stroke='#0f172a' stroke-width='1.5'/><line x1='30' y1='10' x2='30' y2='159' stroke='#0f172a' stroke-width='1.5'/><text x='45' y='172' font-size='9'>1</text><text x='63' y='172' font-size='9'>2</text><text x='81' y='172' font-size='9'>3</text><text x='99' y='172' font-size='9'>4</text><text x='117' y='172' font-size='9'>5</text><text x='135' y='172' font-size='9'>6</text><text x='153' y='172' font-size='9'>7</text><text x='171' y='172' font-size='9'>8</text><text x='189' y='172' font-size='9'>9</text><text x='204' y='172' font-size='9'>10</text><text x='18' y='144' font-size='9'>1</text><text x='18' y='126' font-size='9'>2</text><text x='18' y='108' font-size='9'>3</text><text x='18' y='90' font-size='9'>4</text><text x='18' y='72' font-size='9'>5</text><text x='18' y='54' font-size='9'>6</text><text x='18' y='36' font-size='9'>7</text><text x='18' y='18' font-size='9'>8</text><circle cx='84' cy='87' r='4' fill='#dc2626'/><text x='72' y='84' font-size='11' font-weight='bold' fill='#dc2626'>A</text><circle cx='138' cy='33' r='4' fill='#dc2626'/><text x='142' y='30' font-size='11' font-weight='bold' fill='#dc2626'>B</text><circle cx='192' cy='87' r='4' fill='#dc2626'/><text x='196' y='84' font-size='11' font-weight='bold' fill='#dc2626'>C</text><circle cx='138' cy='141' r='4' fill='#dc2626'/><text x='142' y='152' font-size='11' font-weight='bold' fill='#dc2626'>D</text></svg>",
+        solutionMatch: "સ્વા. 7.1 પ્રશ્ન 5"
+    },
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.1 - પ્રશ્ન 6 (i)", 
+        marks: 3, 
+        q: "નીચે દર્શાવેલાં બિંદુઓથી જો ચતુષ્કોણ રચાતો હોય, તો તેનો પ્રકાર જણાવો અને તમારા જવાબ માટે કારણ આપો: (-1, -2), (1, 0), (-1, 2), (-3, 0)",
+        solutionMatch: "સ્વા. 7.1 પ્રશ્ન 6(i)"
+    },
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.1 - પ્રશ્ન 6 (ii)", 
+        marks: 3, 
+        q: "નીચે દર્શાવેલાં બિંદુઓથી જો ચતુષ્કોણ રચાતો હોય, તો તેનો પ્રકાર જણાવો અને તમારા જવાબ માટે કારણ આપો: (-3, 5), (3, 1), (0, 3), (-1, -4)",
+        solutionMatch: "સ્વા. 7.1 પ્રશ્ન 6(ii)"
+    },
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.1 - પ્રશ્ન 6 (iii)", 
+        marks: 3, 
+        q: "નીચે દર્શાવેલાં બિંદુઓથી જો ચતુષ્કોણ રચાતો હોય, તો તેનો પ્રકાર જણાવો અને તમારા જવાબ માટે કારણ આપો: (4, 5), (7, 6), (4, 3), (1, 2)",
+        solutionMatch: "સ્વા. 7.1 પ્રશ્ન 6(iii)"
+    },
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.1 - પ્રશ્ન 7", 
+        marks: 2, 
+        q: "જે બિંદુઓ (2, -5) અને (-2, 9) થી સમાન અંતરે હોય તેવું x-અક્ષ પરનું બિંદુ શોધો.",
+        solutionMatch: "સ્વા. 7.1 પ્રશ્ન 7"
+    },
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.1 - પ્રશ્ન 8", 
+        marks: 3, 
+        q: "બિંદુઓ P(2, -3) અને Q(10, y) વચ્ચેનું અંતર 10 એકમ હોય, તો y ની કિંમત શોધો.",
+        solutionMatch: "સ્વા. 7.1 પ્રશ્ન 8"
+    },
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.1 - પ્રશ્ન 9", 
+        marks: 3, 
+        q: "જો Q(0, 1) એ P(5, -3) અને R(x, 6) થી સમાન અંતરે હોય, તો x ની કિંમત શોધો. અંતર QR અને PR પણ શોધો.",
+        solutionMatch: "સ્વા. 7.1 પ્રશ્ન 9"
+    },
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.1 - પ્રશ્ન 10", 
+        marks: 3, 
+        q: "x અને y વચ્ચેનો એવો સંબંધ મેળવો કે જેથી બિંદુ (x, y) એ બિંદુઓ (3, 6) અને (-3, 4) થી સમાન અંતરે હોય.",
+        solutionMatch: "સ્વા. 7.1 પ્રશ્ન 10"
+    },
+
+    // સ્વાધ્યાય 7.2 (વિભાજન સૂત્ર અને મધ્યબિંદુ સૂત્ર)
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.2 - પ્રશ્ન 1", 
+        marks: 3, 
+        q: "બિંદુઓ (-1, 7) અને (4, -3) ને જોડતા રેખાખંડનું 2:3 ગુણોત્તરમાં વિભાજન કરતા બિંદુના યામ શોધો.",
+        solutionMatch: "સ્વા. 7.2 પ્રશ્ન 1"
+    },
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.2 - પ્રશ્ન 2", 
+        marks: 3, 
+        q: "બિંદુઓ (4, -1) અને (-2, -3) ને જોડતા રેખાખંડના ત્રિભાગ બિંદુઓના યામ શોધો.",
+        solutionMatch: "સ્વા. 7.2 પ્રશ્ન 2"
+    },
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.2 - પ્રશ્ન 3", 
+        marks: 3, 
+        q: "તમારી શાળાના લંબચોરસ આકારના મેદાન ABCD માં રમતગમત પ્રવૃત્તિઓ યોજવામાં આવી છે. ચૉક પાવડરની મદદથી 1 મીટરના અંતરે રેખાઓ દોરેલી છે. AD પર પ્રત્યેક 1 મીટરના અંતરે હોય તેવા 100 કૂંડાં મૂક્યા છે. નિહારિકા બીજી હરોળમાં દોડે છે અને AD ના 1/4 ભાગનું અંતર કાપે છે અને ત્યાં લીલો ધ્વજ ફરકાવે છે. પ્રીત આઠમી હરોળમાં AD ના 1/5 ભાગનું અંતર કાપે છે અને લાલ ધ્વજ ફરકાવે છે. બંને ધ્વજ વચ્ચેનું અંતર શોધો. જો રશ્મિએ આ બંને ધ્વજને જોડતા રેખાખંડના મધ્યબિંદુ પર વાદળી ધ્વજ ફરકાવવાનો હોય, તો તેણે ધ્વજ ક્યાં ફરકાવવો જોઈએ?",
+        solutionMatch: "સ્વા. 7.2 પ્રશ્ન 3"
+    },
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.2 - પ્રશ્ન 4", 
+        marks: 3, 
+        q: "બિંદુઓ (-3, 10) અને (6, -8) ને જોડતા રેખાખંડનું બિંદુ (-1, 6) કયા ગુણોત્તરમાં વિભાજન કરશે?",
+        solutionMatch: "સ્વા. 7.2 પ્રશ્ન 4"
+    },
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.2 - પ્રશ્ન 5", 
+        marks: 3, 
+        q: "x-અક્ષ બિંદુઓ A(1, -5) અને B(-4, 5) ને જોડતા રેખાખંડનું કયા ગુણોત્તરમાં વિભાજન કરે છે તે શોધો. વિભાજન બિંદુના યામ પણ શોધો.",
+        solutionMatch: "સ્વા. 7.2 પ્રશ્ન 5"
+    },
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.2 - પ્રશ્ન 6", 
+        marks: 3, 
+        q: "જો (1, 2), (4, y), (x, 6) અને (3, 5) એ એક સમાંતરબાજુ ચતુષ્કોણનાં ક્રમિક શિરોબિંદુઓ હોય, તો x અને y શોધો.",
+        solutionMatch: "સ્વા. 7.2 પ્રશ્ન 6"
+    },
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.2 - પ્રશ્ન 7", 
+        marks: 2, 
+        q: "AB એ વર્તુળનો વ્યાસ છે. વર્તુળનું કેન્દ્ર (2, -3) છે અને B ના યામ (1, 4) છે, તો બિંદુ A ના યામ શોધો.",
+        solutionMatch: "સ્વા. 7.2 પ્રશ્ન 7"
+    },
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.2 - પ્રશ્ન 8", 
+        marks: 3, 
+        q: "જો A અને B અનુક્રમે (-2, -2) અને (2, -4) હોય, જેથી AP = (3/7)AB થાય અને બિંદુ P રેખાખંડ AB પર આવેલ હોય, તો બિંદુ P ના યામ શોધો.",
+        solutionMatch: "સ્વા. 7.2 પ્રશ્ન 8"
+    },
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.2 - પ્રશ્ન 9", 
+        marks: 3, 
+        q: "બિંદુઓ A(-2, 2) અને B(2, 8) ને જોડતા રેખાખંડનું ચાર સમાન ભાગમાં વિભાજન કરતા બિંદુઓના યામ શોધો.",
+        solutionMatch: "સ્વા. 7.2 પ્રશ્ન 9"
+    },
+    { 
+        chapter: 7, 
+        questionNumber: "સ્વાધ્યાય 7.2 - પ્રશ્ન 10", 
+        marks: 3, 
+        q: "સમબાજુ ચતુષ્કોણનાં ક્રમિક શિરોબિંદુઓ (3, 0), (4, 5), (-1, 4) અને (-2, -1) હોય, તો તેનું ક્ષેત્રફળ શોધો. (સૂચના: સમબાજુ ચતુષ્કોણનું ક્ષેત્રફળ = 1/2 × તેના વિકર્ણોનો ગુણાકાર)",
+        solutionMatch: "સ્વા. 7.2 પ્રશ્ન 10"
+    },
+            // ---------------- પ્રકરણ 8: ત્રિકોણમિતિનો પરિચય (સ્વાધ્યાય 8.1, 8.2 અને 8.3 - સંપૂર્ણ) ----------------
+    // સ્વાધ્યાય 8.1
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.1 - પ્રશ્ન 1 (i)", 
+        marks: 2, 
+        q: "ત્રિકોણ ABC માં, ખૂણો B કાટખૂણો છે. જો AB = 24 સેમી, BC = 7 સેમી હોય, તો sin A અને cos A શોધો.",
+        solutionMatch: "સ્વા. 8.1 પ્રશ્ન 1(i)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.1 - પ્રશ્ન 1 (ii)", 
+        marks: 2, 
+        q: "ત્રિકોણ ABC માં, ખૂણો B કાટખૂણો છે. જો AB = 24 સેમી, BC = 7 સેમી હોય, તો sin C અને cos C શોધો.",
+        solutionMatch: "સ્વા. 8.1 પ્રશ્ન 1(ii)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.1 - પ્રશ્ન 2", 
+        marks: 2, 
+        q: "આકૃતિમાં, ત્રિકોણ PQR માં ખૂણો Q કાટખૂણો છે, PQ = 12 સેમી અને PR = 13 સેમી છે, તો tan P - cot R શોધો.<br><svg width='160' height='130' viewBox='0 0 160 130' xmlns='http://www.w3.org/2000/svg' style='margin-top:6px;'><polygon points='45,20 45,105 125,105' fill='none' stroke='#0f172a' stroke-width='1.5'/><polyline points='45,95 55,95 55,105' fill='none' stroke='#dc2626' stroke-width='1.5'/><text x='40' y='15' font-size='11' font-weight='bold'>P</text><text x='32' y='112' font-size='11' font-weight='bold'>Q</text><text x='128' y='112' font-size='11' font-weight='bold'>R</text><text x='8' y='65' font-size='10'>12 cm</text><text x='90' y='58' font-size='10'>13 cm</text></svg>",
+        solutionMatch: "સ્વા. 8.1 પ્રશ્ન 2"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.1 - પ્રશ્ન 3", 
+        marks: 2, 
+        q: "જો sin A = 3/4 હોય, તો cos A અને tan A ની ગણતરી કરો.",
+        solutionMatch: "સ્વા. 8.1 પ્રશ્ન 3"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.1 - પ્રશ્ન 4", 
+        marks: 2, 
+        q: "જો 15 cot A = 8 હોય, તો sin A અને sec A શોધો.",
+        solutionMatch: "સ્વા. 8.1 પ્રશ્ન 4"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.1 - પ્રશ્ન 5", 
+        marks: 2, 
+        q: "જો sec θ = 13/12 હોય, તો બાકીના બધા જ ત્રિકોણમિતીય ગુણોત્તરો શોધો.",
+        solutionMatch: "સ્વા. 8.1 પ્રશ્ન 5"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.1 - પ્રશ્ન 6", 
+        marks: 3, 
+        q: "જો ખૂણો A અને ખૂણો B એવા લઘુકોણો હોય કે જેથી cos A = cos B થાય, તો સાબિત કરો કે ખૂણો A = ખૂણો B.",
+        solutionMatch: "સ્વા. 8.1 પ્રશ્ન 6"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.1 - પ્રશ્ન 7 (i)", 
+        marks: 3, 
+        q: "જો cot θ = 7/8 હોય, તો ( (1 + sin θ)(1 - sin θ) ) / ( (1 + cos θ)(1 - cos θ) ) ની કિંમત શોધો.",
+        solutionMatch: "સ્વા. 8.1 પ્રશ્ન 7(i)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.1 - પ્રશ્ન 7 (ii)", 
+        marks: 2, 
+        q: "જો cot θ = 7/8 હોય, તો cot² θ ની કિંમત શોધો.",
+        solutionMatch: "સ્વા. 8.1 પ્રશ્ન 7(ii)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.1 - પ્રશ્ન 8", 
+        marks: 3, 
+        q: "જો 3 cot A = 4 હોય, તો ચકાસો કે (1 - tan² A) / (1 + tan² A) = cos² A - sin² A છે કે નહિ.",
+        solutionMatch: "સ્વા. 8.1 પ્રશ્ન 8"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.1 - પ્રશ્ન 9 (i)", 
+        marks: 3, 
+        q: "ત્રિકોણ ABC માં ખૂણો B કાટખૂણો છે. જો tan A = 1/√3 હોય, તો sin A cos C + cos A sin C ની કિંમત શોધો.",
+        solutionMatch: "સ્વા. 8.1 પ્રશ્ન 9(i)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.1 - પ્રશ્ન 9 (ii)", 
+        marks: 3, 
+        q: "ત્રિકોણ ABC માં ખૂણો B કાટખૂણો છે. જો tan A = 1/√3 હોય, તો cos A cos C - sin A sin C ની કિંમત શોધો.",
+        solutionMatch: "સ્વા. 8.1 પ્રશ્ન 9(ii)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.1 - પ્રશ્ન 10", 
+        marks: 3, 
+        q: "ત્રિકોણ PQR માં ખૂણો Q કાટખૂણો છે. જો PR + QR = 25 સેમી અને PQ = 5 સેમી હોય, તો sin P, cos P અને tan P શોધો.",
+        solutionMatch: "સ્વા. 8.1 પ્રશ્ન 10"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.1 - પ્રશ્ન 11 (i)", 
+        marks: 1, 
+        q: "નીચેનું વિધાન સત્ય છે કે અસત્ય તે જણાવો અને તમારા જવાબની યથાર્થતા ચકાસો: tan A નું મૂલ્ય હંમેશાં 1 કરતાં ઓછું હોય છે.",
+        solutionMatch: "સ્વા. 8.1 પ્રશ્ન 11(i)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.1 - પ્રશ્ન 11 (ii)", 
+        marks: 1, 
+        q: "નીચેનું વિધાન સત્ય છે કે અસત્ય તે જણાવો અને તમારા જવાબની યથાર્થતા ચકાસો: A ના કોઈ માપ માટે sec A = 12/5 સત્ય છે.",
+        solutionMatch: "સ્વા. 8.1 પ્રશ્ન 11(ii)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.1 - પ્રશ્ન 11 (iii)", 
+        marks: 1, 
+        q: "નીચેનું વિધાન સત્ય છે કે અસત્ય તે જણાવો અને તમારા જવાબની યથાર્થતા ચકાસો: ખૂણા A ના કોસિકન્ટ (cosecant) ને સંક્ષિપ્તમાં cos A તરીકે લખાય છે.",
+        solutionMatch: "સ્વા. 8.1 પ્રશ્ન 11(iii)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.1 - પ્રશ્ન 11 (iv)", 
+        marks: 1, 
+        q: "નીચેનું વિધાન સત્ય છે કે અસત્ય તે જણાવો અને તમારા જવાબની યથાર્થતા ચકાસો: cot અને A નો ગુણાકાર cot A છે.",
+        solutionMatch: "સ્વા. 8.1 પ્રશ્ન 11(iv)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.1 - પ્રશ્ન 11 (v)", 
+        marks: 1, 
+        q: "નીચેનું વિધાન સત્ય છે કે અસત્ય તે જણાવો અને તમારા જવાબની યથાર્થતા ચકાસો: θ માપવાળા કોઈ એક ખૂણા માટે sin θ = 4/3 શક્ય છે.",
+        solutionMatch: "સ્વા. 8.1 પ્રશ્ન 11(v)"
+    },
+
+    // સ્વાધ્યાય 8.2
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.2 - પ્રશ્ન 1 (i)", 
+        marks: 2, 
+        q: "કિંમત શોધો: sin 60° cos 30° + sin 30° cos 60°",
+        solutionMatch: "સ્વા. 8.2 પ્રશ્ન 1(i)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.2 - પ્રશ્ન 1 (ii)", 
+        marks: 2, 
+        q: "કિંમત શોધો: 2 tan² 45° + cos² 30° - sin² 60°",
+        solutionMatch: "સ્વા. 8.2 પ્રશ્ન 1(ii)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.2 - પ્રશ્ન 1 (iii)", 
+        marks: 3, 
+        q: "કિંમત શોધો: (cos 45°) / (sec 30° + cosec 30°)",
+        solutionMatch: "સ્વા. 8.2 પ્રશ્ન 1(iii)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.2 - પ્રશ્ન 1 (iv)", 
+        marks: 3, 
+        q: "કિંમત શોધો: (sin 30° + tan 45° - cosec 60°) / (sec 30° + cos 60° + cot 45°)",
+        solutionMatch: "સ્વા. 8.2 પ્રશ્ન 1(iv)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.2 - પ્રશ્ન 1 (v)", 
+        marks: 3, 
+        q: "કિંમત શોધો: (5 cos² 60° + 4 sec² 30° - tan² 45°) / (sin² 30° + cos² 30°)",
+        solutionMatch: "સ્વા. 8.2 પ્રશ્ન 1(v)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.2 - પ્રશ્ન 2 (i)", 
+        marks: 2, 
+        q: "સાચો વિકલ્પ પસંદ કરો અને તમારી પસંદગીની યથાર્થતા ચકાસો: 2 tan 30° / (1 + tan² 30°) = ? (A) sin 60° (B) cos 60° (C) tan 60° (D) sin 30°",
+        solutionMatch: "સ્વા. 8.2 પ્રશ્ન 2(i)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.2 - પ્રશ્ન 2 (ii)", 
+        marks: 2, 
+        q: "સાચો વિકલ્પ પસંદ કરો અને તમારી પસંદગીની યથાર્થતા ચકાસો: (1 - tan² 45°) / (1 + tan² 45°) = ? (A) tan 90° (B) 1 (C) sin 45° (D) 0",
+        solutionMatch: "સ્વા. 8.2 પ્રશ્ન 2(ii)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.2 - પ્રશ્ન 2 (iii)", 
+        marks: 2, 
+        q: "સાચો વિકલ્પ પસંદ કરો અને તમારી પસંદગીની યથાર્થતા ચકાસો: જ્યારે A = _______ હોય, ત્યારે sin 2A = 2 sin A સત્ય હોય. (A) 0° (B) 30° (C) 45° (D) 60°",
+        solutionMatch: "સ્વા. 8.2 પ્રશ્ન 2(iii)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.2 - પ્રશ્ન 2 (iv)", 
+        marks: 2, 
+        q: "સાચો વિકલ્પ પસંદ કરો અને તમારી પસંદગીની યથાર્થતા ચકાસો: 2 tan 30° / (1 - tan² 30°) = ? (A) cos 60° (B) sin 60° (C) tan 60° (D) sin 30°",
+        solutionMatch: "સ્વા. 8.2 પ્રશ્ન 2(iv)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.2 - પ્રશ્ન 3", 
+        marks: 3, 
+        q: "જો tan (A + B) = √3 અને tan (A - B) = 1/√3, 0° < A + B ≤ 90°, A > B હોય, તો A અને B શોધો.",
+        solutionMatch: "સ્વા. 8.2 પ્રશ્ન 3"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.2 - પ્રશ્ન 4 (i)", 
+        marks: 1, 
+        q: "નીચેનું વિધાન સત્ય છે કે નહિ તે જણાવો. કારણ આપો: sin (A + B) = sin A + sin B",
+        solutionMatch: "સ્વા. 8.2 પ્રશ્ન 4(i)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.2 - પ્રશ્ન 4 (ii)", 
+        marks: 1, 
+        q: "નીચેનું વિધાન સત્ય છે કે નહિ તે જણાવો. કારણ આપો: જેમ θ નું મૂલ્ય વધે તેમ sin θ નું મૂલ્ય વધે છે.",
+        solutionMatch: "સ્વા. 8.2 પ્રશ્ન 4(ii)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.2 - પ્રશ્ન 4 (iii)", 
+        marks: 1, 
+        q: "નીચેનું વિધાન સત્ય છે કે નહિ તે જણાવો. કારણ આપો: જેમ θ નું મૂલ્ય વધે તેમ cos θ નું મૂલ્ય વધે છે.",
+        solutionMatch: "સ્વા. 8.2 પ્રશ્ન 4(iii)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.2 - પ્રશ્ન 4 (iv)", 
+        marks: 1, 
+        q: "નીચેનું વિધાન સત્ય છે કે નહિ તે જણાવો. કારણ આપો: θ ના દરેક મૂલ્ય માટે sin θ = cos θ થાય છે.",
+        solutionMatch: "સ્વા. 8.2 પ્રશ્ન 4(iv)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.2 - પ્રશ્ન 4 (v)", 
+        marks: 1, 
+        q: "નીચેનું વિધાન સત્ય છે કે નહિ તે જણાવો. કારણ આપો: A = 0° માટે cot A અવ્યાખ્યાયિત છે.",
+        solutionMatch: "સ્વા. 8.2 પ્રશ્ન 4(v)"
+    },
+
+    // સ્વાધ્યાય 8.3 (નવા અભ્યાસક્રમ મુજબ)
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.3 - પ્રશ્ન 1", 
+        marks: 2, 
+        q: "ત્રિકોણમિતીય ગુણોત્તરો sin A, sec A અને tan A ને cot A ના પદમાં દર્શાવો.",
+        solutionMatch: "સ્વા. 8.3 પ્રશ્ન 1"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.3 - પ્રશ્ન 2", 
+        marks: 3, 
+        q: "ખૂણા A ના બધા જ ત્રિકોણમિતીય ગુણોત્તરોને sec A ના પદમાં દર્શાવો.",
+        solutionMatch: "સ્વા. 8.3 પ્રશ્ન 2"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.3 - પ્રશ્ન 3 (i)", 
+        marks: 2, 
+        q: "સાચો વિકલ્પ પસંદ કરો અને તમારી પસંદગીની યથાર્થતા ચકાસો: 9 sec² A - 9 tan² A = ? (A) 1 (B) 9 (C) 8 (D) 0",
+        solutionMatch: "સ્વા. 8.3 પ્રશ્ન 3(i)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.3 - પ્રશ્ન 3 (ii)", 
+        marks: 2, 
+        q: "સાચો વિકલ્પ પસંદ કરો અને તમારી પસંદગીની યથાર્થતા ચકાસો: (1 + tan θ + sec θ)(1 + cot θ - cosec θ) = ? (A) 0 (B) 1 (C) 2 (D) -1",
+        solutionMatch: "સ્વા. 8.3 પ્રશ્ન 3(ii)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.3 - પ્રશ્ન 3 (iii)", 
+        marks: 2, 
+        q: "સાચો વિકલ્પ પસંદ કરો અને તમારી પસંદગીની યથાર્થતા ચકાસો: (sec A + tan A)(1 - sin A) = ? (A) sec A (B) sin A (C) cosec A (D) cos A",
+        solutionMatch: "સ્વા. 8.3 પ્રશ્ન 3(iii)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.3 - પ્રશ્ન 3 (iv)", 
+        marks: 2, 
+        q: "સાચો વિકલ્પ પસંદ કરો અને તમારી પસંદગીની યથાર્થતા ચકાસો: (1 + tan² A) / (1 + cot² A) = ? (A) sec² A (B) -1 (C) cot² A (D) tan² A",
+        solutionMatch: "સ્વા. 8.3 પ્રશ્ન 3(iv)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.3 - પ્રશ્ન 4 (i)", 
+        marks: 3, 
+        q: "સાબિત કરો કે: (cosec θ - cot θ)² = (1 - cos θ) / (1 + cos θ)",
+        solutionMatch: "સ્વા. 8.3 પ્રશ્ન 4(i)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.3 - પ્રશ્ન 4 (ii)", 
+        marks: 3, 
+        q: "સાબિત કરો કે: (cos A) / (1 + sin A) + (1 + sin A) / (cos A) = 2 sec A",
+        solutionMatch: "સ્વા. 8.3 પ્રશ્ન 4(ii)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.3 - પ્રશ્ન 4 (iii)", 
+        marks: 4, 
+        q: "સાબિત કરો કે: (tan θ) / (1 - cot θ) + (cot θ) / (1 - tan θ) = 1 + sec θ cosec θ",
+        solutionMatch: "સ્વા. 8.3 પ્રશ્ન 4(iii)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.3 - પ્રશ્ન 4 (iv)", 
+        marks: 3, 
+        q: "સાબિત કરો કે: (1 + sec A) / sec A = sin² A / (1 - cos A)",
+        solutionMatch: "સ્વા. 8.3 પ્રશ્ન 4(iv)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.3 - પ્રશ્ન 4 (v)", 
+        marks: 4, 
+        q: "નિત્યસમ cosec² A = 1 + cot² A નો ઉપયોગ કરીને સાબિત કરો કે: (cos A - sin A + 1) / (cos A + sin A - 1) = cosec A + cot A",
+        solutionMatch: "સ્વા. 8.3 પ્રશ્ન 4(v)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.3 - પ્રશ્ન 4 (vi)", 
+        marks: 3, 
+        q: "સાબિત કરો કે: √( (1 + sin A) / (1 - sin A) ) = sec A + tan A",
+        solutionMatch: "સ્વા. 8.3 પ્રશ્ન 4(vi)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.3 - પ્રશ્ન 4 (vii)", 
+        marks: 3, 
+        q: "સાબિત કરો કે: (sin θ - 2 sin³ θ) / (2 cos³ θ - cos θ) = tan θ",
+        solutionMatch: "સ્વા. 8.3 પ્રશ્ન 4(vii)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.3 - પ્રશ્ન 4 (viii)", 
+        marks: 3, 
+        q: "સાબિત કરો કે: (sin A + cosec A)² + (cos A + sec A)² = 7 + tan² A + cot² A",
+        solutionMatch: "સ્વા. 8.3 પ્રશ્ન 4(viii)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.3 - પ્રશ્ન 4 (ix)", 
+        marks: 3, 
+        q: "સાબિત કરો કે: (cosec A - sin A)(sec A - cos A) = 1 / (tan A + cot A)",
+        solutionMatch: "સ્વા. 8.3 પ્રશ્ન 4(ix)"
+    },
+    { 
+        chapter: 8, 
+        questionNumber: "સ્વાધ્યાય 8.3 - પ્રશ્ન 4 (x)", 
+        marks: 3, 
+        q: "સાબિત કરો કે: (1 + tan² A) / (1 + cot² A) = ( (1 - tan A) / (1 - cot A) )² = tan² A",
+        solutionMatch: "સ્વા. 8.3 પ્રશ્ન 4(x)"
+    },
+            // ---------------- પ્રકરણ 9: ત્રિકોણમિતિના કેટલાક ઉપયોગો (સ્વાધ્યાય 9.1 - સંપૂર્ણ) ----------------
+    { 
+        chapter: 9, 
+        questionNumber: "સ્વાધ્યાય 9.1 - પ્રશ્ન 1", 
+        marks: 3, 
+        q: "સર્કસના તંબુમાં જમીન સાથે શિરોલંબ સ્થિતિમાં રહેલા થાંભલાની ટોચથી જમીન સાથે ખેંચીને બાંધેલા 20 મીટર લાંબા દોરડા પર એક કલાકાર ચઢી રહ્યો છે. જો દોરડું જમીન સાથે 30° ના માપનો ખૂણો બનાવે, તો થાંભલાની ઊંચાઈ શોધો.",
+        solutionMatch: "સ્વા. 9.1 પ્રશ્ન 1"
+    },
+    { 
+        chapter: 9, 
+        questionNumber: "સ્વાધ્યાય 9.1 - પ્રશ્ન 2", 
+        marks: 4, 
+        q: "વાવાઝોડાને કારણે એક ઝાડ એ રીતે ભાંગીને વળી જાય છે, જેથી તેની ટોચ જમીનને અડકે છે અને જમીન સાથે 30° માપનો ખૂણો બનાવે છે. ઝાડની ટોચ જમીનને અડકે તે બિંદુ અને ઝાડના થડ વચ્ચેનું અંતર 8 મીટર છે. તો ઝાડની ઊંચાઈ શોધો.",
+        solutionMatch: "સ્વા. 9.1 પ્રશ્ન 2"
+    },
+    { 
+        chapter: 9, 
+        questionNumber: "સ્વાધ્યાય 9.1 - પ્રશ્ન 3", 
+        marks: 3, 
+        q: "એક ઠેકેદાર બાળકોને રમવા માટે બગીચામાં બે લપસણી લગાવવા માંગે છે. 5 વર્ષથી ઓછી ઉંમરનાં બાળકો માટે જમીનથી 1.5 મીટરની ઊંચાઈ પર રહે અને જમીન સાથે 30° નો ખૂણો બનાવે તેવી લપસણી પસંદ કરે છે. જ્યારે તેનાથી વધારે ઉંમરનાં બાળકો માટે 3 મીટરની ઊંચાઈ પરથી સીધો ઢાળ હોય અને જમીન સાથે 60° નો ખૂણો બનાવતી હોય તેવી લપસણી પસંદ કરે છે. બંને લપસણીની લંબાઈ શોધો.",
+        solutionMatch: "સ્વા. 9.1 પ્રશ્ન 3"
+    },
+    { 
+        chapter: 9, 
+        questionNumber: "સ્વાધ્યાય 9.1 - પ્રશ્ન 4", 
+        marks: 3, 
+        q: "ટાવરના પાયાથી 30 મીટર દૂર રહેલા જમીન પરના એક બિંદુથી ટાવરની ટોચના ઉત્સેધકોણનું માપ 30° છે. તો ટાવરની ઊંચાઈ શોધો.",
+        solutionMatch: "સ્વા. 9.1 પ્રશ્ન 4"
+    },
+    { 
+        chapter: 9, 
+        questionNumber: "સ્વાધ્યાય 9.1 - પ્રશ્ન 5", 
+        marks: 3, 
+        q: "એક પતંગ જમીનથી 60 મીટરની ઊંચાઈ પર ઊડી રહેલ છે. આ પતંગની દોરીનો એક છેડો ક્ષણભર માટે જમીન પરના એક બિંદુ સાથે બાંધેલ છે. આ સ્થિતિમાં દોરીનો જમીન સાથેનો ખૂણો 60° છે. જો દોરીમાં કોઈ ઢીલ નથી તેવું માની લેવામાં આવે, તો દોરીની લંબાઈ શોધો.",
+        solutionMatch: "સ્વા. 9.1 પ્રશ્ન 5"
+    },
+    { 
+        chapter: 9, 
+        questionNumber: "સ્વાધ્યાય 9.1 - પ્રશ્ન 6", 
+        marks: 4, 
+        q: "1.5 મીટર ઊંચો એક છોકરો એક 30 મીટર ઊંચી ઇમારતથી કોઈક અંતરે ઊભેલ છે. જ્યારે તે ઇમારત તરફ ચાલવાનું શરૂ કરે છે ત્યારે કેટલીક વાર પછી તેની આંખથી ઇમારતની ટોચના ઉત્સેધકોણનું માપ 30° થી વધીને 60° થાય છે, તો તે ઇમારત તરફ કેટલું અંતર ચાલ્યો હશે તે શોધો.",
+        solutionMatch: "સ્વા. 9.1 પ્રશ્ન 6"
+    },
+    { 
+        chapter: 9, 
+        questionNumber: "સ્વાધ્યાય 9.1 - પ્રશ્ન 7", 
+        marks: 4, 
+        q: "જમીન પર આવેલા એક બિંદુથી 20 મીટર ઊંચી ઇમારતની ટોચ પર રહેલા એક સંચાર ટાવરના તળિયા અને ટોચના ઉત્સેધકોણનાં માપ અનુક્રમે 45° અને 60° છે. તો ટાવરની ઊંચાઈ શોધો.",
+        solutionMatch: "સ્વા. 9.1 પ્રશ્ન 7"
+    },
+    { 
+        chapter: 9, 
+        questionNumber: "સ્વાધ્યાય 9.1 - પ્રશ્ન 8", 
+        marks: 4, 
+        q: "એક પેડેસ્ટલ પર 1.6 મીટર ઊંચી એક પ્રતિમા ગોઠવેલ છે. જમીન પરના એક બિંદુએથી પ્રતિમાની ટોચના ઉત્સેધકોણનું માપ 60° અને પેડેસ્ટલની ટોચના ઉત્સેધકોણનું માપ 45° છે. તો પેડેસ્ટલની ઊંચાઈ શોધો.",
+        solutionMatch: "સ્વા. 9.1 પ્રશ્ન 8"
+    },
+    { 
+        chapter: 9, 
+        questionNumber: "સ્વાધ્યાય 9.1 - પ્રશ્ન 9", 
+        marks: 4, 
+        q: "એક ટાવરના તળિયેથી એક મકાનની ટોચના ઉત્સેધકોણનું માપ 30° છે અને મકાનના તળિયેથી ટાવરની ટોચના ઉત્સેધકોણનું માપ 60° છે. જો ટાવરની ઊંચાઈ 50 મીટર હોય, તો મકાનની ઊંચાઈ શોધો.",
+        solutionMatch: "સ્વા. 9.1 પ્રશ્ન 9"
+    },
+    { 
+        chapter: 9, 
+        questionNumber: "સ્વાધ્યાય 9.1 - પ્રશ્ન 10", 
+        marks: 4, 
+        q: "સમાન ઊંચાઈના બે સ્તંભ 80 મીટર પહોળા માર્ગની બંને બાજુએ સામસામે આવેલા છે. માર્ગ પર વચ્ચે આવેલ કોઈ એક બિંદુએથી બંને સ્તંભની ટોચના ઉત્સેધકોણનાં માપ 60° અને 30° જણાય છે. તો દરેક સ્તંભની ઊંચાઈ અને બંને સ્તંભનું નિરીક્ષણ બિંદુથી અંતર શોધો.",
+        solutionMatch: "સ્વા. 9.1 પ્રશ્ન 10"
+    },
+    { 
+        chapter: 9, 
+        questionNumber: "સ્વાધ્યાય 9.1 - પ્રશ્ન 11", 
+        marks: 4, 
+        q: "નહેરના એક કિનારે ટીવીનો ટાવર શિરોલંબ ઊભો કરવામાં આવ્યો છે. ટાવરની સામેના બીજા કિનારા પર રહેલા એક બિંદુથી ટાવરની ટોચનો ઉત્સેધકોણ 60° છે. ટાવરના તળિયા અને નિરીક્ષણ બિંદુને જોડતી રેખા પર આવેલ અને નિરીક્ષણ બિંદુથી 20 મીટર દૂર બીજા એક બિંદુથી ટાવરની ટોચના ઉત્સેધકોણનું માપ 30° છે. તો ટાવરની ઊંચાઈ અને નહેરની પહોળાઈ શોધો.",
+        solutionMatch: "સ્વા. 9.1 પ્રશ્ન 11"
+    },
+    { 
+        chapter: 9, 
+        questionNumber: "સ્વાધ્યાય 9.1 - પ્રશ્ન 12", 
+        marks: 4, 
+        q: "7 મીટર ઊંચી ઇમારત પરથી એક કેબલ ટાવરની ટોચનો ઉત્સેધકોણ 60° અને ટાવરના તળિયાનો અવસેધકોણ 45° છે. તો ટાવરની ઊંચાઈ શોધો.",
+        solutionMatch: "સ્વા. 9.1 પ્રશ્ન 12"
+    },
+    { 
+        chapter: 9, 
+        questionNumber: "સ્વાધ્યાય 9.1 - પ્રશ્ન 13", 
+        marks: 4, 
+        q: "દરિયાની સપાટીથી 75 મીટર ઊંચી દીવાદાંડી પરથી અવલોકન કરતાં, સમુદ્રમાં આવતાં બે વહાણના અવસેધકોણનાં માપ 30° અને 45° માલૂમ પડે છે. જો એક વહાણ બીજા વહાણની બરાબર પાછળ હોય અને બંને વહાણો દીવાદાંડીની એક જ બાજુ પર આવેલાં હોય, તો બંને વહાણો વચ્ચેનું અંતર શોધો.",
+        solutionMatch: "સ્વા. 9.1 પ્રશ્ન 13"
+    },
+    { 
+        chapter: 9, 
+        questionNumber: "સ્વાધ્યાય 9.1 - પ્રશ્ન 14", 
+        marks: 4, 
+        q: "1.2 મીટર ઊંચી એક છોકરી જમીનથી 88.2 મીટર ઊંચાઈ પર પવનને કારણે સમક્ષિતિજ રેખામાં ઊડતું એક બલૂન જુએ છે. કોઈ એક સમયે છોકરીની આંખથી બલૂનનો ઉત્સેધકોણ 60° છે. થોડા સમય બાદ ઉત્સેધકોણ ઘટીને 30° થાય છે. તો આ સમયગાળા દરમિયાન બલૂને કાપેલું અંતર શોધો.",
+        solutionMatch: "સ્વા. 9.1 પ્રશ્ન 14"
+    },
+    { 
+        chapter: 9, 
+        questionNumber: "સ્વાધ્યાય 9.1 - પ્રશ્ન 15", 
+        marks: 4, 
+        q: "એક સુરેખ માર્ગ ટાવરના તળિયા સુધી જાય છે. ટાવરની ટોચ પર ઊભેલ એક વ્યક્તિ એક કારને 30° ના અવસેધકોણથી જુએ છે, જે ટાવરના તળિયા તરફ અચળ ઝડપથી આવી રહી છે. 6 સેકન્ડ પછી કારનો અવસેધકોણ 60° થાય છે. તો કારને ટાવરના તળિયા સુધી પહોંચતા કેટલો સમય લાગશે?",
+        solutionMatch: "સ્વા. 9.1 પ્રશ્ન 15"
+    },
+        // ---------------- પ્રકરણ 10: વર્તુળ (પ્રમેય 10.1, 10.2 તથા સ્વાધ્યાય 10.1 અને 10.2 - સંપૂર્ણ) ----------------
+    
+    // 1. પ્રમેય 10.1 (સંપૂર્ણ આકૃતિ અને સાબિતી સાથે)
+    { 
+        chapter: 10, 
+        questionNumber: "પ્રમેય 10.1 (IMP)", 
+        marks: 3, 
+        q: "સાબિત કરો કે: વર્તુળના કોઈ બિંદુએ દોરેલો સ્પર્શક, સ્પર્શબિંદુમાંથી પસાર થતી ત્રિજ્યાને લંબ હોય છે.",
+        solutionMatch: "પ્રમેય 10.1",
+        answer: `
+        <div style='background-color:#ffffff; padding:10px; font-family:sans-serif;'>
+            <div style='overflow-x:auto; text-align:center; margin-bottom:15px; background-color:#f8fafc; border:1px solid #cbd5e1; border-radius:8px; padding:15px;'>
+                <svg width="280" height="200" viewBox="0 0 280 200" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="140" cy="85" r="65" fill="#f0f9ff" stroke="#0f172a" stroke-width="2"/>
+                    <circle cx="140" cy="85" r="4" fill="#0f172a"/>
+                    <text x="135" y="75" font-size="14" font-weight="bold">O</text>
+
+                    <line x1="30" y1="150" x2="250" y2="150" stroke="#1d4ed8" stroke-width="2.5"/>
+                    <text x="35" y="170" font-size="14" font-weight="bold" fill="#1d4ed8">X</text>
+                    <text x="240" y="170" font-size="14" font-weight="bold" fill="#1d4ed8">Y</text>
+
+                    <circle cx="140" cy="150" r="4.5" fill="#16a34a"/>
+                    <text x="135" y="172" font-size="14" font-weight="bold" fill="#16a34a">P</text>
+
+                    <circle cx="205" cy="150" r="4.5" fill="#dc2626"/>
+                    <text x="200" y="172" font-size="14" font-weight="bold" fill="#dc2626">Q</text>
+
+                    <line x1="140" y1="85" x2="140" y2="150" stroke="#16a34a" stroke-width="2"/>
+                    <line x1="140" y1="85" x2="205" y2="150" stroke="#dc2626" stroke-width="2" stroke-dasharray="4,4"/>
+                    <circle cx="186" cy="131" r="3.5" fill="#ea580c"/>
+                    <text x="192" y="128" font-size="13" font-weight="bold" fill="#ea580c">R</text>
+                </svg>
+            </div>
+
+            <div style='background-color:#eff6ff; border-left:4px solid #3b82f6; padding:10px; margin-bottom:12px;'>
+                <b style='color:#1e3a8a; font-size:16px;'>પક્ષ (Given):</b><br>
+                <span style='color:#0f172a; font-size:15px;'>O કેન્દ્રવાળા વર્તુળનો સ્પર્શક <b>XY</b> વર્તુળને <b>P</b> બિંદુએ સ્પર્શે છે.</span>
+            </div>
+
+            <div style='background-color:#fff7ed; border-left:4px solid #ea580c; padding:10px; margin-bottom:12px;'>
+                <b style='color:#c2410c; font-size:16px;'>સાધ્ય (To Prove):</b><br>
+                <span style='color:#dc2626; font-size:17px; font-weight:bold;'>OP &perp; XY</span>
+            </div>
+
+            <div style='background-color:#f0fdf4; border-left:4px solid #16a34a; padding:10px;'>
+                <b style='color:#14532d; font-size:16px;'>સાબિતી (Proof):</b><br>
+                <div style='overflow-x:auto; white-space:nowrap; margin-top:6px; font-size:15px; line-height:2.0;'>
+                    1. સ્પર્શક XY પર P સિવાયનું કોઈ એક બિંદુ <b>Q</b> લો અને <b>OQ</b> જોડો.<br>
+                    2. બિંદુ Q વર્તુળની બહાર જ હોવું જોઈએ (જો તે વર્તુળની અંદર હોય, તો XY સ્પર્શક નહિ પણ છેદિકા બની જાય).<br>
+                    3. તેથી રેખાખંડ OQ વર્તુળને કોઈ બિંદુ <b>R</b> માં છેદશે.<br>
+                    4. આકૃતિ પરથી સ્પષ્ટ છે કે, <b>OQ &gt; OR</b> (કારણ કે R એ O અને Q ની વચ્ચે છે).<br>
+                    5. પરંતુ OR અને OP એક જ વર્તુળની ત્રિજ્યાઓ હોવાથી <b>OR = OP</b> થાય.<br>
+                    6. તેથી, <b style='color:#1d4ed8;'>OQ &gt; OP</b> (એટલે કે <b>OP &lt; OQ</b>).<br>
+                    7. આ બાબત XY પરના P સિવાયના દરેક બિંદુ Q માટે સાચી છે. તેથી કેન્દ્ર O થી રેખા XY સુધીનાં તમામ અંતરોમાં <b>OP સૌથી ટૂંકું (લઘુતમ) અંતર</b> છે.<br>
+                    8. ભૂમિતિના નિયમ મુજબ બિંદુથી રેખા સુધીનું લઘુતમ અંતર તે રેખાને લંબ હોય છે.<br>
+                    <b style='color:#15803d; font-size:18px;'>આમ, OP &perp; XY સાબિત થાય છે.</b>
+                </div>
+            </div>
+        </div>
+        `
+    },
+
+    // 2. પ્રમેય 10.2 (સંપૂર્ણ આકૃતિ અને સાબિતી સાથે - બોર્ડ માટે V.IMP)
+    { 
+        chapter: 10, 
+        questionNumber: "પ્રમેય 10.2 (V.IMP)", 
+        marks: 3, 
+        q: "સાબિત કરો કે: વર્તુળની બહારના બિંદુમાંથી વર્તુળને દોરેલા સ્પર્શકોની લંબાઈ સમાન હોય છે.",
+        solutionMatch: "પ્રમેય 10.2",
+        answer: `
+        <div style='background-color:#ffffff; padding:10px; font-family:sans-serif;'>
+            <div style='overflow-x:auto; text-align:center; margin-bottom:15px; background-color:#f8fafc; border:1px solid #cbd5e1; border-radius:8px; padding:15px;'>
+                <svg width="290" height="200" viewBox="0 0 290 200" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="85" cy="100" r="60" fill="#f0f9ff" stroke="#0f172a" stroke-width="2"/>
+                    <circle cx="85" cy="100" r="4" fill="#0f172a"/>
+                    <text x="68" y="105" font-size="14" font-weight="bold">O</text>
+
+                    <circle cx="255" cy="100" r="5" fill="#dc2626"/>
+                    <text x="262" y="105" font-size="14" font-weight="bold" fill="#dc2626">P</text>
+
+                    <line x1="255" y1="100" x2="108" y2="45" stroke="#1d4ed8" stroke-width="2"/>
+                    <line x1="255" y1="100" x2="108" y2="155" stroke="#1d4ed8" stroke-width="2"/>
+
+                    <circle cx="108" cy="45" r="4" fill="#1d4ed8"/>
+                    <text x="102" y="35" font-size="14" font-weight="bold" fill="#1d4ed8">Q</text>
+                    <circle cx="108" cy="155" r="4" fill="#1d4ed8"/>
+                    <text x="102" y="175" font-size="14" font-weight="bold" fill="#1d4ed8">R</text>
+
+                    <line x1="85" y1="100" x2="108" y2="45" stroke="#16a34a" stroke-width="2"/>
+                    <line x1="85" y1="100" x2="108" y2="155" stroke="#16a34a" stroke-width="2"/>
+                    <line x1="85" y1="100" x2="255" y2="100" stroke="#ea580c" stroke-width="2" stroke-dasharray="4,4"/>
+
+                    <polyline points="98,50 103,58 113,54" fill="none" stroke="#0f172a" stroke-width="1.5"/>
+                    <polyline points="98,150 103,142 113,146" fill="none" stroke="#0f172a" stroke-width="1.5"/>
+                </svg>
+            </div>
+
+            <div style='background-color:#eff6ff; border-left:4px solid #3b82f6; padding:10px; margin-bottom:12px;'>
+                <b style='color:#1e3a8a; font-size:16px;'>પક્ષ (Given):</b><br>
+                <span style='color:#0f172a; font-size:15px;'>O કેન્દ્રવાળા વર્તુળની બહારનું બિંદુ <b>P</b> છે. P માંથી વર્તુળને દોરેલા બે સ્પર્શકો <b>PQ અને PR</b> છે (સ્પર્શબિંદુઓ Q અને R).</span>
+            </div>
+
+            <div style='background-color:#fff7ed; border-left:4px solid #ea580c; padding:10px; margin-bottom:12px;'>
+                <b style='color:#c2410c; font-size:16px;'>સાધ્ય (To Prove):</b><br>
+                <span style='color:#dc2626; font-size:18px; font-weight:bold;'>PQ = PR</span>
+            </div>
+
+            <div style='background-color:#fdf4ff; border-left:4px solid #c026d3; padding:10px; margin-bottom:12px;'>
+                <b style='color:#86198f; font-size:16px;'>રચના (Construction):</b><br>
+                <span style='color:#0f172a; font-size:15px;'><b>OQ, OR</b> અને <b>OP</b> જોડો.</span>
+            </div>
+
+            <div style='background-color:#f0fdf4; border-left:4px solid #16a34a; padding:10px;'>
+                <b style='color:#14532d; font-size:16px;'>સાબિતી (Proof):</b><br>
+                <div style='overflow-x:auto; white-space:nowrap; margin-top:6px; font-size:15px; line-height:2.0;'>
+                    1. પ્રમેય 10.1 મુજબ ત્રિજ્યા સ્પર્શકને લંબ હોય છે, તેથી <b>&ang;OQP = 90&deg;</b> અને <b>&ang;ORP = 90&deg;</b>.<br><br>
+                    2. હવે બે કાટકોણ ત્રિકોણો <b>&Delta;OQP</b> અને <b>&Delta;ORP</b> માટે:<br>
+                    &nbsp;&nbsp;&nbsp;&bull; <b>&ang;OQP = &ang;ORP = 90&deg;</b> &nbsp;<i>(કાટખૂણા)</i><br>
+                    &nbsp;&nbsp;&nbsp;&bull; <b>OP = OP</b> &nbsp;<i>(સામાન્ય કર્ણ)</i><br>
+                    &nbsp;&nbsp;&nbsp;&bull; <b>OQ = OR</b> &nbsp;<i>(એક જ વર્તુળની ત્રિજ્યાઓ - બાજુ)</i><br><br>
+                    3. તેથી <b>કાકબા (RHS)</b> એકરૂપતાની શરત મુજબ, <b style='color:#1d4ed8;'>&Delta;OQP &cong; &Delta;ORP</b> થાય.<br><br>
+                    4. એકરૂપ ત્રિકોણોની અનુરૂપ બાજુઓ સમાન હોવાથી (CPCT મુજબ):<br>
+                    &nbsp;&nbsp;&nbsp;<b style='color:#15803d; font-size:20px;'>PQ = PR</b> &nbsp;&nbsp;<b>(સાબિત થાય છે)</b>
+                </div>
+            </div>
+        </div>
+        `
+    },
+
+    // ---------------- સ્વાધ્યાય 10.1 ----------------
+    { 
+        chapter: 10, 
+        questionNumber: "સ્વાધ્યાય 10.1 - પ્રશ્ન 1", 
+        marks: 1, 
+        q: "વર્તુળને કેટલા સ્પર્શક હોય છે?",
+        solutionMatch: "સ્વા. 10.1 પ્રશ્ન 1"
+    },
+    { 
+        chapter: 10, 
+        questionNumber: "સ્વાધ્યાય 10.1 - પ્રશ્ન 2 (i)", 
+        marks: 1, 
+        q: "ખાલી જગ્યા પૂરો: સ્પર્શક વર્તુળને _______ બિંદુમાં છેદે છે.",
+        solutionMatch: "સ્વા. 10.1 પ્રશ્ન 2"
+    },
+    { 
+        chapter: 10, 
+        questionNumber: "સ્વાધ્યાય 10.1 - પ્રશ્ન 2 (ii)", 
+        marks: 1, 
+        q: "ખાલી જગ્યા પૂરો: વર્તુળને બે બિંદુમાં છેદતી રેખાને _______ કહે છે.",
+        solutionMatch: "સ્વા. 10.1 પ્રશ્ન 2"
+    },
+    { 
+        chapter: 10, 
+        questionNumber: "સ્વાધ્યાય 10.1 - પ્રશ્ન 2 (iii)", 
+        marks: 1, 
+        q: "ખાલી જગ્યા પૂરો: વર્તુળને વધુમાં વધુ _______ સમાંતર સ્પર્શક હોઈ શકે.",
+        solutionMatch: "સ્વા. 10.1 પ્રશ્ન 2"
+    },
+    { 
+        chapter: 10, 
+        questionNumber: "સ્વાધ્યાય 10.1 - પ્રશ્ન 2 (iv)", 
+        marks: 1, 
+        q: "ખાલી જગ્યા પૂરો: વર્તુળ અને સ્પર્શકના સામાન્ય બિંદુને _______ કહે છે.",
+        solutionMatch: "સ્વા. 10.1 પ્રશ્ન 2"
+    },
+    { 
+        chapter: 10, 
+        questionNumber: "સ્વાધ્યાય 10.1 - પ્રશ્ન 3", 
+        marks: 2, 
+        q: "5 સેમી ત્રિજ્યાવાળા વર્તુળના કોઈ બિંદુ P આગળ દોરેલો એક સ્પર્શક PQ, કેન્દ્ર O માંથી પસાર થતી રેખાને Q બિંદુએ છેદે છે. જો OQ = 12 સેમી હોય, તો PQ ની લંબાઈ શોધો. (વિકલ્પો: (A) 12 સેમી (B) 13 સેમી (C) 8.5 સેમી (D) √119 સેમી)",
+        solutionMatch: "સ્વા. 10.1 પ્રશ્ન 3"
+    },
+    { 
+        chapter: 10, 
+        questionNumber: "સ્વાધ્યાય 10.1 - પ્રશ્ન 4", 
+        marks: 2, 
+        q: "એક વર્તુળ દોરો. વર્તુળના સમતલમાં આપેલી કોઈ એક રેખાને સમાંતર હોય તેવી બે રેખાઓ દોરો, જે પૈકી એક વર્તુળનો સ્પર્શક હોય અને બીજી વર્તુળની છેદિકા હોય.",
+        solutionMatch: "સ્વા. 10.1 પ્રશ્ન 4"
+    },
+
+    // ---------------- સ્વાધ્યાય 10.2 ----------------
+    { 
+        chapter: 10, 
+        questionNumber: "સ્વાધ્યાય 10.2 - પ્રશ્ન 1", 
+        marks: 2, 
+        q: "બિંદુ Q માંથી દોરેલા વર્તુળના સ્પર્શકની લંબાઈ 24 સેમી અને વર્તુળના કેન્દ્રથી તેનું અંતર 25 સેમી હોય, તો વર્તુળની ત્રિજ્યા શોધો. (વિકલ્પો: (A) 7 સેમી (B) 12 સેમી (C) 15 સેમી (D) 24.5 સેમી)",
+        solutionMatch: "સ્વા. 10.2 પ્રશ્ન 1"
+    },
+    { 
+        chapter: 10, 
+        questionNumber: "સ્વાધ્યાય 10.2 - પ્રશ્ન 2", 
+        marks: 2, 
+        q: "આપેલ આકૃતિમાં, જો TP અને TQ એ O કેન્દ્રવાળા વર્તુળના સ્પર્શકો હોય અને ∠POQ = 110° હોય, તો ∠PTQ શોધો. (વિકલ્પો: (A) 60° (B) 70° (C) 80° (D) 90°)<br><svg width='210' height='145' viewBox='0 0 280 190' xmlns='http://www.w3.org/2000/svg' style='margin-top:6px;'><circle cx='95' cy='95' r='55' fill='none' stroke='#0f172a' stroke-width='2'/><circle cx='95' cy='95' r='3.5' fill='#0f172a'/><text x='78' y='100' font-size='13' font-weight='bold'>O</text><circle cx='245' cy='95' r='4' fill='#dc2626'/><text x='252' y='100' font-size='13' font-weight='bold'>T</text><line x1='245' y1='95' x2='118' y2='45' stroke='#1d4ed8' stroke-width='2'/><line x1='245' y1='95' x2='118' y2='145' stroke='#1d4ed8' stroke-width='2'/><text x='112' y='35' font-size='13' font-weight='bold'>P</text><text x='112' y='162' font-size='13' font-weight='bold'>Q</text><line x1='95' y1='95' x2='118' y2='45' stroke='#16a34a' stroke-width='1.5'/><line x1='95' y1='95' x2='118' y2='145' stroke='#16a34a' stroke-width='1.5'/><text x='118' y='100' font-size='12' font-weight='bold' fill='#ea580c'>110°</text></svg>",
+        solutionMatch: "સ્વા. 10.2 પ્રશ્ન 2"
+    },
+    { 
+        chapter: 10, 
+        questionNumber: "સ્વાધ્યાય 10.2 - પ્રશ્ન 3", 
+        marks: 2, 
+        q: "જો O કેન્દ્રવાળા વર્તુળને બિંદુ P માંથી દોરેલા સ્પર્શકો PA અને PB વચ્ચે 80° નો ખૂણો રચાતો હોય, તો ∠POA = ____. (વિકલ્પો: (A) 50° (B) 60° (C) 70° (D) 80°)",
+        solutionMatch: "સ્વા. 10.2 પ્રશ્ન 3"
+    },
+    { 
+        chapter: 10, 
+        questionNumber: "સ્વાધ્યાય 10.2 - પ્રશ્ન 4", 
+        marks: 3, 
+        q: "સાબિત કરો કે વર્તુળના વ્યાસના અંત્યબિંદુઓએ દોરેલા સ્પર્શકો પરસ્પર સમાંતર હોય છે.",
+        solutionMatch: "સ્વા. 10.2 પ્રશ્ન 4"
+    },
+    { 
+        chapter: 10, 
+        questionNumber: "સ્વાધ્યાય 10.2 - પ્રશ્ન 5", 
+        marks: 3, 
+        q: "સાબિત કરો કે વર્તુળના સ્પર્શકના સ્પર્શબિંદુમાંથી દોરેલો લંબ વર્તુળના કેન્દ્રમાંથી પસાર થાય છે.",
+        solutionMatch: "સ્વા. 10.2 પ્રશ્ન 5"
+    },
+    { 
+        chapter: 10, 
+        questionNumber: "સ્વાધ્યાય 10.2 - પ્રશ્ન 6", 
+        marks: 2, 
+        q: "વર્તુળના કેન્દ્રથી 5 સેમી અંતરે આવેલા બિંદુ A થી દોરેલા સ્પર્શકની લંબાઈ 4 સેમી છે. વર્તુળની ત્રિજ્યા શોધો.",
+        solutionMatch: "સ્વા. 10.2 પ્રશ્ન 6"
+    },
+    { 
+        chapter: 10, 
+        questionNumber: "સ્વાધ્યાય 10.2 - પ્રશ્ન 7", 
+        marks: 3, 
+        q: "બે સમકેન્દ્રી વર્તુળોની ત્રિજ્યાઓ 5 સેમી અને 3 સેમી છે. મોટા વર્તુળની જીવા નાના વર્તુળને સ્પર્શે છે, તો તેની લંબાઈ શોધો.",
+        solutionMatch: "સ્વા. 10.2 પ્રશ્ન 7"
+    },
+    { 
+        chapter: 10, 
+        questionNumber: "સ્વાધ્યાય 10.2 - પ્રશ્ન 8", 
+        marks: 3, 
+        q: "ચતુષ્કોણ ABCD એક વર્તુળને પરિગત છે (આકૃતિ જુઓ). સાબિત કરો કે: AB + CD = AD + BC.<br><svg width='180' height='170' viewBox='0 0 240 220' xmlns='http://www.w3.org/2000/svg' style='margin-top:6px;'><circle cx='120' cy='110' r='58' fill='none' stroke='#1d4ed8' stroke-width='2'/><polygon points='55,175 185,175 170,45 70,45' fill='none' stroke='#0f172a' stroke-width='2'/><text x='38' y='185' font-size='14' font-weight='bold'>A</text><text x='190' y='185' font-size='14' font-weight='bold'>B</text><text x='175' y='42' font-size='14' font-weight='bold'>C</text><text x='52' y='42' font-size='14' font-weight='bold'>D</text><text x='115' y='193' font-size='13' font-weight='bold' fill='#16a34a'>P</text><text x='186' y='115' font-size='13' font-weight='bold' fill='#16a34a'>Q</text><text x='115' y='38' font-size='13' font-weight='bold' fill='#16a34a'>R</text><text x='46' y='115' font-size='13' font-weight='bold' fill='#16a34a'>S</text></svg>",
+        solutionMatch: "સ્વા. 10.2 પ્રશ્ન 8"
+    },
+    { 
+        chapter: 10, 
+        questionNumber: "સ્વાધ્યાય 10.2 - પ્રશ્ન 9", 
+        marks: 4, 
+        q: "આકૃતિમાં, O કેન્દ્રવાળા વર્તુળના બે સમાંતર સ્પર્શકો XY અને X'Y' છે. સ્પર્શબિંદુ C વાળો ત્રીજો સ્પર્શક AB એ XY ને A અને X'Y' ને B બિંદુમાં છેદે છે. સાબિત કરો કે ∠AOB = 90°.<br><svg width='200' height='185' viewBox='0 0 260 240' xmlns='http://www.w3.org/2000/svg' style='margin-top:6px;'><circle cx='130' cy='120' r='50' fill='none' stroke='#0f172a' stroke-width='2'/><circle cx='130' cy='120' r='3.5' fill='#0f172a'/><text x='115' y='125' font-size='13' font-weight='bold'>O</text><line x1='80' y1='120' x2='180' y2='120' stroke='#16a34a' stroke-width='1.5' stroke-dasharray='4,4'/><text x='65' y='125' font-size='13' font-weight='bold'>P</text><text x='186' y='125' font-size='13' font-weight='bold'>Q</text><line x1='80' y1='30' x2='80' y2='210' stroke='#1d4ed8' stroke-width='2'/><text x='64' y='38' font-size='13' font-weight='bold'>X</text><text x='64' y='208' font-size='13' font-weight='bold'>Y</text><line x1='180' y1='30' x2='180' y2='210' stroke='#1d4ed8' stroke-width='2'/><text x='186' y='38' font-size='13' font-weight='bold'>X'</text><text x='186' y='208' font-size='13' font-weight='bold'>Y'</text><line x1='80' y1='70' x2='180' y2='70' stroke='#dc2626' stroke-width='2'/><text x='64' y='74' font-size='13' font-weight='bold' fill='#dc2626'>A</text><text x='186' y='74' font-size='13' font-weight='bold' fill='#dc2626'>B</text><text x='126' y='62' font-size='13' font-weight='bold'>C</text><line x1='130' y1='120' x2='80' y2='70' stroke='#9333ea' stroke-width='1.5'/><line x1='130' y1='120' x2='180' y2='70' stroke='#9333ea' stroke-width='1.5'/></svg>",
+        solutionMatch: "સ્વા. 10.2 પ્રશ્ન 9"
+    },
+    { 
+        chapter: 10, 
+        questionNumber: "સ્વાધ્યાય 10.2 - પ્રશ્ન 10", 
+        marks: 3, 
+        q: "સાબિત કરો કે વર્તુળની બહારના બિંદુમાંથી વર્તુળને દોરેલા બે સ્પર્શકો વચ્ચેનો ખૂણો અને સ્પર્શબિંદુઓને કેન્દ્ર સાથે જોડતા રેખાખંડ વચ્ચેનો ખૂણો એકબીજાના પૂરકકોણ હોય છે.",
+        solutionMatch: "સ્વા. 10.2 પ્રશ્ન 10"
+    },
+    { 
+        chapter: 10, 
+        questionNumber: "સ્વાધ્યાય 10.2 - પ્રશ્ન 11", 
+        marks: 3, 
+        q: "સાબિત કરો કે વર્તુળને પરિગત સમાંતરબાજુ ચતુષ્કોણ એ સમબાજુ ચતુષ્કોણ છે.",
+        solutionMatch: "સ્વા. 10.2 પ્રશ્ન 11"
+    },
+    { 
+        chapter: 10, 
+        questionNumber: "સ્વાધ્યાય 10.2 - પ્રશ્ન 12", 
+        marks: 4, 
+        q: "4 સેમી ત્રિજ્યાવાળા વર્તુળને પરિગત ત્રિકોણ ABC દોર્યો છે (આકૃતિ જુઓ). રેખાખંડ BD અને DC ની લંબાઈ અનુક્રમે 8 સેમી અને 6 સેમી છે. બાજુઓ AB અને AC શોધો.<br><svg width='200' height='175' viewBox='0 0 260 220' xmlns='http://www.w3.org/2000/svg' style='margin-top:6px;'><polygon points='130,20 35,190 225,190' fill='none' stroke='#0f172a' stroke-width='2'/><circle cx='130' cy='135' r='55' fill='none' stroke='#1d4ed8' stroke-width='2'/><circle cx='130' cy='135' r='3.5' fill='#0f172a'/><text x='125' y='125' font-size='13' font-weight='bold'>O</text><line x1='130' y1='135' x2='130' y2='190' stroke='#16a34a' stroke-width='1.5'/><text x='134' y='168' font-size='11' font-weight='bold' fill='#16a34a'>4cm</text><text x='125' y='15' font-size='14' font-weight='bold'>A</text><text x='20' y='198' font-size='14' font-weight='bold'>B</text><text x='230' y='198' font-size='14' font-weight='bold'>C</text><text x='125' y='206' font-size='13' font-weight='bold' fill='#dc2626'>D</text><text x='185' y='105' font-size='13' font-weight='bold' fill='#dc2626'>E</text><text x='65' y='105' font-size='13' font-weight='bold' fill='#dc2626'>F</text><text x='75' y='205' font-size='12' font-weight='bold' fill='#1d4ed8'>8 cm</text><text x='172' y='205' font-size='12' font-weight='bold' fill='#1d4ed8'>6 cm</text></svg>",
+        solutionMatch: "સ્વા. 10.2 પ્રશ્ન 12"
+    },
+    { 
+        chapter: 10, 
+        questionNumber: "સ્વાધ્યાય 10.2 - પ્રશ્ન 13", 
+        marks: 3, 
+        q: "સાબિત કરો કે વર્તુળને પરિગત ચતુષ્કોણની સામસામેની બાજુઓ વર્તુળના કેન્દ્ર આગળ પૂરકકોણ આંતરે છે.",
+        solutionMatch: "સ્વા. 10.2 પ્રશ્ન 13"
+    },
+            // ---------------- પ્રકરણ 11: વર્તુળ સંબંધિત ક્ષેત્રફળ (સ્વાધ્યાય 11.1 - સંપૂર્ણ) ----------------
+    { 
+        chapter: 11, 
+        questionNumber: "સ્વાધ્યાય 11.1 - પ્રશ્ન 1", 
+        marks: 2, 
+        q: "6 સેમી ત્રિજ્યાવાળા વર્તુળના વૃત્તાંશ દ્વારા કેન્દ્ર આગળ 60° નો ખૂણો બને છે, તો તે વૃત્તાંશનું ક્ષેત્રફળ શોધો.",
+        solutionMatch: "સ્વા. 11.1 પ્રશ્ન 1"
+    },
+    { 
+        chapter: 11, 
+        questionNumber: "સ્વાધ્યાય 11.1 - પ્રશ્ન 2", 
+        marks: 2, 
+        q: "22 સેમી પરિઘવાળા વર્તુળના ચતુર્થાંશનું ક્ષેત્રફળ શોધો.",
+        solutionMatch: "સ્વા. 11.1 પ્રશ્ન 2"
+    },
+    { 
+        chapter: 11, 
+        questionNumber: "સ્વાધ્યાય 11.1 - પ્રશ્ન 3", 
+        marks: 2, 
+        q: "એક ઘડિયાળના મિનિટકાંટાની લંબાઈ 14 સેમી છે. 5 મિનિટમાં મિનિટકાંટો જેટલું ક્ષેત્રફળ આવરે તે શોધો.",
+        solutionMatch: "સ્વા. 11.1 પ્રશ્ન 3"
+    },
+    { 
+        chapter: 11, 
+        questionNumber: "સ્વાધ્યાય 11.1 - પ્રશ્ન 4", 
+        marks: 3, 
+        q: "10 સેમી ત્રિજ્યાવાળા વર્તુળની જીવા કેન્દ્ર આગળ કાટખૂણો આંતરે છે. તેને અનુરૂપ (i) લઘુવૃત્તખંડ (ii) ગુરુવૃત્તાંશનું ક્ષેત્રફળ શોધો. (π = 3.14 લો)",
+        solutionMatch: "સ્વા. 11.1 પ્રશ્ન 4"
+    },
+    { 
+        chapter: 11, 
+        questionNumber: "સ્વાધ્યાય 11.1 - પ્રશ્ન 5", 
+        marks: 3, 
+        q: "21 સેમી ત્રિજ્યાવાળા વર્તુળનું એક ચાપ કેન્દ્ર આગળ 60° નો ખૂણો આંતરે છે. તેને અનુરૂપ (i) ચાપની લંબાઈ (ii) ચાપ દ્વારા બનતા વૃત્તાંશનું ક્ષેત્રફળ (iii) અનુરૂપ જીવા દ્વારા બનતા વૃત્તખંડનું ક્ષેત્રફળ શોધો.",
+        solutionMatch: "સ્વા. 11.1 પ્રશ્ન 5"
+    },
+    { 
+        chapter: 11, 
+        questionNumber: "સ્વાધ્યાય 11.1 - પ્રશ્ન 6", 
+        marks: 3, 
+        q: "15 સેમી ત્રિજ્યાવાળા વર્તુળની જીવા કેન્દ્ર આગળ 60° નો ખૂણો આંતરે છે. તેને અનુરૂપ લઘુવૃત્તખંડ અને ગુરુવૃત્તખંડનું ક્ષેત્રફળ શોધો. (π = 3.14 અને √3 = 1.73 લો)",
+        solutionMatch: "સ્વા. 11.1 પ્રશ્ન 6"
+    },
+    { 
+        chapter: 11, 
+        questionNumber: "સ્વાધ્યાય 11.1 - પ્રશ્ન 7", 
+        marks: 3, 
+        q: "12 સેમી ત્રિજ્યાવાળા વર્તુળની જીવા કેન્દ્ર આગળ 120° નો ખૂણો આંતરે છે. તેને અનુરૂપ વૃત્તખંડનું ક્ષેત્રફળ શોધો. (π = 3.14 અને √3 = 1.73 લો)",
+        solutionMatch: "સ્વા. 11.1 પ્રશ્ન 7"
+    },
+    { 
+        chapter: 11, 
+        questionNumber: "સ્વાધ્યાય 11.1 - પ્રશ્ન 8", 
+        marks: 3, 
+        q: "15 મીટર બાજુવાળા ચોરસ આકારના ઘાસના મેદાનના એક ખૂણે ઘોડાને 5 મીટર લાંબા દોરડાથી ખીલા સાથે બાંધેલ છે (આકૃતિ જુઓ). (i) ઘોડો મેદાનના જેટલા ભાગમાં ચરી શકે તેનું ક્ષેત્રફળ શોધો. (ii) દોરડું 5 મીટરની બદલે 10 મીટર લાંબું રાખવામાં આવે તો ચરવાના ક્ષેત્રફળમાં થતો વધારો શોધો. (π = 3.14 લો)<br><svg width='160' height='150' viewBox='0 0 180 170' xmlns='http://www.w3.org/2000/svg' style='margin-top:6px;'><rect x='25' y='20' width='125' height='125' fill='#f0fdf4' stroke='#0f172a' stroke-width='1.5'/><path d='M 25 145 L 105 145 A 80 80 0 0 0 25 65 Z' fill='#fef08a' stroke='#ea580c' stroke-width='1.2' stroke-dasharray='3,3'/><path d='M 25 145 L 65 145 A 40 40 0 0 0 25 105 Z' fill='#fdba74' stroke='#dc2626' stroke-width='1.5'/><circle cx='25' cy='145' r='3.5' fill='#0f172a'/><text x='72' y='15' font-size='10' font-weight='bold'>15 m</text><text x='42' y='138' font-size='9' font-weight='bold' fill='#b91c1c'>5m</text><text x='72' y='115' font-size='9' font-weight='bold' fill='#c2410c'>10m</text></svg>",
+        solutionMatch: "સ્વા. 11.1 પ્રશ્ન 8"
+    },
+    { 
+        chapter: 11, 
+        questionNumber: "સ્વાધ્યાય 11.1 - પ્રશ્ન 9", 
+        marks: 3, 
+        q: "ચાંદીના તારથી 35 મિમી વ્યાસવાળું એક વર્તુળાકાર બ્રોચ બનાવેલ છે. આકૃતિમાં દર્શાવ્યા પ્રમાણે તેને 10 સમાન વૃત્તાંશમાં વિભાજિત કરતા 5 વ્યાસ પણ તારથી બનાવેલા છે. તો (i) જરૂરી ચાંદીના તારની કુલ લંબાઈ (ii) બ્રોચના પ્રત્યેક વૃત્તાંશનું ક્ષેત્રફળ શોધો.<br><svg width='150' height='150' viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='margin-top:6px;'><circle cx='90' cy='90' r='65' fill='#f8fafc' stroke='#0f172a' stroke-width='2'/><line x1='25' y1='90' x2='155' y2='90' stroke='#475569' stroke-width='1.2'/><line x1='37' y1='52' x2='143' y2='128' stroke='#475569' stroke-width='1.2'/><line x1='70' y1='28' x2='110' y2='152' stroke='#475569' stroke-width='1.2'/><line x1='110' y1='28' x2='70' y2='152' stroke='#475569' stroke-width='1.2'/><line x1='143' y1='52' x2='37' y2='128' stroke='#475569' stroke-width='1.2'/><text x='62' y='172' font-size='10' font-weight='bold' fill='#1d4ed8'>d = 35 mm</text></svg>",
+        solutionMatch: "સ્વા. 11.1 પ્રશ્ન 9"
+    },
+    { 
+        chapter: 11, 
+        questionNumber: "સ્વાધ્યાય 11.1 - પ્રશ્ન 10", 
+        marks: 3, 
+        q: "એક છત્રીમાં સમાન અંતરે 8 સળિયા આવેલા છે (આકૃતિ જુઓ). છત્રીને 45 સેમી ત્રિજ્યાવાળું એક સપાટ વર્તુળ ધારીને, છત્રીના બે ક્રમિક સળિયા વચ્ચેના ભાગનું ક્ષેત્રફળ શોધો.<br><svg width='150' height='150' viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='margin-top:6px;'><circle cx='90' cy='90' r='65' fill='#f0f9ff' stroke='#0f172a' stroke-width='2'/><line x1='25' y1='90' x2='155' y2='90' stroke='#1d4ed8' stroke-width='1.2'/><line x1='90' y1='25' x2='90' y2='155' stroke='#1d4ed8' stroke-width='1.2'/><line x1='44' y1='44' x2='136' y2='136' stroke='#1d4ed8' stroke-width='1.2'/><line x1='44' y1='136' x2='136' y2='44' stroke='#1d4ed8' stroke-width='1.2'/><text x='102' y='85' font-size='10' font-weight='bold' fill='#dc2626'>45 cm</text></svg>",
+        solutionMatch: "સ્વા. 11.1 પ્રશ્ન 10"
+    },
+    { 
+        chapter: 11, 
+        questionNumber: "સ્વાધ્યાય 11.1 - પ્રશ્ન 11", 
+        marks: 3, 
+        q: "એક મોટરકારના બે વાઇપર છે, જે ક્યારેય એકબીજા પર આચ્છાદિત થતા નથી. પ્રત્યેક વાઇપરની લંબાઈ 25 સેમી છે અને તે 115° ના ખૂણા સુધી ફરીને સફાઈ કરી શકે છે. બંને વાઇપરના પ્રત્યેક સફાઈ-વખતે સાફ થતા વિસ્તારનું કુલ ક્ષેત્રફળ શોધો.",
+        solutionMatch: "સ્વા. 11.1 પ્રશ્ન 11"
+    },
+    { 
+        chapter: 11, 
+        questionNumber: "સ્વાધ્યાય 11.1 - પ્રશ્ન 12", 
+        marks: 3, 
+        q: "પાણીની નીચેના ખડકોની ચેતવણી આપવા એક દીવાદાંડી લાલ રંગનો પ્રકાશ 16.5 કિમી અંતર સુધી 80° ના વૃત્તાંશના ખૂણામાં ફેલાવે છે. સમુદ્રના જેટલા વિસ્તારમાં જહાજને ચેતવણી મળતી હોય તે વિસ્તારનું ક્ષેત્રફળ શોધો. (π = 3.14 લો)",
+        solutionMatch: "સ્વા. 11.1 પ્રશ્ન 12"
+    },
+    { 
+        chapter: 11, 
+        questionNumber: "સ્વાધ્યાય 11.1 - પ્રશ્ન 13", 
+        marks: 3, 
+        q: "એક ગોળ મેજપોશ પર 6 સમાન ભાત બનાવેલી છે (આકૃતિ જુઓ). જો મેજપોશની ત્રિજ્યા 28 સેમી હોય, તો 1 ચોરસ સેમીના રૂ. 0.35 ના દરે આ ભાત બનાવવાનો ખર્ચ શોધો. (√3 = 1.7 લો)<br><svg width='150' height='150' viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='margin-top:6px;'><circle cx='90' cy='90' r='65' fill='#bbf7d0' stroke='#0f172a' stroke-width='2'/><polygon points='155,90 122.5,146.3 57.5,146.3 25,90 57.5,33.7 122.5,33.7' fill='#ffffff' stroke='#16a34a' stroke-width='1.5'/><circle cx='90' cy='90' r='2.5' fill='#0f172a'/><line x1='90' y1='90' x2='155' y2='90' stroke='#dc2626' stroke-width='1.2' stroke-dasharray='3,2'/><text x='105' y='85' font-size='10' font-weight='bold' fill='#dc2626'>28 cm</text></svg>",
+        solutionMatch: "સ્વા. 11.1 પ્રશ્ન 13"
+    },
+    { 
+        chapter: 11, 
+        questionNumber: "સ્વાધ્યાય 11.1 - પ્રશ્ન 14", 
+        marks: 1, 
+        q: "સાચો વિકલ્પ પસંદ કરો: R ત્રિજ્યાવાળા વર્તુળના વૃત્તાંશનો ખૂણો p° હોય, તો તે વૃત્તાંશનું ક્ષેત્રફળ નીચેનામાંથી કયું છે? (A) (p/180) × 2πR (B) (p/180) × πR² (C) (p/360) × 2πR (D) (p/720) × 2πR²",
+        solutionMatch: "સ્વા. 11.1 પ્રશ્ન 14"
+    },
+        // ---------------- પ્રકરણ 12: પૃષ્ઠફળ અને ઘનફળ (સ્વાધ્યાય 12.1 અને 12.2 - સંપૂર્ણ) ----------------
+    // સ્વાધ્યાય 12.1 (સંયોજિત ઘન પદાર્થોનું પૃષ્ઠફળ)
+    { 
+        chapter: 12, 
+        questionNumber: "સ્વાધ્યાય 12.1 - પ્રશ્ન 1", 
+        marks: 2, 
+        q: "બે ઘન પૈકી પ્રત્યેકનું ઘનફળ 64 સેમી³ હોય તેવા બે ઘનને જોડવાથી બનતા લંબઘનનું પૃષ્ઠફળ શોધો.",
+        solutionMatch: "સ્વા. 12.1 પ્રશ્ન 1"
+    },
+    { 
+        chapter: 12, 
+        questionNumber: "સ્વાધ્યાય 12.1 - પ્રશ્ન 2", 
+        marks: 3, 
+        q: "એક અર્ધગોલક પર એક પોલો નળાકાર બેસાડેલો હોય તેવું એક પાત્ર છે. અર્ધગોલકનો વ્યાસ 14 સેમી છે અને પાત્રની કુલ ઊંચાઈ 13 સેમી છે. પાત્રની અંદરની સપાટીનું પૃષ્ઠફળ શોધો.",
+        solutionMatch: "સ્વા. 12.1 પ્રશ્ન 2"
+    },
+    { 
+        chapter: 12, 
+        questionNumber: "સ્વાધ્યાય 12.1 - પ્રશ્ન 3", 
+        marks: 3, 
+        q: "એક રમકડું 3.5 સેમી ત્રિજ્યાવાળા અર્ધગોલક પર તેટલી જ ત્રિજ્યાવાળો શંકુ લગાવેલો હોય તેવા આકારનું છે. રમકડાની કુલ ઊંચાઈ 15.5 સેમી હોય, તો રમકડાનું કુલ પૃષ્ઠફળ શોધો.",
+        solutionMatch: "સ્વા. 12.1 પ્રશ્ન 3"
+    },
+    { 
+        chapter: 12, 
+        questionNumber: "સ્વાધ્યાય 12.1 - પ્રશ્ન 4", 
+        marks: 3, 
+        q: "7 સેમી બાજુના માપવાળા સમઘનની ઉપર અર્ધગોલક મૂકેલો છે. તો અર્ધગોલકનો મહત્તમ વ્યાસ શું હોઈ શકે? આ રીતે બનેલા પદાર્થનું કુલ પૃષ્ઠફળ શોધો.",
+        solutionMatch: "સ્વા. 12.1 પ્રશ્ન 4"
+    },
+    { 
+        chapter: 12, 
+        questionNumber: "સ્વાધ્યાય 12.1 - પ્રશ્ન 5", 
+        marks: 3, 
+        q: "એક સમઘન લાકડાના ટુકડાના એક પૃષ્ઠમાંથી એક અર્ધગોલક કાપવામાં આવે છે. અર્ધગોલકનો વ્યાસ l એ સમઘનની બાજુના માપ બરાબર છે. બાકી પદાર્થનું કુલ પૃષ્ઠફળ શોધો.",
+        solutionMatch: "સ્વા. 12.1 પ્રશ્ન 5"
+    },
+    { 
+        chapter: 12, 
+        questionNumber: "સ્વાધ્યાય 12.1 - પ્રશ્ન 6", 
+        marks: 3, 
+        q: "દવાની એક કૅપ્સ્યૂલનો આકાર નળાકારની બંને બાજુએ અર્ધગોલક લગાડેલો હોય તેવો છે (આકૃતિ જુઓ). કૅપ્સ્યૂલની કુલ લંબાઈ 14 મિમી છે અને તેનો વ્યાસ 5 મિમી છે. તો કૅપ્સ્યૂલનું કુલ પૃષ્ઠફળ શોધો.<br><svg width='210' height='100' viewBox='0 0 260 120' xmlns='http://www.w3.org/2000/svg' style='margin-top:6px;'><path d='M 80 35 A 25 25 0 0 0 80 85' fill='#fecaca' stroke='#0f172a' stroke-width='1.5'/><path d='M 180 35 A 25 25 0 0 1 180 85' fill='#fecaca' stroke='#0f172a' stroke-width='1.5'/><rect x='80' y='35' width='100' height='50' fill='#bae6fd' stroke='#0f172a' stroke-width='1.5'/><line x1='80' y1='35' x2='80' y2='85' stroke='#0f172a' stroke-width='1' stroke-dasharray='3,2'/><line x1='180' y1='35' x2='180' y2='85' stroke='#0f172a' stroke-width='1' stroke-dasharray='3,2'/><line x1='55' y1='18' x2='205' y2='18' stroke='#16a34a' stroke-width='1.5'/><text x='112' y='14' font-size='10' font-weight='bold' fill='#16a34a'>14 mm</text><line x1='220' y1='35' x2='220' y2='85' stroke='#dc2626' stroke-width='1.5'/><text x='225' y='64' font-size='10' font-weight='bold' fill='#dc2626'>5 mm</text></svg>",
+        solutionMatch: "સ્વા. 12.1 પ્રશ્ન 6"
+    },
+    { 
+        chapter: 12, 
+        questionNumber: "સ્વાધ્યાય 12.1 - પ્રશ્ન 7", 
+        marks: 4, 
+        q: "એક તંબુનો આકાર નળાકાર ઉપર શંકુ મૂકેલો હોય તેવો છે. જો નળાકાર ભાગની ઊંચાઈ અને વ્યાસ અનુક્રમે 2.1 મીટર અને 4 મીટર હોય, તથા ઉપરના ભાગની તિર્યક ઊંચાઈ (ત્રાંસી ઊંચાઈ) 2.8 મીટર હોય, તો આ તંબુ બનાવવા વપરાતા કેનવાસનું ક્ષેત્રફળ શોધો. જો કેનવાસનો ભાવ રૂ. 500 પ્રતિ મીટર² હોય, તો તેમાં વપરાતા કેનવાસની કુલ કિંમત શોધો.",
+        solutionMatch: "સ્વા. 12.1 પ્રશ્ન 7"
+    },
+    { 
+        chapter: 12, 
+        questionNumber: "સ્વાધ્યાય 12.1 - પ્રશ્ન 8", 
+        marks: 3, 
+        q: "2.4 સેમી ઊંચાઈ અને 1.4 સેમી વ્યાસવાળા એક નળાકારમાંથી તેટલી જ ઊંચાઈ અને વ્યાસવાળો શંકુ કાપી લેવામાં આવે છે. તો વધેલા પદાર્થનું કુલ પૃષ્ઠફળ નજીકના સેમી² માં શોધો.",
+        solutionMatch: "સ્વા. 12.1 પ્રશ્ન 8"
+    },
+    { 
+        chapter: 12, 
+        questionNumber: "સ્વાધ્યાય 12.1 - પ્રશ્ન 9", 
+        marks: 3, 
+        q: "આકૃતિમાં દર્શાવ્યા પ્રમાણે, લાકડાના નળાકારમાંથી બંને બાજુએથી અર્ધગોલક કાઢીને એક લાકડાનો શો-પીસ બનાવ્યો છે. જો નળાકારની ઊંચાઈ 10 સેમી અને પાયાની ત્રિજ્યા 3.5 સેમી હોય, તો શો-પીસનું કુલ પૃષ્ઠફળ શોધો.<br><svg width='160' height='155' viewBox='0 0 200 190' xmlns='http://www.w3.org/2000/svg' style='margin-top:6px;'><line x1='60' y1='35' x2='60' y2='155' stroke='#0f172a' stroke-width='1.8'/><line x1='140' y1='35' x2='140' y2='155' stroke='#0f172a' stroke-width='1.8'/><ellipse cx='100' cy='35' rx='40' ry='10' fill='none' stroke='#0f172a' stroke-width='1.5'/><ellipse cx='100' cy='155' rx='40' ry='10' fill='none' stroke='#0f172a' stroke-width='1.5'/><path d='M 60 35 A 40 40 0 0 0 140 35' fill='#fef08a' stroke='#ea580c' stroke-width='1.5' stroke-dasharray='3,2'/><path d='M 60 155 A 40 40 0 0 1 140 155' fill='#fef08a' stroke='#ea580c' stroke-width='1.5' stroke-dasharray='3,2'/><line x1='155' y1='35' x2='155' y2='155' stroke='#1d4ed8' stroke-width='1.5'/><text x='160' y='98' font-size='10' font-weight='bold' fill='#1d4ed8'>10 cm</text><text x='82' y='20' font-size='10' font-weight='bold' fill='#dc2626'>r=3.5 cm</text></svg>",
+        solutionMatch: "સ્વા. 12.1 પ્રશ્ન 9"
+    },
+
+    // સ્વાધ્યાય 12.2 (સંયોજિત ઘન પદાર્થોનું ઘનફળ)
+    { 
+        chapter: 12, 
+        questionNumber: "સ્વાધ્યાય 12.2 - પ્રશ્ન 1", 
+        marks: 2, 
+        q: "એક ઘન પદાર્થ એ 1 સેમી ત્રિજ્યા ધરાવતા અર્ધગોલક ઉપર તેટલી જ ત્રિજ્યાવાળો શંકુ ગોઠવીને બનાવેલો છે. શંકુની ઊંચાઈ તેની ત્રિજ્યા જેટલી જ છે. તો આ ઘન પદાર્થનું ઘનફળ π ના પદમાં શોધો.",
+        solutionMatch: "સ્વા. 12.2 પ્રશ્ન 1"
+    },
+    { 
+        chapter: 12, 
+        questionNumber: "સ્વાધ્યાય 12.2 - પ્રશ્ન 2", 
+        marks: 3, 
+        q: "એન્જિનિયરિંગના વિદ્યાર્થી રશેલને નળાકારના બંને છેડે પાતળી એલ્યુમિનિયમની શીટમાંથી બનેલા શંકુ બેસાડી એક નમૂનો તૈયાર કરવાનું કહેવામાં આવ્યું. નમૂનાનો વ્યાસ 3 સેમી અને લંબાઈ 12 સેમી છે. જો શંકુની ઊંચાઈ 2 સેમી હોય, તો રશેલે બનાવેલ નમૂનામાં કેટલી હવા સમાશે તે શોધો.",
+        solutionMatch: "સ્વા. 12.2 પ્રશ્ન 2"
+    },
+    { 
+        chapter: 12, 
+        questionNumber: "સ્વાધ્યાય 12.2 - પ્રશ્ન 3", 
+        marks: 4, 
+        q: "એક ગુલાબજાંબુમાં તેના કદના આશરે 30% જેટલી ખાંડની ચાસણી છે. દરેક ગુલાબજાંબુનો આકાર નળાકારના બંને છેડે અર્ધગોલક લગાવ્યા હોય તેવો છે. તેની કુલ લંબાઈ 5 સેમી અને વ્યાસ 2.8 સેમી છે. આવા 45 ગુલાબજાંબુમાં આશરે કેટલી ચાસણી હશે તે શોધો.",
+        solutionMatch: "સ્વા. 12.2 પ્રશ્ન 3"
+    },
+    { 
+        chapter: 12, 
+        questionNumber: "સ્વાધ્યાય 12.2 - પ્રશ્ન 4", 
+        marks: 3, 
+        q: "એક લાકડાનું લંબઘન પેન-સ્ટેન્ડ 4 શંકુ આકારના છિદ્રવાળું બનાવેલું છે (આકૃતિ જુઓ). લંબઘનના માપ 15 સેમી × 10 સેમી × 3.5 સેમી છે. છિદ્રવાળા દરેક ભાગની ત્રિજ્યા 0.5 સેમી અને ઊંડાઈ 1.4 સેમી છે. લાકડાના આ પેન-સ્ટેન્ડનું ઘનફળ શોધો.<br><svg width='210' height='115' viewBox='0 0 260 140' xmlns='http://www.w3.org/2000/svg' style='margin-top:6px;'><rect x='30' y='65' width='170' height='45' fill='#fde047' stroke='#0f172a' stroke-width='1.5'/><polygon points='30,65 55,35 225,35 200,65' fill='#fef08a' stroke='#0f172a' stroke-width='1.5'/><polygon points='200,65 225,35 225,80 200,110' fill='#eab308' stroke='#0f172a' stroke-width='1.5'/><ellipse cx='75' cy='52' rx='8' ry='3.5' fill='#334155'/><ellipse cx='110' cy='52' rx='8' ry='3.5' fill='#334155'/><ellipse cx='145' cy='52' rx='8' ry='3.5' fill='#334155'/><ellipse cx='180' cy='52' rx='8' ry='3.5' fill='#334155'/><text x='95' y='126' font-size='10' font-weight='bold' fill='#1d4ed8'>15 cm</text><text x='228' y='62' font-size='10' font-weight='bold' fill='#dc2626'>3.5 cm</text><text x='215' y='105' font-size='10' font-weight='bold' fill='#16a34a'>10 cm</text></svg>",
+        solutionMatch: "સ્વા. 12.2 પ્રશ્ન 4"
+    },
+    { 
+        chapter: 12, 
+        questionNumber: "સ્વાધ્યાય 12.2 - પ્રશ્ન 5", 
+        marks: 4, 
+        q: "એક વાસણનું સ્વરૂપ ઊંધા શંકુ જેવું છે. તેની ઊંચાઈ 8 સેમી અને ઉપરના ખુલ્લા ભાગની ત્રિજ્યા 5 સેમી છે. તે ઉપરની ધાર સુધી પાણીથી ભરેલું છે. જ્યારે વાસણમાં 0.5 સેમી ત્રિજ્યાવાળી સીસાની ગોળીઓ નાખવામાં આવે છે, ત્યારે એક ચતુર્થાંશ (1/4) જેટલું પાણી બહાર આવે છે. તો વાસણમાં નાખેલી સીસાની ગોળીઓની સંખ્યા શોધો.",
+        solutionMatch: "સ્વા. 12.2 પ્રશ્ન 5"
+    },
+    { 
+        chapter: 12, 
+        questionNumber: "સ્વાધ્યાય 12.2 - પ્રશ્ન 6", 
+        marks: 4, 
+        q: "એક નક્કર લોખંડના સ્તંભનો નળાકાર ભાગ 220 સેમી ઊંચાઈ અને 24 સેમી વ્યાસ ધરાવે છે. તેની ઉપર 60 સેમી ઊંચાઈ અને 8 સેમી ત્રિજ્યાવાળો બીજો નળાકાર મૂકેલો છે. સ્તંભનું દળ શોધો. (આપેલ છે કે 1 સેમી³ લોખંડનું દળ આશરે 8 ગ્રામ છે. π = 3.14 લો)",
+        solutionMatch: "સ્વા. 12.2 પ્રશ્ન 6"
+    },
+    { 
+        chapter: 12, 
+        questionNumber: "સ્વાધ્યાય 12.2 - પ્રશ્ન 7", 
+        marks: 4, 
+        q: "60 સેમી ત્રિજ્યાવાળા અર્ધગોલક પર સ્થિત 120 સેમી ઊંચાઈ અને 60 સેમી ત્રિજ્યાવાળા એક લંબવૃત્તીય શંકુને, પાણીથી સંપૂર્ણ ભરેલા એક લંબવૃત્તીય નળાકારમાં તળિયાને સ્પર્શે તે રીતે સીધો મૂકવામાં આવે છે. જો નળાકારની ત્રિજ્યા 60 સેમી અને ઊંચાઈ 180 સેમી હોય, તો નળાકારમાં બાકી રહેલા પાણીનું ઘનફળ શોધો.",
+        solutionMatch: "સ્વા. 12.2 પ્રશ્ન 7"
+    },
+    { 
+        chapter: 12, 
+        questionNumber: "સ્વાધ્યાય 12.2 - પ્રશ્ન 8", 
+        marks: 3, 
+        q: "એક ગોળાકાર કાચના વાસણની નળાકાર ડોક (ગળું) 8 સેમી લંબાઈ અને 2 સેમી વ્યાસ ધરાવે છે. ગોળાકાર ભાગનો વ્યાસ 8.5 સેમી છે. એક બાળક માહિતી પ્રાપ્ત કરે છે કે આ વાસણમાં ભરેલા પાણીનું ઘનફળ 345 સેમી³ છે. બાળકનો આ જવાબ સાચો છે કે નહિ તે ચકાસો. (π = 3.14 લો)",
+        solutionMatch: "સ્વા. 12.2 પ્રશ્ન 8"
+    },
+            // ---------------- પ્રકરણ 13: આંકડાશાસ્ત્ર (સ્વાધ્યાય 13.1, 13.2 અને 13.3 - સંપૂર્ણ) ----------------
+    
+    // સ્વાધ્યાય 13.1 (મધ્યક)
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.1 - પ્રશ્ન 1", 
+        marks: 3, 
+        q: "વિદ્યાર્થીઓના એક સમૂહે પર્યાવરણ જાગૃતિ કાર્યક્રમના ભાગરૂપે એક સર્વેક્ષણ હાથ ધર્યું. તેમાં તેમણે એક વિસ્તારના 20 ઘરોમાં વનસ્પતિના છોડની સંખ્યા વિશે નીચેની માહિતી એકઠી કરી. ઘરદીઠ છોડની સંખ્યાનો મધ્યક પ્રત્યક્ષ રીતે (Direct Method) શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>છોડની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>0-2</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>2-4</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>4-6</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>6-8</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>8-10</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>10-12</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>12-14</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>ઘરોની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>1</td><td style='border:1px solid #334155; padding:6px 8px;'>2</td><td style='border:1px solid #334155; padding:6px 8px;'>1</td><td style='border:1px solid #334155; padding:6px 8px;'>5</td><td style='border:1px solid #334155; padding:6px 8px;'>6</td><td style='border:1px solid #334155; padding:6px 8px;'>2</td><td style='border:1px solid #334155; padding:6px 8px;'>3</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.1 પ્રશ્ન 1"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.1 - પ્રશ્ન 2 (પ્રત્યક્ષ રીત)", 
+        marks: 3, 
+        q: "એક ફેક્ટરીના 50 કારીગરોના દૈનિક વેતનના નીચે આપેલ આવૃત્તિ વિતરણનો વિચાર કરો. કારીગરોના દૈનિક વેતનનો મધ્યક પ્રત્યક્ષ રીતે (Direct Method) શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>દૈનિક વેતન (રૂ.)</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>500-520</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>520-540</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>540-560</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>560-580</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>580-600</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>કારીગરોની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>12</td><td style='border:1px solid #334155; padding:6px 8px;'>14</td><td style='border:1px solid #334155; padding:6px 8px;'>8</td><td style='border:1px solid #334155; padding:6px 8px;'>6</td><td style='border:1px solid #334155; padding:6px 8px;'>10</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.1 પ્રશ્ન 2"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.1 - પ્રશ્ન 2 (ધારેલ મધ્યકની રીત)", 
+        marks: 3, 
+        q: "એક ફેક્ટરીના 50 કારીગરોના દૈનિક વેતનના નીચે આપેલ આવૃત્તિ વિતરણનો વિચાર કરો. કારીગરોના દૈનિક વેતનનો મધ્યક ધારેલ મધ્યકની રીતે (Assumed Mean Method) શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>દૈનિક વેતન (રૂ.)</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>500-520</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>520-540</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>540-560</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>560-580</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>580-600</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>કારીગરોની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>12</td><td style='border:1px solid #334155; padding:6px 8px;'>14</td><td style='border:1px solid #334155; padding:6px 8px;'>8</td><td style='border:1px solid #334155; padding:6px 8px;'>6</td><td style='border:1px solid #334155; padding:6px 8px;'>10</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.1 પ્રશ્ન 2"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.1 - પ્રશ્ન 2 (પદ-વિચલનની રીત)", 
+        marks: 3, 
+        q: "એક ફેક્ટરીના 50 કારીગરોના દૈનિક વેતનના નીચે આપેલ આવૃત્તિ વિતરણનો વિચાર કરો. કારીગરોના દૈનિક વેતનનો મધ્યક પદ-વિચલનની રીતે (Step-deviation Method) શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>દૈનિક વેતન (રૂ.)</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>500-520</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>520-540</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>540-560</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>560-580</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>580-600</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>કારીગરોની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>12</td><td style='border:1px solid #334155; padding:6px 8px;'>14</td><td style='border:1px solid #334155; padding:6px 8px;'>8</td><td style='border:1px solid #334155; padding:6px 8px;'>6</td><td style='border:1px solid #334155; padding:6px 8px;'>10</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.1 પ્રશ્ન 2"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.1 - પ્રશ્ન 3", 
+        marks: 4, 
+        q: "નીચેનું આવૃત્તિ વિતરણ વસ્તીના બાળકોનું દૈનિક ખિસ્સાભથ્થું દર્શાવે છે. ખિસ્સાભથ્થાનો મધ્યક રૂ. 18 છે. ખૂટતી આવૃત્તિ f શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>દૈનિક ખિસ્સાભથ્થું (રૂ.)</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>11-13</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>13-15</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>15-17</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>17-19</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>19-21</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>21-23</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>23-25</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>બાળકોની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>7</td><td style='border:1px solid #334155; padding:6px 8px;'>6</td><td style='border:1px solid #334155; padding:6px 8px;'>9</td><td style='border:1px solid #334155; padding:6px 8px;'>13</td><td style='border:1px solid #334155; padding:6px 8px; font-weight:bold;'>f</td><td style='border:1px solid #334155; padding:6px 8px;'>5</td><td style='border:1px solid #334155; padding:6px 8px;'>4</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.1 પ્રશ્ન 3"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.1 - પ્રશ્ન 4 (પ્રત્યક્ષ રીત)", 
+        marks: 3, 
+        q: "એક હૉસ્પિટલમાં ડૉક્ટરે 30 મહિલાઓની શારીરિક તપાસ કરી અને પ્રતિ મિનિટ હૃદયના ધબકારાની નોંધ કરી. ધબકારાનો મધ્યક પ્રત્યક્ષ રીતે (Direct Method) શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>પ્રતિ મિનિટ ધબકારા</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>65-68</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>68-71</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>71-74</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>74-77</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>77-80</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>80-83</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>83-86</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>મહિલાઓની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>2</td><td style='border:1px solid #334155; padding:6px 8px;'>4</td><td style='border:1px solid #334155; padding:6px 8px;'>3</td><td style='border:1px solid #334155; padding:6px 8px;'>8</td><td style='border:1px solid #334155; padding:6px 8px;'>7</td><td style='border:1px solid #334155; padding:6px 8px;'>4</td><td style='border:1px solid #334155; padding:6px 8px;'>2</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.1 પ્રશ્ન 4"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.1 - પ્રશ્ન 4 (ધારેલ મધ્યકની રીત)", 
+        marks: 3, 
+        q: "એક હૉસ્પિટલમાં ડૉક્ટરે 30 મહિલાઓની શારીરિક તપાસ કરી અને પ્રતિ મિનિટ હૃદયના ધબકારાની નોંધ કરી. ધબકારાનો મધ્યક ધારેલ મધ્યકની રીતે (Assumed Mean Method) શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>પ્રતિ મિનિટ ધબકારા</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>65-68</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>68-71</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>71-74</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>74-77</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>77-80</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>80-83</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>83-86</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>મહિલાઓની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>2</td><td style='border:1px solid #334155; padding:6px 8px;'>4</td><td style='border:1px solid #334155; padding:6px 8px;'>3</td><td style='border:1px solid #334155; padding:6px 8px;'>8</td><td style='border:1px solid #334155; padding:6px 8px;'>7</td><td style='border:1px solid #334155; padding:6px 8px;'>4</td><td style='border:1px solid #334155; padding:6px 8px;'>2</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.1 પ્રશ્ન 4"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.1 - પ્રશ્ન 4 (પદ-વિચલનની રીત)", 
+        marks: 3, 
+        q: "એક હૉસ્પિટલમાં ડૉક્ટરે 30 મહિલાઓની શારીરિક તપાસ કરી અને પ્રતિ મિનિટ હૃદયના ધબકારાની નોંધ કરી. ધબકારાનો મધ્યક પદ-વિચલનની રીતે (Step-deviation Method) શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>પ્રતિ મિનિટ ધબકારા</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>65-68</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>68-71</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>71-74</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>74-77</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>77-80</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>80-83</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>83-86</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>મહિલાઓની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>2</td><td style='border:1px solid #334155; padding:6px 8px;'>4</td><td style='border:1px solid #334155; padding:6px 8px;'>3</td><td style='border:1px solid #334155; padding:6px 8px;'>8</td><td style='border:1px solid #334155; padding:6px 8px;'>7</td><td style='border:1px solid #334155; padding:6px 8px;'>4</td><td style='border:1px solid #334155; padding:6px 8px;'>2</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.1 પ્રશ્ન 4"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.1 - પ્રશ્ન 5 (પ્રત્યક્ષ રીત)", 
+        marks: 3, 
+        q: "એક છૂટક વેચાણ બજારમાં ફળ વેચનારાઓ ખોખાંઓમાં કેરીઓ વેચી રહ્યા હતા. આ ખોખાંઓમાં કેરીઓની સંખ્યા જુદી-જુદી હતી. બંધ ખોખાંમાં મૂકેલી કેરીઓનો મધ્યક પ્રત્યક્ષ રીતે (Direct Method) શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>કેરીઓની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>50-52</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>53-55</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>56-58</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>59-61</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>62-64</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>ખોખાંઓની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>15</td><td style='border:1px solid #334155; padding:6px 8px;'>110</td><td style='border:1px solid #334155; padding:6px 8px;'>135</td><td style='border:1px solid #334155; padding:6px 8px;'>115</td><td style='border:1px solid #334155; padding:6px 8px;'>25</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.1 પ્રશ્ન 5"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.1 - પ્રશ્ન 5 (ધારેલ મધ્યકની રીત)", 
+        marks: 3, 
+        q: "એક છૂટક વેચાણ બજારમાં ફળ વેચનારાઓ ખોખાંઓમાં કેરીઓ વેચી રહ્યા હતા. આ ખોખાંઓમાં કેરીઓની સંખ્યા જુદી-જુદી હતી. બંધ ખોખાંમાં મૂકેલી કેરીઓનો મધ્યક ધારેલ મધ્યકની રીતે (Assumed Mean Method) શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>કેરીઓની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>50-52</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>53-55</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>56-58</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>59-61</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>62-64</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>ખોખાંઓની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>15</td><td style='border:1px solid #334155; padding:6px 8px;'>110</td><td style='border:1px solid #334155; padding:6px 8px;'>135</td><td style='border:1px solid #334155; padding:6px 8px;'>115</td><td style='border:1px solid #334155; padding:6px 8px;'>25</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.1 પ્રશ્ન 5"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.1 - પ્રશ્ન 5 (પદ-વિચલનની રીત)", 
+        marks: 3, 
+        q: "એક છૂટક વેચાણ બજારમાં ફળ વેચનારાઓ ખોખાંઓમાં કેરીઓ વેચી રહ્યા હતા. આ ખોખાંઓમાં કેરીઓની સંખ્યા જુદી-જુદી હતી. બંધ ખોખાંમાં મૂકેલી કેરીઓનો મધ્યક પદ-વિચલનની રીતે (Step-deviation Method) શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>કેરીઓની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>50-52</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>53-55</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>56-58</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>59-61</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>62-64</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>ખોખાંઓની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>15</td><td style='border:1px solid #334155; padding:6px 8px;'>110</td><td style='border:1px solid #334155; padding:6px 8px;'>135</td><td style='border:1px solid #334155; padding:6px 8px;'>115</td><td style='border:1px solid #334155; padding:6px 8px;'>25</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.1 પ્રશ્ન 5"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.1 - પ્રશ્ન 6", 
+        marks: 3, 
+        q: "નીચેનું કોષ્ટક એક વિસ્તારના 25 પરિવારોના ખોરાકનો દૈનિક ઘરગથ્થુ ખર્ચ દર્શાવે છે. પરિવારના ખોરાક પરના દૈનિક ખર્ચનો મધ્યક પદ-વિચલનની રીતે (Step-deviation Method) શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>દૈનિક ખર્ચ (રૂ.)</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>100-150</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>150-200</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>200-250</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>250-300</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>300-350</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>પરિવારોની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>4</td><td style='border:1px solid #334155; padding:6px 8px;'>5</td><td style='border:1px solid #334155; padding:6px 8px;'>12</td><td style='border:1px solid #334155; padding:6px 8px;'>2</td><td style='border:1px solid #334155; padding:6px 8px;'>2</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.1 પ્રશ્ન 6"
+    }, 
+
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.1 - પ્રશ્ન 7", 
+        marks: 3, 
+        q: "હવામાં સલ્ફર ડાયૉક્સાઇડ (SO₂) ની સાંદ્રતા (ppm માં) શોધવા માટે 30 વિસ્તારોની માહિતી નીચે મુજબ એકત્રિત કરવામાં આવી હતી. હવામાં SO₂ ની સાંદ્રતાનો મધ્યક શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>SO₂ ની સાંદ્રતા (ppm)</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>0.00-0.04</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>0.04-0.08</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>0.08-0.12</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>0.12-0.16</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>0.16-0.20</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>0.20-0.24</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>આવૃત્તિ</th><td style='border:1px solid #334155; padding:6px 8px;'>4</td><td style='border:1px solid #334155; padding:6px 8px;'>9</td><td style='border:1px solid #334155; padding:6px 8px;'>9</td><td style='border:1px solid #334155; padding:6px 8px;'>2</td><td style='border:1px solid #334155; padding:6px 8px;'>4</td><td style='border:1px solid #334155; padding:6px 8px;'>2</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.1 પ્રશ્ન 7"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.1 - પ્રશ્ન 8", 
+        marks: 3, 
+        q: "એક વર્ગશિક્ષક પાસે આખા સત્રની 40 વિદ્યાર્થીઓની ગેરહાજરીની નોંધ છે. વિદ્યાર્થીઓની ગેરહાજર દિવસોની સંખ્યાનો મધ્યક શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>ગેરહાજર દિવસોની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>0-6</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>6-10</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>10-14</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>14-20</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>20-28</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>28-38</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>38-40</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>વિદ્યાર્થીઓની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>11</td><td style='border:1px solid #334155; padding:6px 8px;'>10</td><td style='border:1px solid #334155; padding:6px 8px;'>7</td><td style='border:1px solid #334155; padding:6px 8px;'>4</td><td style='border:1px solid #334155; padding:6px 8px;'>4</td><td style='border:1px solid #334155; padding:6px 8px;'>3</td><td style='border:1px solid #334155; padding:6px 8px;'>1</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.1 પ્રશ્ન 8"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.1 - પ્રશ્ન 9", 
+        marks: 3, 
+        q: "નીચેનું કોષ્ટક 35 શહેરોનો સાક્ષરતા દર (ટકામાં) આપે છે. સાક્ષરતા દરનો મધ્યક પદ-વિચલનની રીતે (Step-deviation Method) શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>સાક્ષરતા દર (%)</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>45-55</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>55-65</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>65-75</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>75-85</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>85-95</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>શહેરોની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>3</td><td style='border:1px solid #334155; padding:6px 8px;'>10</td><td style='border:1px solid #334155; padding:6px 8px;'>11</td><td style='border:1px solid #334155; padding:6px 8px;'>8</td><td style='border:1px solid #334155; padding:6px 8px;'>3</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.1 પ્રશ્ન 9"
+    },
+
+    // સ્વાધ્યાય 13.2 (બહુલક)
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.2 - પ્રશ્ન 1", 
+        marks: 4, 
+        q: "નીચેનું કોષ્ટક એક વર્ષ દરમિયાન હૉસ્પિટલમાં દાખલ થયેલા દર્દીઓની ઉંમર દર્શાવે છે. આપેલ માહિતીનો બહુલક અને મધ્યક શોધો. બંને માપની સરખામણી કરો અને અર્થઘટન કરો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>ઉંમર (વર્ષમાં)</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>5-15</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>15-25</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>25-35</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>35-45</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>45-55</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>55-65</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>દર્દીઓની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>6</td><td style='border:1px solid #334155; padding:6px 8px;'>11</td><td style='border:1px solid #334155; padding:6px 8px;'>21</td><td style='border:1px solid #334155; padding:6px 8px;'>23</td><td style='border:1px solid #334155; padding:6px 8px;'>14</td><td style='border:1px solid #334155; padding:6px 8px;'>5</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.2 પ્રશ્ન 1"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.2 - પ્રશ્ન 2", 
+        marks: 3, 
+        q: "નીચેની માહિતી 225 વીજઉપકરણોના આયુષ્યની (કલાકોમાં) પ્રાપ્ત માહિતી દર્શાવે છે. ઉપકરણોના આયુષ્યનો બહુલક શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>આયુષ્ય (કલાકોમાં)</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>0-20</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>20-40</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>40-60</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>60-80</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>80-100</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>100-120</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>આવૃત્તિ</th><td style='border:1px solid #334155; padding:6px 8px;'>10</td><td style='border:1px solid #334155; padding:6px 8px;'>35</td><td style='border:1px solid #334155; padding:6px 8px;'>52</td><td style='border:1px solid #334155; padding:6px 8px;'>61</td><td style='border:1px solid #334155; padding:6px 8px;'>38</td><td style='border:1px solid #334155; padding:6px 8px;'>29</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.2 પ્રશ્ન 2"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.2 - પ્રશ્ન 3", 
+        marks: 4, 
+        q: "નીચેની માહિતી એક ગામના 200 કુટુંબો માટે તેમના માસિક ઘરગથ્થુ કુલ ખર્ચનું વિતરણ દર્શાવે છે. કુટુંબોના માસિક ખર્ચનો બહુલક શોધો. વળી, તેમના માસિક ખર્ચનો મધ્યક શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>ખર્ચ (રૂ.)</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>1000-1500</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>1500-2000</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>2000-2500</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>2500-3000</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>3000-3500</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>3500-4000</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>4000-4500</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>4500-5000</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>કુટુંબોની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>24</td><td style='border:1px solid #334155; padding:6px 8px;'>40</td><td style='border:1px solid #334155; padding:6px 8px;'>33</td><td style='border:1px solid #334155; padding:6px 8px;'>28</td><td style='border:1px solid #334155; padding:6px 8px;'>30</td><td style='border:1px solid #334155; padding:6px 8px;'>22</td><td style='border:1px solid #334155; padding:6px 8px;'>16</td><td style='border:1px solid #334155; padding:6px 8px;'>7</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.2 પ્રશ્ન 3"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.2 - પ્રશ્ન 4", 
+        marks: 3, 
+        q: "આપેલ વિતરણ ભારતની ઉચ્ચતર માધ્યમિક શાળાઓમાં રાજ્યવાર શિક્ષક-વિદ્યાર્થી ગુણોત્તર દર્શાવે છે. આ માહિતીનો બહુલક અને મધ્યક શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>પ્રતિ શિક્ષક વિદ્યાર્થીઓ</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>15-20</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>20-25</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>25-30</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>30-35</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>35-40</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>40-45</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>45-50</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>50-55</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>રાજ્યો / પ્રદેશોની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>3</td><td style='border:1px solid #334155; padding:6px 8px;'>8</td><td style='border:1px solid #334155; padding:6px 8px;'>9</td><td style='border:1px solid #334155; padding:6px 8px;'>10</td><td style='border:1px solid #334155; padding:6px 8px;'>3</td><td style='border:1px solid #334155; padding:6px 8px;'>0</td><td style='border:1px solid #334155; padding:6px 8px;'>0</td><td style='border:1px solid #334155; padding:6px 8px;'>2</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.2 પ્રશ્ન 4"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.2 - પ્રશ્ન 5", 
+        marks: 2, 
+        q: "આપેલું આવૃત્તિ વિતરણ વિશ્વના કેટલાક શ્રેષ્ઠ બૅટ્સમેનો દ્વારા એકદિવસીય આંતરરાષ્ટ્રીય મૅચોમાં નોંધાવેલ રનની સંખ્યા દર્શાવે છે. આ માહિતીનો બહુલક શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>નોંધાવેલ રન</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>3000-4000</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>4000-5000</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>5000-6000</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>6000-7000</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>7000-8000</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>8000-9000</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>9000-10000</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>10000-11000</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>બૅટ્સમેનોની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>4</td><td style='border:1px solid #334155; padding:6px 8px;'>18</td><td style='border:1px solid #334155; padding:6px 8px;'>9</td><td style='border:1px solid #334155; padding:6px 8px;'>7</td><td style='border:1px solid #334155; padding:6px 8px;'>6</td><td style='border:1px solid #334155; padding:6px 8px;'>3</td><td style='border:1px solid #334155; padding:6px 8px;'>1</td><td style='border:1px solid #334155; padding:6px 8px;'>1</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.2 પ્રશ્ન 5"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.2 - પ્રશ્ન 6", 
+        marks: 3, 
+        q: "એક વિદ્યાર્થીએ રસ્તા પરની એક જગ્યાએથી પસાર થતી ગાડીઓની સંખ્યા નોંધ કરી. પ્રત્યેક 3 મિનિટના 100 સમયગાળામાં પસાર થતી ગાડીઓની સંખ્યા નીચે કોષ્ટકમાં દર્શાવેલ છે. આ માહિતીનો બહુલક શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>ગાડીઓની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>0-10</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>10-20</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>20-30</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>30-40</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>40-50</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>50-60</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>60-70</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>70-80</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>આવૃત્તિ</th><td style='border:1px solid #334155; padding:6px 8px;'>7</td><td style='border:1px solid #334155; padding:6px 8px;'>14</td><td style='border:1px solid #334155; padding:6px 8px;'>13</td><td style='border:1px solid #334155; padding:6px 8px;'>12</td><td style='border:1px solid #334155; padding:6px 8px;'>20</td><td style='border:1px solid #334155; padding:6px 8px;'>11</td><td style='border:1px solid #334155; padding:6px 8px;'>15</td><td style='border:1px solid #334155; padding:6px 8px;'>8</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.2 પ્રશ્ન 6"
+    },
+// સ્વાધ્યાય 13.3 (મધ્યસ્થ)
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.3 - પ્રશ્ન 1", 
+        marks: 4, 
+        q: "નીચેનું આવૃત્તિ વિતરણ એક વિસ્તારના 68 ગ્રાહકોનો માસિક વીજવપરાશ દર્શાવે છે. આ માહિતીનો મધ્યસ્થ, મધ્યક અને બહુલક શોધો તથા તેમની સરખામણી કરો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>માસિક વપરાશ (એકમમાં)</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>65-85</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>85-105</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>105-125</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>125-145</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>145-165</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>165-185</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>185-205</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>ગ્રાહકોની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>4</td><td style='border:1px solid #334155; padding:6px 8px;'>5</td><td style='border:1px solid #334155; padding:6px 8px;'>13</td><td style='border:1px solid #334155; padding:6px 8px;'>20</td><td style='border:1px solid #334155; padding:6px 8px;'>14</td><td style='border:1px solid #334155; padding:6px 8px;'>8</td><td style='border:1px solid #334155; padding:6px 8px;'>4</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.3 પ્રશ્ન 1"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.3 - પ્રશ્ન 2", 
+        marks: 4, 
+        q: "જો નીચે આપેલ આવૃત્તિ વિતરણનો મધ્યસ્થ 28.5 હોય, તો ખૂટતી આવૃત્તિઓ x અને y નાં મૂલ્યો શોધો. (કુલ આવૃત્તિ 60 છે.)<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>વર્ગ અંતરાલ</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>0-10</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>10-20</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>20-30</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>30-40</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>40-50</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>50-60</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>આવૃત્તિ</th><td style='border:1px solid #334155; padding:6px 8px;'>5</td><td style='border:1px solid #334155; padding:6px 8px; font-weight:bold;'>x</td><td style='border:1px solid #334155; padding:6px 8px;'>20</td><td style='border:1px solid #334155; padding:6px 8px;'>15</td><td style='border:1px solid #334155; padding:6px 8px; font-weight:bold;'>y</td><td style='border:1px solid #334155; padding:6px 8px;'>5</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.3 પ્રશ્ન 2"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.3 - પ્રશ્ન 3", 
+        marks: 4, 
+        q: "એક જીવનવીમા એજન્ટે 100 પૉલિસીધારકોની ઉંમર માટે નીચેનું વિતરણ પ્રાપ્ત કર્યું. જેમની ઉંમર 18 વર્ષથી વધુ પરંતુ 60 વર્ષથી ઓછી હોય તેવી જ વ્યક્તિઓને પૉલિસીઓ આપવામાં આવી હોય, તો તેમની મધ્યસ્થ ઉંમર શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>ઉંમર (વર્ષમાં)</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>20 થી ઓછી</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>25 થી ઓછી</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>30 થી ઓછી</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>35 થી ઓછી</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>40 થી ઓછી</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>45 થી ઓછી</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>50 થી ઓછી</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>55 થી ઓછી</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>60 થી ઓછી</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>પૉલિસીધારકોની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>2</td><td style='border:1px solid #334155; padding:6px 8px;'>6</td><td style='border:1px solid #334155; padding:6px 8px;'>24</td><td style='border:1px solid #334155; padding:6px 8px;'>45</td><td style='border:1px solid #334155; padding:6px 8px;'>78</td><td style='border:1px solid #334155; padding:6px 8px;'>89</td><td style='border:1px solid #334155; padding:6px 8px;'>92</td><td style='border:1px solid #334155; padding:6px 8px;'>98</td><td style='border:1px solid #334155; padding:6px 8px;'>100</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.3 પ્રશ્ન 3"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.3 - પ્રશ્ન 4", 
+        marks: 3, 
+        q: "એક છોડના 40 પાંદડાંઓની લંબાઈ ખૂબ જ નજીકના મિલીમીટર સુધી માપવામાં આવી. મેળવેલ માહિતી નીચેના કોષ્ટકમાં દર્શાવેલ છે. પાંદડાંની મધ્યસ્થ લંબાઈ શોધો. (સૂચના: સતત વર્ગ બનાવો)<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>લંબાઈ (મિમીમાં)</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>118-126</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>127-135</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>136-144</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>145-153</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>154-162</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>163-171</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>172-180</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>પાંદડાંઓની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>3</td><td style='border:1px solid #334155; padding:6px 8px;'>5</td><td style='border:1px solid #334155; padding:6px 8px;'>9</td><td style='border:1px solid #334155; padding:6px 8px;'>12</td><td style='border:1px solid #334155; padding:6px 8px;'>5</td><td style='border:1px solid #334155; padding:6px 8px;'>4</td><td style='border:1px solid #334155; padding:6px 8px;'>2</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.3 પ્રશ્ન 4"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.3 - પ્રશ્ન 5", 
+        marks: 3, 
+        q: "નીચેનું કોષ્ટક 400 નિયૉન ગોળા (લૅમ્પ) ના આયુષ્યનું આવૃત્તિ વિતરણ આપે છે. ગોળાના આયુષ્યનો મધ્યસ્થ શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>આયુષ્ય (કલાકોમાં)</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>1500-2000</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>2000-2500</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>2500-3000</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>3000-3500</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>3500-4000</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>4000-4500</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>4500-5000</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>ગોળાઓની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>14</td><td style='border:1px solid #334155; padding:6px 8px;'>56</td><td style='border:1px solid #334155; padding:6px 8px;'>60</td><td style='border:1px solid #334155; padding:6px 8px;'>86</td><td style='border:1px solid #334155; padding:6px 8px;'>74</td><td style='border:1px solid #334155; padding:6px 8px;'>62</td><td style='border:1px solid #334155; padding:6px 8px;'>48</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.3 પ્રશ્ન 5"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.3 - પ્રશ્ન 6", 
+        marks: 3, 
+        q: "સ્થાનિક ટેલિફોન ડિરેક્ટરીમાંથી 100 અટકો યાદચ્છિક રીતે પસંદ કરવામાં આવી હતી અને તેમાં રહેલા અંગ્રેજી મૂળાક્ષરોની સંખ્યાનું આવૃત્તિ વિતરણ નીચે મુજબ મળ્યું હતું. અટકોમાં અક્ષરોની સંખ્યાનો મધ્યસ્થ, મધ્યક અને બહુલક શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>અક્ષરોની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>1-4</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>4-7</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>7-10</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>10-13</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>13-16</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>16-19</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>અટકોની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>6</td><td style='border:1px solid #334155; padding:6px 8px;'>30</td><td style='border:1px solid #334155; padding:6px 8px;'>40</td><td style='border:1px solid #334155; padding:6px 8px;'>16</td><td style='border:1px solid #334155; padding:6px 8px;'>4</td><td style='border:1px solid #334155; padding:6px 8px;'>4</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.3 પ્રશ્ન 6"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "સ્વાધ્યાય 13.3 - પ્રશ્ન 7", 
+        marks: 3, 
+        q: "નીચેનું વિતરણ એક વર્ગના 30 વિદ્યાર્થીઓનું વજન આપે છે. વિદ્યાર્થીઓના વજનનો મધ્યસ્થ શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>વજન (કિગ્રામાં)</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>40-45</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>45-50</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>50-55</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>55-60</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>60-65</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>65-70</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>70-75</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>વિદ્યાર્થીઓની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>2</td><td style='border:1px solid #334155; padding:6px 8px;'>3</td><td style='border:1px solid #334155; padding:6px 8px;'>8</td><td style='border:1px solid #334155; padding:6px 8px;'>6</td><td style='border:1px solid #334155; padding:6px 8px;'>6</td><td style='border:1px solid #334155; padding:6px 8px;'>3</td><td style='border:1px solid #334155; padding:6px 8px;'>2</td></tr></table></div>",
+        solutionMatch: "સ્વા. 13.3 પ્રશ્ન 7"
+    },
+    // ---------------- પ્રકરણ 14: સંભાવના (સ્વાધ્યાય 14.1 - સંપૂર્ણ) ----------------
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 1 (i)", 
+        marks: 1, 
+        q: "ખાલી જગ્યા પૂરો: ઘટના E ની સંભાવના + ઘટના 'E નહિ' ની સંભાવના = _______",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 1(i)"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 1 (ii)", 
+        marks: 1, 
+        q: "ખાલી જગ્યા પૂરો: ઉદ્ભવી ન શકે તેવી ઘટનાની સંભાવના _______ છે. આવી ઘટનાને _______ કહે છે.",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 1(ii)"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 1 (iii)", 
+        marks: 1, 
+        q: "ખાલી જગ્યા પૂરો: ચોક્કસપણે ઉદ્ભવતી ઘટનાની સંભાવના _______ છે. આવી ઘટનાને _______ કહે છે.",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 1(iii)"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 1 (iv)", 
+        marks: 1, 
+        q: "ખાલી જગ્યા પૂરો: પ્રયોગની તમામ મૂળભૂત (પ્રાથમિક) ઘટનાઓની સંભાવનાઓનો સરવાળો _______ છે.",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 1(iv)"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 1 (v)", 
+        marks: 1, 
+        q: "ખાલી જગ્યા પૂરો: ઘટનાની સંભાવના _______ થી મોટી અથવા તેના જેટલી અને _______ થી નાની અથવા તેના જેટલી હોય છે.",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 1(v)"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 2", 
+        marks: 2, 
+        q: "નીચે આપેલા પ્રયોગોમાંથી કયા પ્રયોગનાં પરિણામો સમસંભાવી છે? સમજાવો:<br>(i) ડ્રાઇવર કાર ચાલુ કરવાનો પ્રયત્ન કરે છે. કાર ચાલુ થાય છે અથવા ચાલુ થતી નથી.<br>(ii) ખેલાડી બાસ્કેટબોલને તાકીને બાસ્કેટમાં નાખવાનો પ્રયત્ન કરે છે. તે બોલને બાસ્કેટમાં નાખે છે અથવા ચૂકી જાય છે.<br>(iii) ખરા-ખોટા પ્રશ્નનો જવાબ આપવાની કસોટી આપવામાં આવે છે. જવાબ સાચો છે કે ખોટો.<br>(iv) બાળક જન્મે છે. તે બાબો છે કે બેબી.",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 2"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 3", 
+        marks: 2, 
+        q: "ફૂટબોલની રમતની શરૂઆતમાં કઈ ટુકડીને બોલ મળવો જોઈએ તે નક્કી કરવા માટે સિક્કાને ઉછાળવો એ કેમ નિષ્પક્ષ ક્રિયા છે?",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 3"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 4", 
+        marks: 1, 
+        q: "નીચે આપેલ કયો વિકલ્પ કોઈ ઘટનાની સંભાવના ન હોઈ શકે? (A) 2/3  (B) -1.5  (C) 15%  (D) 0.7",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 4"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 5", 
+        marks: 2, 
+        q: "જો P(E) = 0.05 હોય, તો 'E નહિ' ની સંભાવના શું છે?",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 5"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 6", 
+        marks: 2, 
+        q: "એક થેલામાં લીંબુના સ્વાદની જ મીઠાઈઓ છે. માલિની થેલામાં જોયા વગર એક મીઠાઈ બહાર કાઢે છે. તે (i) નારંગીના સ્વાદની મીઠાઈ હોય (ii) લીંબુના સ્વાદની મીઠાઈ હોય તેની સંભાવના કેટલી?",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 6"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 7", 
+        marks: 2, 
+        q: "આપેલ છે કે 3 વિદ્યાર્થીઓના સમૂહમાં 2 વિદ્યાર્થીઓનો જન્મદિવસ સમાન ન હોય તેની સંભાવના 0.992 છે. તો 2 વિદ્યાર્થીઓનો જન્મદિવસ સમાન હોય તેની સંભાવના કેટલી?",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 7"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 8", 
+        marks: 2, 
+        q: "એક થેલામાં 3 લાલ અને 5 કાળા દડા છે. થેલામાંથી એક દડો યાદચ્છિક રીતે કાઢવામાં આવે છે. બહાર કાઢેલ દડો (i) લાલ હોય (ii) લાલ ન હોય તેની સંભાવના કેટલી?",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 8"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 9", 
+        marks: 3, 
+        q: "એક પેટીમાં 5 લાલ લખોટીઓ, 8 સફેદ લખોટીઓ અને 4 લીલી લખોટીઓ છે. પેટીમાંથી એક લખોટી યાદચ્છિક રીતે બહાર કાઢવામાં આવે છે. બહાર કાઢેલ લખોટી (i) લાલ હોય (ii) સફેદ હોય (iii) લીલી ન હોય તેની સંભાવના કેટલી?",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 9"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 10", 
+        marks: 3, 
+        q: "એક ગલ્લામાં 50 પૈસાના 100 સિક્કા, રૂપિયા 1 ના 50 સિક્કા, રૂપિયા 2 ના 20 સિક્કા અને રૂપિયા 5 ના 10 સિક્કા છે. જ્યારે આ ગલ્લાને ઊંધો કરવામાં આવે ત્યારે પાત્રમાંથી કોઈ એક સિક્કો બહાર પડે તે સમસંભાવી હોય, તો સિક્કો (i) 50 પૈસાનો સિક્કો હશે (ii) રૂપિયા 5 નો સિક્કો નહિ હોય તેની સંભાવના કેટલી?",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 10"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 11", 
+        marks: 2, 
+        q: "ગોપી પોતાના માછલીઘર માટે દુકાનમાંથી માછલી ખરીદે છે. દુકાનદાર મોટી ટાંકીમાંથી યાદચ્છિક રીતે એક માછલી બહાર કાઢે છે. આ ટાંકીમાં 5 નર માછલી અને 8 માદા માછલી છે. બહાર કાઢેલ નર માછલી હોય તેની સંભાવના કેટલી?",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 11"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 12", 
+        marks: 3, 
+        q: "તકની એક રમતમાં ગોળ ફરતું એક તીર હોય છે, જે 1, 2, 3, 4, 5, 6, 7, 8 માંથી કોઈ એક સંખ્યા પાસે નિર્દેશ કરતું અટકે છે અને આ સમસંભાવી પરિણામો છે. (i) તે 8 તરફ નિર્દેશ કરે (ii) અયુગ્મ સંખ્યા તરફ નિર્દેશ કરે (iii) 2 કરતાં મોટી સંખ્યા તરફ નિર્દેશ કરે (iv) 9 કરતાં નાની સંખ્યા તરફ નિર્દેશ કરે તેની સંભાવના કેટલી?<br><svg width='150' height='150' viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg' style='margin-top:8px;'><circle cx='90' cy='90' r='70' fill='#f8fafc' stroke='#0f172a' stroke-width='2'/><line x1='90' y1='20' x2='90' y2='160' stroke='#334155' stroke-width='1.2'/><line x1='20' y1='90' x2='160' y2='90' stroke='#334155' stroke-width='1.2'/><line x1='40.5' y1='40.5' x2='139.5' y2='139.5' stroke='#334155' stroke-width='1.2'/><line x1='139.5' y1='40.5' x2='40.5' y2='139.5' stroke='#334155' stroke-width='1.2'/><text x='106' y='48' font-size='13' font-weight='bold'>1</text><text x='134' y='76' font-size='13' font-weight='bold'>2</text><text x='134' y='112' font-size='13' font-weight='bold'>3</text><text x='106' y='140' font-size='13' font-weight='bold'>4</text><text x='66' y='140' font-size='13' font-weight='bold'>5</text><text x='38' y='112' font-size='13' font-weight='bold'>6</text><text x='38' y='76' font-size='13' font-weight='bold'>7</text><text x='66' y='48' font-size='13' font-weight='bold'>8</text><line x1='90' y1='90' x2='130' y2='68' stroke='#dc2626' stroke-width='2.5'/><polygon points='135,65 125,65 129,73' fill='#dc2626'/><circle cx='90' cy='90' r='4' fill='#0f172a'/></svg>",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 12"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 13", 
+        marks: 3, 
+        q: "પાસાને એક વાર ફેંકવામાં આવે છે. (i) અવિભાજ્ય સંખ્યા (ii) 2 અને 6 વચ્ચેની સંખ્યા (iii) અયુગ્મ સંખ્યા મળવાની સંભાવના શોધો.",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 13"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 14", 
+        marks: 4, 
+        q: "સરખી રીતે ચીપેલા 52 પત્તાંની થોકડીમાંથી એક પત્તું કાઢવામાં આવે છે. (i) લાલ રંગનો રાજા (ii) મુખમુદ્રાવાળું પત્તું (iii) લાલ રંગનું મુખમુદ્રાવાળું પત્તું (iv) લાલનો ગુલામ (v) કાળીનું પત્તું (vi) ચોકટની રાણી મળવાની સંભાવના શોધો.",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 14"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 15", 
+        marks: 3, 
+        q: "પાંચ પત્તાં—દસ્સો, ગુલામ, રાણી, રાજા અને એક્કો—એ તમામ ચોકટનાં છે. તેમને મુખ નીચે રાખીને સરખી રીતે ચીપેલાં છે. પછી એક પત્તું યાદચ્છિક રીતે ખેંચવામાં આવે છે. (i) પત્તું રાણીનું હશે તેની સંભાવના શું છે? (ii) જો રાણીને કાઢીને એક બાજુએ મૂકવામાં આવે અને બીજું પત્તું ખેંચવામાં આવે, તો તે (a) એક્કો હોય (b) રાણી હોય તેની સંભાવના કેટલી?",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 15"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 16", 
+        marks: 2, 
+        q: "ખામીવાળી 12 પેન આકસ્મિક રીતે 132 સારી પેન સાથે ભળી ગઈ છે. એવું શક્ય નથી કે કેવળ પેન જોઈને જ કહી શકાય કે પેન ખામીવાળી છે કે નહિ. આ જથ્થામાંથી એક પેન યાદચ્છિક રીતે કાઢવામાં આવે છે. કાઢવામાં આવેલી પેન ખામીમુક્ત છે તેની સંભાવના શોધો.",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 16"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 17", 
+        marks: 3, 
+        q: "(i) 20 વીજળીના ગોળાઓનો જથ્થો 4 ખામીયુક્ત ગોળા ધરાવે છે. આ જથ્થામાંથી એક ગોળો યાદચ્છિક રીતે કાઢવામાં આવે છે. આ ગોળો ખામીયુક્ત હોય તેની સંભાવના કેટલી? (ii) ધારો કે (i) માં કાઢવામાં આવેલ ગોળો ખામીયુક્ત નથી અને તેને પાછો મૂકવામાં પણ નથી આવ્યો. હવે બાકીના ગોળાઓમાંથી એક ગોળો યાદચ્છિક રીતે કાઢવામાં આવે છે. આ ગોળો ખામીયુક્ત ન હોય તેની સંભાવના કેટલી?",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 17"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 18", 
+        marks: 3, 
+        q: "એક ખોખામાં 1 થી 90 સુધીના અંકો લખેલી 90 ગોળ તકતીઓ છે. જો ખોખામાંથી એક ગોળ તકતી યાદચ્છિક રીતે કાઢવામાં આવે, તો તેના પર (i) બે અંકની સંખ્યા (ii) પૂર્ણવર્ગ સંખ્યા (iii) 5 વડે વિભાજ્ય સંખ્યા હોય તેની સંભાવના શોધો.",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 18"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 19", 
+        marks: 2, 
+        q: "એક બાળકના પાસાની 6 સપાટીઓ નીચે આપેલા અક્ષરો દર્શાવે છે. આ પાસાને એક વાર ઉછાળવામાં આવે છે. પાસા પર (i) A મળે (ii) D મળે તેની સંભાવના કેટલી?<br><svg width='240' height='45' viewBox='0 0 240 45' xmlns='http://www.w3.org/2000/svg' style='margin-top:8px;'><rect x='5' y='5' width='32' height='32' rx='4' fill='#f8fafc' stroke='#0f172a' stroke-width='1.5'/><text x='16' y='26' font-size='14' font-weight='bold'>A</text><rect x='43' y='5' width='32' height='32' rx='4' fill='#f8fafc' stroke='#0f172a' stroke-width='1.5'/><text x='54' y='26' font-size='14' font-weight='bold'>B</text><rect x='81' y='5' width='32' height='32' rx='4' fill='#f8fafc' stroke='#0f172a' stroke-width='1.5'/><text x='92' y='26' font-size='14' font-weight='bold'>C</text><rect x='119' y='5' width='32' height='32' rx='4' fill='#f8fafc' stroke='#0f172a' stroke-width='1.5'/><text x='130' y='26' font-size='14' font-weight='bold'>D</text><rect x='157' y='5' width='32' height='32' rx='4' fill='#f8fafc' stroke='#0f172a' stroke-width='1.5'/><text x='168' y='26' font-size='14' font-weight='bold'>E</text><rect x='195' y='5' width='32' height='32' rx='4' fill='#f8fafc' stroke='#0f172a' stroke-width='1.5'/><text x='206' y='26' font-size='14' font-weight='bold'>A</text></svg>",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 19"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 20", 
+        marks: 3, 
+        q: "ધારો કે તમે એક પાસાને યાદચ્છિક રીતે આકૃતિમાં બતાવ્યા પ્રમાણે લંબચોરસ ક્ષેત્ર પર ફેંકો છો. તે 1 મીટર વ્યાસના વર્તુળની અંદર પડશે તેની સંભાવના કેટલી?<br><svg width='210' height='135' viewBox='0 0 240 155' xmlns='http://www.w3.org/2000/svg' style='margin-top:8px;'><rect x='25' y='25' width='165' height='110' fill='#f0f9ff' stroke='#0f172a' stroke-width='1.8'/><circle cx='107.5' cy='80' r='27.5' fill='#fef08a' stroke='#dc2626' stroke-width='1.5'/><line x1='80' y1='80' x2='135' y2='80' stroke='#dc2626' stroke-width='1.2' stroke-dasharray='3,2'/><text x='98' y='75' font-size='10' font-weight='bold' fill='#b91c1c'>1 m</text><text x='98' y='18' font-size='12' font-weight='bold' fill='#1d4ed8'>3 m</text><text x='196' y='84' font-size='12' font-weight='bold' fill='#1d4ed8'>2 m</text></svg>",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 20"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 21", 
+        marks: 2, 
+        q: "એક જથ્થો 144 બૉલપેન ધરાવે છે. તેમાંથી 20 ખામીયુક્ત અને બાકીની સારી છે. જો પેન સારી હશે તો નુરી પેન ખરીદશે, પરંતુ જો તે ખામીયુક્ત હશે તો ખરીદશે નહિ. દુકાનદાર યાદચ્છિક રીતે એક પેન કાઢે છે અને તેને આપે છે. (i) તે પેન ખરીદશે તેની સંભાવના કેટલી? (ii) તે પેન નહિ ખરીદે તેની સંભાવના કેટલી?",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 21"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 22", 
+        marks: 3, 
+        q: "બે પાસાને એકસાથે ઉછાળવાના પ્રયોગના સંદર્ભમાં: (i) નીચે આપેલું કોષ્ટક પૂર્ણ કરો.<br>(ii) એક વિદ્યાર્થી દલીલ કરે છે કે '11 શક્ય પરિણામો 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 અને 12 છે. તેથી, તેમાંના પ્રત્યેકની સંભાવના 1/11 છે.' શું તમે આ દલીલ સાથે સહમત છો? તમારા જવાબનું સમર્થન કરો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:13px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:5px 6px; background-color:#f1f5f9; white-space:nowrap;'>ઘટના : 2 પાસા પરનો સરવાળો</th><td style='border:1px solid #334155; padding:5px 6px;'>2</td><td style='border:1px solid #334155; padding:5px 6px;'>3</td><td style='border:1px solid #334155; padding:5px 6px;'>4</td><td style='border:1px solid #334155; padding:5px 6px;'>5</td><td style='border:1px solid #334155; padding:5px 6px;'>6</td><td style='border:1px solid #334155; padding:5px 6px;'>7</td><td style='border:1px solid #334155; padding:5px 6px;'>8</td><td style='border:1px solid #334155; padding:5px 6px;'>9</td><td style='border:1px solid #334155; padding:5px 6px;'>10</td><td style='border:1px solid #334155; padding:5px 6px;'>11</td><td style='border:1px solid #334155; padding:5px 6px;'>12</td></tr><tr><th style='border:1px solid #334155; padding:5px 6px; background-color:#f1f5f9; white-space:nowrap;'>સંભાવના</th><td style='border:1px solid #334155; padding:5px 6px;'>1/36</td><td style='border:1px solid #334155; padding:5px 6px;'>___</td><td style='border:1px solid #334155; padding:5px 6px;'>___</td><td style='border:1px solid #334155; padding:5px 6px;'>___</td><td style='border:1px solid #334155; padding:5px 6px;'>___</td><td style='border:1px solid #334155; padding:5px 6px;'>___</td><td style='border:1px solid #334155; padding:5px 6px;'>5/36</td><td style='border:1px solid #334155; padding:5px 6px;'>___</td><td style='border:1px solid #334155; padding:5px 6px;'>___</td><td style='border:1px solid #334155; padding:5px 6px;'>___</td><td style='border:1px solid #334155; padding:5px 6px;'>1/36</td></tr></table></div>",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 22"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 23", 
+        marks: 3, 
+        q: "એક સિક્કાને ત્રણ વખત ઉછાળવામાં આવે છે અને તેના પરિણામ દરેક વખતે નોંધવામાં આવે છે. જો તમામ વખત સિક્કો ઉછાળતા સરખું પરિણામ મળે (એટલે કે ત્રણ છાપ અથવા ત્રણ કાંટા), તો હનીફ રમત જીતી જાય છે અન્યથા હારે છે. તો હનીફ રમત હારે તેની સંભાવનાની ગણતરી કરો.",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 23"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 24", 
+        marks: 3, 
+        q: "પાસાને બે વખત ઉછાળવામાં આવે છે. (i) એક પણ વખત ઉપરના પૃષ્ઠ પર 5 મળે નહિ (ii) ઓછામાં ઓછી એક વાર ઉપરના પૃષ્ઠ પર 5 મળે તેની સંભાવના કેટલી? (સૂચના: બે પાસાને એક સાથે ઉછાળવા અને એક પાસાને બે વખત ઉછાળવો બંનેને સમાન પ્રયોગ ગણવામાં આવે છે.)",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 24"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "સ્વાધ્યાય 14.1 - પ્રશ્ન 25", 
+        marks: 2, 
+        q: "નીચેનામાંથી કઈ દલીલો સાચી છે અને કઈ સાચી નથી? તમારા જવાબ માટે કારણ આપો.<br>(i) જો બે સિક્કાને એકસાથે ઉછાળવામાં આવે, તો 3 શક્યતાઓ મળે છે - બે છાપ, બે કાંટા અથવા પ્રત્યેકનો એક. તેથી આ પ્રત્યેક પરિણામની સંભાવના 1/3 છે.<br>(ii) જો પાસાને ઉછાળવામાં આવે તો બે શક્ય પરિણામો મળે છે - અયુગ્મ સંખ્યા અથવા યુગ્મ સંખ્યા. તેથી અયુગ્મ સંખ્યા મળવાની સંભાવના 1/2 છે.",
+        solutionMatch: "સ્વા. 14.1 પ્રશ્ન 25"
+    }
+];
+
+
+
