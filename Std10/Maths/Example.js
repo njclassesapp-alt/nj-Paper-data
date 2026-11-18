@@ -754,3 +754,142 @@ var mathExamplesDatabase = [
         q: "એક નક્કર રમકડું અર્ધગોલક પર શંકુ લગાવીને બનાવેલ છે. શંકુની ઊંચાઈ 2 સેમી અને પાયાનો વ્યાસ 4 સેમી છે. આ રમકડાનું ઘનફળ શોધો. જો એક લંબવૃત્તીય નળાકાર આ રમકડાને પરિગત હોય (આકૃતિ જુઓ), તો નળાકારના ઘનફળ અને રમકડાના ઘનફળનો તફાવત શોધો. (π = 3.14 લો)<br><svg width='165' height='155' viewBox='0 0 185 170' xmlns='http://www.w3.org/2000/svg' style='margin-top:6px;'><rect x='50' y='30' width='80' height='110' fill='none' stroke='#1d4ed8' stroke-width='1.5' stroke-dasharray='4,2'/><ellipse cx='90' cy='30' rx='40' ry='9' fill='none' stroke='#1d4ed8' stroke-width='1.4'/><ellipse cx='90' cy='140' rx='40' ry='9' fill='none' stroke='#1d4ed8' stroke-width='1.4'/><polygon points='90,30 50,95 130,95' fill='#fed7aa' stroke='#0f172a' stroke-width='1.5'/><path d='M 50 95 A 40 45 0 0 0 130 95' fill='#bae6fd' stroke='#0f172a' stroke-width='1.5'/></svg>",
         solutionMatch: "ઉદાહરણ 7"
     },
+    // ---------------- પ્રકરણ 13: આંકડાશાસ્ત્ર (ઉદાહરણ 1 થી 8 - સંપૂર્ણ) ----------------
+    { 
+        chapter: 13, 
+        questionNumber: "ઉદાહરણ 1", 
+        marks: 3, 
+        q: "એક શાળાના ધોરણ 10 ના 30 વિદ્યાર્થીઓએ ગણિતના 100 ગુણના પ્રશ્નપત્રમાં મેળવેલા ગુણ નીચે આપેલા કોષ્ટકમાં છે. વિદ્યાર્થીઓએ મેળવેલા ગુણનો મધ્યક શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:13px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:5px 6px; background-color:#f1f5f9; white-space:nowrap;'>મેળવેલા ગુણ (xᵢ)</th><td style='border:1px solid #334155; padding:5px 6px;'>10</td><td style='border:1px solid #334155; padding:5px 6px;'>20</td><td style='border:1px solid #334155; padding:5px 6px;'>36</td><td style='border:1px solid #334155; padding:5px 6px;'>40</td><td style='border:1px solid #334155; padding:5px 6px;'>50</td><td style='border:1px solid #334155; padding:5px 6px;'>56</td><td style='border:1px solid #334155; padding:5px 6px;'>60</td><td style='border:1px solid #334155; padding:5px 6px;'>70</td><td style='border:1px solid #334155; padding:5px 6px;'>72</td><td style='border:1px solid #334155; padding:5px 6px;'>80</td><td style='border:1px solid #334155; padding:5px 6px;'>88</td><td style='border:1px solid #334155; padding:5px 6px;'>92</td><td style='border:1px solid #334155; padding:5px 6px;'>95</td></tr><tr><th style='border:1px solid #334155; padding:5px 6px; background-color:#f1f5f9; white-space:nowrap;'>વિદ્યાર્થીઓની સંખ્યા (fᵢ)</th><td style='border:1px solid #334155; padding:5px 6px;'>1</td><td style='border:1px solid #334155; padding:5px 6px;'>1</td><td style='border:1px solid #334155; padding:5px 6px;'>3</td><td style='border:1px solid #334155; padding:5px 6px;'>4</td><td style='border:1px solid #334155; padding:5px 6px;'>3</td><td style='border:1px solid #334155; padding:5px 6px;'>2</td><td style='border:1px solid #334155; padding:5px 6px;'>4</td><td style='border:1px solid #334155; padding:5px 6px;'>4</td><td style='border:1px solid #334155; padding:5px 6px;'>1</td><td style='border:1px solid #334155; padding:5px 6px;'>1</td><td style='border:1px solid #334155; padding:5px 6px;'>2</td><td style='border:1px solid #334155; padding:5px 6px;'>3</td><td style='border:1px solid #334155; padding:5px 6px;'>1</td></tr></table></div>",
+        solutionMatch: "ઉદાહરણ 1"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "ઉદાહરણ 2", 
+        marks: 4, 
+        q: "નીચેનું કોષ્ટક ભારતનાં વિવિધ રાજ્યો અને કેન્દ્રશાસિત પ્રદેશોના ગ્રામીણ વિસ્તારોની પ્રાથમિક શાળાઓમાં સ્ત્રી-શિક્ષકોનું ટકાવાર વિતરણ દર્શાવે છે. સ્ત્રી-શિક્ષકોની ટકાવારીનો મધ્યક શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>સ્ત્રી-શિક્ષકોની ટકાવારી</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>15-25</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>25-35</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>35-45</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>45-55</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>55-65</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>65-75</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>75-85</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>રાજ્યો / પ્રદેશોની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>6</td><td style='border:1px solid #334155; padding:6px 8px;'>11</td><td style='border:1px solid #334155; padding:6px 8px;'>7</td><td style='border:1px solid #334155; padding:6px 8px;'>4</td><td style='border:1px solid #334155; padding:6px 8px;'>4</td><td style='border:1px solid #334155; padding:6px 8px;'>2</td><td style='border:1px solid #334155; padding:6px 8px;'>1</td></tr></table></div>",
+        solutionMatch: "ઉદાહરણ 2 (સ્ત્રી-શિક્ષકો)",
+        answer: "<div style='background-color:#ffffff; padding:10px; line-height:1.9;'><b>પદ-વિચલનની રીત (Step-deviation Method):</b><br>અહીં વર્ગલંબાઈ <b>h = 10</b> છે. ધારો કે ધારેલ મધ્યક <b>a = 50</b> છે અને કુલ આવૃત્તિ <b>Σfᵢ = 35</b> છે.<br><div style='overflow-x:auto; margin:8px 0;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:13px;'><tr><th style='border:1px solid #334155; padding:5px; background:#f1f5f9;'>વર્ગ</th><th style='border:1px solid #334155; padding:5px; background:#f1f5f9;'>fᵢ</th><th style='border:1px solid #334155; padding:5px; background:#f1f5f9;'>મધ્યકિંમત (xᵢ)</th><th style='border:1px solid #334155; padding:5px; background:#f1f5f9;'>uᵢ = (xᵢ - 50)/10</th><th style='border:1px solid #334155; padding:5px; background:#f1f5f9;'>fᵢuᵢ</th></tr><tr><td style='border:1px solid #334155; padding:4px;'>15-25</td><td style='border:1px solid #334155; padding:4px;'>6</td><td style='border:1px solid #334155; padding:4px;'>20</td><td style='border:1px solid #334155; padding:4px;'>-3</td><td style='border:1px solid #334155; padding:4px;'>-18</td></tr><tr><td style='border:1px solid #334155; padding:4px;'>25-35</td><td style='border:1px solid #334155; padding:4px;'>11</td><td style='border:1px solid #334155; padding:4px;'>30</td><td style='border:1px solid #334155; padding:4px;'>-2</td><td style='border:1px solid #334155; padding:4px;'>-22</td></tr><tr><td style='border:1px solid #334155; padding:4px;'>35-45</td><td style='border:1px solid #334155; padding:4px;'>7</td><td style='border:1px solid #334155; padding:4px;'>40</td><td style='border:1px solid #334155; padding:4px;'>-1</td><td style='border:1px solid #334155; padding:4px;'>-7</td></tr><tr><td style='border:1px solid #334155; padding:4px;'>45-55</td><td style='border:1px solid #334155; padding:4px;'>4</td><td style='border:1px solid #334155; padding:4px;'><b>50 (a)</b></td><td style='border:1px solid #334155; padding:4px;'>0</td><td style='border:1px solid #334155; padding:4px;'>0</td></tr><tr><td style='border:1px solid #334155; padding:4px;'>55-65</td><td style='border:1px solid #334155; padding:4px;'>4</td><td style='border:1px solid #334155; padding:4px;'>60</td><td style='border:1px solid #334155; padding:4px;'>1</td><td style='border:1px solid #334155; padding:4px;'>4</td></tr><tr><td style='border:1px solid #334155; padding:4px;'>65-75</td><td style='border:1px solid #334155; padding:4px;'>2</td><td style='border:1px solid #334155; padding:4px;'>70</td><td style='border:1px solid #334155; padding:4px;'>2</td><td style='border:1px solid #334155; padding:4px;'>4</td></tr><tr><td style='border:1px solid #334155; padding:4px;'>75-85</td><td style='border:1px solid #334155; padding:4px;'>1</td><td style='border:1px solid #334155; padding:4px;'>80</td><td style='border:1px solid #334155; padding:4px;'>3</td><td style='border:1px solid #334155; padding:4px;'>3</td></tr><tr style='background:#fef08a; font-weight:bold;'><td style='border:1px solid #334155; padding:4px;'>કુલ</td><td style='border:1px solid #334155; padding:4px;'>35</td><td style='border:1px solid #334155; padding:4px;'>-</td><td style='border:1px solid #334155; padding:4px;'>-</td><td style='border:1px solid #334155; padding:4px;'>-36</td></tr></table></div><b>સૂત્ર:</b> મધ્યક (x̄) = a + (Σfᵢuᵢ / Σfᵢ) × h<br>= 50 + (-36 / 35) × 10 = 50 - (360 / 35) = 50 - 10.29 = <b style='color:#15803d; font-size:18px;'>39.71%</b></div>"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "ઉદાહરણ 3", 
+        marks: 4, 
+        q: "નીચેનું વિતરણ એકદિવસીય ક્રિકેટ મૅચોમાં બોલરો દ્વારા લેવાયેલી વિકેટોની સંખ્યા દર્શાવે છે. યોગ્ય રીત પસંદ કરી વિકેટોની સંખ્યાનો મધ્યક શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>વિકેટોની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>20-60</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>60-100</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>100-150</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>150-250</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>250-350</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>350-450</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>બોલરોની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>7</td><td style='border:1px solid #334155; padding:6px 8px;'>5</td><td style='border:1px solid #334155; padding:6px 8px;'>16</td><td style='border:1px solid #334155; padding:6px 8px;'>12</td><td style='border:1px solid #334155; padding:6px 8px;'>2</td><td style='border:1px solid #334155; padding:6px 8px;'>3</td></tr></table></div>",
+        solutionMatch: "ઉદાહરણ 3 (ક્રિકેટ વિકેટ મધ્યક)",
+        answer: "<div style='background-color:#ffffff; padding:10px; line-height:1.9;'><b>ધારેલ મધ્યકની રીત (Assumed Mean Method):</b><br>અહીં વર્ગલંબાઈ અસમાન હોવાથી ધારેલ મધ્યક <b>a = 200</b> લઈશું. કુલ બોલરો <b>Σfᵢ = 45</b>.<br>• xᵢ = 40, 80, 125, 200, 300, 400<br>• dᵢ = xᵢ - 200 = -160, -120, -75, 0, 100, 200<br>• Σfᵢdᵢ = 7(-160) + 5(-120) + 16(-75) + 12(0) + 2(100) + 3(200)<br>= -1120 - 600 - 1200 + 0 + 200 + 600 = <b>-2120</b><br><br><b>સૂત્ર:</b> મધ્યક (x̄) = a + (Σfᵢdᵢ / Σfᵢ)<br>= 200 + (-2120 / 45) = 200 - 47.11 = <b style='color:#1d4ed8; font-size:18px;'>152.89 વિકેટ</b></div>"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "ઉદાહરણ 4", 
+        marks: 3, 
+        q: "વિદ્યાર્થીઓના એક સમૂહે 20 પરિવારોની સભ્યસંખ્યા અંગે એક સર્વેક્ષણ હાથ ધર્યું. તેનાથી નીચે પ્રમાણેનું આવૃત્તિ વિતરણ મળ્યું. આ માહિતીનો બહુલક શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>પરિવારની સભ્યસંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>1-3</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>3-5</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>5-7</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>7-9</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>9-11</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>પરિવારોની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>7</td><td style='border:1px solid #334155; padding:6px 8px;'>8</td><td style='border:1px solid #334155; padding:6px 8px;'>2</td><td style='border:1px solid #334155; padding:6px 8px;'>2</td><td style='border:1px solid #334155; padding:6px 8px;'>1</td></tr></table></div>",
+        solutionMatch: "ઉદાહરણ 4"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "ઉદાહરણ 5", 
+        marks: 4, 
+        q: "ગણિતની એક પરીક્ષામાં 30 વિદ્યાર્થીઓએ મેળવેલા ગુણનું આવૃત્તિ વિતરણ નીચે મુજબ છે. આ માહિતીનો બહુલક અને મધ્યક શોધો તથા બંનેની સરખામણી કરી અર્થઘટન કરો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>વર્ગ અંતરાલ</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>10-25</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>25-40</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>40-55</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>55-70</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>70-85</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>85-100</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>વિદ્યાર્થીઓની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>2</td><td style='border:1px solid #334155; padding:6px 8px;'>3</td><td style='border:1px solid #334155; padding:6px 8px;'>7</td><td style='border:1px solid #334155; padding:6px 8px;'>6</td><td style='border:1px solid #334155; padding:6px 8px;'>6</td><td style='border:1px solid #334155; padding:6px 8px;'>6</td></tr></table></div>",
+        solutionMatch: "ઉદાહરણ 5"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "ઉદાહરણ 6", 
+        marks: 4, 
+        q: "નીચે આપેલું આવૃત્તિ વિતરણ 53 વિદ્યાર્થીઓએ 100 ગુણમાંથી મેળવેલા ગુણ દર્શાવે છે. મેળવેલા ગુણનો મધ્યસ્થ શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:13px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:5px 6px; background-color:#f1f5f9; white-space:nowrap;'>મેળવેલા ગુણ</th><td style='border:1px solid #334155; padding:5px 6px; white-space:nowrap;'>0-10</td><td style='border:1px solid #334155; padding:5px 6px; white-space:nowrap;'>10-20</td><td style='border:1px solid #334155; padding:5px 6px; white-space:nowrap;'>20-30</td><td style='border:1px solid #334155; padding:5px 6px; white-space:nowrap;'>30-40</td><td style='border:1px solid #334155; padding:5px 6px; white-space:nowrap;'>40-50</td><td style='border:1px solid #334155; padding:5px 6px; white-space:nowrap;'>50-60</td><td style='border:1px solid #334155; padding:5px 6px; white-space:nowrap;'>60-70</td><td style='border:1px solid #334155; padding:5px 6px; white-space:nowrap;'>70-80</td><td style='border:1px solid #334155; padding:5px 6px; white-space:nowrap;'>80-90</td><td style='border:1px solid #334155; padding:5px 6px; white-space:nowrap;'>90-100</td></tr><tr><th style='border:1px solid #334155; padding:5px 6px; background-color:#f1f5f9; white-space:nowrap;'>વિદ્યાર્થીઓની સંખ્યા</th><td style='border:1px solid #334155; padding:5px 6px;'>5</td><td style='border:1px solid #334155; padding:5px 6px;'>3</td><td style='border:1px solid #334155; padding:5px 6px;'>4</td><td style='border:1px solid #334155; padding:5px 6px;'>3</td><td style='border:1px solid #334155; padding:5px 6px;'>3</td><td style='border:1px solid #334155; padding:5px 6px;'>4</td><td style='border:1px solid #334155; padding:5px 6px;'>7</td><td style='border:1px solid #334155; padding:5px 6px;'>9</td><td style='border:1px solid #334155; padding:5px 6px;'>7</td><td style='border:1px solid #334155; padding:5px 6px;'>8</td></tr></table></div>",
+        solutionMatch: "ઉદાહરણ 6"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "ઉદાહરણ 7", 
+        marks: 4, 
+        q: "એક શાળાની ધોરણ 10 ની 51 છોકરીઓની ઊંચાઈ (સેમીમાં) અંગે એક સર્વેક્ષણ હાથ ધરવામાં આવ્યું અને નીચેની માહિતી પ્રાપ્ત થઈ. છોકરીઓની મધ્યસ્થ ઊંચાઈ શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:14px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>ઊંચાઈ (સેમીમાં)</th><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>140 થી ઓછી</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>145 થી ઓછી</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>150 થી ઓછી</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>155 થી ઓછી</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>160 થી ઓછી</td><td style='border:1px solid #334155; padding:6px 8px; white-space:nowrap;'>165 થી ઓછી</td></tr><tr><th style='border:1px solid #334155; padding:6px 8px; background-color:#f1f5f9; white-space:nowrap;'>છોકરીઓની સંખ્યા</th><td style='border:1px solid #334155; padding:6px 8px;'>4</td><td style='border:1px solid #334155; padding:6px 8px;'>11</td><td style='border:1px solid #334155; padding:6px 8px;'>29</td><td style='border:1px solid #334155; padding:6px 8px;'>40</td><td style='border:1px solid #334155; padding:6px 8px;'>46</td><td style='border:1px solid #334155; padding:6px 8px;'>51</td></tr></table></div>",
+        solutionMatch: "ઉદાહરણ 7 (છોકરીઓની ઊંચાઈ મધ્યસ્થ)",
+        answer: "<div style='background-color:#ffffff; padding:10px; line-height:1.9;'><b>સ્ટેપ 1: મૂળ વર્ગ અને આવૃત્તિ (f) શોધવી (અહીં આપેલ સંખ્યા સંચયી આવૃત્તિ cf છે):</b><br>• 140 થી ઓછી: f = 4 (cf = 4)<br>• 140-145: f = 11 - 4 = 7 (cf = 11)<br>• <b>145-150: f = 29 - 11 = 18 (cf = 29) &larr; મધ્યસ્થ વર્ગ</b><br>• 150-155: f = 40 - 29 = 11 (cf = 40)<br>• 155-160: f = 46 - 40 = 6 (cf = 46)<br>• 160-165: f = 51 - 46 = 5 (cf = 51)<br><br><b>સ્ટેપ 2: સૂત્રમાં કિંમત મૂકવી</b><br>અહીં n = 51 &rArr; <b>n/2 = 25.5</b>. જે સંચયી આવૃત્તિ 29 માં સમાય છે, તેથી મધ્યસ્થ વર્ગ <b>145-150</b>.<br>l = 145, cf = 11, f = 18, h = 5<br><br>મધ્યસ્થ (M) = l + [ (n/2 - cf) / f ] × h<br>= 145 + [ (25.5 - 11) / 18 ] × 5<br>= 145 + (14.5 × 5) / 18 = 145 + (72.5 / 18) = 145 + 4.03 = <b style='color:#15803d; font-size:18px;'>149.03 સેમી</b></div>"
+    },
+    { 
+        chapter: 13, 
+        questionNumber: "ઉદાહરણ 8", 
+        marks: 4, 
+        q: "નીચે આપેલ આવૃત્તિ વિતરણનો મધ્યસ્થ 525 છે. જો કુલ આવૃત્તિ 100 હોય, તો x અને y નાં મૂલ્યો શોધો.<div style='overflow-x:auto; margin-top:8px;'><table style='width:100%; border-collapse:collapse; text-align:center; font-size:13px; background-color:#ffffff;'><tr><th style='border:1px solid #334155; padding:5px 6px; background-color:#f1f5f9; white-space:nowrap;'>વર્ગ અંતરાલ</th><td style='border:1px solid #334155; padding:5px 6px; white-space:nowrap;'>0-100</td><td style='border:1px solid #334155; padding:5px 6px; white-space:nowrap;'>100-200</td><td style='border:1px solid #334155; padding:5px 6px; white-space:nowrap;'>200-300</td><td style='border:1px solid #334155; padding:5px 6px; white-space:nowrap;'>300-400</td><td style='border:1px solid #334155; padding:5px 6px; white-space:nowrap;'>400-500</td><td style='border:1px solid #334155; padding:5px 6px; white-space:nowrap;'>500-600</td><td style='border:1px solid #334155; padding:5px 6px; white-space:nowrap;'>600-700</td><td style='border:1px solid #334155; padding:5px 6px; white-space:nowrap;'>700-800</td><td style='border:1px solid #334155; padding:5px 6px; white-space:nowrap;'>800-900</td><td style='border:1px solid #334155; padding:5px 6px; white-space:nowrap;'>900-1000</td></tr><tr><th style='border:1px solid #334155; padding:5px 6px; background-color:#f1f5f9; white-space:nowrap;'>આવૃત્તિ</th><td style='border:1px solid #334155; padding:5px 6px;'>2</td><td style='border:1px solid #334155; padding:5px 6px;'>5</td><td style='border:1px solid #334155; padding:5px 6px; font-weight:bold;'>x</td><td style='border:1px solid #334155; padding:5px 6px;'>12</td><td style='border:1px solid #334155; padding:5px 6px;'>17</td><td style='border:1px solid #334155; padding:5px 6px;'>20</td><td style='border:1px solid #334155; padding:5px 6px; font-weight:bold;'>y</td><td style='border:1px solid #334155; padding:5px 6px;'>9</td><td style='border:1px solid #334155; padding:5px 6px;'>7</td><td style='border:1px solid #334155; padding:5px 6px;'>4</td></tr></table></div>",
+        solutionMatch: "ઉદાહરણ 8"
+    },
+    // ---------------- પ્રકરણ 14: સંભાવના (ઉદાહરણ 1 થી 11 - સંપૂર્ણ) ----------------
+    { 
+        chapter: 14, 
+        questionNumber: "ઉદાહરણ 1", 
+        marks: 2, 
+        q: "એક સિક્કાને એક વખત ઉછાળવામાં આવે ત્યારે છાપ (H) મળવાની સંભાવના શોધો. તથા કાંટો (T) મળવાની સંભાવના પણ શોધો.",
+        solutionMatch: "ઉદાહરણ 1"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "ઉદાહરણ 2", 
+        marks: 2, 
+        q: "એક થેલામાં એક લાલ, એક ભૂરો અને એક પીળો એમ ત્રણ સમાન કદના દડા છે. કૃતિકા થેલામાં જોયા વગર એક દડો યાદચ્છિક રીતે પસંદ કરે છે. તે દડો (i) પીળો હોય (ii) લાલ હોય (iii) ભૂરો હોય તેની સંભાવના કેટલી?",
+        solutionMatch: "ઉદાહરણ 2"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "ઉદાહરણ 3", 
+        marks: 2, 
+        q: "ધારો કે આપણે પાસાને એક વાર ફેંકીએ છીએ. (i) પાસા પર 4 કરતાં મોટી સંખ્યા આવે તેની સંભાવના કેટલી? (ii) પાસા પર 4 અથવા 4 કરતાં નાની સંખ્યા આવે તેની સંભાવના કેટલી?",
+        solutionMatch: "ઉદાહરણ 3"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "ઉદાહરણ 4", 
+        marks: 2, 
+        q: "સરખી રીતે ચીપેલા 52 પત્તાની થોકડીમાંથી એક પત્તું ખેંચવામાં આવે છે. તે પત્તું (i) એક્કો હોય (ii) એક્કો ન હોય તેની સંભાવના શોધો.",
+        solutionMatch: "ઉદાહરણ 4"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "ઉદાહરણ 5", 
+        marks: 3, 
+        q: "બે ખેલાડીઓ સંગીતા અને રેશ્મા ટેનિસ મૅચ રમે છે. સંગીતા મૅચ જીતે તેની સંભાવના 0.62 આપેલ છે, તો રેશ્મા મૅચ જીતે તેની સંભાવના કેટલી?",
+        solutionMatch: "ઉદાહરણ 5"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "ઉદાહરણ 6", 
+        marks: 2, 
+        q: "સવિતા અને હમીદા મિત્રો છે. બંનેના (i) જન્મદિવસ જુદા જુદા હોય (ii) જન્મદિવસ એક જ હોય તેની સંભાવના કેટલી? (લિપ વર્ષને અવગણવું)",
+        solutionMatch: "ઉદાહરણ 6"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "ઉદાહરણ 7", 
+        marks: 2, 
+        q: "એક શાળાના ધોરણ 10 માં 40 વિદ્યાર્થીઓ છે, જેમાં 25 છોકરીઓ અને 15 છોકરાઓ છે. વર્ગશિક્ષકે એક વિદ્યાર્થીને વર્ગ-પ્રતિનિધિ તરીકે પસંદ કરવાનો છે. તે ચિઠ્ઠી પર દરેકનું નામ લખીને એક ડબ્બામાં ભેળવી દે છે અને યાદચ્છિક રીતે એક ચિઠ્ઠી કાઢે છે. ચિઠ્ઠી પર લખેલ નામ (i) છોકરીનું હોય (ii) છોકરાનું હોય તેની સંભાવના શોધો.",
+        solutionMatch: "ઉદાહરણ 7"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "ઉદાહરણ 8", 
+        marks: 3, 
+        q: "એક ડબ્બામાં 3 ભૂરી, 2 સફેદ અને 4 લાલ લખોટીઓ છે. જો ડબ્બામાંથી યાદચ્છિક રીતે એક લખોટી કાઢવામાં આવે, તો તે (i) સફેદ (ii) ભૂરી (iii) લાલ હોય તેની સંભાવના શોધો.",
+        solutionMatch: "ઉદાહરણ 8"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "ઉદાહરણ 9", 
+        marks: 3, 
+        q: "હરપ્રીત બે જુદા-જુદા સિક્કાઓને એકસાથે ઉછાળે છે. તે ઓછામાં ઓછી એક છાપ (H) મેળવે તેની સંભાવના શોધો.",
+        solutionMatch: "ઉદાહરણ 9"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "ઉદાહરણ 10", 
+        marks: 3, 
+        q: "એક પૂંઠાની પેટીમાં રાખેલા 100 ખમીસ (શર્ટ) પૈકી 88 ક્ષતિયુક્ત નથી. તે પૈકી 8 માં નાની ખામીઓ છે અને 4 માં મોટી ખામીઓ છે. વેપારી જીમી માત્ર ક્ષતિરહિત ખમીસ જ સ્વીકારશે, પરંતુ અન્ય વેપારી સુજાતા માત્ર મોટી ખામીવાળા ખમીસ જ નકારશે. પેટીમાંથી એક ખમીસ યાદચ્છિક રીતે કાઢવામાં આવે છે. તે (i) જીમીને સ્વીકાર્ય હોય (ii) સુજાતાને સ્વીકાર્ય હોય તેની સંભાવના કેટલી?",
+        solutionMatch: "ઉદાહરણ 10"
+    },
+    { 
+        chapter: 14, 
+        questionNumber: "ઉદાહરણ 11", 
+        marks: 3, 
+        q: "એક ભૂરો અને એક રાખોડી એમ બે પાસાને એકસાથે ઉછાળવામાં આવે છે. તમામ શક્ય પરિણામો લખો. પાસાની ઉપરની સપાટી પર દેખાતી સંખ્યાઓનો સરવાળો (i) 8 હોય (ii) 13 હોય (iii) 12 કે તેનાથી નાનો હોય તેની સંભાવના કેટલી?",
+        solutionMatch: "ઉદાહરણ 11"
+    }
+];
